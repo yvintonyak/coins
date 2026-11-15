@@ -23,4 +23,7 @@
   <origin price="11" currency="EUR" rate="1" fee="19%" 
           seller="Demos AC sp. z o.o." date="17.01.2026" auction="Auction 61" lot="2105" invoice="Demos Auctions - 02" />
   <remark>Sear 1182</remark>
+  <legend>
+    <mintmark mint="CON" />
+  </legend>
 </coin>

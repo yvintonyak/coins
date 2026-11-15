@@ -23,4 +23,7 @@
   <origin price="18" currency="EUR" rate="1" fee="15.25%" 
           seller="Sol Numismatik" date="05.08.2023" auction="Auktion XVI" lot="568" invoice="Sol Numismatik - 02" />
   <remark>Sear 1000; Doc 1.1.1</remark>
+  <legend>
+    <mintmark mint="?" />
+  </legend>
 </coin>

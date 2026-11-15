@@ -23,4 +23,7 @@
   <origin price="14" currency="EUR" rate="1" fee="18.0%" 
           seller="Savoca Numismatik GmbH" date="28.08.2022" auction="141st Blue Auction" lot="1499" invoice="Savoca Numismatik - 35" />
   <remark>with Sophia. Sear 360; MIB 43</remark>
+  <legend>
+    <mintmark mint="A || CON" />
+  </legend>
 </coin>

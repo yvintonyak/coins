@@ -20,6 +20,7 @@
   $coins = Collection::Coins();
   $emperors = Collection::Emperors();
   $dictionary = Collection::Dictionary();
+  $mintmarks = Collection::Mintmarks();
   $deities = Collection::Deities();
 
   switch ($selectedView)
@@ -460,6 +461,15 @@
     }
   }
   
+  function formatLegendPopup($valueHtml, $comment)
+  {
+    $wrapped = _span($valueHtml, 'legend_main');
+    if ($comment != '')
+      return '<a href="javascript:void(0)" class="legend" data-legend="' . htmlspecialchars($comment, ENT_QUOTES, 'UTF-8') . '">' . $wrapped . '</a>';
+
+    return $wrapped;
+  }
+
   function getLegendValue($key)
   {
     global $dictionary;
@@ -472,8 +482,8 @@
     $value = str_replace(')', ')</span>', $value);
     
     $comment = $dictionary->Comment($key);
-    if($comment != '')
-      $value = '<a href="javascript:void(0)" class="legend" data-legend="' . $comment . '">' . _span($value, "legend_main") . '</a>';
+    if ($comment != '')
+      return formatLegendPopup($value, $comment);
     
     return $value;
   }
@@ -482,6 +492,7 @@
   {
     global $output;
     global $dictionary;
+    global $mintmarks;
     global $deities;
     
     if (count($coin->ObverseLegendEx) == 0 && 
@@ -519,9 +530,20 @@
       $output .= _tr(_td('Reverse', 'param') . _td($legend, 'value'));
     }
     
-    if ($coin->Deity != '')
+    if ($coin->Mintmark != '')
     {
       if (count($coin->ReverseLegendEx) > 0 || count($coin->ObverseLegendEx) > 0)
+        $output .= _tr(_td('<br/>', 'param') . _td('', 'value'));
+
+      $mintmarkDesc = $mintmarks->Comment($coin->Mintmark);
+      $mintmarkValue = formatLegendPopup(htmlspecialchars($coin->Mintmark, ENT_QUOTES, 'UTF-8'), $mintmarkDesc);
+
+      $output .= _tr(_td('Mintmark', 'param') . _td($mintmarkValue, 'value'));
+    }
+
+    if ($coin->Deity != '')
+    {
+      if (count($coin->ReverseLegendEx) > 0 || count($coin->ObverseLegendEx) > 0 || $coin->Mintmark != '')
         $output .= _tr(_td('<br/>', 'param') . _td('', 'value'));
       
       $list = explode(',', $coin->Deity);
@@ -529,23 +551,12 @@
       foreach ($list as $item)
       {
         $deity = trim($item);
-      
-        if (array_key_exists($deity, $deities))
-          $value = $deity . ' - ' . $deities[$deity];
-        else
-          $value = $deity;
+        $deityDesc = array_key_exists($deity, $deities) ? $deities[$deity] : '';
+        $value = formatLegendPopup(htmlspecialchars($deity, ENT_QUOTES, 'UTF-8'), $deityDesc);
         
         $output .= _tr(_td(($index == 0 ? 'Deity' : ''), 'param') . _td($value, 'value'));
         $index++;
       }
-    }
-    
-    if ($coin->Mintmark != '')
-    {
-      if (count($coin->ReverseLegendEx) > 0 || count($coin->ObverseLegendEx) > 0 || $coin->Deity != '')
-        $output .= _tr(_td('<br/>', 'param') . _td('', 'value'));
-      
-      $output .= _tr(_td('Mintmark', 'param') . _td($coin->Mintmark, 'value'));
     }
   }
   

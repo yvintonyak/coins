@@ -23,4 +23,7 @@
   <origin price="25" currency="EUR" rate="1" fee="24%" 
           seller="Bertolami Fine Arts Ltd" date="24.10.2021" auction="E-Auktion 105" lot="2773" invoice="Bertolami Fine Arts - 08" />
   <remark>Sear 512; MIBE 76Db; DOC 99a</remark>
+  <legend>
+    <mintmark mint="A || NIKO" />
+  </legend>
 </coin>

@@ -23,4 +23,7 @@
   <origin price="10" currency="EUR" rate="1" fee="18.0%" 
           seller="Savoca Numismatik GmbH" date="28.08.2022" auction="141st Blue Auction" lot="1446" invoice="Savoca Numismatik - 35" />
   <remark>Sear 19; DOC 23i</remark>
+  <legend>
+    <mintmark mint="Є || CON" />
+  </legend>
 </coin>

@@ -23,4 +23,7 @@
   <origin price="20" currency="EUR" rate="1" fee="22%" 
           seller="Concordia Numismatic e.U." date="22.05.2026" auction="Daphne Auction 42" lot="1187" invoice="Concordia Numismatic - 04" />
   <remark>with Constantinus VI and Leo III, Constantinus V on reverse</remark>
+  <legend>
+    <mintmark mint="A" />
+  </legend>
 </coin>

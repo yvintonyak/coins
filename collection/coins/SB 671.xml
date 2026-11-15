@@ -23,4 +23,7 @@
   <origin price="22" currency="EUR" rate="1" fee="18.0%" 
           seller="Savoca Numismatik GmbH" date="30.04.2023" auction="162nd Blue Auction" lot="2247" invoice="Savoca Numismatik - 41" />
   <remark>with Leontia. Sear 671</remark>
+  <legend>
+    <mintmark mint="THEUP" />
+  </legend>
 </coin>

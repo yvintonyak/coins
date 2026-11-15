@@ -23,4 +23,7 @@
   <origin price="30" currency="EUR" rate="1" fee="18.15%" 
           seller="Biga Numismatics" date="03.07.2026" auction="Online Auction 43" lot="713" invoice="Biga Numismatics - 03" />
   <remark>Sear 1368, DOC 12. Often struck on pieces of older, larger coins</remark>
+  <legend>
+    <mintmark mint="?" />
+  </legend>
 </coin>

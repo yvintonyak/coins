@@ -23,4 +23,7 @@
   <origin price="18" currency="EUR" rate="1" fee="22.0%" 
          seller="Olympus Numismatik UG" date="02.04.2023" auction="Auktion 2" lot="424" invoice="Olympus Numismatik - 02" />
   <remark>with Sophia. Sear 360; MIB 43</remark>
+  <legend>
+    <mintmark mint="B || CON" />
+  </legend>
 </coin>

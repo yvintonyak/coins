@@ -23,4 +23,7 @@
   <origin price="17" currency="EUR" rate="1" fee="20%" 
           seller="DEMOS AC sp. z o.o." date="29.08.2026" auction="Auction 78" lot="2685" invoice="Demos Auctions - 05" />
   <remark>Sear 237</remark>
+  <legend>
+    <mintmark mint="ԎHЧP" />
+  </legend>
 </coin>

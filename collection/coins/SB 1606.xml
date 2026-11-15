@@ -22,4 +22,7 @@
   </image>
   <origin price="20" currency="EUR" rate="1" fee="20%" 
           seller="Pandora Numismatics" date="27.02.2026" auction="Auction 39" lot="841" invoice="Concordia Numismatic - 03" />
+  <legend>
+    <mintmark mint="A" />
+  </legend>
 </coin>

@@ -23,4 +23,7 @@
   <origin price="24" currency="EUR" rate="1" fee="18.0%" 
           seller="Savoca Numismatik GmbH" date="28.08.2022" auction="141st Blue Auction" lot="1467" invoice="Savoca Numismatik - 35" />
   <remark>Sear 241; DOC 270</remark>
+  <legend>
+    <mintmark mint="Є | A" />
+  </legend>
 </coin>

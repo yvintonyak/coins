@@ -23,4 +23,7 @@
   <origin price="31" currency="EUR" rate="1" fee="24%" 
           seller="Concordia Numismatic e.U." date="02.09.2023" auction="Auktion 7" lot="697" invoice="Concordia Numismatic - 01" />
   <remark>with Constantine V. Sear 1516; Doc 38-39</remark>
+  <legend>
+    <mintmark mint="A" />
+  </legend>
 </coin>

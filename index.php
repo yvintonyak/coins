@@ -3,7 +3,7 @@
 <html>
   <head>
     <title>My Coin Collection</title>
-    <link rel="stylesheet" type="text/css" href="styles.css">
+    <link rel="stylesheet" type="text/css" href="styles.css?v=<?php echo filemtime('styles.css'); ?>">
     <link rel="icon" type="image/vnd.microsoft.icon" href="icon.ico">
   </head>
   <body>

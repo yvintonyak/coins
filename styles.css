@@ -339,7 +339,8 @@
   text-decoration: none;
 }
 
-#coin .legend_main
+#coin .legend_main,
+#coin .mintmark
 {
   font-family: Capitalis;
   font-size: 16px;

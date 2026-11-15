@@ -29,5 +29,6 @@
     <reverse>
       <entry key="CONSECRATIO" />
     </reverse>
+    <mintmark mint="S" />
   </legend>
 </coin>

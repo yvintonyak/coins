@@ -1,57 +1,184 @@
 <?xml version='1.0' encoding="utf-8" standalone='yes'?>
-<mintmarks>
-  <mintmark value="SMALB" meaning="SMAL (Sacra Moneta Alexandia) - sacred mint of Alexandria | B (beta) - 2nd officina" />
-  <mintmark value="ANTA" meaning="ANT (Antiochia) | A (alpha) - 1st officina" />
-  <mintmark value="ANTΓ" meaning="ANT (Antiochia) | Γ (gamma) - 3rd officina" />
-  <mintmark value="ANTΔ" meaning="ANT (Antiochia) | Δ (delta) - 4th officina" />
-  <mintmark value="ANTЄ" meaning="ANT (Antiochia) | Є (epsilon) - 5th officina" />
-  <mintmark value="SMANΔ" meaning="SMAN (Sacra Moneta Antiochia) - sacred mint of Antiochia | Δ (delta) - 4th officina" />
-  <mintmark value="SMANS" meaning="SMAN (Sacra Moneta Antiochia) - sacred mint of Antiochia | S (stigma) - 6th officina" />
-  <mintmark value="SMANZ" meaning="SMAN (Sacra Moneta Antiochia) - sacred mint of Antiochia | Z (zeta) - 7th officina" />
-  <mintmark value="SMANH" meaning="SMAN (Sacra Moneta Antiochia) - sacred mint of Antiochia | H (eta) - 8th officina" />
-  <mintmark value="SMANθ" meaning="SMAN (Sacra Moneta Antiochia) - sacred mint of Antiochia | θ (theta) - 9th officina" />
-  <mintmark value="SMANI" meaning="SMAN (Sacra Moneta Antiochia) - sacred mint of Antiochia | I (iota) - 10th officina" />
-  <mintmark value="AMB" meaning="AMB (Ambianum)" />
-  <mintmark value="AQS" meaning="AQ (Aquileia) | S (secunda) - 2nd officina" />
-  <mintmark value="P A" meaning="P A (Pecunia Arelatum) - money of Arelate" />
-  <mintmark value="PAR" meaning="PAR (Pecunia Arelatum) - money of Arelate" />
-  <mintmark value="C Δ" meaning="C (Constantinopolis) | Δ (delta) - 4th officina" />
-  <mintmark value="CON" meaning="CON (Constantinopolis)" />
-  <mintmark value="CONS" meaning="CONS (Constantinopolis)" />
-  <mintmark value="CONSA" meaning="CONS (Constantinopolis) | A (alpha) - 1st officina" />
-  <mintmark value="CONB" meaning="CONS (Constantinopolis) | B (beta) - 2nd officina" />
-  <mintmark value="CONSΓ" meaning="CONS (Constantinopolis) | Γ (gamma) - 3rd officina" />
-  <mintmark value="CONSЄ" meaning="CONS (Constantinopolis) | Є (epsilon) - 5th officina" />
-  <mintmark value="CONSS" meaning="CONS (Constantinopolis) | S (stigma) - 6th officina" />
-  <mintmark value="CONSI" meaning="CONS (Constantinopolis) | I (iota) - 10th officina" />
-  <mintmark value="PCONST" meaning="? PCONS (Pecunia Constantinopolis) - money of Constantinopolis | T (tertia) - 3rd officina ?" />
-  <mintmark value="SMKA" meaning="SMK (Sacra Moneta Kyzikos) - sacred mint of Cyzicus | A (alpha) - 1st officina" />
-  <mintmark value="SMKΔ" meaning="SMK (Sacra Moneta Kyzikos) - sacred mint of Cyzicus | Δ (delta) - 4th officina" />
-  <mintmark value="LVG" meaning="LVG (Lugdumun)" />
-  <mintmark value="PLG" meaning="P (prima) - 1st officina | LG (Lugdumun)" />
-  <mintmark value="RSLG" meaning="R - ? | S (secunda) - 2nd officina | LG (Lugdumun)" />
-  <mintmark value="MDPS" meaning="MDPS (Mediolanum Pecunia Sacra) - sacred money of Mediolanum" />
-  <mintmark value="SMN" meaning="SMN (Sacra Moneta Nocomedia) - sacred mint of Nicomedia" />
-  <mintmark value="SMNA" meaning="SMN (Sacra Moneta Nocomedia) - sacred mint of Nicomedia | A (alpha) - 1st officina" />
-  <mintmark value="SMNS" meaning="SMN (Sacra Moneta Nocomedia) - sacred mint of Nicomedia | S (secunda) - 2nd officina (?)" />
-  <mintmark value="RM" meaning="RM (Roma Moneta) - mint of Rome" />
-  <mintmark value="RFP" meaning="R (Roma) | F - ? | P (prima) - 1st officina" />
-  <mintmark value="RS" meaning="R (Roma) | S (secunda) - 2nd officina" />
-  <mintmark value="SIRM" meaning="SIRM (Sirmium)" />
-  <mintmark value="ASIRM" meaning="A (alpha) - 1st officina | SIRM (Sirmium)" />
-  <mintmark value="ASIS" meaning="A (alpha) - 1st officina | SIS (Siscia)" />
-  <mintmark value="ASISC" meaning="A (alpha) - 1st officina | SISC (Siscia)" />
-  <mintmark value="ΓSIS" meaning="Γ (gamma) - 3rd officina | SIS (Siscia)" />
-  <mintmark value="ΓSISC" meaning="Γ (gamma) - 3rd officina | SISC (Siscia)" />
-  <mintmark value="ΔSIS" meaning="Δ (delta) - 4th officina | SIS (Siscia)" />
-  <mintmark value="ΔSISCE" meaning="Δ (delta) - 4th officina | SISC (Siscia) | E - (?)" />
-  <mintmark value="ЄSIS" meaning="Є (epsilon) - 5th officina | SIS (Siscia)" />
-  <mintmark value="TSB" meaning="TS - Thessalonica | B (beta) - 2nd officina" />
-  <mintmark value="TSΔVI" meaning="TS - Thessalonica | Δ (delta) - 4th officina | VI (6) - (?)" />
-  <mintmark value="SMTSΔ" meaning="SMTS (Sacra Moneta Thessalonica) - sacred mint of Thessalonica | Δ (delta) - 4th officina" />
-  <mintmark value="PT" meaning="P (prima) - 1st officina | T (Ticinum)" />
-  <mintmark value="ST" meaning="S (secunda) - 2nd officina | T (Ticinum)" />
-  <mintmark value="PTR" meaning="PTR (Pecunia Treveri) - money of Trier" />
-  <mintmark value="TRP" meaning="TR (Treveri) | P (prima) - 1st officina" />
-  <mintmark value="TRPS" meaning="TRP (Treveri Pecunia) - money of Trier | S (secunda) - 2nd officina" />
-</mintmarks>
+<dictionary>
+  <entry key="(CONS on A)" value="(CONS on A)" comment="Constantinopolis (Constantinople) mint, 1st officina (A), with &quot;CONS&quot; stacked above &quot;A&quot;." />
+  <entry key="(palm branch left) | • on Δ || SMN" value="(palm branch left) | • on Δ || SMN" comment="Nicomedia mint (SMN = Sacra Moneta Nicomediae), 4th officina (Δ); palm branch in left field, pellet above Δ in right field." />
+  <entry key="(palm branch left)ANTΓ(palm branch right)" value="(palm branch left)ANTΓ(palm branch right)" comment="Antiochia (Antioch) mint (ANT), 3rd officina (Γ), flanked by palm branches in the exergue." />
+  <entry key="(palm branch left)ASISC•" value="(palm branch left)ASISC•" comment="Siscia mint (SISC), 1st officina (A), preceded by a palm branch and followed by a pellet." />
+  <entry key="?" value="?" comment="Illegible or uncertain mintmark on an Antiochia (Antioch) nummus of Arcadius." />
+  <entry key="∈ || CONS" value="∈ || CONS" comment="Constantinopolis (Constantinople) mint (CONS), 5th officina (∈) in the left field." />
+  <entry key="✷" value="✷" comment="Star issue/mint mark (used on antoniniani of Macrianus Minor at Antiochia and Victorinus at Colonia Agrippina)." />
+  <entry key="✷ | AI || ANT" value="✷ | AI || ANT" comment="Antiochia (Antioch) mint (ANT), 11th officina (AI = IA) in the right field, star in the left field." />
+  <entry key="✷ | S || ANT" value="✷ | S || ANT" comment="Antiochia (Antioch) mint (ANT), 6th officina (S = ς) in the right field, star in the left field." />
+  <entry key="✷ | ΔI || ANT" value="✷ | ΔI || ANT" comment="Antiochia (Antioch) mint (ANT), 14th officina (ΔI = IΔ) in the right field, star in the left field." />
+  <entry key="✷ || A" value="✷ || A" comment="Serdica mint, 1st officina (A) in the exergue, star in the field." />
+  <entry key="✷ || KA•Γ•" value="✷ || KA•Γ•" comment="Serdica mint, 3rd officina (Γ) flanked by pellets, with Greek reform value mark KA (20:1) in the exergue and star in the field." />
+  <entry key="✷ || KAΔ" value="✷ || KAΔ" comment="Serdica mint, 4th officina (Δ), with Greek reform value mark KA (20:1) in the exergue and star in the field." />
+  <entry key="✷ on P | M || ASISC" value="✷ on P | M || ASISC" comment="Siscia mint (SISC), 1st officina (A); star above P in left field, M in right field." />
+  <entry key="✷ASISC" value="✷ASISC" comment="Siscia mint (SISC), 1st officina (A), preceded by a star." />
+  <entry key="✷SMKΔ" value="✷SMKΔ" comment="Cyzicus mint (SMK = Sacra Moneta Kyzikou), 4th officina (Δ), preceded by a star." />
+  <entry key="✷ΓSIS(crescent)" value="✷ΓSIS(crescent)" comment="Siscia mint (SIS), 3rd officina (Γ), preceded by a star and followed by a crescent." />
+  <entry key="•••" value="•••" comment="Three pellets; provincial issue/officina control mark of Antiochia (Antioch) on tetradrachms." />
+  <entry key="•ASIS•" value="•ASIS•" comment="Siscia mint (SIS), 1st officina (A), flanked by pellets." />
+  <entry key="•CONSI•" value="•CONSI•" comment="Constantinopolis (Constantinople) mint (CONS), 10th officina (I), flanked by pellets." />
+  <entry key="•CONSPA(palm branch right)" value="•CONSPA(palm branch right)" comment="Constantinopolis (Constantinople) mint (CONS), special issue mark (P) and 1st officina (A), preceded by a pellet and followed by a palm branch." />
+  <entry key="•T•S•Γ•" value="•T•S•Γ•" comment="Thessalonica mint (T•S), 3rd officina (Γ), with pellets separating/flanking the letters." />
+  <entry key="•TS•B•" value="•TS•B•" comment="Thessalonica mint (TS), 2nd officina (B), flanked/separated by pellets." />
+  <entry key="•TS•Δ•" value="•TS•Δ•" comment="Thessalonica mint (TS), 4th officina (Δ), flanked/separated by pellets." />
+  <entry key="•ΓSISC" value="•ΓSISC" comment="Siscia mint (SISC), 3rd officina (Γ), preceded by a pellet." />
+  <entry key="A" value="A" comment="1st officina (A) mark (used at Constantinopolis and Roma)." />
+  <entry key="A | SMSXXI" value="A | SMSXXI" comment="Siscia mint (SM = Sacra Moneta, S = Siscia) with reform value mark XXI in the exergue, and 1st officina (A) in the field." />
+  <entry key="A || •SM•SD•" value="A || •SM•SD•" comment="Serdica mint (SM•SD = Sacra Moneta Serdicae) flanked by pellets in the exergue, 1st officina (A) in the field." />
+  <entry key="A || •ΔSIS✷" value="A || •ΔSIS✷" comment="Siscia mint (SIS), 4th officina (Δ), preceded by a pellet and followed by a star; A in the field (denoting 1st issue/denomination mark)." />
+  <entry key="A || •ЄSIS•" value="A || •ЄSIS•" comment="Siscia mint (SIS), 5th officina (Є), flanked by pellets; A in the field." />
+  <entry key="A || AQ" value="A || AQ" comment="Aquileia mint (AQ) in the exergue, 1st officina (A) in the field." />
+  <entry key="A || CON" value="A || CON" comment="Constantinopolis (Constantinople) mint (CON) in the exergue, 1st officina (A) below M." />
+  <entry key="A || CONS" value="A || CONS" comment="Constantinopolis (Constantinople) mint (CONS) in the exergue, 1st officina (A) in the field." />
+  <entry key="A || NIKO" value="A || NIKO" comment="Nicomedia mint (NIKO) in the exergue, 1st officina (A) below M." />
+  <entry key="A || SIS" value="A || SIS" comment="Siscia mint (SIS) in the exergue, 1st officina (A) in the field." />
+  <entry key="A || SMN" value="A || SMN" comment="Nicomedia mint (SMN = Sacra Moneta Nicomediae) in the exergue, 1st officina (A) in the field." />
+  <entry key="A || XXI" value="A || XXI" comment="Reform value mark XXI (20:1) in the exergue, 1st officina (A) in the field (used at Cyzicus and Siscia)." />
+  <entry key="ANTA" value="ANTA" comment="Antiochia (Antioch) mint (ANT), 1st officina (A)." />
+  <entry key="ANTB" value="ANTB" comment="Antiochia (Antioch) mint (ANT), 2nd officina (B)." />
+  <entry key="ANTΓ" value="ANTΓ" comment="Antiochia (Antioch) mint (ANT), 3rd officina (Γ)." />
+  <entry key="ANTΔ" value="ANTΔ" comment="Antiochia (Antioch) mint (ANT), 4th officina (Δ)." />
+  <entry key="ANTЄ" value="ANTЄ" comment="Antiochia (Antioch) mint (ANT), 5th officina (Є)." />
+  <entry key="AQS" value="AQS" comment="Aquileia mint (AQ), 2nd officina (S = Secunda)." />
+  <entry key="ASIRM" value="ASIRM" comment="Sirmium mint (SIRM), 1st officina (A)." />
+  <entry key="ASIS" value="ASIS" comment="Siscia mint (SIS), 1st officina (A)." />
+  <entry key="ASISC•" value="ASISC•" comment="Siscia mint (SISC), 1st officina (A), followed by a pellet." />
+  <entry key="B" value="B" comment="2nd officina (B) mark of the Roma (Rome) mint." />
+  <entry key="B | * || •TSA•" value="B | * || •TSA•" comment="Thessalonica mint (TS), 1st officina (A), flanked by pellets; B in left field, star in right field." />
+  <entry key="B | MKV" value="B | MKV" comment="Cyzicus mint (MKV = Moneta Kyzikou), 2nd officina (B) in left field." />
+  <entry key="B | ΘЄC" value="B | ΘЄC" comment="Thessalonica mint (ΘЄC = Thessalonica), 2nd officina (B)." />
+  <entry key="B | Є" value="B | Є" comment="Constantinopolis (Constantinople) mint; 2nd officina (B) in left field, denomination value 5 nummi (Є) in right field." />
+  <entry key="B || ANT" value="B || ANT" comment="Antiochia (Antioch) mint (ANT) in the exergue, 2nd officina (B) in the field." />
+  <entry key="B || CON" value="B || CON" comment="Constantinopolis (Constantinople) mint (CON) in the exergue, 2nd officina (B) below M." />
+  <entry key="C | R || PLG" value="C | R || PLG" comment="Lugdunum (Lyon) mint (PLG = Percussa Lugduni, 1st officina), with C and R in left and right fields." />
+  <entry key="C•Δ" value="C•Δ" comment="Constantinopolis (Constantinople) mint (C), 4th officina (Δ), separated by a pellet." />
+  <entry key="CM || XXIA" value="CM || XXIA" comment="Cyzicus mint (CM = Cyzicus Moneta) in the field, reform value mark XXI with 1st officina (A) in the exergue." />
+  <entry key="CN" value="CN" comment="Constantinopolis (Constantinople) mint (abbreviated/monogrammatic form of CON)." />
+  <entry key="CON" value="CON" comment="Constantinopolis (Constantinople) mint (CON)." />
+  <entry key="CONЄ" value="CONЄ" comment="Constantinopolis (Constantinople) mint (CON), 5th officina (Є)." />
+  <entry key="CONS" value="CONS" comment="Constantinopolis (Constantinople) mint (CONS)." />
+  <entry key="CONS?" value="CONS?" comment="Constantinopolis (Constantinople) mint (CONS) followed by an illegible/uncertain officina or symbol." />
+  <entry key="CONSA" value="CONSA" comment="Constantinopolis (Constantinople) mint (CONS), 1st officina (A)." />
+  <entry key="CONSB" value="CONSB" comment="Constantinopolis (Constantinople) mint (CONS), 2nd officina (B)." />
+  <entry key="CONSS" value="CONSS" comment="Constantinopolis (Constantinople) mint (CONS), 6th officina (S = ς)." />
+  <entry key="CONSΓ" value="CONSΓ" comment="Constantinopolis (Constantinople) mint (CONS), 3rd officina (Γ)." />
+  <entry key="CONSЄ" value="CONSЄ" comment="Constantinopolis (Constantinople) mint (CONS), 5th officina (Є)." />
+  <entry key="F | D on C on R || ΔSISCE" value="F | D on C on R || ΔSISCE" comment="Siscia mint (SISC), 4th officina (Δ) and issue letter E; F in left field, stacked D / C / R in right field." />
+  <entry key="F | O || ML" value="F | O || ML" comment="Londinium (London) mint (ML = Moneta Londinium), with F and O in left and right fields." />
+  <entry key="F | T || PLG" value="F | T || PLG" comment="Lugdunum (Lyon) mint (PLG = Percussa Lugduni, 1st officina), with F and T in left and right fields." />
+  <entry key="F || PAR" value="F || PAR" comment="Arelate (Arles) mint (PAR = Percussa Arelate, 1st officina), with F in the field." />
+  <entry key="H || XXIR" value="H || XXIR" comment="Roma (Rome) mint (R) with reform value mark XXI in the exergue, 8th officina (H) in the field." />
+  <entry key="HTA" value="HTA" comment="Heraclea (Heraclea Thracica) mint (HT), 1st officina (A)." />
+  <entry key="HTB" value="HTB" comment="Heraclea (Heraclea Thracica) mint (HT), 2nd officina (B)." />
+  <entry key="IV" value="IV" comment="4th officina (IV) mark of the Antiochia (Antioch) mint on antoniniani of Hostilian." />
+  <entry key="K | (wreath on X on B) || ALE" value="K | (wreath on X on B) || ALE" comment="Alexandria mint (ALE); K in left field, wreath above X above 2nd officina (B) in right field." />
+  <entry key="K | B on P || ALE" value="K | B on P || ALE" comment="Alexandria mint (ALE); K in left field, 2nd officina (B) above P in right field." />
+  <entry key="K | Z on V || ANT" value="K | Z on V || ANT" comment="Antiochia (Antioch) mint (ANT); K in left field, 7th officina (Z) above V in right field." />
+  <entry key="K | Є on V || ANT" value="K | Є on V || ANT" comment="Antiochia (Antioch) mint (ANT); K in left field, 5th officina (Є) above V in right field." />
+  <entry key="K B" value="K B" comment="Cyzicus mint (K = Kyzikos), 2nd officina (B)." />
+  <entry key="K Є" value="K Є" comment="Cyzicus mint (K = Kyzikos), 5th officina (Є)." />
+  <entry key="KAς" value="KAς" comment="Roma (Rome) mint, Greek reform value mark KA (20:1) with 6th officina (ς)." />
+  <entry key="KB" value="KB" comment="Cyzicus mint (K = Kyzikos), 2nd officina (B)." />
+  <entry key="KYZ B" value="KYZ B" comment="Cyzicus mint (KYZ = Kyzikos), 2nd officina (B)." />
+  <entry key="LVG" value="LVG" comment="Lugdunum (Lyon) mint (LVG)." />
+  <entry key="MDPS" value="MDPS" comment="Mediolanum (Milan) mint (MD), pure/refined silver mark (PS = Pusulum)." />
+  <entry key="MOSTP" value="MOSTP" comment="Ostia mint (MOST = Moneta Ostia), 1st officina (P = Prima)." />
+  <entry key="MOSTS" value="MOSTS" comment="Ostia mint (MOST = Moneta Ostia), 2nd officina (S = Secunda)." />
+  <entry key="P || MCXXI" value="P || MCXXI" comment="Cyzicus mint (MC = Moneta Cyzicena) with reform value mark XXI in the exergue, 1st officina (P = Prima) in the field." />
+  <entry key="P || XXI" value="P || XXI" comment="Siscia mint, reform value mark XXI in the exergue, 1st officina (P = Prima) in the field." />
+  <entry key="P(crescent)A" value="P(crescent)A" comment="Arelate (Arles) mint (A), 1st officina (P = Prima), separated by a crescent." />
+  <entry key="P(crescent)AR" value="P(crescent)AR" comment="Arelate (Arles) mint (AR), 1st officina (P = Prima), separated by a crescent." />
+  <entry key="PCONST" value="PCONST" comment="Arelate (Arles, renamed Constantina = CONST) mint, 1st officina (P = Prima)." />
+  <entry key="PT" value="PT" comment="Ticinum (Pavia) mint (T), 1st officina (P = Prima)." />
+  <entry key="PTR" value="PTR" comment="Treveri (Trier) mint (TR), 1st officina (P = Prima)." />
+  <entry key="Q" value="Q" comment="4th officina (Q = Quarta) mark of the Roma (Rome) mint." />
+  <entry key="QXXT" value="QXXT" comment="Ticinum (Pavia) mint (T), 4th officina (Q = Quarta), with reform value mark XX(I) abbreviated as XX." />
+  <entry key="R (wreath) S" value="R (wreath) S" comment="Roma (Rome) mint (R), 2nd officina (S = Secunda), separated by a wreath." />
+  <entry key="R P" value="R P" comment="Roma (Rome) mint (R), 1st officina (P = Prima)." />
+  <entry key="R*[?]" value="R*[?]" comment="Roma (Rome) mint (R) followed by a star and an illegible/uncertain officina letter." />
+  <entry key="RB∈" value="RB∈" comment="Roma (Rome) mint (R), 2nd officina (B) or issue mark with 5th officina (∈)." />
+  <entry key="RFP" value="RFP" comment="Roma (Rome) mint (R), issue mark (F), 1st officina (P = Prima)." />
+  <entry key="RM" value="RM" comment="Roma (Rome) mint (RM)." />
+  <entry key="RPM" value="RPM" comment="Roma (Rome) mint (R), 1st officina (P) or Roma Moneta (RM) with P." />
+  <entry key="RQ" value="RQ" comment="Roma (Rome) mint (R), 4th officina (Q = Quarta)." />
+  <entry key="RS" value="RS" comment="Roma (Rome) mint (R), 2nd officina (S = Secunda)." />
+  <entry key="S" value="S" comment="2nd officina (S = Secunda) mark (used at Mediolanum and Antiochia)." />
+  <entry key="S | A || ML" value="S | A || ML" comment="Londinium (London) mint (ML = Moneta Londinium), with S and A in left and right fields." />
+  <entry key="S | A || PTR" value="S | A || PTR" comment="Treveri (Trier) mint (TR), 1st officina (P = Prima), with S and A in left and right fields." />
+  <entry key="S || •ASIS•" value="S || •ASIS•" comment="Siscia mint (SIS), 1st officina (A) flanked by pellets; S in the field." />
+  <entry key="S || XXI" value="S || XXI" comment="Cyzicus mint, reform value mark XXI in the exergue, 2nd officina (S = Secunda) in the field." />
+  <entry key="S || XXI•" value="S || XXI•" comment="Antiochia (Antioch) mint, reform value mark XXI followed by a pellet in the exergue, 2nd officina (S) or issue mark in the field." />
+  <entry key="S on ● | R on (c on A) || ΔSISCCE" value="S on ● | R on (c on A) || ΔSISCCE" comment="Siscia mint (SISC), 4th officina (Δ) and issue suffix CE; S above pellet in left field, R above (C above A) in right field." />
+  <entry key="S P || RSLG" value="S P || RSLG" comment="Lugdunum (Lyon) mint (SLG = Secunda Lugduni, 2nd officina, preceded by R), with S and P in left and right fields." />
+  <entry key="S T" value="S T" comment="Ticinum (Pavia) mint (T), 2nd officina (S = Secunda)." />
+  <entry key="S V || (palm branch left)AMB(palm branch right)" value="S V || (palm branch left)AMB(palm branch right)" comment="Ambianum (Amiens) mint (AMB) flanked by palm branches in the exergue, S and V in left and right fields." />
+  <entry key="SIRM" value="SIRM" comment="Sirmium mint (SIRM)." />
+  <entry key="SMALB" value="SMALB" comment="Alexandria mint (SMAL = Sacra Moneta Alexandriae), 2nd officina (B)." />
+  <entry key="SMALΔ" value="SMALΔ" comment="Alexandria mint (SMAL = Sacra Moneta Alexandriae), 4th officina (Δ)." />
+  <entry key="SMANH" value="SMANH" comment="Antiochia (Antioch) mint (SMAN = Sacra Moneta Antiochiae), 8th officina (H)." />
+  <entry key="SMANI" value="SMANI" comment="Antiochia (Antioch) mint (SMAN = Sacra Moneta Antiochiae), 10th officina (I)." />
+  <entry key="SMANS" value="SMANS" comment="Antiochia (Antioch) mint (SMAN = Sacra Moneta Antiochiae), 6th officina (S = ς)." />
+  <entry key="SMANTΓ" value="SMANTΓ" comment="Antiochia (Antioch) mint (SMANT = Sacra Moneta Antiochiae), 3rd officina (Γ)." />
+  <entry key="SMANZ" value="SMANZ" comment="Antiochia (Antioch) mint (SMAN = Sacra Moneta Antiochiae), 7th officina (Z)." />
+  <entry key="SMANΔ" value="SMANΔ" comment="Antiochia (Antioch) mint (SMAN = Sacra Moneta Antiochiae), 4th officina (Δ)." />
+  <entry key="SMANθ" value="SMANθ" comment="Antiochia (Antioch) mint (SMAN = Sacra Moneta Antiochiae), 9th officina (θ)." />
+  <entry key="SMAQ" value="SMAQ" comment="Aquileia mint (SMAQ = Sacra Moneta Aquileiae)." />
+  <entry key="SMAQS" value="SMAQS" comment="Aquileia mint (SMAQ = Sacra Moneta Aquileiae), 2nd officina (S = Secunda)." />
+  <entry key="SMH" value="SMH" comment="Heraclea (Heraclea Thracica) mint (SMH = Sacra Moneta Heracleae)." />
+  <entry key="SMH∈" value="SMH∈" comment="Heraclea (Heraclea Thracica) mint (SMH = Sacra Moneta Heracleae), 5th officina (∈)." />
+  <entry key="SMHB" value="SMHB" comment="Heraclea (Heraclea Thracica) mint (SMH = Sacra Moneta Heracleae), 2nd officina (B)." />
+  <entry key="SMKA" value="SMKA" comment="Cyzicus mint (SMK = Sacra Moneta Kyzikou), 1st officina (A)." />
+  <entry key="SMN∈" value="SMN∈" comment="Nicomedia mint (SMN = Sacra Moneta Nicomediae), 5th officina (∈)." />
+  <entry key="SMNA" value="SMNA" comment="Nicomedia mint (SMN = Sacra Moneta Nicomediae), 1st officina (A)." />
+  <entry key="SMNS •" value="SMNS •" comment="Nicomedia mint (SMN = Sacra Moneta Nicomediae), 6th officina (S = ς), followed by a pellet." />
+  <entry key="SMNΓ" value="SMNΓ" comment="Nicomedia mint (SMN = Sacra Moneta Nicomediae), 3rd officina (Γ)." />
+  <entry key="SMSXXIA" value="SMSXXIA" comment="Siscia mint (SMS = Sacra Moneta Sisciae) with reform value mark XXI and 1st officina (A)." />
+  <entry key="SMTSΔ" value="SMTSΔ" comment="Thessalonica mint (SMTS = Sacra Moneta Thessalonicae), 4th officina (Δ)." />
+  <entry key="ST" value="ST" comment="Ticinum (Pavia) mint (T), 2nd officina (S = Secunda)." />
+  <entry key="SXXIT" value="SXXIT" comment="Ticinum (Pavia) mint (T), 2nd officina (S = Secunda), with reform value mark XXI." />
+  <entry key="T || CONB" value="T || CONB" comment="Constantinopolis (Constantinople) mint (CON), 2nd officina (B) in the exergue; T in the field." />
+  <entry key="TCON" value="TCON" comment="Arelate (Arles, renamed Constantina = CON) mint, 3rd officina (T = Tertia)." />
+  <entry key="THEUP" value="THEUP" comment="Antiochia / Theoupolis (Antioch) mint (THEUP)." />
+  <entry key="THЄUP●" value="THЄUP●" comment="Antiochia / Theoupolis (Antioch) mint (THЄUP), followed by a pellet." />
+  <entry key="TR•P" value="TR•P" comment="Treveri (Trier) mint (TR), 1st officina (P = Prima), separated by a pellet." />
+  <entry key="TR•S" value="TR•S" comment="Treveri (Trier) mint (TR), 2nd officina (S = Secunda), separated by a pellet." />
+  <entry key="TRPS" value="TRPS" comment="Treveri (Trier) mint (TR), pure/refined silver mark (PS = Pusulum)." />
+  <entry key="TRPS●" value="TRPS●" comment="Treveri (Trier) mint (TR), pure/refined silver mark (PS = Pusulum), followed by a pellet." />
+  <entry key="TRPS•" value="TRPS•" comment="Treveri (Trier) mint (TR), pure/refined silver mark (PS = Pusulum), followed by a pellet." />
+  <entry key="TRS" value="TRS" comment="Treveri (Trier) mint (TR), 2nd officina (S = Secunda)." />
+  <entry key="TSB✷" value="TSB✷" comment="Thessalonica mint (TS), 2nd officina (B), followed by a star." />
+  <entry key="TSΓVI" value="TSΓVI" comment="Thessalonica mint (TS), 3rd officina (Γ), with issue/value mark VI." />
+  <entry key="TSΔVI" value="TSΔVI" comment="Thessalonica mint (TS), 4th officina (Δ), with issue/value mark VI." />
+  <entry key="TXXI" value="TXXI" comment="Ticinum (Pavia) mint (T) combined with reform value mark XXI." />
+  <entry key="TXXIT" value="TXXIT" comment="Ticinum (Pavia) mint (T), 3rd officina (T = Tertia), with reform value mark XXI." />
+  <entry key="V" value="V" comment="5th officina (V = Quinta) or issue mark of the Ticinum (Pavia) mint." />
+  <entry key="V || AQΓ" value="V || AQΓ" comment="Aquileia mint (AQ), 3rd officina (Γ) in the exergue; V in the field." />
+  <entry key="V || XXIMC" value="V || XXIMC" comment="Cyzicus mint (MC = Moneta Cyzicena) with reform value mark XXI in the exergue; 5th officina (V = Quinta) in the field." />
+  <entry key="VIIC•" value="VIIC•" comment="Siscia mint, 7th officina/issue mark (VII) with C and pellet." />
+  <entry key="VXXI" value="VXXI" comment="Ticinum (Pavia) mint, 5th officina (V = Quinta) with reform value mark XXI." />
+  <entry key="XII" value="XII" comment="12th officina (XII) mark of the Roma (Rome) mint." />
+  <entry key="XXIA" value="XXIA" comment="Roma (Rome) mint, reform value mark XXI with 1st officina (A)." />
+  <entry key="XXIQ" value="XXIQ" comment="Siscia mint, reform value mark XXI with 4th officina (Q = Quarta)." />
+  <entry key="XXIς" value="XXIς" comment="Roma (Rome) mint, reform value mark XXI with 6th officina (ς)." />
+  <entry key="Z || CONS" value="Z || CONS" comment="Constantinopolis (Constantinople) mint (CONS) in the exergue, 7th officina (Z) in the field." />
+  <entry key="Γ" value="Γ" comment="3rd officina (Γ) mark of the Antiochia (Antioch) mint." />
+  <entry key="Γ || •SIS•" value="Γ || •SIS•" comment="Siscia mint (SIS) flanked by pellets in the exergue, 3rd officina (Γ) in the field." />
+  <entry key="Γ || ALE" value="Γ || ALE" comment="Alexandria mint (ALE) in the exergue, 3rd officina (Γ) in the field." />
+  <entry key="Γ || ANT ✷" value="Γ || ANT ✷" comment="Antiochia (Antioch) mint (ANT) followed by a star in the exergue, 3rd officina (Γ) in the field." />
+  <entry key="Γ || CONS" value="Γ || CONS" comment="Constantinopolis (Constantinople) mint (CONS) in the exergue, 3rd officina (Γ) in the field." />
+  <entry key="ΓSIS" value="ΓSIS" comment="Siscia mint (SIS), 3rd officina (Γ)." />
+  <entry key="ΓXXIR" value="ΓXXIR" comment="Roma (Rome) mint (R), 3rd officina (Γ), with reform value mark XXI." />
+  <entry key="Δ" value="Δ" comment="4th officina (Δ) mark (used at Antiochia and Roma)." />
+  <entry key="Θ | (Φ on K) || ANTS" value="Θ | (Φ on K) || ANTS" comment="Antiochia (Antioch) mint (ANT), 6th officina (S = ς); Θ in left field, Φ above K in right field." />
+  <entry key="ς || XXI" value="ς || XXI" comment="Antiochia (Antioch) mint, reform value mark XXI in the exergue, 6th officina (ς) in the field." />
+  <entry key="Є | A" value="Є | A" comment="Antiochia / Theoupolis (Antioch) mint; denomination value 5 nummi (Є), 1st officina (A) in right field." />
+  <entry key="Є || CON" value="Є || CON" comment="Constantinopolis (Constantinople) mint (CON) in the exergue, 5th officina (Є) below M." />
+  <entry key="Є || RM" value="Є || RM" comment="Roma (Rome) mint (RM) in the exergue, 5th officina (Є) in the field." />
+  <entry key="Є || SMN" value="Є || SMN" comment="Nicomedia mint (SMN = Sacra Moneta Nicomediae) in the exergue, 5th officina (Є) in the field." />
+  <entry key="ЄSIS" value="ЄSIS" comment="Siscia mint (SIS), 5th officina (Є)." />
+  <entry key="ЄSIS•Ͱ" value="ЄSIS•Ͱ" comment="Siscia mint (SIS), 5th officina (Є), followed by a pellet and symbol (Ͱ)." />
+  <entry key="ԎHЧP" value="ԎHЧP" comment="Antiochia / Theoupolis (Antioch) mint (ԎHЧP = THEUP)." />
+</dictionary>

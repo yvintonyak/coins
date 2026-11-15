@@ -12,7 +12,7 @@
     <description>Emperor, crowned and mantled bust facing, holding mappa and eagle-tipped sceptre, cross above eagle</description>
   </obverse>
   <reverse>
-    <legend>M | ANNO | ςI || CONB</legend>
+    <legend>M | ANNO | ςI || CONЄ</legend>
     <description>Large M, ANNO to left, cross above, regnal year (ςI) to right, officina letter.</description>
   </reverse>
   <measurement diameter="30 mm" weight="11.86 g" />
@@ -23,4 +23,7 @@
   <origin price="14" currency="EUR" rate="1" fee="15.25%" 
           seller="Sol Numismatik" date="23.03.2024" auction="Auction XXVI" lot="814" invoice="Sol Numismatik - 03" />
   <remark>Sear 430</remark>
+  <legend>
+    <mintmark mint="CONЄ" />
+  </legend>
 </coin>

@@ -23,4 +23,7 @@
   <origin price="50" currency="CHF" rate="1.09" fee="18.5%" 
           seller="Nomos AG" date="08.10.2023" auction="Obolos 29" lot="713" invoice="Nomos - 06" />
   <remark>with Heraclius Constantine. Traces of overstriking. Sear 824; DOC 135a; MIB 218</remark>
+  <legend>
+    <mintmark mint="B | ΘЄC" />
+  </legend>
 </coin>

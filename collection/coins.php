@@ -143,6 +143,14 @@
       return $_SESSION['session_dictionary'];
     }
 
+    public static function Mintmarks()
+    {
+      if (!isset($_SESSION['session_data']) || !isset($_SESSION['session_mintmarks']))
+        static::Initialize();
+
+      return $_SESSION['session_mintmarks'];
+    }
+
     public static function Deities()
     {
       if (!isset($_SESSION['session_data']))
@@ -159,12 +167,14 @@
     private static $SetsFile = 'Sets.xml';
     private static $EmperorsFile = 'Emperors.xml';
     private static $DictionaryFile = 'Dictionary.xml';
+    private static $MintmarksFile = 'Mintmarks.xml';
     private static $DeitiesFile = 'Deities.xml';
 
     private static $Coins = array();
     private static $Sets = array();
     private static $Emperors = array();
     private static $Dictionary = null;
+    private static $Mintmarks = null;
     private static $Deities = array();
     
     private static $CoinFiles = array();
@@ -176,7 +186,8 @@
       
       static::LoadSets($RootPath . static::$DataDir . '/' . static::$SetsFile);
       static::LoadEmperors($RootPath . static::$DataDir . '/' . static::$EmperorsFile);
-      static::LoadDictionary($RootPath . static::$DataDir . '/' . static::$DictionaryFile);
+      static::$Dictionary = static::LoadDictionaryFile($RootPath . static::$DataDir . '/' . static::$DictionaryFile);
+      static::$Mintmarks = static::LoadDictionaryFile($RootPath . static::$DataDir . '/' . static::$MintmarksFile);
       static::LoadDeities($RootPath . static::$DataDir . '/' . static::$DeitiesFile);
       
       static::FindCoinFiles();
@@ -229,6 +240,7 @@
       $_SESSION['session_sets'] = static::$Sets;
       $_SESSION['session_emperors'] = static::$Emperors;
       $_SESSION['session_dictionary'] = static::$Dictionary;
+      $_SESSION['session_mintmarks'] = static::$Mintmarks;
       $_SESSION['session_deities'] = static::$Deities;
     }
     
@@ -432,19 +444,21 @@
       }
     }
 
-    private static function LoadDictionary($dictionaryFile)
+    private static function LoadDictionaryFile($dictionaryFile)
     {
+      $dict = new Dictionary();
       if (!file_exists($dictionaryFile))
-        return;
+        return $dict;
 
-      static::$Dictionary = new Dictionary();
       $dictionaryDoc = simplexml_load_file($dictionaryFile);
       
       foreach($dictionaryDoc->children() as $entry)
       {
-        static::$Dictionary->Entries[(string)$entry['key']] = (string)$entry['value'];
-        static::$Dictionary->Comments[(string)$entry['key']] = (string)$entry['comment'];
+        $dict->Entries[(string)$entry['key']] = (string)$entry['value'];
+        $dict->Comments[(string)$entry['key']] = (string)$entry['comment'];
       }
+
+      return $dict;
     }
 
     private static function LoadDeities($deitiesFile)

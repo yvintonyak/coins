@@ -23,4 +23,7 @@
   <origin price="28" currency="EUR" rate="1" fee="18.15%" 
           seller="Bucephalus Numismatic" date="16.09.2023" auction="Black Auction 25" lot="1358" invoice="Bucephalus Numismatic - 03" />
   <remark>Sear 670</remark>
+  <legend>
+    <mintmark mint="KYZ B" />
+  </legend>
 </coin>

@@ -23,4 +23,7 @@
   <origin price="26" currency="EUR" rate="1" fee="0%" 
           seller="Ancient Numismatics Auctions" date="20.02.2026" auction="Auction 28" lot="705" invoice="Ancient Numismatics Auctions - 04" />
   <remark>with Stauracius; DOC 5</remark>
+  <legend>
+    <mintmark mint="A" />
+  </legend>
 </coin>

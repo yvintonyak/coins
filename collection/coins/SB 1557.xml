@@ -23,4 +23,7 @@
   <origin price="18" currency="EUR" rate="1" fee="22%" 
           seller="Ancient Rarity Coins UG" date="20.03.2026" auction="E-Auction 2" lot="820" invoice="Ancient Rarity Coins - 01" />
   <remark>with Leo IV and Leo III on reverse; DOC 13</remark>
+  <legend>
+    <mintmark mint="A" />
+  </legend>
 </coin>

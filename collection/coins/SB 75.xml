@@ -23,4 +23,7 @@
   <origin price="31" currency="EUR" rate="1" fee="24%" 
           seller="Concordia Numismatic e.U." date="15.10.2023" auction="Auktion 9" lot="637" invoice="Concordia Numismatic - 02" />
   <remark>DOC vol.I,21</remark>
+  <legend>
+    <mintmark mint="B | Є" />
+  </legend>
 </coin>
