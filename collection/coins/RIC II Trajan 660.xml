@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC II Trajan 660">
+  <identity set="Roman Imperial" />
+  <emperor name="Trajanus" />
+  <denomination name="Semis" />
+  <mint>
+    <date from="114" to="117" />
+    <place city="Roma" region="Italia" />
+  </mint>
+  <obverse>
+    <legend>IMP CAES NER TRAIAN OPTIM AVG GER DAC PARTHICO</legend>
+    <description>Bust of Trajan, radiate, draped, right</description>
+  </obverse>
+  <reverse>
+    <legend>P M TR POT XX COS VI P P</legend>
+    <description>S C in oak-wreath</description>
+  </reverse>
+  <measurement diameter="20 mm" weight="4.68 g" />
+  <image>
+    <obverse file="RIC II Trajan 660 (A).jpg" />
+    <reverse file="RIC II Trajan 660 (R).jpg" />
+  </image>
+  <origin price="30" currency="EUR" rate="1" fee="20%" 
+          seller="Rex Numismatics B.V." date="23.10.2025" auction="E-Rex Budget Auction 28" lot="318" invoice="Rex Numismatics - 03" />
+  <legend>
+    <obverse>
+      <entry key="IMP" />
+      <entry key="CAES" />
+      <entry key="NER TRAIAN" />
+      <entry key="OPTIM AVG" />
+      <entry key="GER[2]" />
+      <entry key="DAC[2]" />
+      <entry key="PARTHICO" />
+    </obverse>
+    <reverse>
+      <entry key="P M" />
+      <entry key="TR POT XX" />
+      <entry key="COS VI" />
+      <entry key="P P" />
+    </reverse>
+  </legend>
+</coin>

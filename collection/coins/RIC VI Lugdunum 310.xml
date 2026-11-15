@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC VI Lugdunum 310">
+  <identity set="Roman Imperial" />
+  <emperor name="Constantinus I" />
+  <denomination name="Follis" />
+  <mint>
+    <date from="309" to="310" />
+    <place city="Lugdunum" region="Gallia Lugdunensis" />
+  </mint>
+  <obverse>
+    <legend>IMP CONSTANTINVS P F AVG</legend>
+    <description>Bust of Constantine I, laureate, draped, cuirassed, right, seen from behind</description>
+  </obverse>
+  <reverse>
+    <legend>SOLI INVICTO COMITI | F | T || PLG</legend>
+    <description>Sol, nude, standing front, head left, raising right hand and holding globe in left hand</description>
+  </reverse>
+  <measurement diameter="25 mm" weight="4.99 g" />
+  <image>
+    <obverse file="RIC VI Lugdunum 310 (A).jpg" />
+    <reverse file="RIC VI Lugdunum 310 (R).jpg" />
+  </image>
+  <deity name="Sol Invictus" />
+  <origin price="50" currency="EUR" rate="1" fee="14.9%" 
+          seller="Numismatik Naumann GmbH" date="06.06.2021" auction="Auktion 103" lot="929" invoice="Numismatik Naumann - 22" />
+  <legend>
+    <obverse>
+      <entry key="IMP" />
+      <entry key="CONSTANTINVS[I]" />
+      <entry key="P F" />
+      <entry key="AVG" />
+    </obverse>
+    <reverse>
+      <entry key="SOLI INVICTO COMITI" />
+    </reverse>
+    <mintmark mint="F | T || PLG" />
+  </legend>
+</coin>

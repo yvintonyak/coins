@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RPC VII-2 68016">
+  <identity set="Roman Provincial" />
+  <emperor name="Gordianus III" />
+  <denomination name="Tetradrachm" />
+  <mint>
+    <date from="240" />
+    <place city="Antiochia" region="Syria" />
+  </mint>
+  <obverse>
+    <legend>ΑΥΤΟΚ Κ Μ ΑΝΤ ΓΟΡΔΙΑΝΟϹ ϹƐΒ</legend>
+    <description>Bust of Gordian III right, laureate, draped, cuirassed</description>
+  </obverse>
+  <reverse>
+    <legend>ΔΗΜΑΡΧ ƐΞΟΥϹΙΑϹ || S C</legend>
+    <description>Eagle standing front, head left, with wings open, holding wreath in beak</description>
+  </reverse>
+  <measurement diameter="29 mm" weight= "12.51 g" />
+  <image>
+    <obverse file="RPC VII-2 68016 (A).jpg" />
+    <reverse file="RPC VII-2 68016 (R).jpg" />
+  </image>
+  <origin price="100" currency="EUR" rate="1" fee="18.0%" 
+          seller="Artemide Kunstauktionen GmbH" date="24.11.2019" auction="e-Live Auktion 10" lot="460" invoice="Artemide Aste - 03" />
+  <remark>Prieur 282; Bland 1991b, 4; McAlee 860</remark>
+</coin>

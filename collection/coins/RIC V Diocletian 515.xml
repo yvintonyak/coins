@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC V Diocletian 515">
+  <identity set="Roman Imperial" />
+  <emperor name="Maximianus Herculius" />
+  <denomination name="Antoninian" />
+  <mint>
+    <date from="291" />
+    <place city="Roma" region="Italia" />
+  </mint>
+  <obverse>
+    <legend>IMP MAXIMIANVS P F AVG</legend>
+    <description>Bust of Maximian, radiate, draped, cuirassed, right</description>
+  </obverse>
+  <reverse>
+    <legend>VIRTVS AVGG || XXIA</legend>
+    <description>Hercules, standing front, head left, or walking left, holding club in right hand and trophy and lion's skin in left hand</description>
+  </reverse>
+  <measurement diameter="23 mm" weight="3.71 g" />
+  <image>
+    <obverse file="RIC V Diocletian 515 (A).jpg" />
+    <reverse file="RIC V Diocletian 515 (R).jpg" />
+  </image>
+  <deity name="Hercules" />
+  <origin price="96" currency="CHF" rate="0.94" fee="18.5%" 
+          seller="Nomos AG" date="02.07.2019" auction="Obolos 13" lot="690" invoice="Nomos - 02" />
+  <remark>the mark on obverse is uncertain; it makes no sense as a banker's mark</remark>
+  <legend>
+    <obverse>
+      <entry key="IMP" />
+      <entry key="MAXIMIANVS[herculius]" />
+      <entry key="P F" />
+      <entry key="AVG" />
+    </obverse>
+    <reverse>
+      <entry key="VIRTVS AVGG" />
+    </reverse>
+    <mintmark mint="XXIA" />
+  </legend>
+</coin>

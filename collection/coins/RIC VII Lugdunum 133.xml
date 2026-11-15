@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC VII Lugdunum 133">
+  <identity set="Roman Imperial" />
+  <emperor name="Crispus Caesar" />
+  <denomination name="Follis" />
+  <mint>
+    <date from="321" />
+    <place city="Lugdunum" region="Gallia Lugdunensis" />
+  </mint>
+  <obverse>
+    <legend>CRISPVS - NOB CAES</legend>
+    <description>Bust of Crispus, laureate, cuirassed, right</description>
+  </obverse>
+  <reverse>
+    <legend>BEATA TRANQVILLITAS | VO|TIS|XX | C | R || PLG</legend>
+    <description>Globe on altar inscribed VOT|IS|XX; above, three stars</description>
+  </reverse>
+  <measurement diameter="18 mm" weight="3.11 g" />
+  <image>
+    <obverse file="RIC VII Lugdunum 133 (A).jpg" />
+    <reverse file="RIC VII Lugdunum 133 (R).jpg" />
+  </image>
+  <origin price="36" currency="EUR" rate="1" fee="18.5%" 
+          seller="Numismatik Zöttl" date="30.11.2019" auction="eLive Auktion 3" lot="1280" invoice="Numismatik Zöttl - 01" />
+  <legend>
+    <obverse>
+      <entry key="CRISPVS" />
+      <entry key="NOB CAES" />
+    </obverse>
+    <reverse>
+      <entry key="BEATA TRANQVILLITAS" />
+      <entry key="VOTIS XX" />
+    </reverse>
+    <mintmark mint="C | R || PLG" />
+  </legend>
+</coin>

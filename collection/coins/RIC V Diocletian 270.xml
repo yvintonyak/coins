@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC V Diocletian 270">
+  <identity set="Roman Imperial" />
+  <emperor name="Diocletianus" />
+  <denomination name="Antoninian" />
+  <mint>
+    <date from="287" />
+    <place city="Siscia" region="Pannonia Superior" />
+  </mint>
+  <obverse>
+    <legend>IMP C C VAL DIOCLETIANVS P F AVG</legend>
+    <description>Bust of Diocletian, radiate, draped, right</description>
+  </obverse>
+  <reverse>
+    <legend> IOVI CONSERVATORI | A || XXI</legend>
+    <description>Jupiter, standing left, holding thunderbolt in right hand and sceptre in left hand</description>
+  </reverse>
+  <measurement diameter="24 mm" weight="3.26 g" />
+  <image>
+    <obverse file="RIC V Diocletian 270 (A).jpg" />
+    <reverse file="RIC V Diocletian 270 (R).jpg" />
+  </image>
+  <deity name="Jupiter" />
+  <origin price="65" currency="CHF" rate="0.96" fee="18.5%" 
+          seller="Leu Numismatik AG" date="08.09.2019" auction="Webauktion 9" lot="1201" invoice="Leu Numismatik - 03" />
+  <legend>
+    <obverse>
+      <entry key="IMP" />
+      <entry key="C" />
+      <entry key="C VAL DIOCLETIANVS" />
+      <entry key="P F" />
+      <entry key="AVG" />
+    </obverse>
+    <reverse>
+      <entry key="IOVI CONSERVATORI" />
+    </reverse>
+    <mintmark mint="A || XXI" />
+  </legend>
+</coin>

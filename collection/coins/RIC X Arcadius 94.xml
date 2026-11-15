@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC X Arcadius 94">
+  <identity set="Roman Imperial" />
+  <emperor name="Arcadius" />
+  <denomination name="Centenionalis" />
+  <mint>
+    <date from="401" to="403" />
+    <place city="Cyzicus" region="Asia" />
+  </mint>
+  <obverse>
+    <legend>D N ARCADI-VS P F AVG</legend>
+    <description>Bust of Arcadius, helmeted, pearl-diademed, cuirassed, facing front, holding spear in right hand behind head and shield decorated with cross on left arm</description>
+  </obverse>
+  <reverse>
+    <legend>CONCORDI-A AVGG || SMKA</legend>
+    <description>Constantinopolis, helmeted, draped, enthroned, enthroned, facing front, head right, holding long sceptre in right hand and Victory on globe in left hand; beneath her right foot, prow</description>
+  </reverse>
+  <measurement diameter="17 mm" weight="2.74 g" />
+  <image>
+    <obverse file="RIC X Arcadius 94 (A).jpg" />
+    <reverse file="RIC X Arcadius 94 (R).jpg" />
+  </image>
+  <deity name="Constantinopolis, Victoria" />
+  <origin price="50" currency="EUR" rate="1" fee="18.0%" 
+          seller="Savoca Numismatik GmbH" date="17.01.2021" auction="93rd Silver Auction" lot="602" invoice="Savoca Numismatik - 30" />
+  <legend>
+    <obverse>
+      <entry key="D N" />
+      <entry key="ARCADIVS" />
+      <entry key="P F" />
+      <entry key="AVG" />
+    </obverse>
+    <reverse>
+      <entry key="CONCORDIA AVGG" />
+    </reverse>
+    <mintmark mint="SMKA" />
+  </legend>
+</coin>

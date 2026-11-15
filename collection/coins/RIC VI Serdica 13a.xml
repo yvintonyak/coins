@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC VI Serdica 13a">
+  <identity set="Roman Imperial" />
+  <emperor name="Severus II Caesar" />
+  <denomination name="Follis" />
+  <mint>
+    <date from="305" to="306" />
+    <place city="Serdica" region="Thracia" />
+  </mint>
+  <obverse>
+    <legend>FL VAL SEVERVS NOB CAESAR</legend>
+    <description>Head of Severus II, laureate, right</description>
+  </obverse>
+  <reverse>
+    <legend>GENIO POPV-L-I ROMANI | A || •SM•SD•</legend>
+    <description>Genius, wearing modius, nude, chlamys draped over left shoulder, standing left, pouring liquid from patera in right hand and holding cornucopiae in left hand</description>
+  </reverse>
+  <measurement diameter="28 mm" weight="9.05 g" />
+  <image>
+    <obverse file="RIC VI Serdica 13a (A).jpg" />
+    <reverse file="RIC VI Serdica 13a (R).jpg" />
+  </image>
+  <deity name="Genius" />
+  <origin price="100" currency="EUR" rate="1" fee="15.0%" 
+          seller="Numismatica Tintinna" date="26.06.2019" auction="Tintinna Asta 81" lot="448" invoice="Numismatica Tintinna - 02" />
+  <legend>
+    <obverse>
+      <entry key="FL VAL SEVERVS" />
+      <entry key="NOB CAESAR" />
+    </obverse>
+    <reverse>
+      <entry key="GENIO POPVLI ROMANI" />
+    </reverse>
+    <mintmark mint="A || •SM•SD•" />
+  </legend>
+</coin>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RPC X 75973">
+  <identity set="Roman Provincial" />
+  <emperor name="Diocletianus" />
+  <denomination name="Tetradrachm" />
+  <mint>
+    <date from="286" to="287" />
+    <place city="Alexandria" region="Aegyptus" />
+  </mint>
+  <obverse>
+    <legend>Α Κ Γ ΟΥΑ ΔΙΟΚΛΗΤΙΑΝΟϹ ϹΕΒ</legend>
+    <description>Laureate and cuirassed bust of Diocletian, right, seen from front</description>
+  </obverse>
+  <reverse>
+    <legend>L Γ</legend>
+    <description>Tyche standing left, holding rudder and cornucopia</description>
+  </reverse>
+  <measurement diameter="19 mm" weight="8.75 g" />
+  <image>
+    <obverse file="RPC X 75973 (A).jpg" />
+    <reverse file="RPC X 75973 (R).jpg" />
+  </image>
+  <deity name="Tyche" />
+  <origin price="12" currency="EUR" rate="1" fee="18%" 
+          seller="Savoca Numismatik GmbH" date="27.01.2024" auction="192nd Weekly Blue Auction" lot="303" invoice="Savoca Numismatik - 42" />
+</coin>

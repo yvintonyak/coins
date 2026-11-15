@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC IV Pertinax 4a">
+  <identity set="Roman Imperial" />
+  <emperor name="Pertinax" />
+  <denomination name="Denar" />
+  <mint>
+    <date from="193" />
+    <place city="Roma" region="Italia" />
+  </mint>
+  <obverse>
+    <legend>[IMP CAES P] HELV PERTIN AVG</legend>
+    <description>Head of Pertinax, laureate, right</description>
+  </obverse>
+  <reverse>
+    <legend>[LAETITIA TEMPOR] COS II</legend>
+    <description>Laetitia, draped, standing left, holding wreath in right hand and sceptre in left hand</description>
+  </reverse>
+  <measurement diameter="18 mm" weight="2.68 g" />
+  <image>
+    <obverse file="RIC IV Pertinax 4a (A).jpg" />
+    <reverse file="RIC IV Pertinax 4a (R).jpg" />
+  </image>
+  <deity name="Laetitia" />
+  <origin price="220" currency="CHF" rate="1.01" fee="18.5%" 
+          seller="Leu Numismatik AG" date="20.12.2021" auction="Webauktion 18" lot="2823" invoice="Leu Numismatik - 09" />
+  <legend>
+    <obverse>
+      <entry key="IMP" />
+      <entry key="CAES" />
+      <entry key="P HELV PERTIN" />
+      <entry key="AVG" />
+    </obverse>
+    <reverse>
+      <entry key="LAETITIA TEMPOR" />
+      <entry key="COS II" />
+    </reverse>
+  </legend>
+</coin>

@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC VIII Constantinople 162">
+<!--
+  <identity set="Roman Imperial" />
+  <emperor name="Julianus II the Apostate" />
+-->
+  <identity set="---" />
+  <emperor name="Julianus II the Apostate " />
+
+  <denomination name="Maiorina" />
+  <mint>
+    <date from="361" to="363" />
+    <place city="Constantinopolis" region="Thracia" />
+  </mint>
+  <obverse>
+    <legend>D N FL CL IVLI-ANVS P F AVG</legend>
+    <description>Bust of Julian, pearl-diademed, draped, cuirassed, right</description>
+  </obverse>
+  <reverse>
+    <legend>SECVRITAS REIPVB | •CONSPA(palm branch right)</legend>
+    <description>Bull, standing right, head front; above, two stars</description>
+  </reverse>
+  <measurement diameter="28 mm" weight="8.18 g" />
+  <image>
+    <obverse file="RIC VIII Constantinople 162 (A).jpg" />
+    <reverse file="RIC VIII Constantinople 162 (R).jpg" />
+  </image>
+  <origin price="74" currency="EUR" rate="1" fee="18.0%" 
+          seller="Savoca Numismatik GmbH" date="28.07.2019" auction="22nd Blue Auction" lot="1916" invoice="Savoca Numismatik - 20" />
+  <remark>tooled</remark>
+  <legend>
+    <obverse>
+      <entry key="D N" />
+      <entry key="FL CL IVLIANVS" />
+      <entry key="P F" />
+      <entry key="AVG" />
+    </obverse>
+    <reverse>
+      <entry key="SECVRITAS REIPVB" />
+    </reverse>
+    <mintmark mint="•CONSPA(palm branch right)" />
+  </legend>
+</coin>

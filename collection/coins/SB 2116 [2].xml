@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="SB 2116">
+  <identity set="Byzantine Empire" />
+  <emperor name="Iohannes III Doukas Vatatzes" />
+  <denomination name="Tetarteron" />
+  <mint>
+    <date from="1222" to="1254" />
+    <place city="Magnesia" />
+  </mint>
+  <obverse>
+    <legend>A | ΓΕωP</legend>
+    <description>Βust of St. George facing, holding spear in right hand and shield in left; in left field, A in circle; in right field, monogram of ΓΕωP</description>
+  </obverse>
+  <reverse>
+    <legend>IⲰ ΔHCΠO ΔOYK AC</legend>
+    <description>Legend across and down fields, Iohannes III standing facing, holding labarum and akakia</description>
+  </reverse>
+  <measurement diameter="18.8 mm" weight="2.48 g" />
+  <image>
+    <obverse file="SB 2116 [2] (A).jpg" />
+    <reverse file="SB 2116 [2] (R).jpg" />
+  </image>
+  <origin price="9" currency="EUR" rate="1" fee="20%" 
+          seller="DEMOS AC sp. z o.o." date="11.07.2026" auction="Auction 73" lot="1289" invoice="Demos Auctions - 03" />
+  <remark>DOC 12</remark>
+</coin>

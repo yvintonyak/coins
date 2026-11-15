@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC VI Cyzicus 42">
+  <identity set="Roman Imperial" />
+  <emperor name="Galerius" />
+  <denomination name="Follis" />
+  <mint>
+    <date from="308" to="309" />
+    <place city="Cyzicus" region="Asia" />
+  </mint>
+  <obverse>
+    <legend>GAL MAXIMIANVS P F AVG</legend>
+    <description>Head of Galerius, laureate, right</description>
+  </obverse>
+  <reverse>
+    <legend>GENIO A-VGVSTI | B | MKV</legend>
+    <description>Genius, wearing modius, nude, chlamys draped over left shoulder, standing left, pouring liquid from patera in right hand and holding cornucopiae in left hand</description>
+  </reverse>
+  <measurement diameter="25 mm" weight="6.29 g" />
+  <image>
+    <obverse file="RIC VI Cyzicus 42 (A).jpg" />
+    <reverse file="RIC VI Cyzicus 42 (R).jpg" />
+  </image>
+  <deity name="Genius" />
+  <origin price="40" currency="EUR" rate="1" fee="18.0%" 
+          seller="Savoca Numismatik GmbH" date="31.03.2019" auction="18th Blue Auction" lot="1898" invoice="Savoca Numismatik - 12" />
+  <legend>
+    <obverse>
+      <entry key="GAL MAXIMIANVS" />
+      <entry key="P F" />
+      <entry key="AVG" />
+    </obverse>
+    <reverse>
+      <entry key="GENIO AVGVSTI" />
+    </reverse>
+    <mintmark mint="B | MKV" />
+  </legend>
+</coin>

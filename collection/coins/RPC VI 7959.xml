@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RPC VI 7959">
+  <identity set="Roman Provincial" />
+  <emperor name="Elagabalus" />
+  <denomination name="Tetradrachm" />
+  <mint>
+    <date from="219" />
+    <place city="Antiochia" region="Syria" />
+  </mint>
+  <obverse>
+    <legend>ΑΥΤ Κ Μ Α ΑΝΤWΝΕΙΝΟC CEB</legend>
+    <description>Laureate bust of Elagabal right, drapery on left shoulder</description>
+  </obverse>
+  <reverse>
+    <legend>∆ΗΜΑΡΧ ΕΞ ΥΠΑΤΟC TO B | Δ - E</legend>
+    <description>Eagle standing facing, wings spread, head left, wreath in beak, ∆ − Ε across upper fields, star between legs</description>
+  </reverse>
+  <measurement diameter="26.3 mm" weight="13.2 g" />
+  <image>
+    <obverse file="RPC VI 7959 (A).jpg" />
+    <reverse file="RPC VI 7959 (R).jpg" />
+  </image>
+  <origin price="30" currency="EUR" rate="1" fee="18.0%" 
+          seller="Lydia Numismatics" date="08.05.2021" auction="Online Auktion 7" lot="498" invoice="Lydia Numismatics - 01" />
+  <remark>Prieur 249, McAlee 758-9, SNG Cop 236-237</remark>
+</coin>

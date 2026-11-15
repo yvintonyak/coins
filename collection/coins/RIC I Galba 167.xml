@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC I Galba 167">
+  <identity set="Roman Imperial" />
+  <emperor name="Galba" />
+  <denomination name="Denar" />
+  <mint>
+    <date from="68" to="69" />
+    <place city="Roma" region="Italia" />
+  </mint>
+  <obverse>
+    <legend>IMP SER GALBA AVG</legend>
+    <description>Head of Galba, bare, right</description>
+  </obverse>
+  <reverse>
+    <legend>S P Q R OB C S</legend>
+    <description>Legend in three lines oak-wreath</description>
+  </reverse>
+  <measurement diameter="18 mm" weight="3.15 g" />
+  <image>
+    <obverse file="RIC I Galba 167 (A).jpg" />
+    <reverse file="RIC I Galba 167 (R).jpg" />
+  </image>
+  <origin price="201" currency="EUR" rate="1" fee="14.9%" 
+          seller="Numismatik Naumann GmbH" date="03.05.2020" auction="Auktion 89" lot="413" invoice="Numismatik Naumann - 15" />
+  <legend>
+    <obverse>
+      <entry key="IMP" />
+      <entry key="SER GALBA" />
+      <entry key="AVG" />
+    </obverse>
+    <reverse>
+      <entry key="S P Q R OB C S" />
+    </reverse>
+  </legend>
+</coin>

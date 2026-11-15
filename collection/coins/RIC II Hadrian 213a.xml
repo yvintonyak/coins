@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC II Hadrian 213a">
+  <identity set="Roman Imperial" />
+  <emperor name="Hadrianus" />
+  <denomination name="Denar" />
+  <mint>
+    <date from="132" to="134" />
+    <place city="Roma" region="Italia" />
+  </mint>
+  <obverse>
+    <legend>HADRIANVS AVGVSTVS</legend>
+    <description>Bust of Hadrian, draped, bare head to right</description>
+  </obverse>
+  <reverse>
+    <legend>INDVLGENTIA AVG P P | COS III</legend>
+    <description>Indulgentia, draped, seated left on throne, holding out right hand and holding vertical sceptre in left, COS III in exergue</description>
+  </reverse>
+  <measurement diameter="19 mm" weight="3.16 g" />
+  <image>
+    <obverse file="RIC II Hadrian 213a (A).jpg" />
+    <reverse file="RIC II Hadrian 213a (R).jpg" />
+  </image>
+  <deity name="Indulgentia" />
+  <origin price="75" currency="EUR" rate="1" fee="18.0%" 
+          seller="Savoca Numismatik GmbH" date="16.12.2018" auction="28th Silver Auction" lot="341" invoice="Savoca Numismatik - 05" />
+  <legend>
+    <obverse>
+      <entry key="HADRIANVS" />
+      <entry key="AVGVSTVS" />
+    </obverse>
+    <reverse>
+      <entry key="INDVLGENTIA AVG" />
+      <entry key="P P" />
+      <entry key="COS III" />
+    </reverse>
+  </legend>
+</coin>

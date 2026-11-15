@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC IV Elagabalus 226">
+  <identity set="Roman Imperial" />
+  <emperor name="Aquilia Severa" />
+  <denomination name="Denar" />
+  <mint>
+    <date from="220" to="222" />
+    <place city="Roma" region="Italia" />
+  </mint>
+  <obverse>
+    <legend>IVLIA AQVILIA SEVERA AVG</legend>
+    <description>Bust of Aquilia Severa, hair waved and fastened in plait, draped, right</description>
+  </obverse>
+  <reverse>
+    <legend>CONCORDIA</legend>
+    <description>Concordia, draped, standing left, sacrificing out of patera in right hand over lighted altar and holding double cornucopiae in left hand; in right field, star</description>
+  </reverse>
+  <measurement diameter="20 mm" weight="2.81 g" />
+  <image>
+    <obverse file="RIC IV Elagabalus 226 (A).jpg" />
+    <reverse file="RIC IV Elagabalus 226 (R).jpg" />
+  </image>
+  <deity name="Concordia" />
+  <origin price="325" currency="CHF" rate="0.98" fee="21.0%" 
+          seller="Numismatica Ars Classica NAC AG" date="25.05.2020" auction="Frühlingsauktion 2020" lot="1161" invoice="NAC - 01" />
+  <legend>
+    <obverse>
+      <entry key="IVLIA AQVILIA SEVERA" />
+      <entry key="AVG[usta]" />
+    </obverse>
+    <reverse>
+      <entry key="CONCORDIA" />
+    </reverse>
+  </legend>
+</coin>

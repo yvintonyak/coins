@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC VI Antioch 164c">
+  <identity set="Roman Imperial" />
+  <emperor name="Constantinus I" />
+  <denomination name="Follis" />
+  <mint>
+    <date from="312" />
+    <place city="Antiochia" region="Syria" />
+  </mint>
+  <obverse>
+    <legend>IMP C FL VAL CONSTANTINVS P F AVG</legend>
+    <description>Head of Constantine I, laureate, right</description>
+  </obverse>
+  <reverse>
+    <legend>GENIO AVGVSTI | ✷ | ΔI || ANT</legend>
+    <description>Genius, wearing modius, nude, chlamys draped over left shoulder, standing left, holding head of Sol in right hand and cornucopiae in left hand</description>
+  </reverse>
+  <measurement diameter="23 mm" weight="4.40 g" />
+  <image>
+    <obverse file="RIC VI Antioch 164c (A).jpg" />
+    <reverse file="RIC VI Antioch 164c (R).jpg" />
+  </image>
+  <deity name="Genius" />
+  <origin price="55" currency="EUR" rate="1" fee="18.0%" 
+          seller="Savoca Numismatik GmbH" date="22.09.2019" auction="24th Blue Auction" lot="1478" invoice="Savoca Numismatik - 23" />
+  <legend>
+    <obverse>
+      <entry key="IMP" />
+      <entry key="C" />
+      <entry key="FL VAL CONSTANTINVS" />
+      <entry key="P F" />
+      <entry key="AVG" />
+    </obverse>
+    <reverse>
+      <entry key="GENIO AVGVSTI" />
+    </reverse>
+    <mintmark mint="✷ | ΔI || ANT" />
+  </legend>
+</coin>

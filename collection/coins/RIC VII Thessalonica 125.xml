@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC VII Thessalonica 125">
+  <identity set="Roman Imperial" />
+  <emperor name="Crispus Caesar" />
+  <denomination name="Follis" />
+  <mint>
+    <date from="324" />
+    <place city="Thessalonica" region="Macedonia" />
+  </mint>
+  <obverse>
+    <legend>FL IVL CRISPVS NOB CAES</legend>
+    <description>Bust of Crispus, laureate, draped, cuirassed, left</description>
+  </obverse>
+  <reverse>
+    <legend>CAESARVM NOSTRORVM | VOT|X | TSΔVI</legend>
+    <description>VOT|X within a laurel wreath</description>
+  </reverse>
+  <measurement diameter="18 mm" weight="2.81 g" />
+  <image>
+    <obverse file="RIC VII Thessalonica 125 (A).jpg" />
+    <reverse file="RIC VII Thessalonica 125 (R).jpg" />
+  </image>
+  <origin price="22" currency="EUR" rate="1" fee="18.0%" 
+          seller="Savoca Numismatik GmbH" date="19.05.2019" auction="20th Blue Auction" lot="2149" invoice="Savoca Numismatik - 17" />
+  <legend>
+    <obverse>
+      <entry key="FL IVL CRISPVS" />
+      <entry key="NOB CAES" />
+    </obverse>
+    <reverse>
+      <entry key="CAESARVM NOSTRORVM" />
+      <entry key="VOT X" />
+    </reverse>
+    <mintmark mint="TSΔVI" />
+  </legend>
+</coin>

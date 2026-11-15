@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC IV Severus Alexander 246c">
+  <identity set="Roman Imperial" />
+  <emperor name="Severus Alexander" />
+  <denomination name="Denar" />
+  <mint>
+    <date from="231" to="235" />
+    <place city="Roma" region="Italia" />
+  </mint>
+  <obverse>
+    <legend>IMP ALEXANDER PIVS AVG</legend>
+    <description>Bust of Severus Alexander, laureate, draped, right</description>
+  </obverse>
+  <reverse>
+    <legend>MARS VLTOR</legend>
+    <description>Mars, helmeted, walking right, holding spear in right hand and shield in left hand</description>
+  </reverse>
+  <measurement diameter="17 mm" weight="3.06 g" />
+  <image>
+    <obverse file="RIC IV Severus Alexander 246c (A).jpg" />
+    <reverse file="RIC IV Severus Alexander 246c (R).jpg" />
+  </image>
+  <deity name="Mars" />
+  <origin price="42" currency="EUR" rate="1" fee="15.0%" 
+          seller="Savoca Numismatik GmbH" date="28.10.2018" auction="11th Blue Auction" lot="1652" invoice="Savoca Numismatik - 01" />
+  <legend>
+    <obverse>
+      <entry key="IMP" />
+      <entry key="ALEXANDER" />
+      <entry key="PIVS" />
+      <entry key="AVG" />
+    </obverse>
+    <reverse>
+      <entry key="MARS VLTOR" />
+    </reverse>
+  </legend>
+</coin>

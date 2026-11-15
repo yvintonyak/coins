@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC III Marcus Aurelius 948">
+  <identity set="Roman Imperial"  />
+  <emperor name="Marcus Aurelius" />
+  <denomination name="Sestertius" />
+  <mint>
+    <date from="166" to="167" />
+    <place city="Roma" region="Italia" />
+  </mint>
+  <obverse>
+    <legend>M ANTONINVS A[VG ARM PARTH MAX]</legend>
+    <description>Head of Marcus Aurelius, laureate, right</description>
+  </obverse>
+  <reverse>
+    <legend>TR POT XXI [IMP IIII CO]S III | S C</legend>
+    <description>Victory, winged, draped, advancing left, holding wreath in extended right hand and palm, sloped over left shoulder, in left hand</description>
+  </reverse>
+  <measurement diameter="30 mm" weight="19.75 g" />
+  <image>
+    <obverse file="RIC III Marcus Aurelius 948 (A).jpg" />
+    <reverse file="RIC III Marcus Aurelius 948 (R).jpg" />
+  </image>
+  <deity name="Victoria" />
+  <origin price="45" currency="EUR" rate="1" fee="0.0%" 
+          seller="Münzhandlung Sonntag" date="24.09.2022" auction="Shop in Stuttgart" lot="-" invoice="Münzhandlung Sonntag - 01" />
+  <remark></remark>
+  <legend>
+    <obverse>
+      <entry key="M ANTONINVS[aurel]" />
+      <entry key="AVG" />
+      <entry key="ARM" />
+      <entry key="PARTH" />
+      <entry key="MAX" />
+    </obverse>
+    <reverse>
+      <entry key="TR POT XXI" />
+      <entry key="IMP IIII" />
+      <entry key="COS III" />
+      <entry key="S C" />
+    </reverse>
+  </legend>
+</coin>

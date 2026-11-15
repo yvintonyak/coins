@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC III Commodus 265">
+  <identity set="Roman Imperial" />
+  <emperor name="Divus Marcus Aurelius" />
+  <denomination name="Denar" />
+  <mint>
+    <date from="180" />
+    <place city="Roma" region="Italia" />
+  </mint>
+  <obverse>
+    <legend>DIVVS M ANTONINV[S PIVS]</legend>
+    <description>Head of Divus Marcus Aurelius, bare, right</description>
+  </obverse>
+  <reverse>
+    <legend>[C]ONSECRATIO</legend>
+    <description>Eagle, standing right on bar</description>
+  </reverse>
+  <measurement diameter="18 mm" weight="2.51 g" />
+  <image>
+    <obverse file="RIC III Commodus 265 (A).jpg" />
+    <reverse file="RIC III Commodus 265 (R).jpg" />
+  </image>
+  <origin price="130" currency="EUR" rate="1" fee="18.0%" 
+          seller="Savoca Numismatik GmbH" date="31.07.2021" auction="108th Silver Auction" lot="506" invoice="Savoca Numismatik - 33" />
+  <legend>
+    <obverse>
+      <entry key="DIVVS" />
+      <entry key="M ANTONINVS[aurel]" />
+      <entry key="PIVS" />
+    </obverse>
+    <reverse>
+      <entry key="CONSECRATIO" />
+    </reverse>
+  </legend>
+</coin>

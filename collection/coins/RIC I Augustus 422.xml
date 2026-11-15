@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC I Augustus 422">
+  <identity set="Roman Imperial" />
+  <emperor name="Augustus" />
+  <denomination name="Quadrans" />
+  <mint>
+    <date from="9 BC" />
+    <place city="Roma" region="Italia" />
+  </mint>
+  <obverse>
+    <legend>LAMIA SILIVS ANNIVS | S C</legend>
+    <description>Cornucopiae flanked by S C</description>
+  </obverse>
+  <reverse>
+    <legend>IIIVIR A A A F F</legend>
+    <description>Garlanded altar</description>
+  </reverse>
+  <measurement diameter="16.5 mm" weight="3.18 g" />
+  <image>
+    <obverse file="RIC I Augustus 422 (A).jpg" />
+    <reverse file="RIC I Augustus 422 (R).jpg" />
+  </image>
+  <origin price="41" currency="EUR" rate="1" fee="18.0%" 
+          seller="Artemide Kunstauktionen GmbH" date="26.01.2020" auction="e-Live Auktion 11" lot="311" invoice="Artemide Aste - 04" />
+  <legend>
+    <obverse>
+      <entry key="LAMIA SILIVS ANNIVS" />
+      <entry key="S C" />
+    </obverse>
+    <reverse>
+      <entry key="IIIVIR A A A F F" />
+    </reverse>
+  </legend>
+</coin>

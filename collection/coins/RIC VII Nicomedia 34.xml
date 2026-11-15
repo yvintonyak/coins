@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC VII Nicomedia 34">
+  <identity set="Roman Imperial" />
+  <emperor name="Licinius II Caesar" />
+  <denomination name="Follis" />
+  <mint>
+    <date from="317" to="320" />
+    <place city="Nicomedia" region="Bithynia et Pontus" />
+  </mint>
+  <obverse>
+    <legend>D N VAL LICIN LICINIVS NOB C</legend>
+    <description>Bust of Licinius II, laureate, draped, cuirassed, right</description>
+  </obverse>
+  <reverse>
+    <legend>PROVIDEN-TIAE CAESS | (palm branch left) | • on Δ || SMN</legend>
+    <description>Jupiter, nude, chlamys draped across left shoulder, standing left, holding Victory on globe in right hand and leaning on sceptre with left hand</description>
+  </reverse>
+  <measurement diameter="18 mm" weight="3.08 g" />
+  <image>
+    <obverse file="RIC VII Nicomedia 34 (A).jpg" />
+    <reverse file="RIC VII Nicomedia 34 (R).jpg" />
+  </image>
+  <deity name="Jupiter" />
+  <origin price="20" currency="EUR" rate="1" fee="15.0%" 
+          seller="Dutch Numismatic Auction" date="28.04.2019" auction="Auction 3" lot="386" invoice="Agora Numismatik - 01" />
+  <legend>
+    <obverse>
+      <entry key="D N" />
+      <entry key="VAL LICIN LICINIVS[II]" />
+      <entry key="NOB C" />
+    </obverse>
+    <reverse>
+      <entry key="PROVIDENTIAE CAESS" />
+    </reverse>
+    <mintmark mint="(palm branch left) | • on Δ || SMN" />
+  </legend>
+</coin>

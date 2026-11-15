@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC IV Elagabalus 268">
+  <identity set="Roman Imperial" />
+  <emperor name="Julia Maesa" />
+  <denomination name="Denar" />
+  <mint>
+    <date from="218" to="222" />
+    <place city="Roma" region="Italia" />
+  </mint>
+  <obverse>
+    <legend>IVLIA MAESA AVG</legend>
+    <description>Bust of Julia Maesa, hair waved and turned up low at the back, draped, right</description>
+  </obverse>
+  <reverse>
+    <legend>PVDICITIA</legend>
+    <description>Pudicitia, draped, seated left, drawing veil over face with right hand and holding sceptre in left hand</description>
+  </reverse>
+  <measurement diameter="20 mm" weight="2.64 g" />
+  <image>
+    <obverse file="RIC IV Elagabalus 268 (A).jpg" />
+    <reverse file="RIC IV Elagabalus 268 (R).jpg" />
+  </image>
+  <deity name="Pudicitia" />
+  <origin price="36" currency="EUR" rate="1" fee="18.0%" 
+          seller="Savoca Numismatik GmbH" date="19.05.2019" auction="20th Blue Auction" lot="1971" invoice="Savoca Numismatik - 17" />
+  <legend>
+    <obverse>
+      <entry key="IVLIA MAESA" />
+      <entry key="AVG[usta]" />
+    </obverse>
+    <reverse>
+      <entry key="PVDICITIA" />
+    </reverse>
+  </legend>
+</coin>

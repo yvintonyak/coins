@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC VIII Sirmium 118">
+  <identity set="Roman Imperial" />
+  <emperor name="Jovianus" />
+  <denomination name="Centenionalis" />
+  <mint>
+    <date from="363" to="364" />
+    <place city="Sirmium" region="Pannonia Inferior" />
+  </mint>
+  <obverse>
+    <legend>D N IOVIA-NVS P F AVG</legend>
+    <description>Bust of Jovian, pearl-diademed, draped, cuirassed, right</description>
+  </obverse>
+  <reverse>
+    <legend>VOT|V|MVLT|X || ASIRM</legend>
+    <description>VOT|V|MVLT|X within a wreath</description>
+  </reverse>
+  <measurement diameter="20 mm" weight="3.54 g" />
+  <image>
+    <obverse file="RIC VIII Sirmium 118 (A).jpg" />
+    <reverse file="RIC VIII Sirmium 118 (R).jpg" />
+  </image>
+  <origin price="60" currency="EUR" rate="1" fee="17.5%" 
+          seller="Künker GmbH n Co. KG" date="17.07.2019" auction="eLive Auktion 55" lot="100" invoice="Künker - 01" />
+  <legend>
+    <obverse>
+      <entry key="D N" />
+      <entry key="IOVIANVS" />
+      <entry key="P F" />
+      <entry key="AVG" />
+    </obverse>
+    <reverse>
+      <entry key="VOT V" />
+      <entry key="MVLT X" />
+    </reverse>
+    <mintmark mint="ASIRM" />
+  </legend>
+</coin>

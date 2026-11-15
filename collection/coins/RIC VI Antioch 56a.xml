@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC VI Antioch 56a">
+  <identity set="Roman Imperial" />
+  <emperor name="Diocletianus" />
+  <denomination name="Follis" />
+  <mint>
+    <date from="302" to="303" />
+    <place city="Antiochia" region="Syria" />
+  </mint>
+  <obverse>
+    <legend>IMP C DIOCLETIANVS P F AVG</legend>
+    <description>Head of Diocletian, laureate, right</description>
+  </obverse>
+  <reverse>
+    <legend>GENIO POPV-LI ROMANI | Γ || ANT ✷</legend>
+    <description>Genius, wearing modius, nude, chlamys draped over left shoulder, standing left, pouring liquid from patera in right hand and holding cornucopiae in left hand</description>
+  </reverse>
+  <measurement diameter="26 mm" weight="10.24 g" />
+  <image>
+    <obverse file="RIC VI Antioch 56a (A).jpg" />
+    <reverse file="RIC VI Antioch 56a (R).jpg" />
+  </image>
+  <deity name="Genius" />
+  <origin price="50" currency="EUR" rate="1" fee="18.0%" 
+          seller="Savoca Numismatik GmbH" date="31.03.2019" auction="18th Blue Auction" lot="1867" invoice="Savoca Numismatik - 12" />
+  <legend>
+    <obverse>
+      <entry key="IMP" />
+      <entry key="C" />
+      <entry key="DIOCLETIANVS" />
+      <entry key="P F" />
+      <entry key="AVG" />
+    </obverse>
+    <reverse>
+      <entry key="GENIO POPVLI ROMANI" />
+    </reverse>
+    <mintmark mint="Γ || ANT ✷" />
+  </legend>
+</coin>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC IV Trajan Decius 177">
+  <identity set="Roman Imperial" />
+  <emperor name="Hostilianus Caesar" />
+  <denomination name="Antoninian" />
+  <mint>
+    <date from="251" />
+    <place city="Roma" region="Italia" />
+  </mint>
+  <obverse>
+    <legend>C VALENS HOSTIL MES QVINTVS N C</legend>
+    <description>Bust of Hostilian, radiate, draped, right</description>
+  </obverse>
+  <reverse>
+    <legend>MARTI PROPVGNATORI</legend>
+    <description>Mars, helmeted, in military attire, advancing right, holding spear in right hand and shield in left hand</description>
+  </reverse>
+  <measurement diameter="23 mm" weight="2.80 g" />
+  <image>
+    <obverse file="RIC IV Trajan Decius 177 (A).jpg" />
+    <reverse file="RIC IV Trajan Decius 177 (R).jpg" />
+  </image>
+  <deity name="Mars" />
+  <origin price="110" currency="EUR" rate="1" fee="14.9%" 
+          seller="Numismatik Naumann" date="06.12.2020" auction="Auktion 97" lot="549" invoice="Numismatik Naumann - 19" />
+  <legend>
+    <obverse>
+      <entry key="C VALENS HOSTIL MES QVINTVS" />
+      <entry key="N C" />
+    </obverse>
+    <reverse>
+      <entry key="MARTI PROPVGNATORI" />
+    </reverse>
+  </legend>
+</coin>

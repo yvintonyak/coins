@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC VI Siscia 221">
+  <identity set="Roman Imperial" />
+  <emperor name="Divus Galerius" />
+  <denomination name="Follis" />
+  <mint>
+    <date from="311" />
+    <place city="Siscia" region="Pannonia Superior" />
+  </mint>
+  <obverse>
+    <legend>DIVO GAL VAL MAXIMIANO</legend>
+    <description>Head of Galerius, veiled, right</description>
+  </obverse>
+  <reverse>
+    <legend>[FORTI] FOR-TVNAE | A || SIS</legend>
+    <description>Fortuna, draped, standing left by wheel, holding rudder on globe in right hand and cornucopiae in left hand</description>
+  </reverse>
+  <measurement diameter="24 mm" weight="5.88 g" />
+  <image>
+    <obverse file="RIC VI Siscia 221 (A).jpg" />
+    <reverse file="RIC VI Siscia 221 (R).jpg" />
+  </image>
+  <deity name="Fortuna" />
+  <origin price="30" currency="CHF" rate="1.09" fee="18.5%" 
+          seller="Leu Numismatik AG" date="22.08.2022" auction="Webauktion 23" lot="3965" invoice="Leu Numismatik - 10" />
+  <legend>
+    <obverse>
+      <entry key="DIVO GAL VAL MAXIMIANO" />
+    </obverse>
+    <reverse>
+      <entry key="FORTI FORTVNAE" />
+    </reverse>
+    <mintmark mint="A || SIS" />
+  </legend>
+</coin>

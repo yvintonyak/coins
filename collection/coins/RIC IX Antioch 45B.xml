@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC IX Antioch 45B">
+  <identity set="Roman Imperial" />
+  <emperor name="Valentinianus II" />
+  <denomination name="Centenionalis" />
+  <mint>
+    <date from="378" to="383" />
+    <place city="Antiochia" region="Syria" />
+  </mint>
+  <obverse>
+    <legend>D N VALENTINIANVS P F AVG</legend>
+    <description>Bust of Valentinian II, pearl-diademed, draped and cuirassed, right</description>
+  </obverse>
+  <reverse>
+    <legend>CONCOR-DIA AVGGG | Θ | (Φ on K) || ANTS</legend>
+    <description>Roma, helmeted, head left, seated facing, on throne, holding globe and partly seen spear, left leg bare</description>
+  </reverse>
+  <measurement diameter="19 mm" weight="2.83 g" />
+  <image>
+    <obverse file="RIC IX Antioch 45B (A).jpg" />
+    <reverse file="RIC IX Antioch 45B (R).jpg" />
+  </image>
+  <deity name="Roma" />
+  <origin price="24" currency="EUR" rate="1" fee="18.0%" 
+          seller="Savoca Numismatik GmbH" date="28.08.2022" auction="141st Blue Auction" lot="1407" invoice="Savoca Numismatik - 35" />
+  <legend>
+    <obverse>
+      <entry key="D N" />
+      <entry key="VALENTINIANVS[II]" />
+      <entry key="P F" />
+      <entry key="AVG" />
+    </obverse>
+    <reverse>
+      <entry key="CONCORDIA AVGGG" />
+    </reverse>
+    <mintmark mint="Θ | (Φ on K) || ANTS" />
+  </legend>
+</coin>

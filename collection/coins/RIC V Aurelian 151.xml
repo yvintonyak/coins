@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC V Aurelian 151">
+  <identity set="Roman Imperial" />
+  <emperor name="Aurelianus" />
+  <denomination name="Antoninian" />
+  <mint>
+    <date from="270" to="275" />
+    <place city="Ticinum" region="Italia" />
+  </mint>
+  <obverse>
+    <legend>IMP C AVRELIANVS AVG</legend>
+    <description>Bust of Aurelian, radiate, cuirassed, right</description>
+  </obverse>
+  <reverse>
+    <legend>ORIENS AVG || QXXT</legend>
+    <description>Sol, radiate, walking left between two captives, raising right hand and holding globe in left hand</description>
+  </reverse>
+  <measurement diameter="22 mm" weight="4.10 g" />
+  <image>
+    <obverse file="RIC V Aurelian 151 (A).jpg" />
+    <reverse file="RIC V Aurelian 151 (R).jpg" />
+  </image>
+  <deity name="Sol Invictus" />
+  <origin price="135" currency="EUR" rate="1" fee="0.0%" 
+          seller="Numismatica Mayor 25" date="13.03.2019" auction="" lot="" invoice="Numismatica Mayor 25 - 01" />
+  <legend>
+    <obverse>
+      <entry key="IMP" />
+      <entry key="C" />
+      <entry key="AVRELIANVS" />
+      <entry key="AVG" />
+    </obverse>
+    <reverse>
+      <entry key="ORIENS AVG" />
+    </reverse>
+    <mintmark mint="QXXT" />
+  </legend>
+</coin>

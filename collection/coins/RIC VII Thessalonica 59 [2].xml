@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC VII Thessalonica 59">
+  <identity set="Roman Imperial" />
+  <emperor name="Constantinus I" />
+  <denomination name="Follis" />
+  <mint>
+    <date from="319" />
+    <place city="Thessalonica" region="Macedonia" />
+  </mint>
+  <obverse>
+    <legend>CONSTAN-TINVS AVG</legend>
+    <description>Bust of Constantine I, laureate, cuirassed, right</description>
+  </obverse>
+  <reverse>
+    <legend>VICTORIA - AVGG NN || •T•S•Γ•</legend>
+    <description>Victory, winged, draped, advancing left, holding wreath in right hand and palm in left hand</description>
+  </reverse>
+  <measurement diameter="20 mm" weight="3.06 g" />
+  <image>
+    <obverse file="RIC VII Thessalonica 59 [2] (A).jpg" />
+    <reverse file="RIC VII Thessalonica 59 [2] (R).jpg" />
+  </image>
+  <deity name="Victoria" />
+  <origin price="30" currency="EUR" rate="1" fee="22%" 
+          seller="Numisart GmbH" date="04.09.2022" auction="Auktion 2" lot="332" invoice="Numisart - 01" />
+  <legend>
+    <obverse>
+      <entry key="CONSTANTINVS[I]" />
+      <entry key="AVG" />
+    </obverse>
+    <reverse>
+      <entry key="VICTORIA AVGG NN" />
+    </reverse>
+    <mintmark mint="•T•S•Γ•" />
+  </legend>
+</coin>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RPC VII-2 48498">
+  <identity set="Roman Provincial" />
+  <emperor name="Tranquillina" />
+  <denomination name="Diassarion" />
+  <mint>
+    <date from="241" to="244" />
+    <place city="Deultum" region="Thracia" />
+  </mint>
+  <obverse>
+    <legend>SAB TRANQVILLINA AVG</legend>
+    <description>Bust of Tranquillina, diademed, draped, right, wearing stephane</description>
+  </obverse>
+  <reverse>
+    <legend>COL FL PAC DEVLT</legend>
+    <description>Zeus standing facing, head left, holding thunderbolt and sceptre; eagle at feet to left</description>
+  </reverse>
+  <measurement diameter="23 mm" weight="8.99 g" />
+  <image>
+    <obverse file="RPC VII-2 48498 (A).jpg" />
+    <reverse file="RPC VII-2 48498 (R).jpg" />
+  </image>
+  <deity name="Zeus" />
+  <origin price="190" currency="EUR" rate="1" fee="14.9%" 
+          seller="Numismatik Naumann" date="02.08.2020" auction="Auktion 92" lot="451" invoice="Numismatik Naumann - 17" />
+  <remark>Jurukova, Deultum 382; Draganov, Deultum 1491–3</remark>
+  <legend>
+    <obverse>
+      <entry key="SAB TRANQVILLINA" />
+      <entry key="AVG[usta]" />
+    </obverse>
+    <reverse>
+      <entry key="COL FL PAC DEVLT" />
+    </reverse>
+  </legend>
+</coin>

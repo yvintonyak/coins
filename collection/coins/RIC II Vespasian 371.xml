@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC II Vespasian 371">
+  <identity set="Roman Imperial" />
+  <emperor name="Titus Caesar" />
+  <denomination name="Denar" />
+  <mint>
+    <date from="72" to="73" />
+    <place city="Roma" region="Italia" />
+  </mint>
+  <obverse>
+    <legend>T CAES IMP VESP PON TR POT</legend>
+    <description>Head of Titus, bearded, laureate, right</description>
+  </obverse>
+  <reverse>
+    <description>Titus, laureate, standing in quadriga right, horses pacing, holding branch in right hand and sceptre in left</description>
+  </reverse>
+  <measurement diameter="18 mm" weight="3.30 g" />
+  <image>
+    <obverse file="RIC II Vespasian 371 (A).jpg" />
+    <reverse file="RIC II Vespasian 371 (R).jpg" />
+  </image>
+  <origin price="150" currency="EUR" rate="1" fee="%" 
+          seller="Tauler n Fau Herrero" date="01.10.2019" auction="E-Auction 40" lot="2304" invoice="Tauler-n-Fau - 02" />
+  <legend>
+    <obverse>
+      <entry key="T CAES" />
+      <entry key="IMP" />
+      <entry key="VESP[titus]" />
+      <entry key="PON" />
+      <entry key="TR POT" />
+    </obverse>
+  </legend>
+</coin>

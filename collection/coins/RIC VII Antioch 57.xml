@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC VII Antioch 57">
+  <identity set="Roman Imperial" />
+  <emperor name="Constantinus I" />
+  <denomination name="Follis" />
+  <mint>
+    <date from="324" to="325" />
+    <place city="Antiochia" region="Syria" />
+  </mint>
+  <obverse>
+    <legend></legend>
+    <description>Head of Constantinus I, laureate, right</description>
+  </obverse>
+  <reverse>
+    <legend>CONSTAN | TINVS | AVG || SMANTΓ on •</legend>
+    <description>Wreath above legend</description>
+  </reverse>
+  <measurement diameter="17 mm" weight="1.94 g" />
+  <image>
+    <obverse file="RIC VII Antioch 57 (A).jpg" />
+    <reverse file="RIC VII Antioch 57 (R).jpg" />
+  </image>
+  <origin price="55" currency="EUR" rate="1" fee="18.0%" 
+          seller="Savoca Numismatik GmbH" date="20.11.2022" auction="148th Silver Auction" lot="634" invoice="Savoca Numismatik - 38" />
+  <remark></remark>
+  <legend>
+    <reverse>
+      <entry key="CONSTANTINVS[I]" />
+      <entry key="AVG" />
+    </reverse>
+    <mintmark mint="SMANTΓ" />
+  </legend>
+</coin>

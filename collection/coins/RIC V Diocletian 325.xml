@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC V Diocletian 325">
+  <identity set="Roman Imperial" />
+  <emperor name="Diocletianus" />
+  <denomination name="Antoninian" />
+  <mint>
+    <date from="285" />
+    <place city="Antiochia" region="Syria" />
+  </mint>
+  <obverse>
+    <legend>IMP C C VAL DIOCLETIANVS P F AVG</legend>
+    <description>Bust of Diocletian, radiate, draped, cuirassed, right</description>
+  </obverse>
+  <reverse>
+    <legend>IOVI CONSERVATORI AVGG | ς || XXI</legend>
+    <description>Diocletian, draped, cuirassed, standing right, holding parazonium in right hand and receiving Victory on globe from Jupiter; Jupiter, standing left, holding sceptre; crescent on ς</description>
+  </reverse>
+  <measurement diameter="21 mm" weight="4.13 g" />
+  <image>
+    <obverse file="RIC V Diocletian 325 (A).jpg" />
+    <reverse file="RIC V Diocletian 325 (R).jpg" />
+  </image>
+  <deity name="Jupiter" />
+  <origin price="50" currency="EUR" rate="1" fee="15.0%" 
+          seller="Numismatica Tintinna" date="08.12.2018" auction="Tintinna Asta 76" lot="514" invoice="Numismatica Tintinna - 01" />
+  <legend>
+    <obverse>
+      <entry key="IMP" />
+      <entry key="C" />
+      <entry key="C VAL DIOCLETIANVS" />
+      <entry key="P F" />
+      <entry key="AVG" />
+    </obverse>
+    <reverse>
+      <entry key="IOVI CONSERVATORI AVGG" />
+    </reverse>
+    <mintmark mint="ς || XXI" />
+  </legend>
+</coin>

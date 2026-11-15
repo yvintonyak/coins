@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC VIII Constantinople 21">
+  <identity set="Roman Imperial" />
+  <emperor name="Constantinus I" />
+  <denomination name="Follis" />
+  <mint>
+    <date from="330" />
+    <place city="Constantinopolis" region="Thracia" />
+  </mint>
+  <obverse>
+    <legend>POP ROMANVS</legend>
+    <description>Bust of the Genius of the People of Rome, laureate, draped, left, holding cornucopiae on left shoulder</description>
+  </obverse>
+  <reverse>
+    <legend> || (CONS on A)</legend>
+    <description>Milvian Bridge over Tiber River</description>
+  </reverse>
+  <measurement diameter="14 mm" weight="1.09 g" />
+  <image>
+    <obverse file="RIC VIII Constantinople 21 (A).jpg" />
+    <reverse file="RIC VIII Constantinople 21 (R).jpg" />
+  </image>
+  <deity name="Genius" />
+  <origin price="51" currency="CHF" rate="0.97" fee="18.5%" 
+          seller="Leu Numismatik AG" date="13.12.2020" auction="Webauktion 14" lot="1481" invoice="Leu Numismatik - 07" />
+  <remark>Commemorative Series</remark>
+  <legend>
+    <obverse>
+      <entry key="POP ROMANVS" />
+    </obverse>
+    <mintmark mint="(CONS on A)" />
+  </legend>
+</coin>

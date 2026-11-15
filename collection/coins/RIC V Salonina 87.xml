@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC V Salonina 87">
+  <identity set="Roman Imperial" />
+  <emperor name="Salonina" />
+  <denomination name="Antoninian" />
+  <mint>
+    <date from="267" />
+    <place city="Siscia" region="Pannonia Superior" />
+  </mint>
+  <obverse>
+    <legend>SALONINA AVG</legend>
+    <description>Bust of Salonina, diademed, draped, right, on crescent</description>
+  </obverse>
+  <reverse>
+    <legend>AEQVITAS AVG || VIIC•</legend>
+    <description>Aequitas, draped, standing left, holding scales in right hand and cornucopiae in left hand</description>
+  </reverse>
+  <measurement diameter="22 mm" weight="3.43 g" />
+  <image>
+    <obverse file="RIC V Salonina 87 (A).jpg" />
+    <reverse file="RIC V Salonina 87 (R).jpg" />
+  </image>
+  <deity name="Aequitas" />
+  <origin price="55" currency="EUR" rate="1" fee="12.0%" 
+          seller="Themis Numismatics" date="20.07.2019" auction="Auktion 2" lot="78" invoice="Themis Numismatics - 01" />
+  <remark>differs from RIC: reverse without crescent</remark>
+  <legend>
+    <obverse>
+      <entry key="SALONINA" />
+      <entry key="AVG[usta]" />
+    </obverse>
+    <reverse>
+      <entry key="AEQVITAS AVG" />
+    </reverse>
+    <mintmark mint="VIIC•" />
+  </legend>
+</coin>

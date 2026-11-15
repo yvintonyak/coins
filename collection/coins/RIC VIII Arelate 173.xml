@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC VIII Arelate 173">
+  <identity set="Roman Imperial" />
+  <emperor name="Magnentius" />
+  <denomination name="Centenionalis" />
+  <mint>
+    <date from="351" to="353" />
+    <place city="Arelatum" region="Gallia Narbonensis" />
+  </mint>
+  <obverse>
+    <legend>D N MAGNEN-TIVS P F AVG</legend>
+    <description>Bust of Magnentius, bareheaded, draped, cuirassed, right; A behind bust</description>
+  </obverse>
+  <reverse>
+    <legend>VIC[TORIAE] DD NN AVG ET CAES | VOT|V|MVL|X | F || PAR</legend>
+    <description>Two Victories, winged, draped, facing each other, holding between them a wreath inscribed VOT|V|MVL|X </description>
+  </reverse>
+  <measurement diameter="21 mm" weight="4.30 g" />
+  <image>
+    <obverse file="RIC VIII Arelate 173 (A).jpg" />
+    <reverse file="RIC VIII Arelate 173 (R).jpg" />
+  </image>
+  <deity name="Victoria" />
+  <origin price="150" currency="EUR" rate="1" fee="14.9%" 
+          seller="Numismatik Naumann GmbH" date="05.01.2020" auction="Auktion 85" lot="644" invoice="Numismatik Naumann - 12" />
+  <legend>
+    <obverse>
+      <entry key="D N" />
+      <entry key="MAGNENTIVS" />
+      <entry key="P F" />
+      <entry key="AVG" />
+    </obverse>
+    <reverse>
+      <entry key="VICTORIAE DD NN AVG ET CAES" />
+      <entry key="VOT V" />
+      <entry key="MVL X" />
+    </reverse>
+    <mintmark mint="F || PAR" />
+  </legend>
+</coin>

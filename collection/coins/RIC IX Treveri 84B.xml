@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC IX Treveri 84B">
+  <identity set="Roman Imperial" />
+  <emperor name="Magnus Maximus" />
+  <denomination name="Siliqua" />
+  <mint>
+    <date from="383" to="388" />
+    <place city="Augusta Treverorum" region="Gallia Belgica" />
+  </mint>
+  <obverse>
+    <legend>D N MAG MAX-IMVS P F AVG</legend>
+    <description>Bust of Magnus Maximus, pearl-diademed, draped and cuirassed, right</description>
+  </obverse>
+  <reverse>
+    <legend>VIRTVS RO-MANORVM || TRPS</legend>
+    <description>Roma, head left, seated facing, on throne, holding globe and reversed spear</description>
+  </reverse>
+  <measurement diameter="17.7 mm" weight="1.95 g" />
+  <image>
+    <obverse file="RIC IX Treveri 84B (A).jpg" />
+    <reverse file="RIC IX Treveri 84B (R).jpg" />
+  </image>
+  <deity name="Roma" />
+  <origin price="160" currency="EUR" rate="1" fee="18.0%" 
+          seller="Artemide Aste s.r.l." date="29.02.2020" auction="Auktion 50E" lot="540" invoice="Artemide Aste - 05" />
+  <legend>
+    <obverse>
+      <entry key="D N" />
+      <entry key="MAG MAXIMVS" />
+      <entry key="P F" />
+      <entry key="AVG" />
+    </obverse>
+    <reverse>
+      <entry key="VIRTVS ROMANORVM" />
+    </reverse>
+    <mintmark mint="TRPS" />
+  </legend>
+</coin>

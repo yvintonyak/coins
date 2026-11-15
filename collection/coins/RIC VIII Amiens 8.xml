@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC VIII Amiens 8">
+  <identity set="Roman Imperial" />
+  <emperor name="Decentius Caesar" />
+  <denomination name="Centenionalis" />
+  <mint>
+    <date from="350" to="353" />
+    <place city="Ambianum" region="Gallia Belgica" />
+  </mint>
+  <obverse>
+    <legend>D N DECENTIVS NOB CAES</legend>
+    <description>Bust of Decentius, bareheaded, cuirassed, right</description>
+  </obverse>
+  <reverse>
+    <legend>VICTORIAE DD NN AVG E CAE | VOT|V|MVLT|X | S V || (palm branch left)AMB(palm branch right)</legend>
+    <description>Two Victories, winged, draped, facing each other, holding between them a wreath inscribed VOT|V|MVLT|X supported on a low column</description>
+  </reverse>
+  <measurement diameter="22 mm" weight="3.22 g" />
+  <image>
+    <obverse file="RIC VIII Amiens 8 (A).jpg" />
+    <reverse file="RIC VIII Amiens 8 (R).jpg" />
+  </image>
+  <deity name="Victoria" />
+  <origin price="85" currency="EUR" rate="1" fee="18.0%" 
+          seller="Jean ELSEN n ses Fils s.a." date="14.03.2020" auction="Auktion 144" lot="728" invoice="Jean Elsen - 01" />
+  <remark>Ancient imitation; differs from the original:
+          (1) in mitmark - 'A' more like 'H'; 
+          (2) in mitmark - (palm branch left); 
+          (3) S and V in the field; 
+          (4) smaller weight; 
+          (5) 'AVG E CAE' instead of 'AVG ET CAE'</remark>
+  <legend>
+    <obverse>
+      <entry key="D N" />
+      <entry key="DECENTIVS" />
+      <entry key="NOB CAES" />
+    </obverse>
+    <reverse>
+      <entry key="VICTORIAE DD NN AVG E CAE" />
+      <entry key="VOT V" />
+      <entry key="MVLT X" />
+    </reverse>
+    <mintmark mint="S V || (palm branch left)AMB(palm branch right)" />
+  </legend>
+</coin>

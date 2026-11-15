@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC VI Treveri 893">
+  <identity set="Roman Imperial" />
+  <emperor name="Constantinus I" />
+  <denomination name="Follis" />
+  <mint>
+    <date from="310" to="313" />
+    <place city="Augusta Treverorum" region="Gallia Belgica" />
+  </mint>
+  <obverse>
+    <legend>CONSTANTINVS P F AVG</legend>
+    <description>Bust of Constantine I, laureate, cuirassed, right</description>
+  </obverse>
+  <reverse>
+    <legend>SOLI INVICTO COMITI</legend>
+    <description>Bust of Sol, radiate, draped, right seen from behind</description>
+  </reverse>
+  <measurement diameter="24 mm" weight="4.63 g" />
+  <image>
+    <obverse file="RIC VI Treveri 893 (A).jpg" />
+    <reverse file="RIC VI Treveri 893 (R).jpg" />
+  </image>
+  <deity name="Sol Invictus" />
+  <origin price="50" currency="EUR" rate="1" fee="18.0%" 
+          seller="Savoca Numismatik GmbH" date="20.11.2022" auction="148th Silver Auction" lot="649" invoice="Savoca Numismatik - 38" />
+  <remark></remark>
+  <legend>
+    <obverse>
+      <entry key="CONSTANTINVS[I]" />
+      <entry key="P F" />
+      <entry key="AVG" />
+    </obverse>
+    <reverse>
+      <entry key="SOLI INVICTO COMITI" />
+    </reverse>
+    <mintmark mint="" />
+  </legend>
+</coin>

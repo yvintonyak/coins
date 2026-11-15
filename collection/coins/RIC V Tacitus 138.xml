@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC V Tacitus 138">
+  <identity set="Roman Imperial" />
+  <emperor name="Tacitus" />
+  <denomination name="Antoninian" />
+  <mint>
+    <date from="275" to="276" />
+    <place city="Ticinum" region="Italia" />
+  </mint>
+  <obverse>
+    <legend>IMP C M CL TACITVS AVG</legend>
+    <description>Bust of Tacitus, radiate, draped, cuirassed, right</description>
+  </obverse>
+  <reverse>
+    <legend>FELICITAS SAECVLI || V</legend>
+    <description>Felicitas, draped, standing left by altar, holding patera in right hand and caduceus in left hand</description>
+  </reverse>
+  <measurement diameter="21 mm" weight="3.17 g" />
+  <image>
+    <obverse file="RIC V Tacitus 138 (A).jpg" />
+    <reverse file="RIC V Tacitus 138 (R).jpg" />
+  </image>
+  <deity name="Felicitas" />
+  <origin price="36" currency="EUR" rate="1" fee="18.0%" 
+          seller="Savoca Numismatik GmbH" date="29.12.2018" auction="14th Blue Auction" lot="1147" invoice="Savoca Numismatik - 06" />
+  <legend>
+    <obverse>
+      <entry key="IMP" />
+      <entry key="C" />
+      <entry key="M CL TACITVS" />
+      <entry key="AVG" />
+    </obverse>
+    <reverse>
+      <entry key="FELICITAS SAECVLI" />
+    </reverse>
+    <mintmark mint="V" />
+  </legend>
+</coin>

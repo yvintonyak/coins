@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC III Marcus Aurelius 482">
+  <identity set="Roman Imperial" />
+  <emperor name="Lucius Verus" />
+  <denomination name="Denar" />
+  <mint>
+    <date from="161" to="162" />
+    <place city="Roma" region="Italia" />
+  </mint>
+  <obverse>
+    <legend>IMP L AVREL VERVS AVG</legend>
+    <description>Head of Lucius Verus, bare, right</description>
+  </obverse>
+  <reverse>
+    <legend>PROV DEOR TR P II COS II</legend>
+    <description>Providentia, draped, standing left, holding globe on extended right hand and cornucopiae in left hand</description>
+  </reverse>
+  <measurement diameter="18 mm" weight="3.12 g" />
+  <image>
+    <obverse file="RIC III Marcus Aurelius 482 (A).jpg" />
+    <reverse file="RIC III Marcus Aurelius 482 (R).jpg" />
+  </image>
+  <deity name="Providentia" />
+  <origin price="95" currency="EUR" rate="1" fee="18.0%" 
+          seller="Savoca Numismatik GmbH" date="10.03.2019" auction="31th Silver Auction" lot="484" invoice="Savoca Numismatik - 10" />
+  <legend>
+    <obverse>
+      <entry key="IMP" />
+      <entry key="L AVREL VERVS" />
+      <entry key="AVG" />
+    </obverse>
+    <reverse>
+      <entry key="PROV DEOR" />
+      <entry key="TR P II" />
+      <entry key="COS II" />
+    </reverse>
+  </legend>
+</coin>

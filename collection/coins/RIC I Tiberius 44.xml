@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC I Tiberius 44">
+  <identity set="Roman Imperial" />
+  <emperor name="Tiberius" />
+  <denomination name="As" />
+  <mint>
+    <date from="22" to="23" />
+    <place city="Roma" region="Italia" />
+  </mint>
+  <obverse>
+    <legend>TI CAESAR DIVI AVG F AVGVST IMP VIII</legend>
+    <description>Head of Tiberius, bare, left</description>
+  </obverse>
+  <reverse>
+    <legend>PONTIF MAXIM TRIBVN POTEST XXIIII | S C</legend>
+    <description>Legend surrounding large S C</description>
+  </reverse>
+  <measurement diameter="28 mm" weight="10.85 g" />
+  <image>
+    <obverse file="RIC I Tiberius 44 (A).jpg" />
+    <reverse file="RIC I Tiberius 44 (R).jpg" />
+  </image>
+  <origin price="70" currency="EUR" rate="1" fee="25%" 
+          seller="Leipziger Münzhandlung Höhn" date="10.11.2022" auction="Auktion 100" lot="792" invoice="Leipziger Münzhandlung - 01" />
+  <remark></remark>
+  <legend>
+    <obverse>
+      <entry key="TI" />
+      <entry key="CAESAR" />
+      <entry key="DIVI AVG F" />
+      <entry key="AVGVST" />
+      <entry key="IMP VIII" />
+    </obverse>
+    <reverse>
+      <entry key="PONTIF MAXIM" />
+      <entry key="TRIBVN POTEST XXIIII" />
+      <entry key="S C" />
+    </reverse>
+  </legend>
+</coin>

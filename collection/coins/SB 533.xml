@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="SB 533">
+  <identity set="Byzantine Empire" />
+  <emperor name="Mauricius Tiberius" />
+  <denomination name="Follis" />
+  <mint>
+    <date from="597" to="598" />
+    <place city="Antiochia (Theoupolis)" />
+  </mint>
+  <obverse>
+    <legend>DN MAU Γ I CN P AUΓ</legend>
+    <description>Crowned and mantled bust of Maurice Tiberius facing, trefoil on crown, holding mappa and eagle-tipped sceptre</description>
+  </obverse>
+  <reverse>
+    <legend>M | ANNO | XIIII || THЄUP●</legend>
+    <description>M, ANNO to left, cross above, regnal year 15 (597-598) to right, officina letter below, mintmark THEUP'</description>
+  </reverse>
+  <measurement diameter="29 mm" weight="10.75 g" />
+  <image>
+    <obverse file="SB 533 (A).jpg" />
+    <reverse file="SB 533 (R).jpg" />
+  </image>
+  <origin price="22" currency="EUR" rate="1" fee="18.0%" 
+          seller="Savoca Numismatik GmbH" date="28.08.2022" auction="141st Blue Auction" lot="1527" invoice="Savoca Numismatik - 35" />
+  <remark>Sear 533; MIB 96A, 96C</remark>
+</coin>

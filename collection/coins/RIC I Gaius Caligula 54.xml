@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC I Gaius Caligula 54">
+  <identity set="Roman Imperial" />
+  <emperor name="Gaius Caligula" />
+  <denomination name="As" />
+  <mint>
+    <date from="40" to="41" />
+    <place city="Roma" region="Italia" />
+  </mint>
+  <obverse>
+    <legend>C CAESAR DIVI AVG PRON AVG P M TR P IIII [P P]</legend>
+    <description>Head of Caligula, bare, left</description>
+  </obverse>
+  <reverse>
+    <legend>VESTA | S C</legend>
+    <description>Vesta, veiled and draped, seated left, on throne with ornamented back and legs, holding patera in right hand and long transverse sceptre in left</description>
+  </reverse>
+  <measurement diameter="27 mm" weight="8.73 g" />
+  <image>
+    <obverse file="RIC I Gaius Caligula 54 (A).jpg" />
+    <reverse file="RIC I Gaius Caligula 54 (R).jpg" />
+  </image>
+  <deity name="Vesta" />
+  <origin price="120" currency="EUR" rate="1" fee="15.0%" 
+          seller="Numismatica Tintinna" date="26.06.2019" auction="Tintinna Asta 81" lot="218" invoice="Numismatica Tintinna - 02" />
+  <legend>
+    <obverse>
+      <entry key="C CAESAR[caligula]" />
+      <entry key="DIVI AVG PRON" />
+      <entry key="AVG" />
+      <entry key="P M" />
+      <entry key="TR P IIII" />
+      <entry key="P P" />
+    </obverse>
+    <reverse>
+      <entry key="VESTA" />
+      <entry key="S C" />
+    </reverse>
+  </legend>
+</coin>

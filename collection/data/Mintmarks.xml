@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<mintmarks>
+  <mintmark value="SMALB" meaning="SMAL (Sacra Moneta Alexandia) - sacred mint of Alexandria | B (beta) - 2nd officina" />
+  <mintmark value="ANTA" meaning="ANT (Antiochia) | A (alpha) - 1st officina" />
+  <mintmark value="ANTΓ" meaning="ANT (Antiochia) | Γ (gamma) - 3rd officina" />
+  <mintmark value="ANTΔ" meaning="ANT (Antiochia) | Δ (delta) - 4th officina" />
+  <mintmark value="ANTЄ" meaning="ANT (Antiochia) | Є (epsilon) - 5th officina" />
+  <mintmark value="SMANΔ" meaning="SMAN (Sacra Moneta Antiochia) - sacred mint of Antiochia | Δ (delta) - 4th officina" />
+  <mintmark value="SMANS" meaning="SMAN (Sacra Moneta Antiochia) - sacred mint of Antiochia | S (stigma) - 6th officina" />
+  <mintmark value="SMANZ" meaning="SMAN (Sacra Moneta Antiochia) - sacred mint of Antiochia | Z (zeta) - 7th officina" />
+  <mintmark value="SMANH" meaning="SMAN (Sacra Moneta Antiochia) - sacred mint of Antiochia | H (eta) - 8th officina" />
+  <mintmark value="SMANθ" meaning="SMAN (Sacra Moneta Antiochia) - sacred mint of Antiochia | θ (theta) - 9th officina" />
+  <mintmark value="SMANI" meaning="SMAN (Sacra Moneta Antiochia) - sacred mint of Antiochia | I (iota) - 10th officina" />
+  <mintmark value="AMB" meaning="AMB (Ambianum)" />
+  <mintmark value="AQS" meaning="AQ (Aquileia) | S (secunda) - 2nd officina" />
+  <mintmark value="P A" meaning="P A (Pecunia Arelatum) - money of Arelate" />
+  <mintmark value="PAR" meaning="PAR (Pecunia Arelatum) - money of Arelate" />
+  <mintmark value="C Δ" meaning="C (Constantinopolis) | Δ (delta) - 4th officina" />
+  <mintmark value="CON" meaning="CON (Constantinopolis)" />
+  <mintmark value="CONS" meaning="CONS (Constantinopolis)" />
+  <mintmark value="CONSA" meaning="CONS (Constantinopolis) | A (alpha) - 1st officina" />
+  <mintmark value="CONB" meaning="CONS (Constantinopolis) | B (beta) - 2nd officina" />
+  <mintmark value="CONSΓ" meaning="CONS (Constantinopolis) | Γ (gamma) - 3rd officina" />
+  <mintmark value="CONSЄ" meaning="CONS (Constantinopolis) | Є (epsilon) - 5th officina" />
+  <mintmark value="CONSS" meaning="CONS (Constantinopolis) | S (stigma) - 6th officina" />
+  <mintmark value="CONSI" meaning="CONS (Constantinopolis) | I (iota) - 10th officina" />
+  <mintmark value="PCONST" meaning="? PCONS (Pecunia Constantinopolis) - money of Constantinopolis | T (tertia) - 3rd officina ?" />
+  <mintmark value="SMKA" meaning="SMK (Sacra Moneta Kyzikos) - sacred mint of Cyzicus | A (alpha) - 1st officina" />
+  <mintmark value="SMKΔ" meaning="SMK (Sacra Moneta Kyzikos) - sacred mint of Cyzicus | Δ (delta) - 4th officina" />
+  <mintmark value="LVG" meaning="LVG (Lugdumun)" />
+  <mintmark value="PLG" meaning="P (prima) - 1st officina | LG (Lugdumun)" />
+  <mintmark value="RSLG" meaning="R - ? | S (secunda) - 2nd officina | LG (Lugdumun)" />
+  <mintmark value="MDPS" meaning="MDPS (Mediolanum Pecunia Sacra) - sacred money of Mediolanum" />
+  <mintmark value="SMN" meaning="SMN (Sacra Moneta Nocomedia) - sacred mint of Nicomedia" />
+  <mintmark value="SMNA" meaning="SMN (Sacra Moneta Nocomedia) - sacred mint of Nicomedia | A (alpha) - 1st officina" />
+  <mintmark value="SMNS" meaning="SMN (Sacra Moneta Nocomedia) - sacred mint of Nicomedia | S (secunda) - 2nd officina (?)" />
+  <mintmark value="RM" meaning="RM (Roma Moneta) - mint of Rome" />
+  <mintmark value="RFP" meaning="R (Roma) | F - ? | P (prima) - 1st officina" />
+  <mintmark value="RS" meaning="R (Roma) | S (secunda) - 2nd officina" />
+  <mintmark value="SIRM" meaning="SIRM (Sirmium)" />
+  <mintmark value="ASIRM" meaning="A (alpha) - 1st officina | SIRM (Sirmium)" />
+  <mintmark value="ASIS" meaning="A (alpha) - 1st officina | SIS (Siscia)" />
+  <mintmark value="ASISC" meaning="A (alpha) - 1st officina | SISC (Siscia)" />
+  <mintmark value="ΓSIS" meaning="Γ (gamma) - 3rd officina | SIS (Siscia)" />
+  <mintmark value="ΓSISC" meaning="Γ (gamma) - 3rd officina | SISC (Siscia)" />
+  <mintmark value="ΔSIS" meaning="Δ (delta) - 4th officina | SIS (Siscia)" />
+  <mintmark value="ΔSISCE" meaning="Δ (delta) - 4th officina | SISC (Siscia) | E - (?)" />
+  <mintmark value="ЄSIS" meaning="Є (epsilon) - 5th officina | SIS (Siscia)" />
+  <mintmark value="TSB" meaning="TS - Thessalonica | B (beta) - 2nd officina" />
+  <mintmark value="TSΔVI" meaning="TS - Thessalonica | Δ (delta) - 4th officina | VI (6) - (?)" />
+  <mintmark value="SMTSΔ" meaning="SMTS (Sacra Moneta Thessalonica) - sacred mint of Thessalonica | Δ (delta) - 4th officina" />
+  <mintmark value="PT" meaning="P (prima) - 1st officina | T (Ticinum)" />
+  <mintmark value="ST" meaning="S (secunda) - 2nd officina | T (Ticinum)" />
+  <mintmark value="PTR" meaning="PTR (Pecunia Treveri) - money of Trier" />
+  <mintmark value="TRP" meaning="TR (Treveri) | P (prima) - 1st officina" />
+  <mintmark value="TRPS" meaning="TRP (Treveri Pecunia) - money of Trier | S (secunda) - 2nd officina" />
+</mintmarks>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC II Hadrian 164d">
+  <identity set="Roman Imperial" />
+  <emperor name="Hadrianus" />
+  <denomination name="Denar" />
+  <mint>
+    <date from="125" to="128" />
+    <place city="Roma" region="Italia" />
+  </mint>
+  <obverse>
+    <legend>HADRIANVS AVGVSTVS</legend>
+    <description>Bust of Hadrian, laureate, draped on left shoulder, right</description>
+  </obverse>
+  <reverse>
+    <legend>COS III</legend>
+    <description>Roma, helmeted, in military dress, seated left on cuirass and shield, holding parazonium in right hand and vertical spear in left</description>
+  </reverse>
+  <measurement diameter="18 mm" weight="3.41 g" />
+  <image>
+    <obverse file="RIC II Hadrian 164d (A).jpg" />
+    <reverse file="RIC II Hadrian 164d (R).jpg" />
+  </image>
+  <deity name="Roma" />
+  <origin price="85" currency="EUR" rate="1" fee="18.0%" 
+          seller="Savoca Numismatik GmbH" date="16.12.2018" auction="28th Silver Auction" lot="343" invoice="Savoca Numismatik - 05" />
+  <legend>
+    <obverse>
+      <entry key="HADRIANVS" />
+      <entry key="AVGVSTVS" />
+    </obverse>
+    <reverse>
+      <entry key="COS III" />
+    </reverse>
+  </legend>
+</coin>

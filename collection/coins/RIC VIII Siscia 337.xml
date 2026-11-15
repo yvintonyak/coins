@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC VIII Siscia 337">
+  <identity set="Roman Imperial" />
+  <emperor name="Constantius Gallus Caesar" />
+  <denomination name="Maiorina" />
+  <mint>
+    <date from="351" to="355" />
+    <place city="Siscia" region="Pannonia Superior" />
+  </mint>
+  <obverse>
+    <legend>D N CONSTANTIVS IVN NOB C</legend>
+    <description>Bust of Constantius Gallus, bareheaded, draped, cuirassed, right; A behind bust</description>
+  </obverse>
+  <reverse>
+    <legend>FEL TEMP RE-PARATIO || ✷ΓSIS(crescent)</legend>
+    <description>Soldier, helmeted, draped, cuirassed, advancing left, spearing fallen horseman with right hand and wearing shield on left arm; shield on ground to right; horseman facing soldier, extending left arm</description>
+  </reverse>
+  <measurement diameter="21 mm" weight="5.15 g" />
+  <image>
+    <obverse file="RIC VIII Siscia 337 (A).jpg" />
+    <reverse file="RIC VIII Siscia 337 (R).jpg" />
+  </image>
+  <origin price="35" currency="EUR" rate="1" fee="23.0%" 
+          seller="Heritage Auctions Europe" date="17.11.2020" auction="Auktion 66" lot="4494" invoice="Heritage Auctions - 01" />
+  <remark>maybe RIC VIII Siscia 341</remark>
+  <legend>
+    <obverse>
+      <entry key="D N" />
+      <entry key="CONSTANTIVS IVN" />
+      <entry key="NOB C" />
+    </obverse>
+    <reverse>
+      <entry key="FEL TEMP REPARATIO" />
+    </reverse>
+    <mintmark mint="✷ΓSIS(crescent)" />
+  </legend>
+</coin>

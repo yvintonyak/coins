@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC I Gaius Caligula 58">
+  <identity set="Roman Imperial" />
+  <emperor name="Marcus Agrippa" />
+  <denomination name="As" />
+  <mint>
+    <date from="37" to="41" />
+    <place city="Roma" region="Italia" />
+  </mint>
+  <obverse>
+    <legend>M AGRIPPA L F COS III</legend>
+    <description>Head of Agrippa, left, wearing rostral crown</description>
+  </obverse>
+  <reverse>
+    <legend>S C</legend>
+    <description>Neptune, cloaked, standing left, holding dolphin in right hand and trident in left</description>
+  </reverse>
+  <measurement diameter="28 mm" weight="10.38 g" />
+  <image>
+    <obverse file="RIC I Gaius Caligula 58 (A).jpg" />
+    <reverse file="RIC I Gaius Caligula 58 (R).jpg" />
+  </image>
+  <deity name="Neptune" />
+  <origin price="50" currency="GBP" rate="1.23" fee="20.0%" 
+          seller="Saint Paul Antiques Ltd" date="30.11.2019" auction="Auktion 19" lot="493" invoice="Saint Paul Antiques - 01" />
+  <legend>
+    <obverse>
+      <entry key="M AGRIPPA L F" />
+      <entry key="COS III" />
+    </obverse>
+    <reverse>
+      <entry key="S C" />
+    </reverse>
+  </legend>
+</coin>

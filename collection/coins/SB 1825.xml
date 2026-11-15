@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="SB 1825">
+  <identity set="Byzantine Empire" dynasty="" />
+  <emperor name="Michael IV" />
+  <denomination name="Follis" />
+  <mint>
+    <date from="1034" to="1041" />
+    <place city="Constantinopolis" />
+  </mint>
+  <obverse>
+    <legend>EMMA NOVHL</legend>
+    <description>IC-XC to right and left of Christ, with nimbate cross behind head, three-quarter length figure standing, raising right hand, holding book of gospels in left</description>
+  </obverse>
+  <reverse>
+    <legend>IC-XC | NI-KA</legend>
+    <description>Legend in the angles of a jewelled cross with dot at each end</description>
+  </reverse>
+  <measurement diameter="29 mm" weight="10.15 g" />
+  <image>
+    <obverse file="SB 1825 (A).jpg" />
+    <reverse file="SB 1825 (R).jpg" />
+  </image>
+  <origin price="14" currency="EUR" rate="1" fee="18%" 
+          seller="Nummitra" date="07.06.2025" auction="Auktion 67" lot="947" invoice="Nummitra - 01" />
+  <remark>Sear 1825</remark>
+</coin>

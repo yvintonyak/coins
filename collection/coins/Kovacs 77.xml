@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="Kovacs 77">
+  <identity set="Ancient Greece" />
+  <emperor name="Tigranes II" />
+  <denomination name="Tetrachalkon" />
+  <mint>
+    <date from="80 BC" to="68 BC" />
+    <place city="Tigranokerta" region="Armenia" />
+  </mint>
+  <obverse>
+    <description>Draped bust of Tigranes II to right, wearing five-pointed tiara decorated with a star between two eagles and tied with a diadem.</description>
+  </obverse>
+  <reverse>
+    <legend>BAΣIΛEΩΣ - BAΣIΛEΩN | TIΓPANOY</legend>
+    <description>Tyche of Tigranokerta seated to right on rock, holding palm branch in her right hand; below, river-god Araxes swimming right.</description>
+  </reverse>
+  <measurement diameter="25.8 mm" weight="8.63 g" />
+  <image>
+    <obverse file="Kovacs 77 (A).jpg" />
+    <reverse file="Kovacs 77 (R).jpg" />
+  </image>
+  <deity name="Tyche" />
+  <origin price="36" currency="EUR" rate="1" fee="18.15%" 
+          seller="Bucephalus Numismatic" date="15.09.2023" auction="Black Auktion 25" lot="466" invoice="Bucephalus Numismatic - 03" />
+  <remark></remark>
+</coin>

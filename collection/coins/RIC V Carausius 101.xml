@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC V Carausius 101">
+  <identity set="Roman Imperial" dynasty="Tetrarchy" />
+  <emperor name="Carausius" />
+  <denomination name="Antoninian" />
+  <mint>
+    <date from="286" to="293" />
+    <place city="Londinium" region="Britannia" />
+  </mint>
+  <obverse>
+    <legend>IMP CARAVSIVS P F AVG</legend>
+    <description>Bust of Carausius, radiate, draped, cuirassed, right</description>
+  </obverse>
+  <reverse>
+    <legend>PAX AVG | F | O || ML</legend>
+    <description>Pax, draped, standing left, holding olive-branch in right hand and vertical sceptre in left hand</description>
+  </reverse>
+  <measurement diameter="22 mm" weight="3.47 g" />
+  <image>
+    <obverse file="RIC V Carausius 101 (A).jpg" />
+    <reverse file="RIC V Carausius 101 (R).jpg" />
+  </image>
+  <deity name="Pax" />
+  <origin price="200" currency="GBP" rate="1.1" fee="24%" 
+          seller="Bertolami Fine Arts Ltd" date="04.10.2020" auction="Web Auktion 92" lot="1521" invoice="Bertolami Fine Arts - 06" />
+  <legend>
+    <obverse>
+      <entry key="IMP" />
+      <entry key="CARAVSIVS" />
+      <entry key="P F" />
+      <entry key="AVG" />
+    </obverse>
+    <reverse>
+      <entry key="PAX AVG" />
+    </reverse>
+    <mintmark mint="F | O || ML" />
+  </legend>
+</coin>

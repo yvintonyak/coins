@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC IX Constantinople 79B">
+  <identity set="Roman Imperial" />
+  <emperor name="Theodosius I" />
+  <denomination name="Maiorina" />
+  <mint>
+    <date from="383" to="388" />
+    <place city="Constantinopolis" region="Thracia" />
+  </mint>
+  <obverse>
+    <legend>D N THEODO-SIVS P F AVG</legend>
+    <description>Bust of Theodosius I, helmeted, with pearl-diadem, draped and cuirassed, right, holding spear and shield in front</description>
+  </obverse>
+  <reverse>
+    <legend>GLORIA RO-MANORVM | T || CONB</legend>
+    <description>Emperor, head right, standing facing, on ship, raising right hand; Victory seated right at helm</description>
+  </reverse>
+  <measurement diameter="21 mm" weight="6.13 g" />
+  <image>
+    <obverse file="RIC IX Constantinople 79B (A).jpg" />
+    <reverse file="RIC IX Constantinople 79B (R).jpg" />
+  </image>
+  <deity name="Victoria" />
+  <origin price="34" currency="GBP" rate="1.13" fee="18.0%" 
+          seller="Savoca Numismatics Ltd" date="11.08.2019" auction="5th Blue Auction" lot="1190" invoice="Savoca Numismatik - 21" />
+  <remark>differs from RIC: no hand holding wreath on obverse</remark>
+  <legend>
+    <obverse>
+      <entry key="D N" />
+      <entry key="THEODOSIVS[I]" />
+      <entry key="P F" />
+      <entry key="AVG" />
+    </obverse>
+    <reverse>
+      <entry key="GLORIA ROMANORVM" />
+    </reverse>
+    <mintmark mint="T || CONB" />
+  </legend>
+</coin>

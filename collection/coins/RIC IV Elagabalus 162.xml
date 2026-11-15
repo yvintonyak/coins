@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC IV Elagabalus 162">
+  <identity set="Roman Imperial" />
+  <emperor name="Elagabalus" />
+  <denomination name="Denar" />
+  <mint>
+    <date from="218" to="222" />
+    <place city="Roma" region="Italia" />
+  </mint>
+  <obverse>
+    <legend>IMP ANTONINVS AVG</legend>
+    <description>Bust of Elagabalus, laureate, draped, right</description>
+  </obverse>
+  <reverse>
+    <legend>VICTORIA AVG</legend>
+    <description>Victory, winged, draped, advancing right, holding wreath in extended right hand and palm sloped over left shoulder in left hand</description>
+  </reverse>
+  <measurement diameter="18 mm" weight="3.28 g" />
+  <image>
+    <obverse file="RIC IV Elagabalus 162 (A).jpg" />
+    <reverse file="RIC IV Elagabalus 162 (R).jpg" />
+  </image>
+  <deity name="Victoria" />
+  <origin price="55" currency="EUR" rate="1" fee="18.0%" 
+          seller="Savoca Numismatik GmbH" date="01.12.2018" auction="13th Blue Auction" lot="1642" invoice="Savoca Numismatik - 04" />
+  <legend>
+    <obverse>
+      <entry key="IMP" />
+      <entry key="ANTONINVS[elagabal]" />
+      <entry key="AVG" />
+    </obverse>
+    <reverse>
+      <entry key="VICTORIA AVG" />
+    </reverse>
+  </legend>
+</coin>

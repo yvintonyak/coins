@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC IV Trajan Decius 181">
+  <identity set="Roman Imperial" />
+  <emperor name="Hostilianus Caesar" />
+  <denomination name="Antoninian" />
+  <mint>
+    <date from="251" />
+    <place city="Roma" region="Italia" />
+  </mint>
+  <obverse>
+    <legend>C VALENS HOSTIL MES QVINTVS N C</legend>
+    <description>Bust of Hostilian, radiate, draped, right</description>
+  </obverse>
+  <reverse>
+    <legend>PRINC[IPI IV]VENTVTIS</legend>
+    <description>Hostilian, in military attire, standing left, holding standard in right hand and spear reversed in left hand </description>
+  </reverse>
+  <measurement diameter="20.5 mm" weight="3.99 g" />
+  <image>
+    <obverse file="RIC IV Trajan Decius 181 (A).jpg" />
+    <reverse file="RIC IV Trajan Decius 181 (R).jpg" />
+  </image>
+  <origin price="70" currency="CHF" rate="0.96" fee="12.0%" 
+          seller="Auctiones GmbH" date="15.12.2019" auction="eAuction #66" lot="362" invoice="Auctiones - 01" />
+  <legend>
+    <obverse>
+      <entry key="C VALENS HOSTIL MES QVINTVS" />
+      <entry key="N C" />
+    </obverse>
+    <reverse>
+      <entry key="PRINCIPI IVVENTVTIS" />
+    </reverse>
+  </legend>
+</coin>

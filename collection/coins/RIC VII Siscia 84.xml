@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC VII Siscia 84">
+  <identity set="Roman Imperial" />
+  <emperor name="Constantinus I" />
+  <denomination name="Follis" />
+  <mint>
+    <date from="319" />
+    <place city="Siscia" region="Pannonia Superior" />
+  </mint>
+  <obverse>
+    <legend>CONSTANT-INVS AVG</legend>
+    <description>Bust of Constantine I, wearing high-crested helmet, cuirassed, left, spear across right shoulder and shield on left arm</description>
+  </obverse>
+  <reverse>
+    <legend>VICT • LAETAE PRINC PERP | VOT|P R | S || •ASIS•</legend>
+    <description>Two Vintories, winged, draped, facing each other, holding a shield inscribed VOT|PR supported by altar; S on altar</description>
+  </reverse>
+  <measurement diameter="18 mm" weight="3.27 g" />
+  <image>
+    <obverse file="RIC VII Siscia 84 (A).jpg" />
+    <reverse file="RIC VII Siscia 84 (R).jpg" />
+  </image>
+  <deity name="Victoria" />
+  <origin price="22" currency="EUR" rate="1" fee="18.0%" 
+          seller="Savoca Numismatik GmbH" date="31.03.2019" auction="18th Blue Auction" lot="1919" invoice="Savoca Numismatik - 12" />
+  <legend>
+    <obverse>
+      <entry key="CONSTANTINVS[I]" />
+      <entry key="AVG" />
+    </obverse>
+    <reverse>
+      <entry key="VICT LAETAE PRINC PERP" />
+      <entry key="VOT P R" />
+    </reverse>
+    <mintmark mint="S || •ASIS•" />
+  </legend>
+</coin>

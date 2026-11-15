@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC III Antoninus Pius 221">
+  <identity set="Roman Imperial" />
+  <emperor name="Antoninus Pius" />
+  <denomination name="Denar" />
+  <mint>
+    <date from="152" to="153" />
+    <place city="Roma" region="Italia" />
+  </mint>
+  <obverse>
+    <legend>ANTONINVS AVG PIVS P P TR P XVI</legend>
+    <description>Bust of Antoninus Pius, laureate, head to right</description>
+  </obverse>
+  <reverse>
+    <legend>COS IIII</legend>
+    <description>Annona, draped, standing left, holding two corn-ears downwards in right hand and resting left on modius set on prow, right</description>
+  </reverse>
+  <measurement diameter="19 mm" weight="3.29 g" />
+  <image>
+    <obverse file="RIC III Antoninus Pius 221 (A).jpg" />
+    <reverse file="RIC III Antoninus Pius 221 (R).jpg" />
+  </image>
+  <deity name="Annona" />
+  <origin price="80" currency="EUR" rate="1" fee="18.0%" 
+          seller="Savoca Numismatik GmbH" date="16.12.2018" auction="28th Silver Auction" lot="376" invoice="Savoca Numismatik - 05" />
+  <legend>
+    <obverse>
+      <entry key="ANTONINVS[pius]" />
+      <entry key="AVG" />
+      <entry key="PIVS" />
+      <entry key="P P" />
+      <entry key="TR P XVI" />
+    </obverse>
+    <reverse>
+      <entry key="COS IIII" />
+    </reverse>
+  </legend>
+</coin>

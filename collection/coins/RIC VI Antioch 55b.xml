@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC VI Antioch 55b">
+  <identity set="Roman Imperial" />
+  <emperor name="Galerius Caesar" />
+  <denomination name="Follis" />
+  <mint>
+    <date from="300" to="301" />
+    <place city="Antiochia" region="Syria" />
+  </mint>
+  <obverse>
+    <legend>GAL VAL MAXIMIANVS NOB CAES</legend>
+    <description>Head of Galerius, laureate, right</description>
+  </obverse>
+  <reverse>
+    <legend>GENIO POPV-LI ROMANI | K | Є on V || ANT</legend>
+    <description>Genius, wearing modius, nude, chlamys draped over left shoulder, standing left, pouring liquid from patera in right hand and holding cornucopiae in left hand</description>
+  </reverse>
+  <measurement diameter="26 mm" weight="7.79 g" />
+  <image>
+    <obverse file="RIC VI Antioch 55b (A).jpg" />
+    <reverse file="RIC VI Antioch 55b (R).jpg" />
+  </image>
+  <deity name="Genius" />
+  <origin price="24" currency="GBP" rate="1.18" fee="18.0%" 
+          seller="Savoca Numismatics Ltd" date="04.05.2019" auction="2nd Blue Auction" lot="1543" invoice="Savoca Numismatik - 15" />
+  <legend>
+    <obverse>
+      <entry key="GAL VAL MAXIMIANVS" />
+      <entry key="NOB CAES" />
+    </obverse>
+    <reverse>
+      <entry key="GENIO POPVLI ROMANI" />
+    </reverse>
+    <mintmark mint="K | Є on V || ANT" />
+  </legend>
+</coin>

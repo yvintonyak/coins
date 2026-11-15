@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC VII Nicomedia 12">
+  <identity set="Roman Imperial" />
+  <emperor name="Constantinus I" />
+  <denomination name="Follis" />
+  <mint>
+    <date from="313" to="317" />
+    <place city="Nicomedia" region="Bithynia et Pontus" />
+  </mint>
+  <obverse>
+    <legend>IMP C FL VAL CONSTANTINVS P F AVG</legend>
+    <description>Head of Constantine I, laureate, right</description>
+  </obverse>
+  <reverse>
+    <legend>IOVI CONS-ERVATORI | A || SMN</legend>
+    <description>Jupiter, nude, chlamys draped across left shoulder, standing left, holding Victory on globe in right hand and leaning on sceptre with left hand; to left, eagle holding wreath</description>
+  </reverse>
+  <measurement diameter="21 mm" weight="4.22 g" />
+  <image>
+    <obverse file="RIC VII Nicomedia 12 (A).jpg" />
+    <reverse file="RIC VII Nicomedia 12 (R).jpg" />
+  </image>
+  <deity name="Jupiter" />
+  <origin price="30" currency="EUR" rate="1" fee="18.0%" 
+          seller="Savoca Numismatik GmbH" date="23.06.2019" auction="21st Blue Auction" lot="1857" invoice="Savoca Numismatik - 19" />
+  <legend>
+    <obverse>
+      <entry key="IMP" />
+      <entry key="C" />
+      <entry key="FL VAL CONSTANTINVS" />
+      <entry key="P F" />
+      <entry key="AVG" />
+    </obverse>
+    <reverse>
+      <entry key="IOVI CONSERVATORI" />
+    </reverse>
+    <mintmark mint="A || SMN" />
+  </legend>
+</coin>

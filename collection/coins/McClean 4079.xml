@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="McClean 4079">
+  <identity set="Ancient Greece" />
+  <denomination name="Triobol" />
+  <mint>
+    <date from="386 BC" to="338 BC" />
+    <place city="Chersonese" region="Thrace" />
+  </mint>
+  <obverse>
+    <description>Forepart of lion right, head left</description>
+  </obverse>
+  <reverse>
+    <description>Quadripartite incuse square with alternating raised and sunken quarters; pellet in upper sunken quarter, grape bunch in lower sunken quarter</description>
+  </reverse>
+  <measurement diameter="13 mm" weight="2.15 g" />
+  <image>
+    <obverse file="McClean 4079 (A).jpg" />
+    <reverse file="McClean 4079 (R).jpg" />
+  </image>
+  <origin price="36" currency="EUR" rate="1" fee="18.0%" 
+          seller="Savoca Numismatik GmbH" date="20.01.2019" auction="15th Blue Auction" lot="225" invoice="Savoca Numismatik - 08" />
+  <remark>McClean 4079, BMC 11</remark>
+</coin>

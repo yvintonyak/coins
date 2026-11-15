@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC IX Constantinople 83C">
+  <identity set="Roman Imperial" />
+  <emperor name="Arcadius" />
+  <denomination name="Maiorina" />
+  <mint>
+    <date from="383" to="388" />
+    <place city="Constantinopolis" region="Thracia" />
+  </mint>
+  <obverse>
+    <legend>D N ARCADIVS P F AVGVSTVS</legend>
+    <description>Bust of Arcadius, pearl-diademed, draped and cuirassed, right</description>
+  </obverse>
+  <reverse>
+    <legend>VIRTVS E-XERCITI | ☧ || CONSA</legend>
+    <description>Emperor standing right, holding standard and globe, left foot on captive</description>
+  </reverse>
+  <measurement diameter="24 mm" weight="5.26 g" />
+  <image>
+    <obverse file="RIC IX Constantinople 83C (A).jpg" />
+    <reverse file="RIC IX Constantinople 83C (R).jpg" />
+  </image>
+  <origin price="10" currency="EUR" rate="1" fee="18.0%" 
+          seller="Savoca Numismatik GmbH" date="24.11.2019" auction="26th Blue Auction" lot="1954" invoice="Savoca Numismatik - 24" />
+  <legend>
+    <obverse>
+      <entry key="D N" />
+      <entry key="ARCADIVS" />
+      <entry key="P F" />
+      <entry key="AVG" />
+    </obverse>
+    <reverse>
+      <entry key="VIRTVS EXERCITI" />
+    </reverse>
+    <mintmark mint="CONSA" />
+  </legend>
+</coin>

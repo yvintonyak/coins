@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC VII Constantinople 23">
+  <identity set="Roman Imperial" />
+  <emperor name="Constantinus I" />
+  <denomination name="Follis" />
+  <mint>
+    <date from="327" to="328" />
+    <place city="Constantinopolis" region="Thracia" />
+  </mint>
+  <obverse>
+    <legend>CONSTANTI-NVS MAX AVG</legend>
+    <description>Head of Constantine I, rosette-diademed, right</description>
+  </obverse>
+  <reverse>
+    <legend>GLORIA RO-MANORVM | A || CONS</legend>
+    <description>Roma, helmeted, draped, seated left on cuirass, holding Victory on globe in right hand and long sceptre in left hand</description>
+  </reverse>
+  <measurement diameter="19 mm" weight="3.02 g" />
+  <image>
+    <obverse file="RIC VII Constantinople 23 (A).jpg" />
+    <reverse file="RIC VII Constantinople 23 (R).jpg" />
+  </image>
+  <deity name="Roma" />
+  <origin price="41" currency="EUR" rate="1" fee="16.0%" 
+          seller="Ares Numismatics" date="24.11.2019" auction="Web Auction 4" lot="425" invoice="Ares Numismatics - 02" />
+  <legend>
+    <obverse>
+      <entry key="CONSTANTINVS[I]" />
+      <entry key="MAX" />
+      <entry key="AVG" />
+    </obverse>
+    <reverse>
+      <entry key="GLORIA ROMANORVM" />
+    </reverse>
+    <mintmark mint="A || CONS" />
+  </legend>
+</coin>

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC VIII Constantinople 102">
+  <identity set="Roman Imperial" />
+  <emperor name="Constantius II" />
+  <denomination name="Siliqua" />
+  <mint>
+    <date from="351" to="355" />
+    <place city="Constantinopolis" region="Thracia" />
+  </mint>
+  <obverse>
+    <legend>D N CONSTAN-TIVS P F AVG</legend>
+    <description>Bust of Constantius II, pearl-diademed, draped, cuirassed, right</description>
+  </obverse>
+  <reverse>
+    <legend>VOTIS|XXX|MVLTIS|XXXX || C•Δ</legend>
+    <description>VOTIS|XXX|MVLTIS|XXXX within a wreath</description>
+  </reverse>
+  <measurement diameter="21 mm" weight="3.12 g" />
+  <image>
+    <obverse file="RIC VIII Constantinople 102 (A).jpg" />
+    <reverse file="RIC VIII Constantinople 102 (R).jpg" />
+  </image>
+  <origin price="110" currency="CHF" rate="0.94" fee="18.5%" 
+          seller="Leu Numismatik AG" date="30.06.2019" auction="Webauktion 8" lot="1556" invoice="Leu Numismatik - 02" />
+  <legend>
+    <obverse>
+      <entry key="D N" />
+      <entry key="CONSTANTIVS[II]" />
+      <entry key="P F" />
+      <entry key="AVG" />
+    </obverse>
+    <reverse>
+      <entry key="VOTIS XXX" />
+      <entry key="MVLTIS XXXX" />
+    </reverse>
+    <mintmark mint="C•Δ" />
+  </legend>
+</coin>

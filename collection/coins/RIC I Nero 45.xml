@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC I Nero 45">
+<!--
+  <identity set="Roman Imperial" />
+  <emperor name="Theodora" />
+-->
+  <identity set="---" />
+  <emperor name="Nero " />
+
+  <denomination name="Denar" />
+  <mint>
+    <date from="64" to="65" />
+    <place city="Roma" region="Italia" />
+  </mint>
+  <obverse>
+    <legend>NERO CAESAR AVGVSTVS</legend>
+    <description>Head of Nero, laureate, right, with beard</description>
+  </obverse>
+  <reverse>
+    <legend>AVGVSTVS AVGVSTA</legend>
+    <description> Nero, radiate, togate, standing left, holding patera and long sceptre: beside him on right stands Empress, holding patera and cornucopiae</description>
+  </reverse>
+  <measurement diameter="18 mm" weight="3.32 g" />
+  <image>
+    <obverse file="RIC I Nero 45 (A).jpg" />
+    <reverse file="RIC I Nero 45 (R).jpg" />
+  </image>
+  <origin price="90" currency="EUR" rate="1" fee="25.5%" 
+          seller="Berliner Münzauktion" date="31.10.2020" auction="Auktion 125" lot="364" invoice="Berliner Münzauktion - 01" />
+  <remark>tooled</remark>
+  <legend>
+    <obverse>
+      <entry key="NERO" />
+      <entry key="CAESAR" />
+      <entry key="AVGVSTVS" />
+    </obverse>
+    <reverse>
+      <entry key="AVGVSTVS" />
+      <entry key="AVGVSTA" />
+    </reverse>
+  </legend>
+</coin>

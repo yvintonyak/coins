@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC V Quietus 3">
+  <identity set="Roman Imperial" />
+  <emperor name="Quietus" />
+  <denomination name="Antoninian" />
+  <mint>
+    <date from="260" to="261" />
+    <place city="Antiochia" region="Syria" />
+  </mint>
+  <obverse>
+    <legend>IMP C FVL QVIETVS P F AVG</legend>
+    <description>Bust of Quietus, radiate, draped, right</description>
+  </obverse>
+  <reverse>
+    <legend>APOLINI CONSERVA</legend>
+    <description>Apollo, standing left, holding laurel-branch in right hand and placing left hand on lyre</description>
+  </reverse>
+  <measurement diameter="20 mm" weight="3.60 g" />
+  <image>
+    <obverse file="RIC V Quietus 3 (A).jpg" />
+    <reverse file="RIC V Quietus 3 (R).jpg" />
+  </image>
+  <deity name="Apollo" />
+  <origin price="60" currency="GBP" rate="1.18" fee="18.0%" 
+          seller="Savoca Numismatics Ltd" date="15.03.2020" auction="London Auktion 5" lot="713" invoice="Savoca Numismatik - 25" />
+  <legend>
+    <obverse>
+      <entry key="IMP" />
+      <entry key="C" />
+      <entry key="FVL QVIETVS" />
+      <entry key="P F" />
+      <entry key="AVG" />
+    </obverse>
+    <reverse>
+      <entry key="APOLINI CONSERVA" />
+    </reverse>
+  </legend>
+</coin>

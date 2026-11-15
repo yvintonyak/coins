@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="SB 2012">
+  <identity set="Byzantine Empire" dynasty="" />
+  <emperor name="Alexios III Angelos" />
+  <denomination name="Aspron trachy" />
+  <mint>
+    <date from="1195" to="1203" />
+    <place city="Constantinopolis" />
+  </mint>
+  <obverse>
+    <legend>KE ROHQEI IC-XC</legend>
+    <description>Legend to left and right of nimbate bust of Christ facing, right hand raised, holding scroll in left</description>
+  </obverse>
+  <reverse>
+    <legend>ALEZIW DECP O KWNTANTI</legend>
+    <description>Alexius, crowned, and St Constantine, nimbate, each wearing divitision and loros, both standing facing, each holding a labarum and the two holding a cross on globe (sometimes a patriarchal cross on globe) between them</description>
+  </reverse>
+  <measurement diameter="30 mm" weight="3.50 g" />
+  <image>
+    <obverse file="SB 2012 (A).jpg" />
+    <reverse file="SB 2012 (R).jpg" />
+  </image>
+  <origin price="24" currency="EUR" rate="1" fee="18%" 
+          seller="Savoca Numismatik GmbH" date="27.01.2024" auction="192nd Weekly Blue Auction" lot="718" invoice="Savoca Numismatik - 42" />
+  <remark>Sear 2012; Doc 4.0.0</remark>
+</coin>

@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC X Johannes 1917">
+  <identity set="Roman Imperial" />
+  <emperor name="Johannes" />
+  <denomination name="Nummus" />
+  <mint>
+    <date from="423" to="425" />
+    <place city="Roma" region="Italia" />
+  </mint>
+  <obverse>
+    <legend>D N IOHAN-[N]ES P F A[VG]</legend>
+    <description>Bust of Johannes, pearl-diademed, draped, cuirassed, right</description>
+  </obverse>
+  <reverse>
+    <legend>[SALVS REIPVBLICE | ? || RM]</legend>
+    <description>Victory, winged, draped, advancing left, holding trophy over right shoulder and dragging captive with left hand; ☧ in left field</description>
+  </reverse>
+  <measurement diameter="13 mm" weight="1.08 g" />
+  <image>
+    <obverse file="RIC X Johannes 1917 (A).jpg" />
+    <reverse file="RIC X Johannes 1917 (R).jpg" />
+  </image>
+  <deity name="Victoria" />
+  <origin price="110" currency="GBP" rate="1.12" fee="20%" 
+          seller="Bertolami Fine Arts Ltd" date="10.01.2021" auction="Web Auktion 93" lot="952" invoice="Bertolami Fine Arts - 07" />
+  <remark>maybe RIC X Johannes 1921</remark>
+  <legend>
+    <obverse>
+      <entry key="D N" />
+      <entry key="IOHANNES" />
+      <entry key="P F" />
+      <entry key="AVG" />
+    </obverse>
+    <reverse>
+      <entry key="SALVS REIPVBLICE" />
+    </reverse>
+    <mintmark mint="RM" />
+  </legend>
+</coin>

@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC VI Ostia 35">
+  <identity set="Roman Imperial" />
+  <emperor name="Maxentius" />
+  <denomination name="Follis" />
+  <mint>
+    <date from="309" to="312" />
+    <place city="Ostia" region="Italia" />
+  </mint>
+  <obverse>
+    <legend>IMP C MAXENTIVS P F AVG</legend>
+    <description>Head of Maxentius, laureate, right</description>
+  </obverse>
+  <reverse>
+    <legend>AETE-RNI[TAS] - AVG N || MOSTP</legend>
+    <description>Castor and Pollux, wearing caps, nude, chlamys draped over shoulders, standing facing each other, both leaning on sceptre with outer hand and holding bridled horse with inner hand</description>
+  </reverse>
+  <measurement diameter="24 mm" weight="6.87 g" />
+  <image>
+    <obverse file="RIC VI Ostia 35 (A).jpg" />
+    <reverse file="RIC VI Ostia 35 (R).jpg" />
+  </image>
+  <deity name="Castor and Pollux" />
+  <origin price="36" currency="EUR" rate="1" fee="15.0%" 
+          seller="Dutch Numismatic Auction" date="28.04.2019" auction="Auction 3" lot="374" invoice="Agora Numismatik - 01" />
+  <legend>
+    <obverse>
+      <entry key="IMP" />
+      <entry key="C" />
+      <entry key="MAXENTIVS" />
+      <entry key="P F" />
+      <entry key="AVG" />
+    </obverse>
+    <reverse>
+      <entry key="AETERNITAS AVG N" />
+    </reverse>
+    <mintmark mint="MOSTP" />
+  </legend>
+</coin>

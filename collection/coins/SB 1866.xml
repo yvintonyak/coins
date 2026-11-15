@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="SB 1866">
+  <identity set="Byzantine Empire" />
+  <emperor name="Romanus IV Diogenes" />
+  <denomination name="Follis" />
+  <mint>
+    <date from="1068" to="1071" />
+    <place city="Constantinopopis" />
+  </mint>
+  <obverse>
+    <legend>IC-XC | NI-KA</legend>
+    <description>IC-XC over NI-KA to left and right of bust of Christ facing, dotted cross behind head, holding book of Gospels with both hands</description>
+  </obverse>
+  <reverse>
+    <legend>C-R P-Δ</legend>
+    <description>C-R P-Delta in the four angles of a cross with globe and two dots at each extremity, cross in the centre</description>
+  </reverse>
+  <measurement diameter="24 mm" weight="6.04 g" />
+  <image>
+    <obverse file="SB 1866 (A).jpg" />
+    <reverse file="SB 1866 (R).jpg" />
+  </image>
+  <origin price="19" currency="EUR" rate="1" fee="20%" 
+          seller="Pandora Numismatics" date="06.03.2026" auction="Auction 27" lot="1173" invoice="Pandora Numismatics - 02" />
+</coin>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC VIII Alexandria 10">
+  <identity set="Roman Imperial" />
+  <emperor name="Constantius II" />
+  <denomination name="Follis" />
+  <mint>
+    <date from="337" to="340" />
+    <place city="Alexandria" region="Aegyptus" />
+  </mint>
+  <obverse>
+    <legend>VRBS - ROMA</legend>
+    <description>Bust of Roma, visored with crested helmet, wearing ornamental mantle, left</description>
+  </obverse>
+  <reverse>
+    <legend>S | R || SMALΔ•</legend>
+    <description>She-wolf, standing left, suckling twins; above, two stars</description>
+  </reverse>
+  <measurement diameter="15.7 mm" weight="1.81 g" />
+  <image>
+    <obverse file="RIC VIII Alexandria 10 (A).jpg" />
+    <reverse file="RIC VIII Alexandria 10 (R).jpg" />
+  </image>
+  <deity name="Roma" />
+  <origin price="22" currency="EUR" rate="1" fee="15%" 
+          seller="Pandora Numismatics B.V." date="26.07.2025" auction="Auction 19" lot="664" invoice="Pandora Numismatics - 01" />
+  <remark>Commemorative Series</remark>
+  <legend>
+    <obverse>
+      <entry key="VRBS ROMA" />
+    </obverse>
+    <reverse>
+    </reverse>
+    <mintmark mint="SMALΔ" />
+  </legend>
+</coin>

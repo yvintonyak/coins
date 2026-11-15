@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="Prieur 1188">
+  <identity set="Roman Provincial" />
+  <emperor name="Caracalla" />
+  <denomination name="Tetradrachm" />
+  <mint>
+    <date from="198" to="217" />
+    <place city="Seleucia Pieria" region="Syria" />
+  </mint>
+  <obverse>
+    <legend>ΑΥΤ•Κ•Μ•Α••ΑΝΤΩΝƐΙΝΟϹ ϹƐΒ</legend>
+    <description>Laureate head of Caracalla to right</description>
+  </obverse>
+  <reverse>
+    <legend>ΔΗΜΑΡΧ•ƐΞ•ΥΠΑ ΤΟ Δ</legend>
+    <description>Eagle with spread wings standing facing on thunderbolt, head to right and holding wreath in beak</description>
+  </reverse>
+  <measurement diameter="25 mm" weight="13.6 g" />
+  <image>
+    <obverse file="Prieur 1188 (A).jpg" />
+    <reverse file="Prieur 1188 (R).jpg" />
+  </image>
+  <origin price="51" currency="CHF" rate="0.97" fee="18.5%" 
+          seller="Leu Numismatik AG" date="12.12.2020" auction="Webauktion 14" lot="1133" invoice="Leu Numismatik - 07" />
+</coin>

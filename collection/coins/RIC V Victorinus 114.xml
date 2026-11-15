@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC V Victorinus 114">
+  <identity set="Roman Imperial" />
+  <emperor name="Victorinus" />
+  <denomination name="Antoninian" />
+  <mint>
+    <date from="269" to="271" />
+    <place city="Colonia Agrippina" region="Germania Inferior" />
+  </mint>
+  <obverse>
+    <legend>IMP C VICTORINVS P F AVG</legend>
+    <description>Bust of Victorinus, radiate, draped, right</description>
+  </obverse>
+  <reverse>
+    <legend>INVICTVS | ✷</legend>
+    <description>Sol, walking left, raising right hand and holding whip in left hand</description>
+  </reverse>
+  <measurement diameter="21 mm" weight="3.52 g" />
+  <image>
+    <obverse file="RIC V Victorinus 114 (A).jpg" />
+    <reverse file="RIC V Victorinus 114 (R).jpg" />
+  </image>
+  <deity name="Sol Invictus" />
+  <origin price="45" currency="EUR" rate="1" fee="18.0%" 
+          seller="Artemide Aste s.r.l." date="29.02.2020" auction="Auktion 50E" lot="519" invoice="Artemide Aste - 05" />
+  <legend>
+    <obverse>
+      <entry key="IMP" />
+      <entry key="C" />
+      <entry key="VICTORINVS" />
+      <entry key="P F" />
+      <entry key="AVG" />
+    </obverse>
+    <reverse>
+      <entry key="INVICTVS" />
+    </reverse>
+    <mintmark mint="✷" />
+  </legend>
+</coin>

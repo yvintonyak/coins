@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RPC III 675">
+  <identity set="Roman Provincial" />
+  <emperor name="Divus Trajanus" />
+  <denomination name="AE" />
+  <mint>
+    <date from="117" to="138" />
+    <place city="Abdera" region="Thracia" />
+  </mint>
+  <obverse>
+    <legend>ΑΥΤΟ ΤΡΑ ΑΔΡΙΑΝΟϹ ΚΑΙϹΑΡ</legend>
+    <description>Laureate, draped and cuirassed bust of Hadrian, right</description>
+  </obverse>
+  <reverse>
+    <legend>ΑΥ ΤΡΑ ΘΕ ΔΙ ΑΒΔΗΡΙΤΗ</legend>
+    <description>Laureate, draped and cuirassed bust of Divus Trajanus, right, seen from behind</description>
+  </reverse>
+  <measurement diameter="17.4 mm" weight="3.4 g" />
+  <image>
+    <obverse file="RPC III 675 (A).jpg" />
+    <reverse file="RPC III 675 (R).jpg" />
+  </image>
+  <origin price="22" currency="EUR" rate="1" fee="22%" 
+          seller="Ancient Numismatics Auctions" date="29.08.2025" auction="Auktion 23" lot="46" invoice="Ancient Numismatics Auctions - 02" />
+</coin>

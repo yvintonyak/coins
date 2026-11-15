@@ -1,0 +1,484 @@
+
+@font-face { font-family: Capitalis; src: url('TrajanPro-Regular.ttf'); }
+
+.head
+{
+  display: flex;
+  flex-direction: column;
+
+  width: 100%;
+  height:100%;
+  
+  overflow: hidden;
+}
+
+.body
+{
+  display: flex;
+  flex-direction: row;
+  
+  width: 100%;
+  height:100%;
+  
+  overflow: hidden;
+}
+
+/***************************/
+/* menu                    */
+/***************************/
+
+.menu
+{
+  width: 100%;
+  overflow: hidden;
+  background-color: #444;
+  min-height: 50px;
+}
+
+.menu a
+{
+  float: left;
+  padding: 6px 24px 6px 24px;
+  margin-top: 6px;
+  margin-left: 6px;
+  color: #aaa;
+  display: block;
+  text-decoration: none;
+  font-size: 130%;
+  font-family: Capitalis;
+}
+
+.menu a:hover
+{
+  color: #fff;
+  background-color: #222;
+}
+
+.menu a.active
+{
+  color: #fff;
+  background-color: #000;
+  font-weight: bold;
+  border: 1px solid #ddd;
+}
+
+.menu a.print
+{
+  color: #fff;
+  background-color: #444;
+  font-size: 120%;
+  padding: 12px 8px 12px 8px;
+  margin-top: 0px;
+  margin-left: 0px;
+  margin-right: 6px;
+}
+
+/***************************/
+/* navigation              */
+/***************************/
+
+.nav
+{
+  width: 20%;
+  /* height: 100%; */
+  border: 1px solid #ddd;
+  padding-top: 12px;
+  background-color: #444;
+  overflow-x: hidden;
+  overflow-y: auto;
+}
+
+.nav a
+{
+  padding: 6px 8px 6px 16px;
+  color: #aaa;
+  display: block;
+  text-decoration: none;
+  font-size: 120%;
+  font-family: Capitalis;
+}
+
+.nav a:hover
+{
+  color: #fff;
+  background-color: #222;
+}
+
+.nav a.active
+{
+  color: #fff;
+  background-color: #000;
+  font-weight: bold;
+}
+
+.nav a.subset
+{
+  padding-left: 2.5em;
+  text-indent: -0.5em;
+}
+
+/***************************/
+/* data                    */
+/***************************/
+
+.data
+{
+  width: 80%;
+  /* height: 100%; */
+  padding: 0px 0px;
+  font-size: 120%;
+  font-family: Capitalis;
+  overflow-y: auto;
+}
+
+/***************************/
+/* coin list               */
+/***************************/
+
+#coins
+{
+  font-size: 16px;
+  font-weight: bold;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+#coins th
+{
+  font-size: 18px;
+  text-align: left;
+
+  border: 1px solid #ddd;
+  padding: 8px;
+  padding-top: 6px;
+  padding-bottom: 6px;
+
+  background-color: #444;
+  color: white;
+}
+
+#coins tr:nth-child(even)
+{
+  background-color: #f2f2f2;
+}
+
+#coins tr:hover
+{
+  background-color: #ddd;
+}
+
+#coins td
+{
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+#coins td.image
+{
+  width: 202px;
+  background-color: #fff;
+  border: none;
+  border-top: 1px solid #ddd;
+  border-bottom: 1px solid #ddd;
+}
+
+#coins img
+{
+  max-width:100px;
+  max-height:100px;
+}
+
+#coins td.footer
+{
+  font-size: 18px;
+  text-align: left;
+
+  border: 1px solid white;
+  padding-top: 6px;
+  padding-bottom: 6px;
+  
+  background-color: #444;
+  color: white;
+}
+
+/***************************/
+/* coin details            */
+/***************************/
+
+#coin
+{
+  font-size: 18px;
+  font-weight: bold;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+#coin p
+{
+  font-size: 150%;
+  font-weight: bold;
+  margin-left: 20px;
+}
+
+#coin img
+{
+  max-width:75%;
+  max-height:75%;
+}
+
+#coin table
+{
+  width: 100%;
+}
+
+#coin th
+{
+  border: 1px solid #ddd;
+  padding: 8px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #444;
+  color: white;
+}
+
+#coin tr
+{
+  vertical-align: top;  
+}
+
+#coin td
+{
+  width: 60%;
+}
+
+#coin td.section
+{
+  font-size: 20px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  color: #444;
+  width: 15%;
+}
+
+#coin td.param
+{
+  font-size: 18px;
+  font-weight: bold;
+  padding-right: 10px;
+  text-align: right;
+  width: 15%;
+}
+
+#coin td.value
+{
+  font-size: 18px;
+  padding-right: 10%;
+  white-space: pre-line;
+}
+
+#coin td.value_name
+{
+  font-size: 16px;
+  padding-right: 10%;
+  white-space: pre-line;
+  vertical-align: middle;
+  font-family: Capitalis;
+  font-weight: bold;
+}
+
+#coin td.value_desc
+{
+  font-size: 16px;
+  padding-right: 10%;
+  font-style: italic;
+  white-space: pre-line;
+}
+
+#coin a.value_desc
+{
+  color: black;
+  text-decoration: none;
+}
+
+#coin div.value_desc
+{
+  display: none;
+  font-size: 16px;
+  font-style: italic;
+  white-space: pre-line;
+}
+
+#coin td.image
+{
+  width: 40%;
+  text-align: left;
+}
+
+#coin table.info
+{
+  table-layout: fixed;
+  font-family: arial;
+  font-size: 14pt;
+}
+
+#coin td.prev
+{
+  font-weight: bold;
+}
+
+#coin td.next
+{
+  font-weight: bold;
+  text-align: right;
+}
+
+#coin a.prev_next
+{
+  color: #444;
+  text-decoration: none;
+}
+
+#coin .legend_main
+{
+  font-family: Capitalis;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: bold;
+}
+
+#coin .legend_adds
+{
+  color: #AAA;
+}
+
+#coin a.legend
+{
+  font-family: arial;
+  font-size: 14px;
+  font-style: italic;
+  color: black;
+  text-decoration: none;
+
+  position: relative;
+  border-bottom: 1px dotted #000;
+}
+
+#coin a.legend:hover
+{
+  cursor: help;
+}
+
+#coin a.legend:hover:after, a:hover:before
+{
+  opacity: 1;
+}
+
+#coin a.legend:after
+{
+  content: attr(data-legend);
+  
+  position: absolute;
+  top: -7px;
+  left: 105%;
+
+  color: black;
+  background: #eee;
+
+  padding: 5px 15px;
+  border-radius : 5px;
+
+  white-space: nowrap;
+  opacity: 0;
+}
+
+#coin a.legend:before
+{
+  content: "";
+
+  position: absolute;
+  width: 0;
+  height: 0;
+  
+  opacity: 0;
+}
+
+#coin a.mint
+{
+  color: #444;
+}
+
+#coin a.emperor
+{
+  color: #444;
+}
+
+/***************************/
+/* emperor list            */
+/***************************/
+
+#emperors
+{
+  font-size: 16px;
+  font-weight: bold;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+#emperors th
+{
+  font-size: 18px;
+  text-align: left;
+
+  border: 1px solid #ddd;
+  padding: 8px;
+  padding-top: 6px;
+  padding-bottom: 6px;
+
+  background-color: #444;
+  color: white;
+}
+
+#emperors tr:nth-child(even)
+{
+  background-color: #f2f2f2;
+}
+
+#emperors tr:hover
+{
+  background-color: #ddd;
+}
+
+#emperors td
+{
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+#emperors td.image
+{
+  width: 101px;
+  background-color: #fff;
+  border: none;
+  border-top: 1px solid #ddd;
+  border-bottom: 1px solid #ddd;
+}
+
+#emperors img
+{
+  max-width:100px;
+  max-height:100px;
+}
+
+#emperors td.footer
+{
+  font-size: 18px;
+  text-align: left;
+
+  border: 1px solid white;
+  padding-top: 6px;
+  padding-bottom: 6px;
+  
+  background-color: #444;
+  color: white;
+}

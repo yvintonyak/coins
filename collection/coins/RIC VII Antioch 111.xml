@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC VII Antioch 111">
+  <identity set="Roman Imperial" />
+  <emperor name="Constans Caesar" />
+  <denomination name="Follis" />
+  <mint>
+    <date from="335" to="337" />
+    <place city="Antiochia" region="Syria" />
+  </mint>
+  <obverse>
+    <legend>FL IVL CONSTANS NOB C</legend>
+    <description>Bust of Constans, laureate, cuirassed, right</description>
+  </obverse>
+  <reverse>
+    <legend>GLOR-IA EXERC-ITVS || SMANH</legend>
+    <description>Two soldiers, helmeted, draped, cuirassed, standing facing each other, each holding reversed spear in outer hand and resting inner hand on shield; between them, a standard</description>
+  </reverse>
+  <measurement diameter="15 mm" weight="1.55 g" />
+  <image>
+    <obverse file="RIC VII Antioch 111 (A).jpg" />
+    <reverse file="RIC VII Antioch 111 (R).jpg" />
+  </image>
+  <origin price="40" currency="GBP" rate="1.17" fee="0.0%" 
+          seller="Carpe Diem Numismatics" date="10.09.2019" auction="eBay" lot="2786" invoice="Carpe Diem - 01" />
+  <legend>
+    <obverse>
+      <entry key="FL IVL CONSTANS" />
+      <entry key="NOB C" />
+    </obverse>
+    <reverse>
+      <entry key="GLORIA EXERCITVS" />
+    </reverse>
+    <mintmark mint="SMANH" />
+  </legend>
+</coin>

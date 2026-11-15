@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC VI Antioch 164b">
+  <identity set="Roman Imperial" />
+  <emperor name="Maximinus II Daia" />
+  <denomination name="Follis" />
+  <mint>
+    <date from="312" />
+    <place city="Antiochia" region="Syria" />
+  </mint>
+  <obverse>
+    <legend>IMP C GAL VAL MAXIMINVS P F AVG</legend>
+    <description>Head of Maximinus Daia, laureate, right</description>
+  </obverse>
+  <reverse>
+    <legend>GENIO AVGVSTI | ✷ | AI || ANT</legend>
+    <description>Genius, wearing modius, nude, chlamys draped over left shoulder, standing left, holding head of Sol in right hand and cornucopiae in left hand</description>
+  </reverse>
+  <measurement diameter="21 mm" weight="4.92 g" />
+  <image>
+    <obverse file="RIC VI Antioch 164b (A).jpg" />
+    <reverse file="RIC VI Antioch 164b (R).jpg" />
+  </image>
+  <deity name="Genius" />
+  <origin price="46" currency="CHF" rate="0.93" fee="18.5%" 
+          seller="Nomos AG" date="31.03.2019" auction="Obolos 12" lot="818" invoice="Nomos - 01" />
+  <legend>
+    <obverse>
+      <entry key="IMP" />
+      <entry key="C" />
+      <entry key="GAL VAL MAXIMINVS" />
+      <entry key="P F" />
+      <entry key="AVG" />
+    </obverse>
+    <reverse>
+      <entry key="GENIO AVGVSTI" />
+    </reverse>
+    <mintmark mint="✷ | AI || ANT" />
+  </legend>
+</coin>

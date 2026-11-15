@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC VII Nicomedia 158">
+  <identity set="Roman Imperial" />
+  <emperor name="Constantius II Caesar" />
+  <denomination name="Follis" />
+  <mint>
+    <date from="328" to="329" />
+    <place city="Nicomedia" region="Bithynia et Pontus" />
+  </mint>
+  <obverse>
+    <legend>FL IVL CONSTANTIVS NOB C</legend>
+    <description>Bust of Constantius II, laureate, draped, cuirassed, left</description>
+  </obverse>
+  <reverse>
+    <legend>PROVIDEN-TIAE CAES || SMNS •</legend>
+    <description>Camp gate with two turrets, without doors, with two stone layers; star above</description>
+  </reverse>
+  <measurement diameter="19 mm" weight="3.02 g" />
+  <image>
+    <obverse file="RIC VII Nicomedia 158 (A).jpg" />
+    <reverse file="RIC VII Nicomedia 158 (R).jpg" />
+  </image>
+  <origin price="40" currency="EUR" rate="1" fee="14.9%" 
+          seller="Numismatik Naumann GmbH" date="05.05.2019" auction="Auktion 77" lot="861" invoice="Numismatik Naumann - 04" />
+  <legend>
+    <obverse>
+      <entry key="FL IVL CONSTANTIVS" />
+      <entry key="NOB C" />
+    </obverse>
+    <reverse>
+      <entry key="PROVIDENTIAE CAES" />
+    </reverse>
+    <mintmark mint="SMNS •" />
+  </legend>
+</coin>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="SB 1629">
+  <identity set="Byzantine Empire" />
+  <emperor name="Leo V" />
+  <denomination name="Follis" />
+  <mint>
+    <date from="813" to="820" />
+    <place city="Constantinopolis" />
+  </mint>
+  <obverse>
+    <legend>LЄOҺ ЬASIL</legend>
+    <description>Crowned and draped facing bust of Leo V, holding cross potent</description>
+  </obverse>
+  <reverse>
+    <legend>M | XXX | NNN | A</legend>
+    <description>Large M, XXX to left, cross above, NNN to right, A below</description>
+  </reverse>
+  <measurement diameter="24.2 mm" weight="6.9 g" />
+  <image>
+    <obverse file="SB 1629 (A).jpg" />
+    <reverse file="SB 1629 (R).jpg" />
+  </image>
+  <origin price="22" currency="EUR" rate="1" fee="0%" 
+          seller="Ancient Numismatics Auctions" date="20.02.2026" auction="Auction 28" lot="706" invoice="Ancient Numismatics Auctions - 04" />
+  <remark></remark>
+</coin>

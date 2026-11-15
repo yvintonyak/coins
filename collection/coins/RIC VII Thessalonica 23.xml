@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC VII Thessalonica 23">
+  <identity set="Roman Imperial" />
+  <emperor name="Constantinus II Caesar" />
+  <denomination name="Follis" />
+  <mint>
+    <date from="317" to="318" />
+    <place city="Thessalonica" region="Macedonia" />
+  </mint>
+  <obverse>
+    <legend>CONSTANTINVS IVN NOB CAES</legend>
+    <description>Bust of Constantine II, laureate, draped, cuirassed, right</description>
+  </obverse>
+  <reverse>
+    <legend>CLARITAS - REIPVBLICAE || •TS•B•</legend>
+    <description>Sol, radiate, chlamys draped across left shoulder, standing left, raising right hand and holding globe in left hand</description>
+  </reverse>
+  <measurement diameter="21 mm" weight="3.19 g" />
+  <image>
+    <obverse file="RIC VII Thessalonica 23 (A).jpg" />
+    <reverse file="RIC VII Thessalonica 23 (R).jpg" />
+  </image>
+  <deity name="Sol Invictus" />
+  <origin price="60" currency="EUR" rate="1" fee="18.0%" 
+          seller="Savoca Numismatik GmbH" date="08.11.2020" auction="89th Blue Auction" lot="1480" invoice="Savoca Numismatik - 29" />
+  <legend>
+    <obverse>
+      <entry key="CONSTANTINVS IVN" />
+      <entry key="NOB CAES" />
+    </obverse>
+    <reverse>
+      <entry key="CLARITAS REIPVBLICAE" />
+    </reverse>
+    <mintmark mint="•TS•B•" />
+  </legend>
+</coin>

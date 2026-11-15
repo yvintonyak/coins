@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC IX Siscia 15B">
+  <identity set="Roman Imperial" />
+  <emperor name="Valens" />
+  <denomination name="Centenionalis" />
+  <mint>
+    <date from="367" to="375" />
+    <place city="Siscia" region="Pannonia Superior" />
+  </mint>
+  <obverse>
+    <legend>D N VALEN-S P F AVG</legend>
+    <description>Bust of Valens, pearl-diademed, draped and cuirassed, right</description>
+  </obverse>
+  <reverse>
+    <legend>SECVRITAS - REIPVBLICAE | ✷ on P | M || ASISC</legend>
+    <description>Victory advancing left, holding wreath and palm</description>
+  </reverse>
+  <measurement diameter="17 mm" weight="2.65 g" />
+  <image>
+    <obverse file="RIC IX Siscia 15B (A).jpg" />
+    <reverse file="RIC IX Siscia 15B (R).jpg" />
+  </image>
+  <deity name="Victoria" />
+  <origin price="30" currency="EUR" rate="1" fee="0.0%" 
+          seller="Stuttgarter Münzenmesse" date="21.09.2019" auction="" lot="" invoice="Stuttgarter Münzenmesse - 01" />
+  <legend>
+    <obverse>
+      <entry key="D N" />
+      <entry key="VALENS" />
+      <entry key="P F" />
+      <entry key="AVG" />
+    </obverse>
+    <reverse>
+      <entry key="SECVRITAS REIPVBLICAE" />
+    </reverse>
+    <mintmark mint="✷ on P | M || ASISC" />
+  </legend>
+</coin>

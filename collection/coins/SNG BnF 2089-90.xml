@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="SNG BnF 2089-90">
+  <identity set="Ancient Greece" />
+  <denomination name="Æ" />
+  <mint>
+    <date from="100 BC" to="1 BC" />
+    <place city="Termessos" region="Pisidia" />
+  </mint>
+  <obverse>
+    <description>Laureate head of Zeus right; sceptre to left.</description>
+  </obverse>
+  <reverse>
+    <legend>ΤΕΡ-ΜΗΣ-ΣΕ-ΩΝ</legend>
+    <description>Winged thunderbolt within dotted circle.</description>
+  </reverse>
+  <measurement diameter="22.99 mm" weight="7.36 g" />
+  <image>
+    <obverse file="SNG BnF 2089-90 (A).jpg" />
+    <reverse file="SNG BnF 2089-90 (R).jpg" />
+  </image>
+  <deity name="Zeus" />
+  <origin price="10" currency="EUR" rate="1" fee="18.15%" 
+          seller="Bucephalus Numismatic" date="15.09.2023" auction="Black Auktion 25" lot="439" invoice="Bucephalus Numismatic - 03" />
+  <remark>SNG von Aulock 4455 (Lycia); BMC 9</remark>
+</coin>

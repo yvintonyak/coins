@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC IX Siscia 34">
+  <identity set="Roman Imperial" />
+  <emperor name="Aelia Flacilla" />
+  <denomination name="Maiorina" />
+  <mint>
+    <date from="383" to="384" />
+    <place city="Siscia" region="Pannonia Superior" />
+  </mint>
+  <obverse>
+    <legend>AEL FLAC-CILLA AVG</legend>
+    <description>Bust of Aelia Flacilla, with elaborate head-dress, draped, necklace, and mantle, right</description>
+  </obverse>
+  <reverse>
+    <legend>SALVS REI-PVBLICAE || ASISC•</legend>
+    <description>Victory seated right, writing ☧ (Chi-Rho) on shield resting on small column</description>
+  </reverse>
+  <measurement diameter="21 mm" weight="4.00 g" />
+  <image>
+    <obverse file="RIC IX Siscia 34 (A).jpg" />
+    <reverse file="RIC IX Siscia 34 (R).jpg" />
+  </image>
+  <deity name="Victoria" />
+  <origin price="80" currency="CHF" rate="0.96" fee="18.5%" 
+          seller="Leu Numismatik AG" date="08.12.2019" auction="Webauktion 10" lot="1755" invoice="Leu Numismatik - 04" />
+  <legend>
+    <obverse>
+      <entry key="AEL FLACCILLA" />
+      <entry key="AVG[usta]" />
+    </obverse>
+    <reverse>
+      <entry key="SALVS REIPVBLICAE" />
+    </reverse>
+    <mintmark mint="ASISC•" />
+  </legend>
+</coin>

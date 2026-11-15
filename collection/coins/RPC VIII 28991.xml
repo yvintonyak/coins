@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RPC VIII 28991">
+  <identity set="Roman Provincial" />
+  <emperor name="Philippus I Arab" />
+  <denomination name="Tetradrachm" />
+  <mint>
+    <date from="248" to="249" />
+    <place city="Antiochia" region="Syria" />
+  </mint>
+  <obverse>
+    <legend>ΑΥΤΟΚ Κ Μ ΙΟΥΛΙ ΦΙΛΙΠΠΟϹ ϹƐΒ</legend>
+    <description>Bust of Philippus I right, laureate, draped, cuirassed</description>
+  </obverse>
+  <reverse>
+    <legend>ΔΗΜΑΡΧ ƐΞΟΥϹΙΑϹ ΥΠΑ ΤΟ Δ || ΑΝΤΙΟΧΙΑ || S C</legend>
+    <description>Eagle standing right, head right, with wings open, holding wreath in beak</description>
+  </reverse>
+  <measurement diameter="26 mm" weight="11.2 g" />
+  <image>
+    <obverse file="RPC VIII 28991 (A).jpg" />
+    <reverse file="RPC VIII 28991 (R).jpg" />
+  </image>
+  <origin price="70" currency="GBP" rate="1.16" fee="0.0%" 
+          seller="Carpe Diem Numismatics" date="21.03.2020" auction="eBay" lot="4207" invoice="Carpe Diem - 05" />
+  <remark>Prieur 445; McAlee 934</remark>
+</coin>

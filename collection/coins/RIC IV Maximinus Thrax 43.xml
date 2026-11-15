@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC IV Maximinus Thrax 43">
+  <identity set="Roman Imperial" />
+  <emperor name="Maximinus I Thrax" />
+  <denomination name="Sestertius" />
+  <mint>
+    <date from="235" to="236" />
+    <place city="Roma" region="Italia" />
+  </mint>
+  <obverse>
+    <legend>IMP MAXIMINVS PIVS AVG</legend>
+    <description>Bust of Maximinus I, laureate, draped, cuirassed, right</description>
+  </obverse>
+  <reverse>
+    <legend>FIDES MILITVM | S C</legend>
+    <description>Fides, draped, standing front, head left, holding military standard in each hand</description>
+  </reverse>
+  <measurement diameter="30 mm" weight="18.55 g" />
+  <image>
+    <obverse file="RIC IV Maximinus Thrax 43 (A).jpg" />
+    <reverse file="RIC IV Maximinus Thrax 43 (R).jpg" />
+  </image>
+  <deity name="Fides" />
+  <origin price="140" currency="GBP" rate="1.12" fee="21.5%" 
+          seller="Bertolami Fine Arts Ltd" date="07.06.2020" auction="E-Live Auction 83" lot="1303" invoice="Bertolami Fine Arts - 05" />
+  <legend>
+    <obverse>
+      <entry key="IMP" />
+      <entry key="MAXIMINVS[thrax]" />
+      <entry key="PIVS" />
+      <entry key="AVG" />
+    </obverse>
+    <reverse>
+      <entry key="FIDES MILITVM" />
+      <entry key="S C" />
+    </reverse>
+  </legend>
+</coin>

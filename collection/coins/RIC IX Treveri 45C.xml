@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC IX Treveri 45C">
+  <identity set="Roman Imperial" />
+  <emperor name="Gratianus" />
+  <denomination name="Siliqua" />
+  <mint>
+    <date from="375" to="378" />
+    <place city="Augusta Treverorum" region="Gallia Belgica" />
+  </mint>
+  <obverse>
+    <legend>D N GRATIA-NVS P F AVG</legend>
+    <description>Bust of Gratian, pearl-diademed, draped and cuirassed, right</description>
+  </obverse>
+  <reverse>
+    <legend>VRBS - ROMA || TRPS•</legend>
+    <description>Roma seated left on throne, holding Victory on globe and spear</description>
+  </reverse>
+  <measurement diameter="18 mm" weight="1.77 g" />
+  <image>
+    <obverse file="RIC IX Treveri 45C (A).jpg" />
+    <reverse file="RIC IX Treveri 45C (R).jpg" />
+  </image>
+  <deity name="Roma" />
+  <origin price="65" currency="EUR" rate="1" fee="0.0%" 
+          seller="Stuttgarter Münzenmesse" date="21.09.2019" auction="" lot="" invoice="Stuttgarter Münzenmesse - 01" />
+  <legend>
+    <obverse>
+      <entry key="D N" />
+      <entry key="GRATIANVS" />
+      <entry key="P F" />
+      <entry key="AVG" />
+    </obverse>
+    <reverse>
+      <entry key="VRBS ROMA" />
+    </reverse>
+    <mintmark mint="TRPS•" />
+  </legend>
+</coin>

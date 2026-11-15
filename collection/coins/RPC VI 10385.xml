@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RPC VI 10385">
+  <identity set="Roman Provincial" />
+  <emperor name="Severus Alexander" />
+  <denomination name="Tetradrachm" />
+  <mint>
+    <date from="227" to="228" />
+    <place city="Alexandria" region="Aegyptus" />
+  </mint>
+  <obverse>
+    <legend>Α ΚΑΙ Μ ΑΥΡ ϹƐΟΥΗΡ ΑΛƐΞΑΝΔΡΟϹ ƐΥϹƐΒ</legend>
+    <description>Bust of Severus Alexander, laureate, draped, cuirassed, right</description>
+  </obverse>
+  <reverse>
+    <legend>L ƐΒΔΟΜΟΥ</legend>
+    <description>Sarapis seated left, holding long sceptre and extending right hand over Cerberus sitting at his feet left</description>
+  </reverse>
+  <measurement diameter="25 mm" weight="10.48 g" />
+  <image>
+    <obverse file="RPC VI 10385 (A).jpg" />
+    <reverse file="RPC VI 10385 (R).jpg" />
+  </image>
+  <deity name="Serapis" />
+  <origin price="70" currency="CHF" rate="0.96" fee="18.5%" 
+          seller="Leu Numismatik AG" date="30.05.2020" auction="Webauktion 12" lot="1007" invoice="Leu Numismatik - 06" />
+  <remark>Dattari (Savio) 4364. Emmett 3135.12. K&amp;G 62.185 var. (differing reverse legend). BMC 1665</remark>
+</coin>

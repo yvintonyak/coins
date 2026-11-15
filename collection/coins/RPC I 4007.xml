@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RPC I 4007">
+  <identity set="Roman Provincial" />
+  <emperor name="Livia" />
+  <denomination name="Hemiassarion" />
+  <mint>
+    <date from="14" to="37" />
+    <place city="Augusta" region="Cilicia" />
+  </mint>
+  <obverse>
+    <legend></legend>
+    <description>Bust of Livia, draped, right</description>
+  </obverse>
+  <reverse>
+    <legend>ΑΥΓΟΥΣΤΑΝΩΝ</legend>
+    <description>Capricorn right, with globus between forehooves; star above</description>
+  </reverse>
+  <measurement diameter="17 mm" weight="3.43 g" />
+  <image>
+    <obverse file="RPC I 4007 (A).jpg" />
+    <reverse file="RPC I 4007 (R).jpg" />
+  </image>
+  <origin price="90" currency="EUR" rate="1" fee="14.9%" 
+          seller="Numismatik Naumann" date="04.04.2021" auction="Auktion 101" lot="494" invoice="Numismatik Naumann - 21" />
+</coin>

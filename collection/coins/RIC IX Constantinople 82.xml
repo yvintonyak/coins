@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC IX Constantinople 82">
+  <identity set="Roman Imperial" />
+  <emperor name="Aelia Flacilla" />
+  <denomination name="Maiorina" />
+  <mint>
+    <date from="383" to="386" />
+    <place city="Constantinopolis" region="Thracia" />
+  </mint>
+  <obverse>
+    <legend>AEL FLAC-CILLA AVG</legend>
+    <description>Bust of Aelia Flacilla, with elaborate head-dress, draped, necklace, and mantle</description>
+  </obverse>
+  <reverse>
+    <legend>SALVS REI-PVBLICAE | † || CONSЄ</legend>
+    <description>Empress, head right, standing facing, arms folded on breast</description>
+  </reverse>
+  <measurement diameter="23 mm" weight="4.81 mm" />
+  <image>
+    <obverse file="RIC IX Constantinople 82 (A).jpg" />
+    <reverse file="RIC IX Constantinople 82 (R).jpg" />
+  </image>
+  <origin price="50" currency="EUR" rate="1" fee="18.0%" 
+          seller="Artemide Kunstauktionen GmbH" date="06.10.2019" auction="e-Live Auktion 9" lot="640" invoice="Artemide Aste - 02" />
+  <legend>
+    <obverse>
+      <entry key="AEL FLACCILLA" />
+      <entry key="AVG[usta]" />
+    </obverse>
+    <reverse>
+      <entry key="SALVS REIPVBLICAE" />
+    </reverse>
+    <mintmark mint="CONSЄ" />
+  </legend>
+</coin>

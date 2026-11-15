@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC VIII Siscia 351">
+  <identity set="Roman Imperial" />
+  <emperor name="Constantius Gallus Caesar" />
+  <denomination name="Centenionalis" />
+  <mint>
+    <date from="351" to="354" />
+    <place city="Siscia" region="Pannonia Superior" />
+  </mint>
+  <obverse>
+    <legend>D N CONSTANTIVS IVN NOB C</legend>
+    <description>Bust of Constantius Gallus, bareheaded, draped, cuirassed, right</description>
+  </obverse>
+  <reverse>
+    <legend>FEL TEMP – REPARATIO || ΓSIS</legend>
+    <description>Soldier, helmeted, draped, cuirassed, advancing left, spearing fallen horseman with right hand and wearing shield on left arm; horseman facing soldier, wearing pointed cap, extending left arm</description>
+  </reverse>
+  <measurement diameter="18 mm" weight="2.21 g" />
+  <image>
+    <obverse file="RIC VIII Siscia 351 (A).jpg" />
+    <reverse file="RIC VIII Siscia 351 (R).jpg" />
+  </image>
+  <origin price="55" currency="EUR" rate="1" fee="18.0%" 
+          seller="Artemide Kunstauktionen GmbH" date="24.11.2019" auction="e-Live Auktion 10" lot="541" invoice="Artemide Aste - 03" />
+  <legend>
+    <obverse>
+      <entry key="D N" />
+      <entry key="CONSTANTIVS IVN" />
+      <entry key="NOB C" />
+    </obverse>
+    <reverse>
+      <entry key="FEL TEMP REPARATIO" />
+    </reverse>
+    <mintmark mint="ΓSIS" />
+  </legend>
+</coin>

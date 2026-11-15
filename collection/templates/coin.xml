@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="">
+  <identity set="" dynasty="" />
+  <emperor name="" />
+  <denomination name="" />
+  <mint>
+    <date from="" to="" />
+    <place city="" region="" />
+  </mint>
+  <obverse>
+    <legend></legend>
+    <description></description>
+  </obverse>
+  <reverse>
+    <legend></legend>
+    <description></description>
+  </reverse>
+  <measurement diameter="" weight="" />
+  <image>
+    <obverse file=" (A).jpg" />
+    <reverse file=" (R).jpg" />
+  </image>
+  <deity name="" />
+  <origin price="" currency="EUR" rate="1" fee="%" 
+          seller="" date="" auction="" lot="" invoice="" />
+  <remark></remark>
+  <legend>
+    <obverse>
+      <entry key="" />
+    </obverse>
+    <reverse>
+      <entry key="" />
+    </reverse>
+    <mintmark mint="" />
+  </legend>
+</coin>

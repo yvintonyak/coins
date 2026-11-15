@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC V Tacitus 183">
+  <identity set="Roman Imperial" />
+  <emperor name="Tacitus" />
+  <denomination name="Antoninian" />
+  <mint>
+    <date from="275" to="276" />
+    <place city="Siscia" region="Pannonia Superior" />
+  </mint>
+  <obverse>
+    <legend>IMP C M CL TACITVS AVG</legend>
+    <description>Bust of Tacitus, radiate, draped, cuirassed, right</description>
+  </obverse>
+  <reverse>
+    <legend>CONCORD MILIT || XXIQ</legend>
+    <description>Tacitus, on the left, and Concordia, on the right, clasping their right hands</description>
+  </reverse>
+  <measurement diameter="23 mm" weight="3.79 g" />
+  <image>
+    <obverse file="RIC V Tacitus 183 (A).jpg" />
+    <reverse file="RIC V Tacitus 183 (R).jpg" />
+  </image>
+  <deity name="Concordia" />
+  <origin price="46" currency="CHF" rate="0.96" fee="18.5%" 
+          seller="Leu Numismatik AG" date="08.12.2019" auction="Webauktion 10" lot="1481" invoice="Leu Numismatik - 04" />
+  <remark>differs from RIC: obverse legend CONCORD MILIT; Tacitus on the left, Concordia on the right</remark>
+  <legend>
+    <obverse>
+      <entry key="IMP" />
+      <entry key="C" />
+      <entry key="M CL TACITVS" />
+      <entry key="AVG" />
+    </obverse>
+    <reverse>
+      <entry key="CONCORD MILIT" />
+    </reverse>
+    <mintmark mint="XXIQ" />
+  </legend>
+</coin>

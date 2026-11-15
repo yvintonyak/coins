@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="SNG Kayhan 462-75">
+  <identity set="Ancient Greece" />
+  <denomination name="Diobol" />
+  <mint>
+    <date from="520 BC" to="490 BC" />
+    <place city="Miletos" region="Ionia" />
+  </mint>
+  <obverse>
+    <description>Forepart of roaring lion left, head turned back</description>
+  </obverse>
+  <reverse>
+    <description>Stellate-like floral motif within square incuse</description>
+  </reverse>
+  <measurement diameter="9.3 mm" weight="1.17 g" />
+  <image>
+    <obverse file="SNG Kayhan 462-75 (A).jpg" />
+    <reverse file="SNG Kayhan 462-75 (R).jpg" />
+  </image>
+  <origin price="35" currency="EUR" rate="1" fee="15.0%" 
+          seller="Brumus Numismatica" date="22.10.2018" auction="Auction V" lot="35" invoice="Brumus Numismatica - 01" />
+  <remark>SNG Kayhan 462-75, SNG Copenhagen 953</remark>
+</coin>

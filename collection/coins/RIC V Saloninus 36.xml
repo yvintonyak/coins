@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC V Saloninus 36">
+  <identity set="Roman Imperial" />
+  <emperor name="Saloninus Caesar" />
+  <denomination name="Antoninian" />
+  <mint>
+    <date from="256" />
+    <place region="Asia" />
+  </mint>
+  <obverse>
+    <legend>SALON VALERIANVS NOB CAES</legend>
+    <description>Bust of Saloninus, radiate, draped, right</description>
+  </obverse>
+  <reverse>
+    <legend>SPES PVBLICA</legend>
+    <description>Spes, draped, presenting flower to Saloninus with right hand and holding skirt with left hand; Saloninus in military attire and holding spear</description>
+  </reverse>
+  <measurement diameter="21 mm" weight="3.60 g" />
+  <image>
+    <obverse file="RIC V Saloninus 36 (A).jpg" />
+    <reverse file="RIC V Saloninus 36 (R).jpg" />
+  </image>
+  <deity name="Spes" />
+  <origin price="70" currency="GBP" rate="1.17" fee="0.0%" 
+          seller="Carpe Diem Numismatics" date="03.10.2019" auction="eBay" lot="3190" invoice="Carpe Diem - 03" />
+  <legend>
+    <obverse>
+      <entry key="SALON VALERIANVS" />
+      <entry key="NOB CAES" />
+    </obverse>
+    <reverse>
+      <entry key="SPES PVBLICA" />
+    </reverse>
+  </legend>
+</coin>

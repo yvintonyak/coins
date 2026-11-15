@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<deities>
+  <deity name="Abundantia" description="divine personification of wealth and prosperity" />
+  <deity name="Aequitas" description="divine personification of fairness" />
+  <deity name="Annona" description="divine personification of the grain supply to the city of Rome" />
+  <deity name="Apollo" description="god of poetry, music, and oracles, and one of the Dii Consentes (twelve major deities)" />
+  <deity name="Artemis" description="Greek goddess of the hunt, the wilderness, nature, childbirth, care of children, and chastity" />
+  <deity name="Athena" description="Greek goddess of wisdom, war, the arts, industries and trades" />
+  <deity name="Bonus Eventus" description="divine personification of 'good outcome'" />
+  <deity name="Castor and Pollux" description="known as Gemini, semi-divine twin half-brothers, sons of Jupiter; credited with the role of saving those in trouble at sea or in danger in war" />
+  <deity name="Concordia" description="goddess of agreement, understanding, and marital harmony" />
+  <deity name="Constantinopolis" description="divine personification of the city of Constantinople" />
+  <deity name="Diana" description="goddess of the hunt, the moon, virginity, and childbirth, twin sister of Apollo and one of the Dii Consentes (twelve major deities)" />
+  <deity name="Euphrates" description="river god of Euphrates" />
+  <deity name="Fecunditas" description="divine personification of fertility" />
+  <deity name="Felicitas" description="divine personification of good luck and success" />
+  <deity name="Fides" description="divine personification of loyalty" />
+  <deity name="Fortuna" description="goddess of fortune" />
+  <deity name="Genius" description="protecting spirit or divinity of each individual" />
+  <deity name="Hera" description="Greek goddess of marriage, women and family" />
+  <deity name="Hercules" description="god of strength, whose worship was derived from the Greek hero Heracles, but took on a distinctly Roman character" />
+  <deity name="Hercules Deusoniensis" description="germanic god, appearence of Donar (Thor) as Hercules" />
+  <deity name="Honos" description="divine personification of honor" />
+  <deity name="Indulgentia" description="devine personification of indulgence, goodness, kindness" />
+  <deity name="Juno Lucina" description="queen of gods, epithet 'Lucina' - goddess of light and childbirth; one of the Dii Consentes (twelve major deities)" />
+  <deity name="Juno Moneta" description="queen of gods, epithet 'Moneta' - divine protectress of funds and mint; one of the Dii Consentes (twelve major deities)" />
+  <deity name="Juno Regina" description="queen of gods, epithet 'Regina' - the Queen; one of the Dii Consentes (twelve major deities)" />
+  <deity name="Jupiter" description="king of gods, god of storms, lightning, sky, and one of the Dii Consentes (twelve major deities)" />
+  <deity name="Laetitia" description="divine personification of joy and happiness" />
+  <deity name="Liberalitas" description=" goddess or divine personification of generosity" />
+  <deity name="Libertas" description="goddess or divine personification of freedom" />
+  <deity name="Mars" description="god of war and father of Romulus, the founder of Rome; one of the Dii Consentes (twelve major deities)" />
+  <deity name="Minerva" description="goddess of wisdom, war, the arts, industries and trades, and one of the Dii Consentes (twelve major deities)" />
+  <deity name="Neptune" description="god of the sea, earthquakes, and horses, and one of the Dii Consentes (twelve major deities)" />
+  <deity name="Nike" description="Greek goddess of victory" />
+  <deity name="Pan" description="god of the wild, shepherds and rustic music" />
+  <deity name="Pax" description="goddess of peace" />
+  <deity name="Persephone" description="Greek goddess of spring growth, daughter of Zeus; queen of the underworld, wife of Hades" />
+  <deity name="Pietas" description="goddess of duty; divine personification of the Roman virtue pietas ('duty', 'religiosity', 'loyalty')" />
+  <deity name="Providentia" description="goddess of foresight" />
+  <deity name="Pudicitia" description="goddess and divine personification of chastity (purity), one of the Roman virtues" />
+  <deity name="Roma" description="divine personification of the Roman state" />
+  <deity name="Romulus" description="the founder of Rome; son of Mars" />
+  <deity name="Salus" description="goddess of safety and well-being (welfare, health and prosperity) of the Roman people" />
+  <deity name="Securitas" description="goddess of security, especially the security of the Roman state" />
+  <deity name="Serapis" description="Graeco-Egyptian deity of the sun, derived from the Egyptian Osiris and Apis" />
+  <deity name="Sol Invictus" description="god of the sun; invincible" />
+  <deity name="Spes" description="goddess of hope" />
+  <deity name="Tyche" description="Greek goddess of fortune and prosperity" />
+  <deity name="Venus" description="goddess of love, beauty, sexuality, and gardens; mother of the founding hero Aeneas; one of the Dii Consentes (twelve major deities)" />
+  <deity name="Vesta" description="goddess of the hearth (firepace), the Roman state, and the sacred fire; one of the Dii Consentes (twelve major deities)" />
+  <deity name="Victoria" description="goddess of victory" />
+  <deity name="Virtus" description="god or goddess of military strength, divine personification of the Roman virtue of virtus (valor, manliness, courage)" />
+  <deity name="Zeus" description="Greek god of the sky and thunder" />
+</deities>

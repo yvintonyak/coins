@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC IX Nicomedia 46C">
+  <identity set="Roman Imperial" />
+  <emperor name="Honorius" />
+  <denomination name="Maiorina" />
+  <mint>
+    <date from="392" to="395" />
+    <place city="Nicomedia" region="Bithynia et Pontus" />
+  </mint>
+  <obverse>
+    <legend>D N HONORIVS P F AVG</legend>
+    <description>Bust of Honorius, pearl-diademed, draped and cuirassed, right</description>
+  </obverse>
+  <reverse>
+    <legend>GLORIA - ROMANORVM || SMNA</legend>
+    <description>Emperor, head right, standing facing, holding standard and globe</description>
+  </reverse>
+  <measurement diameter="22 mm" weight="4.96 g" />
+  <image>
+    <obverse file="RIC IX Nicomedia 46C [2] (A).jpg" />
+    <reverse file="RIC IX Nicomedia 46C [2] (R).jpg" />
+  </image>
+  <origin price="120" currency="EUR" rate="1" fee="14.9%" 
+          seller="Numismatik Naumann GmbH" date="01.03.2020" auction="Auktion 87" lot="724" invoice="Numismatik Naumann - 14" />
+  <legend>
+    <obverse>
+      <entry key="D N" />
+      <entry key="HONORIVS" />
+      <entry key="P F" />
+      <entry key="AVG" />
+    </obverse>
+    <reverse>
+      <entry key="GLORIA ROMANORVM" />
+    </reverse>
+    <mintmark mint="SMNA" />
+  </legend>
+</coin>

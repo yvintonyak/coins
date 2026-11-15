@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC IX Treveri 27D">
+  <identity set="Roman Imperial" />
+  <emperor name="Valentinianus I" />
+  <denomination name="Siliqua" />
+  <mint>
+    <date from="367" to="375" />
+    <place city="Augusta Treverorum" region="Gallia Belgica" />
+  </mint>
+  <obverse>
+    <legend>D N VALENTINI-ANVS P F AVG</legend>
+    <description>Bust of Valentinian I, pearl-diademed, draped and cuirassed, right</description>
+  </obverse>
+  <reverse>
+    <legend>VRBS – ROMA || TRPS•</legend>
+    <description>Roma seated left on throne, holding Victory on globe and spear</description>
+  </reverse>
+  <measurement diameter="16 mm" weight="2.03 g" />
+  <image>
+    <obverse file="RIC IX Treveri 27D (A).jpg" />
+    <reverse file="RIC IX Treveri 27D (R).jpg" />
+  </image>
+  <deity name="Roma" />
+  <origin price="180" currency="GBP" rate="1.13" fee="20.0%" 
+          seller="Bertolami Fine Arts Ltd" date="15.09.2019" auction=" E-Live Auktion 73" lot="1426" invoice="Bertolami Fine Arts - 03" />
+  <legend>
+    <obverse>
+      <entry key="D N" />
+      <entry key="VALENTINIANVS[I]" />
+      <entry key="P F" />
+      <entry key="AVG" />
+    </obverse>
+    <reverse>
+      <entry key="VRBS ROMA" />
+    </reverse>
+    <mintmark mint="TRPS•" />
+  </legend>
+</coin>

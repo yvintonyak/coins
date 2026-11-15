@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC VI Ticinum 108">
+  <identity set="Roman Imperial" />
+  <emperor name="Maxentius" />
+  <denomination name="Follis" />
+  <mint>
+    <date from="308" to="310" />
+    <place city="Ticinum" region="Italia" />
+  </mint>
+  <obverse>
+    <legend>IMP MAXENTIVS P F AVG</legend>
+    <description>Head of Maxentius, laureate, right</description>
+  </obverse>
+  <reverse>
+    <legend>CONSERV - VRB SVAE || ST</legend>
+    <description>Victory standing left crowning Roma seated facing, head left, in tetrastyle temple, holding globe in right hand and sceptre in left hand</description>
+  </reverse>
+  <measurement diameter="25 mm" weight="5.83 g" />
+  <image>
+    <obverse file="RIC VI Ticinum 108 (A).jpg" />
+    <reverse file="RIC VI Ticinum 108 (R).jpg" />
+  </image>
+  <deity name="Victoria, Roma" />
+  <origin price="35" currency="EUR" rate="1" fee="18%" 
+          seller="Jesus Vico S.A." date="09.02.2021" auction="Subasta Online 12" lot="240" invoice="Jesus Vico - 01" />
+  <legend>
+    <obverse>
+      <entry key="IMP" />
+      <entry key="MAXENTIVS" />
+      <entry key="P F" />
+      <entry key="AVG" />
+    </obverse>
+    <reverse>
+      <entry key="CONSERV VRB SVAE" />
+    </reverse>
+    <mintmark mint="ST" />
+  </legend>
+</coin>

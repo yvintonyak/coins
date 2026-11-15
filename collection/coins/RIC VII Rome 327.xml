@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC VII Rome 327">
+  <identity set="Roman Imperial" />
+  <emperor name="Constantinus I" />
+  <denomination name="Follis" />
+  <mint>
+    <date from="330" />
+    <place city="Roma" region="Italia" />
+  </mint>
+  <obverse>
+    <legend>CONSTANTI-NVS MAX AVG</legend>
+    <description>Bust of Constantine I, rosette-diademed, draped, cuirassed, right</description>
+  </obverse>
+  <reverse>
+    <legend>GLOR-IA EXERC-ITVS || RFP</legend>
+    <description>Two soldiers, helmeted, draped, cuirassed, standing facing each other, each holding reversed spear in outer hand and resting inner hand on shield; between them, two standards</description>
+  </reverse>
+  <measurement diameter="18 mm" weight="2.13 g" />
+  <image>
+    <obverse file="RIC VII Rome 327 (A).jpg" />
+    <reverse file="RIC VII Rome 327 (R).jpg" />
+  </image>
+  <origin price="71" currency="EUR" rate="1" fee="14.9%" 
+          seller="Numismatik Naumann GmbH" date="07.07.2019" auction="Auktion 79" lot="692" invoice="Numismatik Naumann - 06" />
+  <legend>
+    <obverse>
+      <entry key="CONSTANTINVS[I]" />
+      <entry key="MAX" />
+      <entry key="AVG" />
+    </obverse>
+    <reverse>
+      <entry key="GLORIA EXERCITVS" />
+    </reverse>
+    <mintmark mint="RFP" />
+  </legend>
+</coin>

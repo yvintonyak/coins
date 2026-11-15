@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC X Valentinian III 2113">
+  <identity set="Roman Imperial" />
+  <emperor name="Galla Placidia" />
+  <denomination name="Nummus" />
+  <mint>
+    <date from="425" to="435" />
+    <place city="Roma" region="Italia" />
+  </mint>
+  <obverse>
+    <legend>[D N GALLA PLA-CIDIA P F AVG]</legend>
+    <description>Bust of Galla Placidia, pearl-diademed, draped, right, wearing necklace and earrings</description>
+  </obverse>
+  <reverse>
+    <legend>[SALVS REI - PVBLICAE] || [RPM]</legend>
+    <description>Cross</description>
+  </reverse>
+  <measurement diameter="12 mm" weight="1.1 g" />
+  <image>
+    <obverse file="RIC X Valentinian III 2113 (A).jpg" />
+    <reverse file="RIC X Valentinian III 2113 (R).jpg" />
+  </image>
+  <origin price="75" currency="EUR" rate="1" fee="20%" 
+          seller="Artemide Kunstauktionen GmbH" date="12.04.2026" auction="e-Live Auction 42" lot="583" invoice="Artemide Aste - 08" />
+  <remark>Probably a barbaric imitation from the Migration Period</remark>
+  <legend>
+    <obverse>
+      <entry key="D N[a]" />
+      <entry key="GALLA PLACIDIA" />
+      <entry key="P F[a]" />
+      <entry key="AVG[usta]" />
+    </obverse>
+    <reverse>
+      <entry key="SALVS REIPVBLICAE" />
+    </reverse>
+    <mintmark mint="RPM" />
+  </legend>
+</coin>

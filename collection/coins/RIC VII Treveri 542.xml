@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC VII Treveri 542">
+  <identity set="Roman Imperial" />
+  <emperor name="Constantinus I" />
+  <denomination name="Follis" />
+  <mint>
+    <date from="332" to="333" />
+    <place city="Augusta Treverorum" region="Gallia Belgica" />
+  </mint>
+  <obverse>
+    <legend>VRBS - ROMA</legend>
+    <description>Bust of Roma, helmeted, wearing imperial cloak, left</description>
+  </obverse>
+  <reverse>
+    <legend> || TR•P</legend>
+    <description>She-wolf, standing left, suckling twins; above, two stars</description>
+  </reverse>
+  <measurement diameter="17 mm" weight="2.49 g" />
+  <image>
+    <obverse file="RIC VII Treveri 542 (A).jpg" />
+    <reverse file="RIC VII Treveri 542 (R).jpg" />
+  </image>
+  <deity name="Roma" />
+  <origin price="65" currency="EUR" rate="1" fee="0.0%" 
+          seller="Stuttgarter Münzenmesse" date="21.09.2019" auction="" lot="" invoice="Stuttgarter Münzenmesse - 01" />
+  <remark>Commemorative Series</remark>
+  <legend>
+    <obverse>
+      <entry key="VRBS ROMA" />
+    </obverse>
+    <mintmark mint="TR•P" />
+  </legend>
+</coin>

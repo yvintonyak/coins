@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC IV Caracalla 141">
+  <identity set="Roman Imperial" />
+  <emperor name="Caracalla" />
+  <denomination name="Denar" />
+  <mint>
+    <date from="201" to="210" />
+    <place city="Roma" region="Italia" />
+  </mint>
+  <obverse>
+    <legend>ANTONINVS PIVS AVG</legend>
+    <description>Bust of Caracalla, laureate, draped, right</description>
+  </obverse>
+  <reverse>
+    <legend>RECTOR ORBIS</legend>
+    <description>Sol, radiate, naked except for cloak over left shoulder, standing front, head left, holding globe in extended right hand and spear in left hand</description>
+  </reverse>
+  <measurement diameter="18 mm" weight="3.33 g" />
+  <image>
+    <obverse file="RIC IV Caracalla 141 (A).jpg" />
+    <reverse file="RIC IV Caracalla 141 (R).jpg" />
+  </image>
+  <deity name="Sol Invictus" />
+  <origin price="46" currency="EUR" rate="1" fee="18.5%" 
+          seller="Numismatik Zöttl" date="30.11.2019" auction="eLive Auktion 3" lot="498" invoice="Numismatik Zöttl - 01" />
+  <legend>
+    <obverse>
+      <entry key="ANTONINVS[caracalla]" />
+      <entry key="PIVS" />
+      <entry key="AVG" />
+    </obverse>
+    <reverse>
+      <entry key="RECTOR ORBIS" />
+    </reverse>
+  </legend>
+</coin>

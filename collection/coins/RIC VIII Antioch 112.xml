@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC VIII Antioch 112">
+  <identity set="Roman Imperial" />
+  <emperor name="Divus Constantinus I" />
+  <denomination name="Follis" />
+  <mint>
+    <date from="347" to="348" />
+    <place city="Antiochia" region="Syria" />
+  </mint>
+  <obverse>
+    <legend>DV CONSTANTI-NVS PT AVGG</legend>
+    <description>Bust of Divus Constantinus I, veiled, draped, cuirassed, right</description>
+  </obverse>
+  <reverse>
+    <legend>VN - MR || SMANΔ</legend>
+    <description>Constantinus I, veiled, draped, standing right, raising left hand</description>
+  </reverse>
+  <measurement diameter="14 mm" weight="1,95 g" />
+  <image>
+    <obverse file="RIC VIII Antioch 112 (A).jpg" />
+    <reverse file="RIC VIII Antioch 112 (R).jpg" />
+  </image>
+  <origin price="24" currency="EUR" rate="1" fee="18.0%" 
+          seller="Savoca Numismatik GmbH" date="27.06.2021" auction="106th Blue Auction" lot="1549" invoice="Savoca Numismatik - 32" />
+  <remark>From the Tareq Hani collection</remark>
+  <legend>
+    <obverse>
+      <entry key="DV CONSTANTINVS" />
+      <entry key="PT AVGG" />
+    </obverse>
+    <reverse>
+      <entry key="VN MR" />
+    </reverse>
+    <mintmark mint="SMANΔ" />
+  </legend>
+</coin>

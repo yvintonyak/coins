@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC IV Caecilia Paulina 3">
+  <identity set="Roman Imperial" />
+  <emperor name="Diva Paulina" />
+  <denomination name="Sestertius" />
+  <mint>
+    <date from="235" to="236" />
+    <place city="Roma" region="Italia" />
+  </mint>
+  <obverse>
+    <legend>DIVA PAVLINA</legend>
+    <description>Bust of Paulina, veiled, draped, right</description>
+  </obverse>
+  <reverse>
+    <legend>CONSECRATIO | S C</legend>
+    <description>Paulina, draped, holding sceptre, seated left on peacock flying right to heaven</description>
+  </reverse>
+  <measurement diameter="31 mm" weight="19.9 g" />
+  <image>
+    <obverse file="RIC IV Caecilia Paulina 3 (A).jpg" />
+    <reverse file="RIC IV Caecilia Paulina 3 (R).jpg" />
+  </image>
+  <origin price="240" currency="GBP" rate="1.2" fee="21%" 
+          seller="N&amp;N London Ltd" date="04.11.2023" auction="Online Auction 39" lot="776" invoice="NN London - 02" />
+  <legend>
+    <obverse>
+      <entry key="DIVA" />
+      <entry key="PAVLINA" />
+    </obverse>
+    <reverse>
+      <entry key="CONSECRATIO" />
+      <entry key="S C" />
+    </reverse>
+  </legend>
+</coin>

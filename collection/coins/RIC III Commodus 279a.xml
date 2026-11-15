@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC III Commodus 279a">
+  <identity set="Roman Imperial" />
+  <emperor name="Bruttia Crispina" />
+  <denomination name="Denar" />
+  <mint>
+    <date from="178" to="191" />
+    <place city="Roma" region="Italia" />
+  </mint>
+  <obverse>
+    <legend>CRISPINA AVG</legend>
+    <description>Bust of Crispina, draped, hair in round coil at back, right</description>
+  </obverse>
+  <reverse>
+    <legend>CONCORDIA</legend>
+    <description>Clasped right hands</description>
+  </reverse>
+  <measurement diameter="18 mm" weight="2.68 g" />
+  <image>
+    <obverse file="RIC III Commodus 279a (A).jpg" />
+    <reverse file="RIC III Commodus 279a (R).jpg" />
+  </image>
+  <origin price="120" currency="EUR" rate="1" fee="14.9%" 
+          seller="Numismatik Naumann GmbH" date="07.07.2019" auction="Auktion 79" lot="576" invoice="Numismatik Naumann - 06" />
+  <legend>
+    <obverse>
+      <entry key="CRISPINA" />
+      <entry key="AVG[usta]" />
+    </obverse>
+    <reverse>
+      <entry key="CONCORDIA" />
+    </reverse>
+  </legend>
+</coin>

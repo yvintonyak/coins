@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC VII Rome 112">
+  <identity set="Roman Imperial" />
+  <emperor name="Divus Claudius II Gothicus" />
+  <denomination name="Half Follis" />
+  <mint>
+    <date from="317" to="318" />
+    <place city="Roma" region="Italia" />
+  </mint>
+  <obverse>
+    <legend>DIVO CLAVDIO OPT IMP</legend>
+    <description>Head of Claudius II Gothicus, veiled, laureate, right</description>
+  </obverse>
+  <reverse>
+    <legend>MEMORIAE AETERNAE || RQ</legend>
+    <description>Eagle, standing right, head left</description>
+  </reverse>
+  <measurement diameter="16 mm" weight="1.72 g" />
+  <image>
+    <obverse file="RIC VII Rome 112 (A).jpg" />
+    <reverse file="RIC VII Rome 112 (R).jpg" />
+  </image>
+  <origin price="40" currency="EUR" rate="1" fee="20%" 
+          seller="Artemide Aste s.r.l." date="07.09.2025" auction="Auktion 72E" lot="579" invoice="Artemide Aste - 07" />
+  <legend>
+    <obverse>
+      <entry key="DIVO CLAVDIO" />
+      <entry key="OPT IMP" />
+    </obverse>
+    <reverse>
+      <entry key="MEMORIAE AETERNAE" />
+    </reverse>
+    <mintmark mint="RQ" />
+  </legend>
+</coin>

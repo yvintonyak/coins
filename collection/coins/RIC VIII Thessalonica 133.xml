@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC VIII Thessalonica 133">
+  <identity set="Roman Imperial" />
+  <emperor name="Constantius II" />
+  <denomination name="Centenionalis" />
+  <mint>
+    <date from="350" />
+    <place city="Thessalonica" region="Macedonia" />
+  </mint>
+  <obverse>
+    <legend>D N CONSTAN-TIVS P F AVG | A</legend>
+    <description>Bust of Constantius II, pearl-diademed, draped, cuirassed, right; A behind bust</description>
+  </obverse>
+  <reverse>
+    <legend>FEL TEMP - REPARATIO | B | * || •TSA•</legend>
+    <description>Constantius II, draped, cuirassed, standing left on galley, holding Victory on globe in right hand and standard with Chi-Rho on banner in left hand; steering the ship, seated Victory</description>
+  </reverse>
+  <measurement diameter="22.5 mm" weight="6.08 g" />
+  <image>
+    <obverse file="RIC VIII Thessalonica 133 (A).jpg" />
+    <reverse file="RIC VIII Thessalonica 133 (R).jpg" />
+  </image>
+  <origin price="19" currency="EUR" rate="1" fee="22.0%" 
+          seller="Numismatik Zöttl" date="20.11.2021" auction="eLive Auktion 6" lot="133" invoice="Numismatik Zöttl - 03" />
+  <legend>
+    <obverse>
+      <entry key="D N" />
+      <entry key="CONSTANTIVS[II]" />
+      <entry key="P F" />
+      <entry key="AVG" />
+    </obverse>
+    <reverse>
+      <entry key="FEL TEMP REPARATIO" />
+    </reverse>
+    <mintmark mint="B | * || •TSA•" />
+  </legend>
+</coin>

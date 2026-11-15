@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RPC I 2900">
+  <identity set="Roman Provincial" />
+  <emperor name="Gaius Caesar" />
+  <denomination name="Hemiassarion" />
+  <mint>
+    <date from="5 BC" />
+    <place city="Laodikeia" region="Phrygia" />
+  </mint>
+  <obverse>
+    <legend>ΓΑΙΟΣ ΚΑΙΣΑΡ</legend>
+    <description>Bare head of Gaius Caesar right</description>
+  </obverse>
+  <reverse>
+    <legend>ΠΟΛΕ ΦΙΛΟΠΑΤ ΛΑΟΔΙΚΕΩΝ</legend>
+    <description>Eagle standing front, wings spread and head to left, between monograms of ΠΟΛΕ and ΦΙΛΟΠΑΤ</description>
+  </reverse>
+  <measurement diameter="16.2 mm" weight="3.2 g" />
+  <image>
+    <obverse file="RPC I 2900 (A).jpg" />
+    <reverse file="RPC I 2900 (R).jpg" />
+  </image>
+  <origin price="120" currency="EUR" rate="1" fee="18.0%" 
+          seller="Lydia Numismatics" date="08.05.2021" auction="Online Auktion 7" lot="665" invoice="Lydia Numismatics - 01" />
+  <remark>Magistrate Antonius Polemon Philopatris</remark>
+</coin>

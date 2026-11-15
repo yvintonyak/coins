@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC VII Constantinople 22">
+  <identity set="Roman Imperial" />
+  <emperor name="Constantinus I" />
+  <denomination name="Follis" />
+  <mint>
+    <date from="327" to="328" />
+    <place city="Constantinopolis" region="Thracia" />
+  </mint>
+  <obverse>
+    <legend>CONSTANTI-NVS MAX AVG</legend>
+    <description> Head of Constantine I, rosette-diademed, right</description>
+  </obverse>
+  <reverse>
+    <legend>GLORIA - EXERCITVS | Γ || CONS</legend>
+    <description>Soldier, draped, cuirassed, standing left, head right, holding reversed spear in right hand and placing left hand on shield</description>
+  </reverse>
+  <measurement diameter="19 mm" weight="2.55 g" />
+  <image>
+    <obverse file="RIC VII Constantinople 22 (A).jpg" />
+    <reverse file="RIC VII Constantinople 22 (R).jpg" />
+  </image>
+  <origin price="50" currency="EUR" rate="1" fee="18.9%" 
+          seller="Numismatik Naumann GmbH" date="05.11.2023" auction="Auktion 134" lot="651" invoice="Numismatik Naumann - 29" />
+  <legend>
+    <obverse>
+      <entry key="CONSTANTINVS[I]" />
+      <entry key="MAX" />
+      <entry key="AVG" />
+    </obverse>
+    <reverse>
+      <entry key="GLORIA EXERCITVS" />
+    </reverse>
+    <mintmark mint="Γ || CONS" />
+  </legend>
+</coin>

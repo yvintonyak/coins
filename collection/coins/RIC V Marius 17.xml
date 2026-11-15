@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC V Marius 17">
+  <identity set="Roman Imperial" />
+  <emperor name="Marius" />
+  <denomination name="Antoninian" />
+  <mint>
+    <date from="269" />
+    <place region="Unknown" />
+  </mint>
+  <obverse>
+    <legend>IMP C M AVR MARIVS [AVG]</legend>
+    <description>Bust of Marius, radiate, draped, cuirassed, right</description>
+  </obverse>
+  <reverse>
+    <legend>[VICT]ORIA AVG</legend>
+    <description>Victory, winged, draped, standing or walking left, holding wreath in right hand and palm in left hand</description>
+  </reverse>
+  <measurement diameter="19 mm" weight="2.51 g" />
+  <image>
+    <obverse file="RIC V Marius 17 (A).jpg" />
+    <reverse file="RIC V Marius 17 (R).jpg" />
+  </image>
+  <deity name="Victoria" />
+  <origin price="110" currency="EUR" rate="1" fee="25.5%" 
+          seller="Berliner Münzauktion" date="31.10.2020" auction="Auktion 125" lot="438" invoice="Berliner Münzauktion - 01" />
+  <legend>
+    <obverse>
+      <entry key="IMP" />
+      <entry key="C" />
+      <entry key="M AVR MARIVS" />
+      <entry key="AVG" />
+    </obverse>
+    <reverse>
+      <entry key="VICTORIA AVG" />
+    </reverse>
+  </legend>
+</coin>

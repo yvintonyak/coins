@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC IV Philip I 126">
+  <identity set="Roman Imperial" />
+  <emperor name="Otacilia Severa" />
+  <denomination name="Antoninian" />
+  <mint>
+    <date from="246" to="248" />
+    <place city="Roma" region="Italia" />
+  </mint>
+  <obverse>
+    <legend>M OTACIL SEVERA AVG</legend>
+    <description>Bust of Otacilia Severa, diademed, draped, on crescent, right</description>
+  </obverse>
+  <reverse>
+    <legend>CONCORDIA AVGG</legend>
+    <description>Concordia, draped, seated left, holding patera in right hand and cornucopiae in left hand; to left, altar</description>
+  </reverse>
+  <measurement diameter="23 mm" weight="3.92 g" />
+  <image>
+    <obverse file="RIC IV Philip I 126 (A).jpg" />
+    <reverse file="RIC IV Philip I 126 (R).jpg" />
+  </image>
+  <deity name="Concordia" />
+  <origin price="38" currency="EUR" rate="1" fee="18.0%" 
+          seller="Savoca Numismatik GmbH" date="23.06.2019" auction="21st Blue Auction" lot="1671" invoice="Savoca Numismatik - 19" />
+  <legend>
+    <obverse>
+      <entry key="M OTACIL SEVERA" />
+      <entry key="AVG[usta]" />
+    </obverse>
+    <reverse>
+      <entry key="CONCORDIA AVGG" />
+    </reverse>
+  </legend>
+</coin>

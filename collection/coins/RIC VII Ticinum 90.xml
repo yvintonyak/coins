@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC VII Ticinum 90">
+  <identity set="Roman Imperial" />
+  <emperor name="Constantinus I" />
+  <denomination name="Follis" />
+  <mint>
+    <date from="319" />
+    <place city="Ticinum" region="Italia" />
+  </mint>
+  <obverse>
+    <legend>IMP CONSTAN-TINVS MAX AVG</legend>
+    <description>Bust of Constantine I, laureate, helmeted, cuirassed, right</description>
+  </obverse>
+  <reverse>
+    <legend>VICTORIAE LAETAE PRINC PERP | VOT|P R | C || ST</legend>
+    <description>Two Victories, winged, draped, facing each other, holding a shield inscribed VOT|PR supported by a column; C on column</description>
+  </reverse>
+  <measurement diameter="?" weight="2.70 g" />
+  <image>
+    <obverse file="RIC VII Ticinum 90 (A).jpg" />
+    <reverse file="RIC VII Ticinum 90 (R).jpg" />
+  </image>
+  <deity name="Victoria" />
+  <origin price="29" currency="EUR" rate="1" fee="22.0%" 
+          seller="Numismatik Zöttl" date="20.11.2021" auction="eLive Auktion 6" lot="165" invoice="Numismatik Zöttl - 03" />
+  <legend>
+    <obverse>
+      <entry key="IMP" />
+      <entry key="CONSTANTINVS[I]" />
+      <entry key="MAX" />
+      <entry key="AVG" />
+    </obverse>
+    <reverse>
+      <entry key="VICTORIAE LAETAE PRINC PERP" />
+      <entry key="VOT P R" />
+    </reverse>
+    <mintmark mint="ST" />
+  </legend>
+</coin>

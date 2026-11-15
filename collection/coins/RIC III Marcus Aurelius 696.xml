@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC III Marcus Aurelius 696">
+  <identity set="Roman Imperial" />
+  <emperor name="Faustina Minor" />
+  <denomination name="Denar" />
+  <mint>
+    <date from="161" to="175" />
+    <place city="Roma" region="Italia" />
+  </mint>
+  <obverse>
+    <legend>FAVSTINA AVGVSTA</legend>
+    <description>Bust of Faustina Minor, wearing circlet of pearls, hair waved and fastened in a bun on back of head, draped, right</description>
+  </obverse>
+  <reverse>
+    <legend>IVNONI REGINAE</legend>
+    <description>Juno, veiled, draped, standing left, holding patera in extended right hand and sceptre in left hand; at left, peacock</description>
+  </reverse>
+  <measurement diameter="17 mm" weight="3.07 g" />
+  <image>
+    <obverse file="RIC III Marcus Aurelius 696 (A).jpg" />
+    <reverse file="RIC III Marcus Aurelius 696 (R).jpg" />
+  </image>
+  <deity name="Juno Regina" />
+  <origin price="90" currency="EUR" rate="1" fee="14.9%" 
+          seller="Numismatik Naumann GmbH" date="03.02.2019" auction="Auktion 74" lot="365" invoice="Numismatik Naumann - 02" />
+  <legend>
+    <obverse>
+      <entry key="FAVSTINA[minor]" />
+      <entry key="AVGVSTA" />
+    </obverse>
+    <reverse>
+      <entry key="IVNONI REGINAE" />
+    </reverse>
+  </legend>
+</coin>

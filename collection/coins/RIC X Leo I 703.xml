@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC X Leo I 703">
+  <identity set="Byzantine Empire" />
+  <emperor name="Leo I" />
+  <denomination name="Nummus" />
+  <mint>
+    <date from="457" to="474" />
+    <place city="Constantinopolis"/>
+  </mint>
+  <obverse>
+    <legend>D N L-E[O]</legend>
+    <description>Bust of Leo I, pearl-diademed, draped, cuirassed, right</description>
+  </obverse>
+  <reverse>
+    <legend>[✷] || CN</legend>
+    <description>Leo I, draped, cuirassed, facing front, head left, holding long cross in right hand and placing left hand on head of kneeling captive; star in left field</description>
+  </reverse>
+  <measurement diameter="12 mm" weight="1.12 g" />
+  <image>
+    <obverse file="RIC X Leo I 703 (A).jpg" />
+    <reverse file="RIC X Leo I 703 (R).jpg" />
+  </image>
+ <origin price="65" currency="EUR" rate="1" fee="18.0%" 
+          seller="Savoca Numismatik GmbH" date="27.11.2022" auction="149th Blue Auction" lot="1846" invoice="Savoca Numismatik - 39" />
+  <remark></remark>
+  <legend>
+    <obverse>
+      <entry key="D N" />
+      <entry key="LEO" />
+    </obverse>
+    <mintmark mint="CN" />
+  </legend>
+</coin>

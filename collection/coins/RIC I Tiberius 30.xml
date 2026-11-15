@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC I Tiberius 30">
+  <identity set="Roman Imperial" />
+  <emperor name="Tiberius" />
+  <denomination name="Denar" />
+  <mint>
+    <date from="14" to="37" />
+    <place city="Lugdunum" region="Gallia Lugdunensis" />
+  </mint>
+  <obverse>
+    <legend>TI CAESAR DIVI AVG F AVGVSTVS</legend>
+    <description>Head of Tiberius, laureate, right</description>
+  </obverse>
+  <reverse>
+    <legend>PONTIF MAXIM</legend>
+    <description>Female figure (Livia as Pax), draped, right, seated, right holding branch and long vertical sceptre, on chair with ornamented legs; below chair, a single line</description>
+  </reverse>
+  <measurement diameter="17.5 mm" weight="3.57 g" />
+  <image>
+    <obverse file="RIC I Tiberius 30 (A).jpg" />
+    <reverse file="RIC I Tiberius 30 (R).jpg" />
+  </image>
+  <deity name="Pax" />
+  <origin price="321" currency="EUR" rate="1" fee="23.0%" 
+          seller="Kölner Münzkabinett" date="04.05.2019" auction="Auktion 111" lot="187" invoice="Kölner Münzkabinett - 01" />
+  <remark>Tribute penny</remark>
+  <legend>
+    <obverse>
+      <entry key="TI" />
+      <entry key="CAESAR" />
+      <entry key="DIVI AVG F" />
+      <entry key="AVGVSTVS" />
+    </obverse>
+    <reverse>
+      <entry key="PONTIF MAXIM" />
+    </reverse>
+  </legend>
+</coin>

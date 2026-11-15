@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC IV Caracalla 363A">
+  <identity set="Roman Imperial" />
+  <emperor name="Plautilla" />
+  <denomination name="Denar" />
+  <mint>
+    <date from="202" to="205" />
+    <place city="Roma" region="Italia" />
+  </mint>
+  <obverse>
+    <legend>PLAVTILLA AVGVSTA</legend>
+    <description>Bust of Plautilla, hair coiled in ridges, fastened in bun at back, draped, right</description>
+  </obverse>
+  <reverse>
+    <legend>CONCORDIA AVGG</legend>
+    <description>Concordia, draped, standing left, holding patera in extended right hand and sceptre in left hand</description>
+  </reverse>
+  <measurement diameter="18 mm" weight="3.43 g" />
+  <image>
+    <obverse file="RIC IV Caracalla 363A (A).jpg" />
+    <reverse file="RIC IV Caracalla 363A (R).jpg" />
+  </image>
+  <deity name="Concordia" />
+  <origin price="90" currency="EUR" rate="1" fee="15.0%" 
+          seller="Ars Coin Wien" date="27.10.2018" auction="Ars Coin Wien 15" lot="328" invoice="Ars Coin Wien - 01" />
+  <legend>
+    <obverse>
+      <entry key="PLAVTILLA" />
+      <entry key="AVGVSTA" />
+    </obverse>
+    <reverse>
+      <entry key="CONCORDIA AVGG" />
+    </reverse>
+  </legend>
+</coin>

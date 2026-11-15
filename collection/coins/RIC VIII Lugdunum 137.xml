@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC VIII Lugdunum 137">
+  <identity set="Roman Imperial" />
+  <emperor name="Decentius Caesar" />
+  <denomination name="Centenionalis" />
+  <mint>
+    <date from="351" to="353" />
+    <place city="Lugdunum" region="Gallia Lugdunensis" />
+  </mint>
+  <obverse>
+    <legend>D N DECENTIVS NOB CAES</legend>
+    <description>Bust of Decentius, bareheaded, cuirassed, right</description>
+  </obverse>
+  <reverse>
+    <legend>VICTORIAE DD NN AVG ET CAE | VOT|V|MVLT|X | S P || RSLG</legend>
+    <description>Two Victories, winged, draped, standing facing each other, holding between them wreath inscribed VOT/V/MVLT/X</description>
+  </reverse>
+  <measurement diameter="22.5 mm" weight="4.77 g" />
+  <image>
+    <obverse file="RIC VIII Lugdunum 137 (A).jpg" />
+    <reverse file="RIC VIII Lugdunum 137 (R).jpg" />
+  </image>
+  <deity name="Victoria" />
+  <origin price="100" currency="EUR" rate="1" fee="23.0%" 
+          seller="Kölner Münzkabinett" date="04.04.2020" auction="Auktion 113" lot="398" invoice="Kölner Münzkabinett - 03" />
+  <legend>
+    <obverse>
+      <entry key="D N" />
+      <entry key="DECENTIVS" />
+      <entry key="NOB CAES" />
+    </obverse>
+    <reverse>
+      <entry key="VICTORIAE DD NN AVG ET CAE" />
+      <entry key="VOT V" />
+      <entry key="MVLT X" />
+    </reverse>
+    <mintmark mint="S P || RSLG" />
+  </legend>
+</coin>

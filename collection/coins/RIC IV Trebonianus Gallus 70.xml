@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC IV Trebonianus Gallus 70">
+  <identity set="Roman Imperial" />
+  <emperor name="Trebonianus Gallus" />
+  <denomination name="Antoninian" />
+  <mint>
+    <date from="251" to="253" />
+    <place city="Mediolanum" region="Italia" />
+  </mint>
+  <obverse>
+    <legend>IMP C C VIB TREB GALLVS AVG</legend>
+    <description>Bust of Trebonianus Gallus, radiate, draped, cuirassed, right</description>
+  </obverse>
+  <reverse>
+    <legend>LIBERTAS PVBLICA</legend>
+    <description>Libertas, draped, standing left, holding pileus in right hand and transverse sceptre in left hand</description>
+  </reverse>
+  <measurement diameter="21 mm" weight="3.37 g" />
+  <image>
+    <obverse file="RIC IV Trebonianus Gallus 70 (A).jpg" />
+    <reverse file="RIC IV Trebonianus Gallus 70 (R).jpg" />
+  </image>
+  <deity name="Libertas" />
+  <origin price="46" currency="EUR" rate="1" fee="18.0%" 
+          seller="Savoca Numismatik GmbH" date="11.02.2019" auction="16th Blue Auction" lot="1452" invoice="Savoca Numismatik - 09" />
+  <legend>
+    <obverse>
+      <entry key="IMP" />
+      <entry key="C" />
+      <entry key="C VIB TREB GALLVS" />
+      <entry key="AVG" />
+    </obverse>
+    <reverse>
+      <entry key="LIBERTAS PVBLICA" />
+    </reverse>
+  </legend>
+</coin>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC VII Rome 291">
+  <identity set="Roman Imperial" />
+  <emperor name="Helena" />
+  <denomination name="Follis" />
+  <mint>
+    <date from="326" />
+    <place city="Roma" region="Italia" />
+  </mint>
+  <obverse>
+    <legend>FL HELENA - AVGVSTA</legend>
+    <description>Bust of Helena, wearing necklace and mantle, right</description>
+  </obverse>
+  <reverse>
+    <legend>SECVRITAS – REIPVBLICE || R (wreath) S</legend>
+    <description>Securitas, draped, standing left, raising robe with right hand and lowering branch with left hand</description>
+  </reverse>
+  <measurement diameter="19 mm" weight="3.01 g" />
+  <image>
+    <obverse file="RIC VII Rome 291 (A).jpg" />
+    <reverse file="RIC VII Rome 291 (R).jpg" />
+  </image>
+  <deity name="Securitas" />
+  <origin price="85" currency="CHF" rate="0.96" fee="18.5%" 
+          seller="Leu Numismatik AG" date="08.09.2019" auction="Webauktion 9" lot="1236" invoice="Leu Numismatik - 03" />
+  <legend>
+    <obverse>
+      <entry key="FL HELENA" />
+      <entry key="AVGVSTA" />
+    </obverse>
+    <reverse>
+      <entry key="SECVRITAS REIPVBLICE" />
+    </reverse>
+    <mintmark mint="R (wreath) S" />
+  </legend>
+</coin>

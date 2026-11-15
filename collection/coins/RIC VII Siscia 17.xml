@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC VII Siscia 17">
+  <identity set="Roman Imperial" />
+  <emperor name="Licinius" />
+  <denomination name="Follis" />
+  <mint>
+    <date from="315" to="316" />
+    <place city="Siscia" region="Pannonia Superior" />
+  </mint>
+  <obverse>
+    <legend>IMP LIC LICINIVS P F AVG</legend>
+    <description>Head of Licinius, laureate, right</description>
+  </obverse>
+  <reverse>
+    <legend>IOVI CON-SERVATORI | Γ || •SIS•</legend>
+    <description>Jupiter, nude, chlamys draped across left shoulder, standing left, holding Victory on globe in right hand and leaning on sceptre with left hand; to left, eagle holding wreath</description>
+  </reverse>
+  <measurement diameter="21 mm" weight="3.14 g" />
+  <image>
+    <obverse file="RIC VII Siscia 17 (A).jpg" />
+    <reverse file="RIC VII Siscia 17 (R).jpg" />
+  </image>
+  <deity name="Jupiter" />
+  <origin price="30" currency="EUR" rate="1" fee="18.0%" 
+          seller="AUREO n CALICÓ S.L." date="25.04.2019" auction="Auktion 329" lot="1157" invoice="AUREO n CALICO - 01" />
+  <legend>
+    <obverse>
+      <entry key="IMP" />
+      <entry key="LIC LICINIVS" />
+      <entry key="P F" />
+      <entry key="AVG" />
+    </obverse>
+    <reverse>
+      <entry key="IOVI CONSERVATORI" />
+    </reverse>
+    <mintmark mint="Γ || •SIS•" />
+  </legend>
+</coin>

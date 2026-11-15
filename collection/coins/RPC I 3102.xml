@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RPC I 3102">
+  <identity set="Roman Provincial" />
+  <emperor name="Agrippina Minor" />
+  <denomination name="Hemiassarion" />
+  <mint>
+    <date from="50" to="59" />
+    <place city="Aezanis" region="Phrygia" />
+  </mint>
+  <obverse>
+    <legend>ΑΓΡΙΠΠΙΝΑΝ ϹƐΒΑϹΤΗΝ</legend>
+    <description>Draped bust of Agrippina Minor right</description>
+  </obverse>
+  <reverse>
+    <legend>ΑΙΖΑ-ΝΙΤΩΝ</legend>
+    <description>Draped bust of Persephone right; grain ears to right</description>
+  </reverse>
+  <measurement diameter="18 mm" weight="3.90 g" />
+  <image>
+    <obverse file="RPC I 3102 (A).jpg" />
+    <reverse file="RPC I 3102 (R).jpg" />
+  </image>
+  <deity name="Persephone" />
+  <origin price="120" currency="CHF" rate="0.97" fee="18.5 %" 
+          seller="Nomos AG" date="20.12.2020" auction="Obolos 17" lot="478" invoice="Nomos - 05" />
+  <remark>SNG Copenhagen 91-2, BMC 91</remark>
+</coin>

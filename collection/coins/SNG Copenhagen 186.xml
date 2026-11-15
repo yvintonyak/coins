@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="SNG Copenhagen 186">
+  <identity set="Ancient Greece" />
+  <denomination name="Æ" />
+  <mint>
+    <date from="88 BC" to="40 BC" />
+    <place city="Apameia" region="Phrygia" />
+  </mint>
+  <obverse>
+    <description>Turreted and draped bust of Artemis to right.</description>
+  </obverse>
+  <reverse>
+    <legend>ΑΠΑΜEΩΝ - ΑΝΔΡΟΝΙ</legend>
+    <description>Marsyas advancing right, playing aulos; in outer left and inner right fields, monograms. Androni..., magistrate.</description>
+  </reverse>
+  <measurement diameter="17.3 mm" weight="3.59 g" />
+  <image>
+    <obverse file="SNG Copenhagen 186 (A).jpg" />
+    <reverse file="SNG Copenhagen 186 (R).jpg" />
+  </image>
+  <deity name="Artemis" />
+  <origin price="12" currency="EUR" rate="1" fee="18.15%" 
+          seller="Bucephalus Numismatic" date="15.09.2023" auction="Black Auktion 25" lot="335" invoice="Bucephalus Numismatic - 03" />
+  <remark>HGC 7, 674</remark>
+</coin>

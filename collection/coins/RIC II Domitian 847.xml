@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC II Domitian 847">
+  <identity set="Roman Imperial" />
+  <emperor name="Domitia" />
+  <denomination name="Cistophor" />
+  <mint>
+    <date from="82" />
+     <place region="Italia" />
+  </mint>
+  <obverse>
+    <legend>DOMITIA AVGV[STA]</legend>
+    <description>Bust of Domitia, draped, right; hair bundled in front and in long plait behind; pellet below</description>
+  </obverse>
+  <reverse>
+    <legend>VENVS AVG</legend>
+    <description>Venus standing right, resting on column, holding helmet and spear</description>
+  </reverse>
+  <measurement diameter="24 mm" weight="8.40 g" />
+  <image>
+    <obverse file="RIC II Domitian 847 (A).jpg" />
+    <reverse file="RIC II Domitian 847 (R).jpg" />
+  </image>
+  <deity name="Venus" />
+  <origin price="300" currency="GBP" rate="1.20" fee="15.0%" 
+          seller="Zeus Numismatics" date="10.05.2020" auction="Budget Auktion 7" lot="530" invoice="Zeus Numismatics - 02" />
+  <legend>
+    <obverse>
+      <entry key="DOMITIA" />
+      <entry key="AVGVSTA" />
+    </obverse>
+    <reverse>
+      <entry key="VENVS AVG" />
+    </reverse>
+  </legend>
+</coin>

@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC V Diocletian 558">
+  <identity set="Roman Imperial" />
+  <emperor name="Maximianus Herculius" />
+  <denomination name="Antoninian" />
+  <mint>
+    <date from="287" />
+    <place city="Ticinum" region="Italia" />
+  </mint>
+  <obverse>
+    <legend>IMP C M A VAL MAXIMIANVS P F AVG</legend>
+    <description>Bust of Maximian, radiate, draped, cuirassed, right</description>
+  </obverse>
+  <reverse>
+    <legend>IOVI CONSERVAT || SXXIT</legend>
+    <description>Jupiter, standing left, holding thunderbolt in right hand and sceptre in left hand</description>
+  </reverse>
+  <measurement diameter="23 mm" weight="5.51 g" />
+  <image>
+    <obverse file="RIC V Diocletian 558 (A).jpg" />
+    <reverse file="RIC V Diocletian 558 (R).jpg" />
+  </image>
+  <deity name="Jupiter" />
+  <origin price="40" currency="EUR" rate="1" fee="18.0%" 
+          seller="Savoca Numismatik GmbH" date="11.02.2019" auction="16th Blue Auction" lot="1637" invoice="Savoca Numismatik - 09" />
+  <legend>
+    <obverse>
+      <entry key="IMP" />
+      <entry key="C" />
+      <entry key="M A VAL MAXIMIANVS" />
+      <entry key="P F" />
+      <entry key="AVG" />
+    </obverse>
+    <reverse>
+      <entry key="IOVI CONSERVAT" />
+    </reverse>
+    <mintmark mint="SXXIT" />
+  </legend>
+</coin>

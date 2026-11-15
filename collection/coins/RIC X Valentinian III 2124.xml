@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC X Valentinian III 2124">
+  <identity set="Roman Imperial" />
+  <emperor name="Valentinianus III" />
+  <denomination name="Nummus" />
+  <mint>
+    <date from="430" to="437" />
+    <place city="Roma" region="Italia" />
+  </mint>
+  <obverse>
+    <legend>[D N V]ALENTINIANVS P F A[VG]</legend>
+    <description>Bust of Valentinian III, pearl-diademed, draped, cuirassed, right</description>
+  </obverse>
+  <reverse>
+    <legend>[VOT - PVB] | Є || RM</legend>
+    <description>Gateway surmounted by turrets</description>
+  </reverse>
+  <measurement diameter="13 mm" weight="1.30 g" />
+  <image>
+    <obverse file="RIC X Valentinian III 2124 (A).jpg" />
+    <reverse file="RIC X Valentinian III 2124 (R).jpg" />
+  </image>
+  <origin price="95" currency="GBP" rate="1.12" fee="20%" 
+          seller="Bertolami Fine Arts Ltd" date="10.01.2021" auction="Web Auktion 93" lot="953" invoice="Bertolami Fine Arts - 07" />
+  <legend>
+    <obverse>
+      <entry key="D N" />
+      <entry key="VALENTINIANVS[III]" />
+      <entry key="P F" />
+      <entry key="AVG" />
+    </obverse>
+    <reverse>
+      <entry key="VOT PVB" />
+    </reverse>
+    <mintmark mint="Є || RM" />
+  </legend>
+</coin>

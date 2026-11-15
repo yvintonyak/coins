@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC X Leo I 668">
+  <identity set="Byzantine Empire" />
+  <emperor name="Leo I" />
+  <denomination name="Nummus" />
+  <mint>
+    <date from="457" to="474" />
+    <place city="Constantinopolis"/>
+  </mint>
+  <obverse>
+    <legend>D N LEO [P F AVG]</legend>
+    <description>Bust of Leo I, pearl-diademed, draped, cuirassed, right; cross above bust</description>
+  </obverse>
+  <reverse>
+    <legend>|| CON</legend>
+    <description>Lion, standing left, head right, within a wreath; star above</description>
+  </reverse>
+  <measurement diameter="13.4 mm" weight="3 g" />
+  <image>
+    <obverse file="RIC X Leo I 668 (A).jpg" />
+    <reverse file="RIC X Leo I 668 (R).jpg" />
+  </image>
+  <origin price="21" currency="EUR" rate="1" fee="22.80%" 
+          seller="NAM Numismatic e.U." date="19.06.2026" auction="Auction 1" lot="841" invoice="NAM Numismatic - 01" />
+  <legend>
+    <obverse>
+      <entry key="D N" />
+      <entry key="LEO" />
+      <entry key="P F" />
+      <entry key="AVG" />
+    </obverse>
+    <mintmark mint="CON" />
+  </legend>
+</coin>

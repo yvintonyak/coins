@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC V Carus 111">
+  <identity set="Roman Imperial" />
+  <emperor name="Divus Carus" />
+  <denomination name="Antoninian" />
+  <mint>
+    <date from="283" to="285" />
+    <place city="Siscia" region="Pannonia Superior" />
+  </mint>
+  <obverse>
+    <legend>DIVO CARO PARTHICO</legend>
+    <description>Head of Carus, radiate, right</description>
+  </obverse>
+  <reverse>
+    <legend>CONSECRATIO AVG | A | SMSXXI</legend>
+    <description>Lighted altar</description>
+  </reverse>
+  <measurement diameter="18 mm" weight="3.38 g" />
+  <image>
+    <obverse file="RIC V Carus 111 (A).jpg" />
+    <reverse file="RIC V Carus 111 (R).jpg" />
+  </image>
+  <origin price="48" currency="EUR" rate="1" fee="18.0%" 
+          seller="Savoca Numismatik GmbH" date="12.09.2021" auction="112th Blue Auction" lot="1827" invoice="Savoca Numismatik - 34" />
+  <legend>
+    <obverse>
+      <entry key="DIVO CARO PARTHICO" />
+    </obverse>
+    <reverse>
+      <entry key="CONSECRATIO AVG" />
+    </reverse>
+    <mintmark mint="A | SMSXXI" />
+  </legend>
+</coin>

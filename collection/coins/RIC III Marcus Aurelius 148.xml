@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC III Marcus Aurelius 148">
+  <identity set="Roman Imperial" />
+  <emperor name="Marcus Aurelius" />
+  <denomination name="Denar" />
+  <mint>
+    <date from="165" to="166" />
+    <place city="Roma" region="Italia" />
+  </mint>
+  <obverse>
+    <legend>M ANTONINVS AVG ARMENIACVS</legend>
+    <description>Head of Marcus Aurelius, laureate, right</description>
+  </obverse>
+  <reverse>
+    <legend>PIETAS AVG TR P XX COS III</legend>
+    <description>Pietas, veiled, draped, standing left, sacrificing out of patera in right hand over lighted altar, right and holding box in left hand at side</description>
+  </reverse>
+  <measurement diameter="18.5 mm" weight="3.30 g" />
+  <image>
+    <obverse file="RIC III Marcus Aurelius 148 (A).jpg" />
+    <reverse file="RIC III Marcus Aurelius 148 (R).jpg" />
+  </image>
+  <deity name="Pietas" />
+  <origin price="71" currency="EUR" rate="1" fee="18.0%" 
+          seller="Tauler n Fau Herrero" date="14.01.2020" auction="Subasta 49 Online" lot="2222" invoice="Tauler-n-Fau - 03" />
+  <legend>
+    <obverse>
+      <entry key="M ANTONINVS[aurel]" />
+      <entry key="AVG" />
+      <entry key="ARMENIACVS" />
+    </obverse>
+    <reverse>
+      <entry key="PIETAS AVG" />
+      <entry key="TR P XX" />
+      <entry key="COS III" />
+    </reverse>
+  </legend>
+</coin>

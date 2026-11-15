@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC IV Volusian 206">
+  <identity set="Roman Imperial" />
+  <emperor name="Volusianus" />
+  <denomination name="Antoninian" />
+  <mint>
+    <date from="251" to="253" />
+    <place city="Mediolanum" region="Italia" />
+  </mint>
+  <obverse>
+    <legend>IMP C C VIB VOLVSIANVS AVG</legend>
+    <description>Bust of Volusian, radiate, draped, cuirassed, right</description>
+  </obverse>
+  <reverse>
+    <legend>VIRTVS AVGG</legend>
+    <description>Virtus, helmeted, wearing military attire, standing right, leaning on shield, holding spear in right hand</description>
+  </reverse>
+  <measurement diameter="18 mm" weight="3.64 g" />
+  <image>
+    <obverse file="RIC IV Volusian 206 (A).jpg" />
+    <reverse file="RIC IV Volusian 206 (R).jpg" />
+  </image>
+  <deity name="Virtus" />
+  <origin price="60" currency="EUR" rate="1" fee="18.0%" 
+          seller="Nomisma S.p.A." date="24.03.2019" auction="Asta e9" lot="50" invoice="Nomisma Spa - 01" />
+  <legend>
+    <obverse>
+      <entry key="IMP" />
+      <entry key="C" />
+      <entry key="C VIB VOLVSIANVS" />
+      <entry key="AVG" />
+    </obverse>
+    <reverse>
+      <entry key="VIRTVS AVGG" />
+    </reverse>
+  </legend>
+</coin>

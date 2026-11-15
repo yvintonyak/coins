@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC IX Constantinople 11D">
+  <identity set="Roman Imperial" />
+  <emperor name="Valens" />
+  <denomination name="Siliqua" />
+  <mint>
+    <date from="364" to="367" />
+    <place city="Constantinopolis" region="Thracia" />
+  </mint>
+  <obverse>
+    <legend>D N VALENS - P F AVG</legend>
+    <description>Bust of Valens, rosette-diademed, draped and cuirassed, right</description>
+  </obverse>
+  <reverse>
+    <legend>VOT|V || CONSΓ</legend>
+    <description>VOT|V within laurel wreath</description>
+  </reverse>
+  <measurement diameter="21 mm" weight="2.90 g" />
+  <image>
+    <obverse file="RIC IX Constantinople 11D (A).jpg" />
+    <reverse file="RIC IX Constantinople 11D (R).jpg" />
+  </image>
+  <origin price="110" currency="EUR" rate="1" fee="14.9%" 
+          seller="Numismatik Naumann GmbH" date="06.10.2019" auction="Auktion 82" lot="663" invoice="Numismatik Naumann - 09" />
+  <legend>
+    <obverse>
+      <entry key="D N" />
+      <entry key="VALENS" />
+      <entry key="P F" />
+      <entry key="AVG" />
+    </obverse>
+    <reverse>
+      <entry key="VOT V" />
+    </reverse>
+    <mintmark mint="CONSΓ" />
+  </legend>
+</coin>

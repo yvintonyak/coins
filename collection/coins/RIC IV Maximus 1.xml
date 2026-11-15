@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC IV Maximus 1">
+  <identity set="Roman Imperial" />
+  <emperor name="Maximus Caesar" />
+  <denomination name="Denar" />
+  <mint>
+    <date from="236" />
+    <place city="Roma" region="Italia" />
+  </mint>
+  <obverse>
+    <legend>IVL VERVS MAXIMVS CAES</legend>
+    <description>Bust of Maximus, bare-headed, draped, right</description>
+  </obverse>
+  <reverse>
+    <legend>PIETAS AVG</legend>
+    <description>Priestly emblems: jug between lituus and knife on left and to right, simpulum and sprinkler</description>
+  </reverse>
+  <measurement diameter="20 mm" weight="2.50 g" />
+  <image>
+    <obverse file="RIC IV Maximus 1 (A).jpg" />
+    <reverse file="RIC IV Maximus 1 (R).jpg" />
+  </image>
+  <origin price="260" currency="EUR" rate="1" fee="14.9%" 
+          seller="Numismatik Naumann GmbH" date="02.02.2020" auction="Auktion 86" lot="599" invoice="Numismatik Naumann - 13" />
+  <legend>
+    <obverse>
+      <entry key="IVL VERVS MAXIMVS CAES" />
+    </obverse>
+    <reverse>
+      <entry key="PIETAS AVG" />
+    </reverse>
+  </legend>
+</coin>

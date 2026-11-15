@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC VIII Antioch 229">
+  <identity set="Roman Imperial" />
+  <emperor name="Jovianus" />
+  <denomination name="Maiorina" />
+  <mint>
+    <date from="363" to="364" />
+    <place city="Antiochia" region="Syria" />
+  </mint>
+  <obverse>
+    <legend>D N IOVIAN-VS P F AVG</legend>
+    <description>Bust of Jovian, laureate, rosette-diademed, draped, cuirassed, right</description>
+  </obverse>
+  <reverse>
+    <legend>VICTORIA - ROMANOR[VM] || ANTΓ</legend>
+    <description>Jovian, draped, cuirassed, standing front, head right, holding standard in right hand and Victory on globe with wreath and palm in left hand</description>
+  </reverse>
+  <measurement diameter="26.3 mm" weight="8.3 g" />
+  <image>
+    <obverse file="RIC VIII Antioch 229 (A).jpg" />
+    <reverse file="RIC VIII Antioch 229 (R).jpg" />
+  </image>
+  <deity name="Victoria" />
+  <origin price="60" currency="EUR" rate="1" fee="18.0%" 
+          seller="Lydia Numismatics" date="08.05.2021" auction="Online Auktion 7" lot="1015" invoice="Lydia Numismatics - 01" />
+  <legend>
+    <obverse>
+      <entry key="D N" />
+      <entry key="IOVIANVS" />
+      <entry key="P F" />
+      <entry key="AVG" />
+    </obverse>
+    <reverse>
+      <entry key="VICTORIA ROMANORVM" />
+    </reverse>
+    <mintmark mint="ANTΓ" />
+  </legend>
+</coin>

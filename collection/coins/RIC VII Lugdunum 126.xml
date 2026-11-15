@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC VII Lugdunum 126">
+  <identity set="Roman Imperial" />
+  <emperor name="Constantinus I" />
+  <denomination name="Follis" />
+  <mint>
+    <date from="321" />
+    <place city="Lugdunum" region="Gallia Lugdunensis" />
+  </mint>
+  <obverse>
+    <legend>CONSTANTINVS P F AVG</legend>
+    <description>Bust of Constantine I, laureate, cuirassed, right</description>
+  </obverse>
+  <reverse>
+    <legend>BEATA TRANQVILLITAS | VOT|IS|XX | C | R || PLG</legend>
+    <description>Globe on altar inscribed VOT|IS|XX; above, three stars</description>
+  </reverse>
+  <measurement diameter="20 mm" weight="3.15 g" />
+  <image>
+    <obverse file="RIC VII Lugdunum 126 (A).jpg" />
+    <reverse file="RIC VII Lugdunum 126 (R).jpg" />
+  </image>
+  <origin price="60" currency="EUR" rate="1" fee="14.9%" 
+          seller="Numismatik Naumann GmbH" date="06.06.2021" auction="Auktion 103" lot="928" invoice="Numismatik Naumann - 22" />
+  <legend>
+    <obverse>
+      <entry key="CONSTANTINVS[I]" />
+      <entry key="P F" />
+      <entry key="AVG" />
+    </obverse>
+    <reverse>
+      <entry key="BEATA TRANQVILLITAS" />
+      <entry key="VOTIS XX" />
+    </reverse>
+    <mintmark mint="C | R || PLG" />
+  </legend>
+</coin>

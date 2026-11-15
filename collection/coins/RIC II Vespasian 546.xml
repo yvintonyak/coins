@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC II Vespasian 546">
+  <identity set="Roman Imperial" />
+  <emperor name="Vespasianus" />
+  <denomination name="Denar" />
+  <mint>
+    <date from="73" />
+    <place city="Roma" region="Italia" />
+  </mint>
+  <obverse>
+    <legend>IMP CAES VESP AVG CENS</legend>
+    <description>Bust of Vespasian, laureate, right</description>
+  </obverse>
+  <reverse>
+    <legend>PONTIF MAXIM</legend>
+    <description>Vespasian, togate, seated right on curule chair, feet on stool, holding vertical sceptre in right hand and branch in left</description>
+  </reverse>
+  <measurement diameter="18 mm" weight="3.31 g" />
+  <image>
+    <obverse file="RIC II Vespasian 546 (A).jpg" />
+    <reverse file="RIC II Vespasian 546 (R).jpg" />
+  </image>
+  <origin price="110" currency="USD" rate="0.91" fee="20.0%" 
+          seller="Stack's Bowers Galleries" date="15.01.2019" auction="Januar 2019 NYINC" lot="42158" invoice="Stacks Bowers Galleries - 01" />
+  <legend>
+    <obverse>
+      <entry key="IMP" />
+      <entry key="CAES" />
+      <entry key="VESP" />
+      <entry key="AVG" />
+      <entry key="CENS" />
+    </obverse>
+    <reverse>
+      <entry key="PONTIF MAXIM" />
+    </reverse>
+  </legend>
+</coin>

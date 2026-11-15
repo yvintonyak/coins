@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC V Probus 913">
+  <identity set="Roman Imperial" />
+  <emperor name="Probus" />
+  <denomination name="Antoninian" />
+  <mint>
+    <date from="276" to="282" />
+    <place city="Cyzicus" region="Asia" />
+  </mint>
+  <obverse>
+    <legend>IMP C M AVR PROBVS P F AVG</legend>
+    <description>Bust of Probus, helmeted, radiate, cuirassed, left, holding spear in right hand and shield in left hand</description>
+  </obverse>
+  <reverse>
+    <legend>VIRTVS PROBI AVG | V || XXIMC</legend>
+    <description>Probus, riding left, raising right hand and holding sceptre in left hand; at his feet, captive</description>
+  </reverse>
+  <measurement diameter="23 mm" weight="4.36 g" />
+  <image>
+    <obverse file="RIC V Probus 913 (A).jpg" />
+    <reverse file="RIC V Probus 913 (R).jpg" />
+  </image>
+  <origin price="50" currency="EUR" rate="1" fee="18.5%" 
+          seller="Numismatik Zöttl" date="30.11.2019" auction="eLive Auktion 3" lot="1178" invoice="Numismatik Zöttl - 01" />
+  <legend>
+    <obverse>
+      <entry key="IMP" />
+      <entry key="C" />
+      <entry key="M AVR PROBVS" />
+      <entry key="P F" />
+      <entry key="AVG" />
+    </obverse>
+    <reverse>
+      <entry key="VIRTVS PROBI AVG" />
+    </reverse>
+    <mintmark mint="V || XXIMC" />
+  </legend>
+</coin>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="SB 2144">
+  <identity set="Byzantine Empire" />
+  <emperor name="Theodoros II Lascaris" />
+  <denomination name="Trachy" />
+  <mint>
+    <date from="1254" to="1258" />
+    <place city="Magnesia" />
+  </mint>
+  <obverse>
+    <legend>IC | O - XC | N H</legend>
+    <description>Nimbate bust of Christ Emmanuel facing</description>
+  </obverse>
+  <reverse>
+    <legend>QEODOPOC AVKAC O LACKAPIC</legend>
+    <description>Legend in several lines across fields. Theodoros II, crowned, wearing loros, standing on left and St. Theodoros in military dress, on right, holding fleur de lis on staff between them</description>
+  </reverse>
+  <measurement diameter="25.8 mm" weight="3.9 g" />
+  <image>
+    <obverse file="SB 2144 (A).jpg" />
+    <reverse file="SB 2144 (R).jpg" />
+  </image>
+  <origin price="18" currency="EUR" rate="1" fee="0%" 
+          seller="Ancient Numismatics Auctions" date="20.02.2026" auction="Auction 28" lot="762" invoice="Ancient Numismatics Auctions - 04" />
+  <remark>DOC 12</remark>
+</coin>

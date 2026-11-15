@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC VI Antioch 164a">
+  <identity set="Roman Imperial" />
+  <emperor name="Licinius" />
+  <denomination name="Follis" />
+  <mint>
+    <date from="312" />
+    <place city="Antiochia" region="Syria" />
+  </mint>
+  <obverse>
+    <legend>IMP C LIC LICINNIVS P F AVG</legend>
+    <description>Head of Licinius, laureate, right</description>
+  </obverse>
+  <reverse>
+    <legend>GENIO AVGVSTI | ✷ | S || ANT</legend>
+    <description>Genius, wearing modius, nude, chlamys draped over left shoulder, standing left, holding head of Sol in right hand and cornucopiae in left hand</description>
+  </reverse>
+  <measurement diameter="21 mm" weight="4.17 g" />
+  <image>
+    <obverse file="RIC VI Antioch 164a (A).jpg" />
+    <reverse file="RIC VI Antioch 164a (R).jpg" />
+  </image>
+  <deity name="Genius" />
+  <origin price="10" currency="GBP" rate="1.18" fee="18.0%" 
+          seller="Savoca Numismatics Ltd" date="15.03.2020" auction="London Auktion 5" lot="1006" invoice="Savoca Numismatik - 25" />
+  <legend>
+    <obverse>
+      <entry key="IMP" />
+      <entry key="C" />
+      <entry key="LIC LICINNIVS" />
+      <entry key="P F" />
+      <entry key="AVG" />
+    </obverse>
+    <reverse>
+      <entry key="GENIO AVGVSTI" />
+    </reverse>
+    <mintmark mint="✷ | S || ANT" />
+  </legend>
+</coin>

@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC VII Constantinople 25">
+  <identity set="Roman Imperial" />
+  <emperor name="Constantinus I" />
+  <denomination name="Follis" />
+  <mint>
+    <date from="327" to="328" />
+    <place city="Constantinopolis" region="Thracia" />
+  </mint>
+  <obverse>
+    <legend>CONSTANTI-NVS MAX AVG</legend>
+    <description>Head of Constantine I, rosette-diademed, right</description>
+  </obverse>
+  <reverse>
+    <legend>LIBERT-A-S - PVBLICA | ∈ || CONS</legend>
+    <description>Victory, winged, draped, standing left on galley, holding a wreath in both hands</description>
+  </reverse>
+  <measurement diameter="19.2 mm" weight="2.51 g" />
+  <image>
+    <obverse file="RIC VII Constantinople 25 (A).jpg" />
+    <reverse file="RIC VII Constantinople 25 (R).jpg" />
+  </image>
+  <deity name="Victoria" />
+  <origin price="14" currency="EUR" rate="1" fee="23%" 
+          seller="Rönesans Salzgitter GmbH" date="13.10.2023" auction="Auktion 5" lot="611" invoice="Rönesans Salzgitter - 02" />
+  <legend>
+    <obverse>
+      <entry key="CONSTANTINVS[I]" />
+      <entry key="MAX" />
+      <entry key="AVG" />
+    </obverse>
+    <reverse>
+      <entry key="LIBERTAS PVBLICA" />
+    </reverse>
+    <mintmark mint="∈ || CONS" />
+  </legend>
+</coin>

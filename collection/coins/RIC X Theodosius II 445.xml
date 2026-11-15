@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC X Theodosius II 445">
+  <identity set="Roman Imperial" />
+  <emperor name="Theodosius II" />
+  <denomination name="Nummus" />
+  <mint>
+    <date from="425" to="435" />
+    <place city="Constantinopolis" region="Thracia" />
+  </mint>
+  <obverse>
+    <legend>D N THEODOSIVS P F AV[G]</legend>
+    <description>Bust of Theodosius II, pearl-diademed, draped, cuirassed, right</description>
+  </obverse>
+  <reverse>
+    <legend>|| CON</legend>
+    <description>Cross within a wreath</description>
+  </reverse>
+  <measurement diameter="12 mm" weight="1.2 g" />
+  <image>
+    <obverse file="RIC X Theodosius II 445 (A).jpg" />
+    <reverse file="RIC X Theodosius II 445 (R).jpg" />
+  </image>
+  <origin price="46" currency="EUR" rate="1" fee="18.0%" 
+          seller="Savoca Numismatik GmbH" date="12.09.2021" auction="112th Blue Auction" lot="2069" invoice="Savoca Numismatik - 34" />
+  <legend>
+    <obverse>
+      <entry key="D N" />
+      <entry key="THEODOSIVS[II]" />
+      <entry key="P F" />
+      <entry key="AVG" />
+    </obverse>
+    <reverse>
+    </reverse>
+    <mintmark mint="CON" />
+  </legend>
+</coin>

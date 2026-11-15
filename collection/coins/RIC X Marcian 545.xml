@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC X Marcian 545">
+  <identity set="Roman Imperial" />
+  <emperor name="Marcianus" />
+  <denomination name="Nummus" />
+  <mint>
+    <date from="450" to="457" />
+    <place city="Constantinopolis" region="Thracia" />
+  </mint>
+  <obverse>
+    <legend>[D N M]ARCIANVS P F AVG</legend>
+    <description>Bust of Marcian, pearl-diademed, draped, cuirassed, right</description>
+  </obverse>
+  <reverse>
+    <legend>† || CON</legend>
+    <description>Marcian monogram within wreath, † above</description>
+  </reverse>
+  <measurement diameter="11 mm" weight="1.08 g" />
+  <image>
+    <obverse file="RIC X Marcian 545 (A).jpg" />
+    <reverse file="RIC X Marcian 545 (R).jpg" />
+  </image>
+  <origin price="40" currency="GBP" rate="1.17" fee="0%" 
+          seller="Pavlos S. Pavlou" date="01.02.2021" auction="vcoins.com" invoice="Pavlos S Pavlou - 01" />
+  <remark>Monogram of Marcian consists of M, A, R, C, I, A, N, V, S, and L</remark>
+  <legend>
+    <obverse>
+      <entry key="D N" />
+      <entry key="MARCIANVS" />
+      <entry key="P F" />
+      <entry key="AVG" />
+    </obverse>
+    <mintmark mint="CON" />
+  </legend>
+</coin>

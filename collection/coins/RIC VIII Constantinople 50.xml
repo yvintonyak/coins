@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC VIII Constantinople 50">
+  <identity set="Roman Imperial" />
+  <emperor name="Theodora" />
+  <denomination name="Follis" />
+  <mint>
+    <date from="337" to="340" />
+    <place city="Constantinopolis" region="Thracia" />
+  </mint>
+  <obverse>
+    <legend>FL MAX THEO-DORAE AVG</legend>
+    <description>Bust of Theodora, hair elaborately dressed, wearing plain mantle and necklace, right</description>
+  </obverse>
+  <reverse>
+    <legend>PIETAS - ROMANA || CONS?</legend>
+    <description>Pietas, draped, standing front, head right, carrying an infant at her breast in right hand</description>
+  </reverse>
+  <measurement diameter="15 mm" weight="1.80 g" />
+  <image>
+    <obverse file="RIC VIII Constantinople 50 (A).jpg" />
+    <reverse file="RIC VIII Constantinople 50 (R).jpg" />
+  </image>
+  <deity name="Pietas" />
+  <origin price="22" currency="GBP" rate="1.17" fee="15.0%" 
+          seller="Zeus Numismatics" date="12.07.2020" auction="Budget Auktion 10" lot="937" invoice="Zeus Numismatics - 03" />
+  <legend>
+    <obverse>
+      <entry key="FL MAX THEODORAE" />
+      <entry key="AVG[usta]" />
+    </obverse>
+    <reverse>
+      <entry key="PIETAS ROMANA" />
+    </reverse>
+    <mintmark mint="CONS?" />
+  </legend>
+</coin>

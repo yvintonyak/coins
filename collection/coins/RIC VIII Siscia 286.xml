@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC VIII Siscia 286">
+  <identity set="Roman Imperial" />
+  <emperor name="Constantius II" />
+  <denomination name="Centenionalis" />
+  <mint>
+    <date from="350" />
+    <place city="Siscia" region="Pannonia Superior" />
+  </mint>
+  <obverse>
+    <legend>D N CONSTAN-TIVS P F AVG | A | ✷</legend>
+    <description>Bust of Constantius II, pearl-diademed, draped, cuirassed, right; A behind bust; star in front of bust</description>
+  </obverse>
+  <reverse>
+    <legend>HOC SIG-NO VICTOR ERIS | A || •ЄSIS•</legend>
+    <description>Constantius II, diademed, draped, cuirassed, standing front, head left, holding standard with Chi-Rho on banner in right hand and spear in left hand; to right, Victory standing, crowning him with wreath and holding palm; A in left field</description>
+  </reverse>
+  <measurement diameter="21 mm" weight="4.93 g" />
+  <image>
+    <obverse file="RIC VIII Siscia 286 (A).jpg" />
+    <reverse file="RIC VIII Siscia 286 (R).jpg" />
+  </image>
+  <deity name="Victoria" />
+  <origin price="95" currency="EUR" rate="1" fee="18.0%" 
+          seller="Savoca Numismatik GmbH" date="29,03.2020" auction="42nd Silver Auction" lot="392" invoice="Savoca Numismatik - 26" />
+  <legend>
+    <obverse>
+      <entry key="D N" />
+      <entry key="CONSTANTIVS[II]" />
+      <entry key="P F" />
+      <entry key="AVG" />
+    </obverse>
+    <reverse>
+      <entry key="HOC SIGNO VICTOR ERIS" />
+    </reverse>
+    <mintmark mint="A || •ЄSIS•" />
+  </legend>
+</coin>

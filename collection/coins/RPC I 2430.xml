@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RPC I 2430">
+  <identity set="Roman Provincial" />
+  <emperor name="Valeria Messalina" />
+  <denomination name="AE" />
+  <mint>
+    <date from="43" to="48" />
+    <place city="Aegae" region="Aeolis" />
+  </mint>
+  <obverse>
+    <legend>ΜΕϹΑΛΕΙΝΑ ϹΕΒΑϹΤΗ</legend>
+    <description>Draped bust of Messalina, right</description>
+  </obverse>
+  <reverse>
+    <legend>ΑΙΓΑΕΩΝ</legend>
+    <description>Zeus standing, left, head facing, holding eagle and sceptre</description>
+  </reverse>
+  <measurement diameter="17 mm" weight="3.57 g" />
+  <image>
+    <obverse file="RPC I 2430 (A).jpg" />
+    <reverse file="RPC I 2430 (R).jpg" />
+  </image>
+  <origin price="110" currency="EUR" rate="1" fee="25%" 
+          seller="Gorny &amp; Mosch GmbH" date="11.09.2025" auction="E-Auktion 313" lot="164" invoice="Gorny n Mosch - 01" />
+</coin>

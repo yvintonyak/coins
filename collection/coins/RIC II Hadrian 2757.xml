@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC II Hadrian 2757">
+  <identity set="Roman Imperial" />
+  <emperor name="Antoninus Pius Caesar" />
+  <denomination name="As" />
+  <mint>
+    <date from="138" />
+    <place city="Roma" region="Italia" />
+  </mint>
+  <obverse>
+    <legend>IMP T AELIVS CAESAR ANTONINVS</legend>
+    <description>Bust of Antoninus Pius, draped, right, viewed from rear or side</description>
+  </obverse>
+  <reverse>
+    <legend>TRIB POT COS | S C</legend>
+    <description>Clasped hands, holding caduceus and two corn ears</description>
+  </reverse>
+  <measurement diameter="27 mm" weight="12.88 g" />
+  <image>
+    <obverse file="RIC II Hadrian 2757 (A).jpg" />
+    <reverse file="RIC II Hadrian 2757 (R).jpg" />
+  </image>
+  <origin price="65" currency="EUR" rate="1" fee="18.9%" 
+          seller="Numismatik Naumann GmbH" date="02.10.2022" auction="Auktion 121" lot="561" invoice="Numismatik Naumann - 27" />
+  <legend>
+    <obverse>
+      <entry key="IMP" />
+      <entry key="T AELIVS CAESAR ANTONINVS" />
+    </obverse>
+    <reverse>
+      <entry key="TRIB POT" />
+      <entry key="COS" />
+      <entry key="S C" />
+    </reverse>
+  </legend>
+</coin>

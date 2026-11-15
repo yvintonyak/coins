@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC V Diocletian 673">
+  <identity set="Roman Imperial" />
+  <emperor name="Constantius I Chlorus Caesar" />
+  <denomination name="Antoninian" />
+  <mint>
+    <date from="284" to="294" />
+    <place city="Antiochia" region="Syria" />
+  </mint>
+  <obverse>
+    <legend>FL VAL CONSTANTIVS NOB CAES</legend>
+    <description>Bust of Constantius Chlorus, radiate, draped, cuirassed, right</description>
+  </obverse>
+  <reverse>
+    <legend>IOVI ET HERCVLI CONS CAES | S || XXI•</legend>
+    <description>Jupiter, standing right, holding globe in right hand and sceptre in left hand, facing Hercules standing left, holding Victory, club and lion's skin</description>
+  </reverse>
+  <measurement diameter="22 mm" weight="4.24 g" />
+  <image>
+    <obverse file="RIC V Diocletian 673 (A).jpg" />
+    <reverse file="RIC V Diocletian 673 (R).jpg" />
+  </image>
+  <deity name="Jupiter, Hercules" />
+  <origin price="40" currency="EUR" rate="1" fee="14.0%" 
+          seller="Ares Numismatics" date="20.10.2019" auction="Webauktion 3" lot="746" invoice="Ares Numismatics - 01" />
+  <legend>
+    <obverse>
+      <entry key="FL VAL CONSTANTIVS" />
+      <entry key="NOB CAES" />
+    </obverse>
+    <reverse>
+      <entry key="IOVI ET HERCVLI CONS CAES" />
+    </reverse>
+    <mintmark mint="S || XXI•" />
+  </legend>
+</coin>

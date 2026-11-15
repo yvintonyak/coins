@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="SB 75">
+  <identity set="Byzantine Empire" />
+  <emperor name="Iustinus I" />
+  <denomination name="Pentanummium" />
+  <mint>
+    <date from="518" to="527" />
+    <place city="Constantinopolis"/>
+  </mint>
+  <obverse>
+    <legend>DN IVSTINVS PP AVG</legend>
+    <description>Pearl diademed, draped, cuirassed bust right</description>
+  </obverse>
+  <reverse>
+    <legend>☧ | B | Є</legend>
+    <description>Large chi-rho, officina letter B to left, value letter epsilon (5) to right</description>
+  </reverse>
+  <measurement diameter="14.26 mm" weight="2.53 g" />
+  <image>
+    <obverse file="SB 75 (A).jpg" />
+    <reverse file="SB 75 (R).jpg" />
+  </image>
+  <origin price="31" currency="EUR" rate="1" fee="24%" 
+          seller="Concordia Numismatic e.U." date="15.10.2023" auction="Auktion 9" lot="637" invoice="Concordia Numismatic - 02" />
+  <remark>DOC vol.I,21</remark>
+</coin>

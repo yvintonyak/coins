@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC V Postumus 75">
+  <identity set="Roman Imperial" />
+  <emperor name="Postumus" />
+  <denomination name="Antoninian" />
+  <mint>
+    <date from="260" to="269" />
+    <place city="Lugdunum" region="Gallia Lugdunensis" />
+  </mint>
+  <obverse>
+    <legend>IMP C POSTVMVS P F AVG</legend>
+    <description>Bust of Postumus, radiate, draped, right, or bust of Postumus, radiate, draped, cuirassed, right</description>
+  </obverse>
+  <reverse>
+    <legend>MONETA AVG</legend>
+    <description>Juno Moneta, draped, standing left, holding scales in right hand and cornucopiae in left hand</description>
+  </reverse>
+  <measurement diameter="20.5 mm" weight="3.15 g" />
+  <image>
+    <obverse file="RIC V Postumus 75 (A).jpg" />
+    <reverse file="RIC V Postumus 75 (R).jpg" />
+  </image>
+  <deity name="Juno Moneta" />
+  <origin price="25" currency="EUR" rate="1" fee="24%" 
+          seller="Bertolami Fine Arts Ltd" date="24.10.2021" auction="E-Auktion 105" lot="2566" invoice="Bertolami Fine Arts - 08" />
+  <legend>
+    <obverse>
+      <entry key="IMP" />
+      <entry key="C" />
+      <entry key="POSTVMVS" />
+      <entry key="P F" />
+      <entry key="AVG" />
+    </obverse>
+    <reverse>
+      <entry key="MONETA AVG" />
+    </reverse>
+  </legend>
+</coin>

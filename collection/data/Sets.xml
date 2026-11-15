@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<sets>
+  <set name="Roman Imperial">
+      <subset name="Julian-Claudian" />
+      <subset name="Flavian" />
+      <subset name="Nerva-Antonine" />
+      <subset name="Severan" />
+      <subset name="Gordian" />
+      <subset name="Decian" />
+      <subset name="Valerian" />
+      <subset name="Gallic Empire" />
+      <subset name="Illyrian" />
+      <subset name="Caran" />
+      <subset name="Tetrarchy" />
+      <subset name="Constantinian" />
+      <subset name="Valentinian" />
+      <subset name="Theodosian" />
+ </set>
+  <set name="Roman Provincial" >
+      <subset name="Julian-Claudian" />
+      <subset name="Flavian" />
+      <subset name="Nerva-Antonine" />
+      <subset name="Severan" />
+      <subset name="Gordian" />
+      <subset name="Decian" />
+      <subset name="Tetrarchy" />
+  </set>
+  <set name="Byzantine Empire">
+    <subset name="Leonid" />
+    <subset name="Justinian" />
+    <subset name="Heraclian" />
+    <subset name="20 Years Anarchy" />
+    <subset name="Isaurian" />
+    <subset name="Nikephorian" />
+    <subset name="Amorian" />
+    <subset name="Macedonian" />
+    <subset name="Doukas" />
+    <subset name="Komnenos" />
+    <subset name="Angelos" />
+    <subset name="Crusaders" />
+    <subset name="Empire of Nicaea" />
+    <subset name="Palaiologos" />
+  </set>
+  <set name="Ancient Greece" />
+  <set name="Middle East" />
+</sets>

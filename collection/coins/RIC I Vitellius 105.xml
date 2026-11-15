@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC I Vitellius 105">
+  <identity set="Roman Imperial" dynasty="Flavian" />
+  <emperor name="Vitellius" />
+  <denomination name="Denar" />
+  <mint>
+    <date from="69" />
+    <place city="Roma" region="Italia" />
+  </mint>
+  <obverse>
+    <legend>[A] VITELLIVS GERM IMP AVG T[R P]</legend>
+    <description>Head of Vitellius, laureate, right</description>
+  </obverse>
+  <reverse>
+    <legend>LIBERTAS [RE]STITVTA</legend>
+    <description>Libertas, draped, standing front, head right, holding pileus in right hand and rod in left</description>
+  </reverse>
+  <measurement diameter="18 mm" weight="3.17 g" />
+  <image>
+    <obverse file="RIC I Vitellius 105 (A).jpg" />
+    <reverse file="RIC I Vitellius 105 (R).jpg" />
+  </image>
+  <deity name="Libertas" />
+  <origin price="100" currency="EUR" rate="1" fee="17%" 
+          seller="InAsta S.p.A" date="06.10.2020" auction="Auction 89 E-Live" lot="189" invoice="InAsta Spa - 03" />
+  <legend>
+    <obverse>
+      <entry key="A VITELLIVS" />
+      <entry key="GERM" />
+      <entry key="IMP" />
+      <entry key="AVG" />
+      <entry key="TR P" />
+    </obverse>
+    <reverse>
+      <entry key="LIBERTAS RESTITVTA" />
+    </reverse>
+  </legend>
+</coin>

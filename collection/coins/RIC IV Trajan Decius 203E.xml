@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC IV Trajan Decius 203E">
+  <identity set="Roman Imperial" />
+  <emperor name="Hostilianus" />
+  <denomination name="Antoninian" />
+  <mint>
+    <date from="251" />
+    <place city="Antiochia" region="Syria" />
+  </mint>
+  <obverse>
+    <legend>C OVAL OSTIL MES COVINTVS AVG</legend>
+    <description>Bust of Hostilian, radiate, draped, right</description>
+  </obverse>
+  <reverse>
+    <legend>PVDICITIA AVG | IV</legend>
+    <description>Pudicitia, draped, veiled, seated left, drawing veil with right hand, holding sceptre in left hand</description>
+  </reverse>
+  <measurement diameter="24 mm" weight="3.09 g" />
+  <image>
+    <obverse file="RIC IV Trajan Decius 203E (A).jpg" />
+    <reverse file="RIC IV Trajan Decius 203E (R).jpg" />
+  </image>
+  <deity name="Pudicitia" />
+  <origin price="200" currency="EUR" rate="1" fee="18.9%" 
+          seller="Numismatik Naumann GmbH" date="06.11.2022" auction="Auktion 122" lot="874" invoice="Numismatik Naumann - 28" />
+  <legend>
+    <obverse>
+      <entry key="C OVAL OSTIL MES COVINTVS" />
+      <entry key="AVG" />
+    </obverse>
+    <reverse>
+      <entry key="PVDICITIA AVG" />
+    </reverse>
+    <mintmark mint="IV" />
+  </legend>
+</coin>

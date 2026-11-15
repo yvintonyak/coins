@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RPC VIII 29022">
+  <identity set="Roman Provincial" />
+  <emperor name="Philippus II Caesar" />
+  <denomination name="Tetradrachm" />
+  <mint>
+    <date from="247" to="249" />
+    <place city="Seleucia Pieria" region="Syria" />
+  </mint>
+  <obverse>
+    <legend>ΜΑΡ ΙΟΥΛΙ ΦΙΛΙΠΠΟϹ ΚЄϹΑΡ</legend>
+    <description>Bust of Philip II right, bare-headed, draped</description>
+  </obverse>
+  <reverse>
+    <legend>ΔΗΜΑΡΧ ЄΞΟΥϹΙΑϹ ΥΠΑΤΟ Γ || ΑΝΤΙΟΧΙΑ || S C</legend>
+    <description>Eagle standing left, head right, with wings open, holding wreath in beak</description>
+  </reverse>
+  <measurement diameter="24 mm" weight="13.52 g" />
+  <image>
+    <obverse file="RPC VIII 29022 (A).jpg" />
+    <reverse file="RPC VIII 29022 (R).jpg" />
+  </image>
+  <origin price="46" currency="EUR" rate="1" fee="18%" 
+          seller="Savoca Numismatik GmbH" date="25.04.2020" auction="31st Blue Auction" lot="883" invoice="Savoca Numismatik - 27" />
+  <remark>Prieur 393–4; McAlee 1017 and 1023</remark>
+</coin>

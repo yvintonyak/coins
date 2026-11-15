@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC VII Antioch 88">
+  <identity set="Roman Imperial" />
+  <emperor name="Constantius II Caesar" />
+  <denomination name="Follis" />
+  <mint>
+    <date from="330" to="335" />
+    <place city="Antiochia" region="Syria" />
+  </mint>
+  <obverse>
+    <legend>FL IVL CONSTANTIVS NOB C</legend>
+    <description>Bust of Constantius II, laureate, cuirassed, right</description>
+  </obverse>
+  <reverse>
+    <legend>GLOR-IA EXERC-ITVS || SMANZ</legend>
+    <description>Two soldiers, helmeted, draped, cuirassed, standing facing each other, each holding reversed spear in outer hand and resting inner hand on shield; between them, two standards</description>
+  </reverse>
+  <measurement diameter="19 mm" weight="2.57 g" />
+  <image>
+    <obverse file="RIC VII Antioch 88 (A).jpg" />
+    <reverse file="RIC VII Antioch 88 (R).jpg" />
+  </image>
+  <origin price="45" currency="CHF" rate="0.94" fee="18.5%" 
+          seller="Leu Numismatik AG" date="30.06.2019" auction="Webauktion 8" lot="1550" invoice="Leu Numismatik - 02" />
+  <legend>
+    <obverse>
+      <entry key="FL IVL CONSTANTIVS" />
+      <entry key="NOB C" />
+    </obverse>
+    <reverse>
+      <entry key="GLORIA EXERCITVS" />
+    </reverse>
+    <mintmark mint="SMANZ" />
+  </legend>
+</coin>

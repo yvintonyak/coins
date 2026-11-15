@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC V Claudius Gothicus 266">
+  <identity set="Roman Imperial" />
+  <emperor name="Divus Claudius II Gothicus" />
+  <denomination name="Antoninian" />
+  <mint>
+    <date from="270" />
+    <place city="Roma" region="Italia" />
+  </mint>
+  <obverse>
+    <legend>DIVO CLAVDIO</legend>
+    <description>Head of Claudius Gothicus, radiate, right</description>
+  </obverse>
+  <reverse>
+    <legend>CONSECRATIO</legend>
+    <description>Altar, eagle to right</description>
+  </reverse>
+  <measurement diameter="22 mm" weight="3.30 g" />
+  <image>
+    <obverse file="RIC V Claudius Gothicus 266 (A).jpg" />
+    <reverse file="RIC V Claudius Gothicus 266 (R).jpg" />
+  </image>
+  <origin price="40" currency="EUR" rate="1" fee="13.0%" 
+          seller="Biga Numismatics" date="08.11.2020" auction="Online Auktion 1" lot="584" invoice="Biga Numismatics - 01" />
+  <legend>
+    <obverse>
+      <entry key="DIVO CLAVDIO" />
+    </obverse>
+    <reverse>
+      <entry key="CONSECRATIO" />
+    </reverse>
+  </legend>
+</coin>

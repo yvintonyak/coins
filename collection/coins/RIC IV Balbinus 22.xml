@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC IV Balbinus 22">
+  <identity set="Roman Imperial" />
+  <emperor name="Balbinus" />
+  <denomination name="Sestertius" />
+  <mint>
+    <date from="238" />
+    <place city="Roma" region="Italia" />
+  </mint>
+  <obverse>
+    <legend>IMP CAES D CAEL BALBINVS AVG</legend>
+    <description>Bust of Balbinus, laureate, draped, cuirassed, right</description>
+  </obverse>
+  <reverse>
+    <legend>CONCORDIA AVGG [S C]</legend>
+    <description>Concordia, draped, seated left, holding patera in extended right hand and cornucopiae in left hand</description>
+  </reverse>
+  <measurement diameter="27.5 mm" weight="26.49 g" />
+  <image>
+    <obverse file="RIC IV Balbinus 22 (A).jpg" />
+    <reverse file="RIC IV Balbinus 22 (R).jpg" />
+  </image>
+  <deity name="Concordia" />
+  <origin price="260" currency="EUR" rate="1" fee="24%" 
+          seller="Bertolami Fine Arts Ltd" date="24.10.2021" auction="E-Auktion 105" lot="2365" invoice="Bertolami Fine Arts - 08" />
+  <legend>
+    <obverse>
+      <entry key="IMP" />
+      <entry key="CAES" />
+      <entry key="D CAEL BALBINVS" />
+      <entry key="AVG" />
+    </obverse>
+    <reverse>
+      <entry key="CONCORDIA AVGG" />
+      <entry key="S C" />
+    </reverse>
+  </legend>
+</coin>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC IV Septimius Severus 265">
+  <identity set="Roman Imperial" />
+  <emperor name="Septimius Severus" />
+  <denomination name="Denar" />
+  <mint>
+    <date from="202" to="210" />
+    <place city="Roma" region="Italia" />
+  </mint>
+  <obverse>
+    <legend>SEVERVS PIVS AVG</legend>
+    <description>Head of Septimius Severus, laureate, right</description>
+  </obverse>
+  <reverse>
+    <legend>FVNDATOR PACIS</legend>
+    <description>Septimius Severus, veiled, togate, standing left, holding branch in extended right hand and roll in left hand</description>
+  </reverse>
+  <measurement diameter="18 mm" weight="3.19 g" />
+  <image>
+    <obverse file="RIC IV Septimius Severus 265 (A).jpg" />
+    <reverse file="RIC IV Septimius Severus 265 (R).jpg" />
+  </image>
+  <origin price="50" currency="GBP" rate="1.13" fee="18.0%" 
+          seller="Savoca Numismatics Ltd" date="11.08.2019" auction="5th Blue Auction" lot="747" invoice="Savoca Numismatik - 21" />
+  <legend>
+    <obverse>
+      <entry key="SEVERVS[septimius]" />
+      <entry key="PIVS" />
+      <entry key="AVG" />
+    </obverse>
+    <reverse>
+      <entry key="FVNDATOR PACIS" />
+    </reverse>
+  </legend>
+</coin>

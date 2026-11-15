@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC II Titus 357">
+  <identity set="Roman Imperial" />
+  <emperor name="Divus Vespasianus" />
+  <denomination name="Denar" />
+  <mint>
+    <date from="80" to="81" />
+    <place city="Roma" region="Italia" />
+  </mint>
+  <obverse>
+    <legend>DIVVS AVGVSTVS VESPASIANVS</legend>
+    <description>Bust of Divus Vespasian, laureate, right</description>
+  </obverse>
+  <reverse>
+    <legend>S C</legend>
+    <description>Foreparts of two capricorns left and right back to back supporting round shield inscribed S C, globe below</description>
+  </reverse>
+  <measurement diameter="18 mm" weight="4.42 g" />
+  <image>
+    <obverse file="RIC II Titus 357 (A).jpg" />
+    <reverse file="RIC II Titus 357 (R).jpg" />
+  </image>
+  <origin price="150" currency="USD" rate="0.92" fee="15.0%" 
+          seller="Kenneth W. Dorney" date="25.11.2018" auction="Auction 7" lot="61" invoice="Kenneth W. Dorney - 01" />
+  <legend>
+    <obverse>
+      <entry key="DIVVS" />
+      <entry key="AVGVSTVS" />
+      <entry key="VESPASIANVS" />
+    </obverse>
+    <reverse>
+      <entry key="S C" />
+    </reverse>
+  </legend>
+</coin>

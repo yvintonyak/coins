@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC VII Siscia 220">
+  <identity set="Roman Imperial" />
+  <emperor name="Constantinus II Caesar" />
+  <denomination name="Follis" />
+  <mint>
+    <date from="330" to="333" />
+    <place city="Siscia" region="Pannonia Superior" />
+  </mint>
+  <obverse>
+    <legend>CONSTANTINVS IVN NOB C</legend>
+    <description>Bust of Constantine II, laureate, cuirassed, right</description>
+  </obverse>
+  <reverse>
+    <legend>GLOR-IA EXERC-ITVS || ЄSIS</legend>
+    <description>Two soldiers, helmeted, draped, cuirassed, standing facing each other, each holding spear in outer hand and resting inner hand on shield; between them, two standards</description>
+  </reverse>
+  <measurement diameter="17 mm" weight="2.42 g" />
+  <image>
+    <obverse file="RIC VII Siscia 220 (A).jpg" />
+    <reverse file="RIC VII Siscia 220 (R).jpg" />
+  </image>
+  <origin price="23" currency="EUR" rate="1" fee="18.0%" 
+          seller="Savoca Numismatik GmbH" date="21.04.2019" auction="19th Blue Auction" lot="1832" invoice="Savoca Numismatik - 14" />
+  <legend>
+    <obverse>
+      <entry key="CONSTANTINVS IVN" />
+      <entry key="NOB C" />
+    </obverse>
+    <reverse>
+      <entry key="GLORIA EXERCITVS" />
+    </reverse>
+    <mintmark mint="ЄSIS" />
+  </legend>
+</coin>

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC I Otho 8">
+  <identity set="Roman Imperial" />
+  <emperor name="Otho" />
+  <denomination name="Denar" />
+  <mint>
+    <date from="69" />
+    <place city="Roma" region="Italia" />
+  </mint>
+  <obverse>
+    <legend>IMP M OTHO CAESAR AVG [TR P]</legend>
+    <description>Head of Otho, bare, right</description>
+  </obverse>
+  <reverse>
+    <legend>SECVRI[TAS P R]</legend>
+    <description>Securitas, draped, standing left, holding wreath in right hand and sceptre in left</description>
+  </reverse>
+  <measurement diameter="19 mm" weight="2.89 g" />
+  <image>
+    <obverse file="RIC I Otho 8 (A).jpg" />
+    <reverse file="RIC I Otho 8 (R).jpg" />
+  </image>
+  <deity name="Securitas" />
+  <origin price="255" currency="EUR" rate="1" fee="19%" 
+          seller="Salon Numizmatyczny Mateusz Wójcicki" date="05.10.2022" auction="Aukcja X" lot="7244" invoice="Salon Numizmatyczny Wójcicki - 01" />
+  <legend>
+    <obverse>
+      <entry key="IMP" />
+      <entry key="M OTHO" />
+      <entry key="CAESAR" />
+      <entry key="AVG" />
+      <entry key="TR P" />
+    </obverse>
+    <reverse>
+      <entry key="SECVRITAS P R" />
+    </reverse>
+  </legend>
+</coin>

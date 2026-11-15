@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC IV Philip I 240A">
+  <identity set="Roman Imperial" />
+  <emperor name="Philippus II" />
+  <denomination name="Antoninian" />
+  <mint>
+    <date from="247" to="249" />
+    <place city="Roma" region="Italia" />
+  </mint>
+  <obverse>
+    <legend>IMP M IVL PHILIPPVS AVG</legend>
+    <description>Bust of Philip II, radiate, draped, cuirassed, right</description>
+  </obverse>
+  <reverse>
+    <legend>AEQVITAS AVG</legend>
+    <description>Aequitas, draped, standing left, holding scales in right hand and cornucopiae in left hand</description>
+  </reverse>
+  <measurement diameter="22.5 mm" weight="3.84 g" />
+  <image>
+    <obverse file="RIC IV Philip I 240A (A).jpg" />
+    <reverse file="RIC IV Philip I 240A (R).jpg" />
+  </image>
+  <deity name="Aequitas" />
+  <origin price="80" currency="EUR" rate="1" fee="22%" 
+          seller="Numismatik Zöttl" date="26.06.2021" auction="E-Auktion 4" lot="92" invoice="Numismatik Zöttl - 02" />
+  <legend>
+    <obverse>
+      <entry key="IMP" />
+      <entry key="M IVL PHILIPPVS[II]" />
+      <entry key="AVG" />
+    </obverse>
+    <reverse>
+      <entry key="AEQVITAS AVG" />
+    </reverse>
+  </legend>
+</coin>

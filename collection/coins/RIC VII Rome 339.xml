@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC VII Rome 339">
+  <identity set="Roman Imperial" />
+  <emperor name="Constantinus I" />
+  <denomination name="Follis" />
+  <mint>
+    <date from="330" to="331" />
+    <place city="Roma" region="Italia" />
+  </mint>
+  <obverse>
+    <legend>CONSTANTI-NOPOLIS</legend>
+    <description>Bust of Constantinopolis, laureate, helmeted, wearing imperial cloak, left, holding reversed spear in right hand</description>
+  </obverse>
+  <reverse>
+    <legend>|| RB∈</legend>
+    <description>Victory, winged, draped, standing left on prow, holding spear in right hand and shield in left hand</description>
+  </reverse>
+  <measurement diameter="17 mm" weight="2.56 g" />
+  <image>
+    <obverse file="RIC VII Rome 339 (A).jpg" />
+    <reverse file="RIC VII Rome 339 (R).jpg" />
+  </image>
+  <deity name="Constantinopolis, Victoria" />
+  <origin price="22" currency="EUR" rate="1" fee="18.0%" 
+          seller="Savoca Numismatik GmbH" date="16.10.2022" auction="145st Blue Auction" lot="1667" invoice="Savoca Numismatik - 36" />
+  <remark>Commemorative Series</remark>
+  <legend>
+    <obverse>
+      <entry key="CONSTANTINOPOLIS" />
+    </obverse>
+    <reverse>
+    </reverse>
+    <mintmark mint="RB∈" />
+  </legend>
+</coin>

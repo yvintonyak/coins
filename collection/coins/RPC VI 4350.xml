@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RPC VI 4350">
+  <identity set="Roman Provincial" />
+  <emperor name="Severus Alexander Caesar" />
+  <denomination name="Æ" />
+  <mint>
+    <date from="222" />
+    <place city="Thyatira" region="Lydia" />
+  </mint>
+  <obverse>
+    <legend>ΑΛΕΞΑΝΔΡΟϹ</legend>
+    <description>Bare-headed and draped bust of Severus Alexander, right, seen from rear</description>
+  </obverse>
+  <reverse>
+    <legend>ΘΥΑΤΕΙΡΗΝΩΝ</legend>
+    <description>Pan advancing, left, hoding bunch of grapes and pedum</description>
+  </reverse>
+  <measurement diameter="17.4 mm" weight="5.8 g" />
+  <image>
+    <obverse file="RPC VI 4350 (A).jpg" />
+    <reverse file="RPC VI 4350 (R).jpg" />
+  </image>
+  <deity name="Pan" />
+  <origin price="32" currency="EUR" rate="1" fee="23%" 
+          seller="Olympus Numismatik UG" date="16.11.2024" auction="Auktion 17" lot="689" invoice="Olympus Numismatik - 04" />
+  <remark>GRPCL 402, Hochard 2559</remark>
+</coin>

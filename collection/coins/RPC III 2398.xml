@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RPC III 2398">
+  <identity set="Roman Provincial" />
+  <emperor name="Ulpia Marciana" />
+  <denomination name="Assarion" />
+  <mint>
+    <date from="105" to="112" />
+    <place city="Sardis" region="Lydia" />
+  </mint>
+  <obverse>
+    <legend>ΜΑΡΚΙΑ ϹΕΒΑϹΤΗ</legend>
+    <description>Diademed and draped bust of Ulpia Marciana right</description>
+  </obverse>
+  <reverse>
+    <legend>ϹΑΡΔΙΑΝΩΝ ΠΕΛΟΨ</legend>
+    <description>Pelops, clad in chiton, galloping on horse right, brandishing whip in raised right hand</description>
+  </reverse>
+  <measurement diameter="20 mm" weight="4.80 g" />
+  <image>
+    <obverse file="RPC III 2398 (A).jpg" />
+    <reverse file="RPC III 2398 (R).jpg" />
+  </image>
+  <origin price="46" currency="GBP" rate="1.16" fee="20%" 
+          seller="The Coin Cabinet" date="24.04.2025" auction="Ancients Auction 21" lot="705" invoice="The Coin Cabinet - 01" />
+  <remark>BMC 132–3, Sardis 283, SNG von Aulock-3150-1</remark>
+</coin>

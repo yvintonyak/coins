@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC I Augustus 199">
+  <identity set="Roman Imperial" />
+  <emperor name="Augustus" />
+  <denomination name="Denar" />
+  <mint>
+    <date from="9 BC" />
+    <place city="Lugdunum" region="Gallia Lugdunensis" />
+  </mint>
+  <obverse>
+    <legend>AVGVSTVS DIVI F</legend>
+    <description>Bust of Augustus, laureate, right</description>
+  </obverse>
+  <reverse>
+    <legend>[C CAES] AVGVS F</legend>
+    <description>Gaius Caesar galloping right, holding sword and shield in left hand, aquila between two standards on ground</description>
+  </reverse>
+  <measurement diameter="19 mm" weight="3.68 g" />
+  <image>
+    <obverse file="RIC I Augustus 199 (A).jpg" />
+    <reverse file="RIC I Augustus 199 (R).jpg" />
+  </image>
+  <origin price="155" currency="EUR" rate="1" fee="15.0%" 
+          seller="Numismatica Tintinna" date="08.12.2018" auction="Tintinna Asta 76" lot="264" invoice="Numismatica Tintinna - 01" />
+  <legend>
+    <obverse>
+      <entry key="AVGVSTVS" />
+      <entry key="DIVI F" />
+    </obverse>
+    <reverse>
+      <entry key="C CAES[julius]" />
+      <entry key="AVGVS F" />
+    </reverse>
+  </legend>
+</coin>

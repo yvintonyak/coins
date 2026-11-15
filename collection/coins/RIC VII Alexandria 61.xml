@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC VII Alexandria 61">
+  <identity set="Roman Imperial" />
+  <emperor name="Constans Caesar" />
+  <denomination name="Follis" />
+  <mint>
+    <date from="333" to="335" />
+    <place city="Alexandria" region="Aegyptus" />
+  </mint>
+  <obverse>
+    <legend>FL IVL CONSTANS NOB C</legend>
+    <description>Bust of Constans, laureate, cuirassed, right</description>
+  </obverse>
+  <reverse>
+    <legend>GLOR-IA EXERC-ITVS || SMALB</legend>
+    <description>Two soldiers, helmeted, draped, cuirassed, standing facing each other, each holding reversed spear in outer hand and resting inner hand on shield; between them, two standards</description>
+  </reverse>
+  <measurement diameter="18 mm" weight="2.73 g" />
+  <image>
+    <obverse file="RIC VII Alexandria 61 (A).jpg" />
+    <reverse file="RIC VII Alexandria 61 (R).jpg" />
+  </image>
+  <origin price="36" currency="EUR" rate="1" fee="18.5%" 
+          seller="Numismatik Zöttl" date="30.11.2019" auction="eLive Auktion 3" lot="1288" invoice="Numismatik Zöttl - 01" />
+  <legend>
+    <obverse>
+      <entry key="FL IVL CONSTANS" />
+      <entry key="NOB C" />
+    </obverse>
+    <reverse>
+      <entry key="GLORIA EXERCITVS" />
+    </reverse>
+    <mintmark mint="SMALB" />
+  </legend>
+</coin>

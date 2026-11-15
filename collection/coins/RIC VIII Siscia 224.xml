@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC VIII Siscia 224">
+  <identity set="Roman Imperial" />
+  <emperor name="Constans" />
+  <denomination name="Centenionalis" />
+  <mint>
+    <date from="348" to="350" />
+    <place city="Siscia" region="Pannonia Superior" />
+  </mint>
+  <obverse>
+    <legend>D N CONSTA-NS P F AVG</legend>
+    <description>Bust of Constans, pearl-diademed, draped, cuirassed, left, holding globe in right hand</description>
+  </obverse>
+  <reverse>
+    <legend>FEL TEMP – REPARATIO || ASIS</legend>
+    <description>Constans, draped, cuirassed, standing left, holding standard with Chi-Rho on banner in right hand and resting left hand on shield; before him, two bound captives, standing facing, heads turned toward one another</description>
+  </reverse>
+  <measurement diameter="21 mm" weight="5.38 g" />
+  <image>
+    <obverse file="RIC VIII Siscia 224 (A).jpg" />
+    <reverse file="RIC VIII Siscia 224 (R).jpg" />
+  </image>
+  <origin price="50" currency="EUR" rate="1" fee="14.9%" 
+          seller="Numismatik Naumann GmbH" date="01.12.2019" auction="Auktion 84" lot="512" invoice="Numismatik Naumann - 11" />
+  <legend>
+    <obverse>
+      <entry key="D N" />
+      <entry key="CONSTANS" />
+      <entry key="P F" />
+      <entry key="AVG" />
+    </obverse>
+    <reverse>
+      <entry key="FEL TEMP REPARATIO" />
+    </reverse>
+    <mintmark mint="ASIS" />
+  </legend>
+</coin>

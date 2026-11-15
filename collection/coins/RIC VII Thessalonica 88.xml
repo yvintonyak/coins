@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC VII Thessalonica 88">
+  <identity set="Roman Imperial" />
+  <emperor name="Constantinus I" />
+  <denomination name="Follis" />
+  <mint>
+    <date from="320" />
+    <place city="Thessalonica" region="Macedonia" />
+  </mint>
+  <obverse>
+    <legend>CONSTAN-TINVS AVG</legend>
+    <description>Head of Constantine I, laureate, right</description>
+  </obverse>
+  <reverse>
+    <legend>D N CONSTANTINI AVG | VOT | XX || TSΓVI</legend>
+    <description></description>
+  </reverse>
+  <measurement diameter="20 mm" weight="3.52 g" />
+  <image>
+    <obverse file="RIC VII Thessalonica 88 (A).jpg" />
+    <reverse file="RIC VII Thessalonica 88 (R).jpg" />
+  </image>
+  <origin price="80" currency="EUR" rate="1" fee="14.9%" 
+          seller="Numismatik Naumann GmbH" date="07.11.2021" auction="Auktion 110" lot="1129" invoice="Numismatik Naumann - 24" />
+  <legend>
+    <obverse>
+      <entry key="CONSTANTINVS[I]" />
+      <entry key="AVG" />
+    </obverse>
+    <reverse>
+      <entry key="D N CONSTANTINI AVG" />
+      <entry key="VOT XX" />
+    </reverse>
+    <mintmark mint="TSΓVI" />
+  </legend>
+</coin>

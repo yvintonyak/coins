@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="SB 2295">
+  <identity set="Byzantine Empire" />
+  <emperor name="Michael VIII Palaiologos" />
+  <denomination name="Trachy" />
+  <mint>
+    <date from="1261" to="1282" />
+    <place city="Thessalonica" />
+  </mint>
+  <obverse>
+    <legend>OA DHMITHOC</legend>
+    <description>St. Demetrius seated facing on throne, with sword across knees</description>
+  </obverse>
+  <reverse>
+    <legend></legend>
+    <description>Michael, holding long cross and akakia, standing facing, being crowned by archangel Michael to right</description>
+  </reverse>
+  <measurement diameter="26.3 mm" weight="2.4 g" />
+  <image>
+    <obverse file="SB 2295 (A).jpg" />
+    <reverse file="SB 2295 (R).jpg" />
+  </image>
+  <origin price="11" currency="EUR" rate="1" fee="19%" 
+          seller="Ancient Numismatics Auctions" date="17.01.2026" auction="Auction 27" lot="598" invoice="Ancient Numismatics Auctions - 03" />
+  <remark>Sear 1182</remark>
+</coin>

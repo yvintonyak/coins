@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RPC I 2456">
+  <identity set="Roman Provincial" />
+  <emperor name="Nero Caesar" />
+  <denomination name="Æ" />
+  <mint>
+    <date from="54" />
+    <place city="Magnesia ad Sipylum" region="Lydia" />
+  </mint>
+  <obverse>
+    <legend>ΝƐΡΩΝΑ ΚΑΙϹΑΡΑ</legend>
+    <description>Bare head of Nero Caesar left</description>
+  </obverse>
+  <reverse>
+    <legend>ΜΑΓΝΗΤΩΝ ϹΙΠΥ ΘƐΑΝ ϹΥΝΚΛΗΤΟΝ</legend>
+    <description>Draped bust of Senate right</description>
+  </reverse>
+  <measurement diameter="17 mm" weight="4.24 g" />
+  <image>
+    <obverse file="RPC I 2456 (A).jpg" />
+    <reverse file="RPC I 2456 (R).jpg" />
+  </image>
+  <origin price="40" currency="EUR" rate="1" fee="%" 
+          seller="Savoca GmbH &amp; Co. KG" date="16.01.2023" auction="vcoins.com" lot="234-851" invoice="Savoca Numismatik - 40" />
+  <remark>BMC 52, Cop 258</remark>
+</coin>

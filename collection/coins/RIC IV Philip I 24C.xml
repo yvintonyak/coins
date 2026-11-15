@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC IV Philip I 24C">
+  <identity set="Roman Imperial" />
+  <emperor name="Philippus I Arab" />
+  <denomination name="Antoninian" />
+  <mint>
+    <date from="248" />
+    <place city="Roma" region="Italia" />
+  </mint>
+  <obverse>
+    <legend>IMP PHILIPPVS AVG</legend>
+    <description>Bust of Philip the Arab, radiate, draped, cuirassed, right</description>
+  </obverse>
+  <reverse>
+    <legend>SAECVLARES AVGG</legend>
+    <description>Low column inscribed COS III</description>
+  </reverse>
+  <measurement diameter="25 mm" weight="3.99 g" />
+  <image>
+    <obverse file="RIC IV Philip I 24C (A).jpg" />
+    <reverse file="RIC IV Philip I 24C (R).jpg" />
+  </image>
+  <origin price="101" currency="EUR" rate="1" fee="14.9%" 
+          seller="Numismatik Naumann GmbH" date="07.06.2020" auction="Auktion 90" lot="592" invoice="Numismatik Naumann - 16" />
+  <remark>Issue of Saecular Games, 1000th Anniversary of Rome</remark>
+  <legend>
+    <obverse>
+      <entry key="IMP" />
+      <entry key="PHILIPPVS[I]" />
+      <entry key="AVG" />
+    </obverse>
+    <reverse>
+      <entry key="SAECVLARES AVGG" />
+    </reverse>
+  </legend>
+</coin>

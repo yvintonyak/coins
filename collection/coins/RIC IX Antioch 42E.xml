@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC IX Antioch 42E">
+  <identity set="Roman Imperial" />
+  <emperor name="Theodosius I" />
+  <denomination name="Maiorina" />
+  <mint>
+    <date from="378" to="383" />
+    <place city="Antiochia" region="Syria" />
+  </mint>
+  <obverse>
+    <legend>D N THEODO-SIVS P F AVG</legend>
+    <description>Bust of Theodosius I, rosette-diademed, draped and cuirassed, right</description>
+  </obverse>
+  <reverse>
+    <legend>REPARATIO REIPVB || ANTΓ</legend>
+    <description>Emperor, head left, standing facing, with right hand raising kneeling turreted woman, and holding Victory on globe in left</description>
+  </reverse>
+  <measurement diameter="23 mm" weight="5.48 g" />
+  <image>
+    <obverse file="RIC IX Antioch 42E (A).jpg" />
+    <reverse file="RIC IX Antioch 42E (R).jpg" />
+  </image>
+  <deity name="Victoria" />
+  <origin price="28" currency="GBP" rate="1.18" fee="18.0%" 
+          seller="Savoca Numismatics Ltd" date="15.03.2020" auction="London Auktion 5" lot="1222" invoice="Savoca Numismatik - 25" />
+  <legend>
+    <obverse>
+      <entry key="D N" />
+      <entry key="THEODOSIVS[I]" />
+      <entry key="P F" />
+      <entry key="AVG" />
+    </obverse>
+    <reverse>
+      <entry key="REPARATIO REIPVB" />
+    </reverse>
+    <mintmark mint="ANTΓ" />
+  </legend>
+</coin>

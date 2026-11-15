@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC V Gallienus 181">
+  <identity set="Roman Imperial" />
+  <emperor name="Gallienus" />
+  <denomination name="Antoninian" />
+  <mint>
+    <date from="254" />
+    <place city="Roma" region="Italia" />
+  </mint>
+  <obverse>
+    <legend>IMP C P LIC GALLIENVS AVG</legend>
+    <description>Bust of Gallienus, radiate, cuirassed, right</description>
+  </obverse>
+  <reverse>
+    <legend>VIRTVS AVGG</legend>
+    <description>Soldier, helmeted, in military attire, standing left, resting on shield and holding spear</description>
+  </reverse>
+  <measurement diameter="21 mm" weight="2.75 g" />
+  <image>
+    <obverse file="RIC V Gallienus 181 (A).jpg" />
+    <reverse file="RIC V Gallienus 181 (R).jpg" />
+  </image>
+  <origin price="40" currency="EUR" rate="1" fee="14.9%" 
+          seller="Numismatik Naumann GmbH" date="05.01.2020" auction="Auktion 85" lot="590" invoice="Numismatik Naumann - 12" />
+  <legend>
+    <obverse>
+      <entry key="IMP" />
+      <entry key="C" />
+      <entry key="P LIC GALLIENVS" />
+      <entry key="AVG" />
+    </obverse>
+    <reverse>
+      <entry key="VIRTVS AVGG" />
+    </reverse>
+  </legend>
+</coin>

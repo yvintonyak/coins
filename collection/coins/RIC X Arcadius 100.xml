@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC X Arcadius 100">
+  <identity set="Roman Imperial" />
+  <emperor name="Theodosius II" />
+  <denomination name="Nummus" />
+  <mint>
+    <date from="402" to="403" />
+    <place city="Antiochia" region="Syria" />
+  </mint>
+  <obverse>
+    <legend>D N THEODOSIVS [P F] AVG</legend>
+    <description>Bust of Theodosius II, helmeted, pearl-diademed, cuirassed, facing front, holding spear in right hand behind head and shield decorated with cross on left arm</description>
+  </obverse>
+  <reverse>
+    <legend>CON[CORDI]-A AVGG || ANTΓ</legend>
+    <description>Constantinopolis, helmeted, draped, enthroned, enthroned, facing front, head right, holding long sceptre in right hand and Victory on globe in left hand; beneath her right foot, prow</description>
+  </reverse>
+  <measurement diameter="15 mm" weight="2.05 g" />
+  <image>
+    <obverse file="RIC X Arcadius 100 (A).jpg" />
+    <reverse file="RIC X Arcadius 100 (R).jpg" />
+  </image>
+  <deity name="Constantinopolis" />
+  <origin price="60" currency="EUR" rate="1" fee="14.9%" 
+          seller="Numismatik Naumann" date="03.01.2021" auction="Auktion 98" lot="982" invoice="Numismatik Naumann - 20" />
+  <legend>
+    <obverse>
+      <entry key="D N" />
+      <entry key="THEODOSIVS[II]" />
+      <entry key="P F" />
+      <entry key="AVG" />
+    </obverse>
+    <reverse>
+      <entry key="CONCORDIA AVGG" />
+    </reverse>
+    <mintmark mint="ANTΓ" />
+  </legend>
+</coin>

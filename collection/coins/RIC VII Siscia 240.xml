@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC VII Siscia 240">
+  <identity set="Roman Imperial" />
+  <emperor name="Constantinus I" />
+  <denomination name="Follis" />
+  <mint>
+    <date from="334" to="335" />
+    <place city="Siscia" region="Pannonia Superior" />
+  </mint>
+  <obverse>
+    <legend>VRBS - ROMA</legend>
+    <description>Bust of Roma, helmeted, wearing imperial cloak, left</description>
+  </obverse>
+  <reverse>
+    <legend>|| •ASIS•</legend>
+    <description>She-wolf, standing left, suckling twins; above, two stars</description>
+  </reverse>
+  <measurement diameter="19 mm" weight="2.72 g" />
+  <image>
+    <obverse file="RIC VII Siscia 240 (A).jpg" />
+    <reverse file="RIC VII Siscia 240 (R).jpg" />
+  </image>
+  <deity name="Roma" />
+  <origin price="36" currency="EUR" rate="1" fee="22.0%" 
+          seller="Numismatik Zöttl" date="20.11.2021" auction="eLive Auktion 6" lot="120" invoice="Numismatik Zöttl - 03" />
+  <remark>Commemorative Series</remark>
+  <legend>
+    <obverse>
+      <entry key="VRBS ROMA" />
+    </obverse>
+    <mintmark mint="•ASIS•" />
+  </legend>
+</coin>

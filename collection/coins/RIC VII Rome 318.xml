@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC VII Rome 318">
+  <identity set="Roman Imperial" />
+  <emperor name="Constantinus I" />
+  <denomination name="Follis" />
+  <mint>
+    <date from="329" />
+    <place city="Roma" region="Italia" />
+  </mint>
+  <obverse>
+    <legend>CONSTAN-TINVS AVG</legend>
+    <description>Head of Constantine I, laureate, right</description>
+  </obverse>
+  <reverse>
+    <legend>D N CONSTANTINI MAX AVG</legend>
+    <description>VOT|XXX within a laurel wreath || RS</description>
+  </reverse>
+  <measurement diameter="19 mm" weight="3.23 g" />
+  <image>
+    <obverse file="RIC VII Rome 318 (A).jpg" />
+    <reverse file="RIC VII Rome 318 (R).jpg" />
+  </image>
+  <origin price="42" currency="EUR" rate="1" fee="22%" 
+          seller="Auktionen Frühwald" date="02.04.2021" auction="Auktion 141" lot="689" invoice="Auktionen Fruehwald - 01" />
+  <legend>
+    <obverse>
+      <entry key="CONSTANTINVS[I]" />
+      <entry key="AVG" />
+   </obverse>
+    <reverse>
+      <entry key="D N CONSTANTINI MAX AVG" />
+    </reverse>
+    <mintmark mint="RS" />
+  </legend>
+</coin>

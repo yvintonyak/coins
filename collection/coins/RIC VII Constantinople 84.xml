@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC VII Constantinople 84">
+  <identity set="Roman Imperial" />
+  <emperor name="Dalmatius Caesar" />
+  <denomination name="Follis" />
+  <mint>
+    <date from="335" to="337" />
+    <place city="Constantinopolis" region="Thracia" />
+  </mint>
+  <obverse>
+    <legend>FL DELMATIVS NOB C</legend>
+    <description>Bust of Dalmatius, laureate, draped, cuirassed, right</description>
+  </obverse>
+  <reverse>
+    <legend>GLOR-IA EXERC-ITVS || •CONSI•</legend>
+    <description>Two soldiers, helmeted, draped, cuirassed, standing facing each other, each holding reversed spear in outer hand and resting inner hand on shield; between them, two standards</description>
+  </reverse>
+  <measurement diameter="18 mm" weight="2.26 g" />
+  <image>
+    <obverse file="RIC VII Constantinople 84 (A).jpg" />
+    <reverse file="RIC VII Constantinople 84 (R).jpg" />
+  </image>
+  <origin price="35" currency="EUR" rate="1" fee="14.0%" 
+          seller="Ares Numismatics" date="20.10.2019" auction="Webauktion 3" lot="778" invoice="Ares Numismatics - 01" />
+  <legend>
+    <obverse>
+      <entry key="FL DELMATIVS" />
+      <entry key="NOB C" />
+    </obverse>
+    <reverse>
+      <entry key="GLORIA EXERCITVS" />
+    </reverse>
+    <mintmark mint="•CONSI•" />
+  </legend>
+</coin>

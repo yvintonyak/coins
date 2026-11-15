@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC V Carus 363">
+  <identity set="Roman Imperial" />
+  <emperor name="Numerianus Caesar" />
+  <denomination name="Antoninian" />
+  <mint>
+    <date from="282" to="283" />
+    <place city="Roma" region="Italia" />
+  </mint>
+  <obverse>
+    <legend>M AVR NVMERIANVS NOB C</legend>
+    <description>Bust of Numerian, radiate, draped, cuirassed, right</description>
+  </obverse>
+  <reverse>
+    <legend>PRINCIPI IVVENTVT || KAς</legend>
+    <description>Numerian, draped, cuirassed, standing left, holding globe in right hand and sceptre in left hand</description>
+  </reverse>
+  <measurement diameter="21 mm" weight="4.06 g" />
+  <image>
+    <obverse file="RIC V Carus 363 (A).jpg" />
+    <reverse file="RIC V Carus 363 (R).jpg" />
+  </image>
+  <origin price="55" currency="EUR" rate="1" fee="10.0%" 
+          seller="Papillon Numismatic" date="29.11.2020" auction="Auktion 3" lot="451" invoice="Papillon Numismatic - 01" />
+  <legend>
+    <obverse>
+      <entry key="M AVR NVMERIANVS" />
+      <entry key="NOB C" />
+    </obverse>
+    <reverse>
+      <entry key="PRINCIPI IVVENTVT" />
+    </reverse>
+    <mintmark mint="KAς" />
+  </legend>
+</coin>

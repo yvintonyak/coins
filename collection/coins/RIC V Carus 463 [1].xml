@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC V Carus 463">
+  <identity set="Roman Imperial" />
+  <emperor name="Numerianus" />
+  <denomination name="Antoninian" />
+  <mint>
+    <date from="283" to="284" />
+    <place city="Cyzicus" region="Asia" />
+  </mint>
+  <obverse>
+    <legend>IMP C NVMERIANVS P F AVG</legend>
+    <description>Bust of Numerian, radiate, draped, right</description>
+  </obverse>
+  <reverse>
+    <legend>CLEMENTIA TEMP | S || XXI</legend>
+    <description>Numerian, draped, cuirassed, standing right, holding sceptre in right hand and receiving Victory on globe from Jupiter or Carus, standing left, holding sceptre</description>
+  </reverse>
+  <measurement diameter="21 mm" weight="4.43 g" />
+  <image>
+    <obverse file="RIC V Carus 463 [1] (A).jpg" />
+    <reverse file="RIC V Carus 463 [1] (R).jpg" />
+  </image>
+  <origin price="24" currency="EUR" rate="1" fee="18.0%" 
+          seller="Savoca Numismatik GmbH" date="23.06.2019" auction="21st Blue Auction" lot="1796" invoice="Savoca Numismatik - 19" />
+  <legend>
+    <obverse>
+      <entry key="IMP" />
+      <entry key="C" />
+      <entry key="NVMERIANVS" />
+      <entry key="P F" />
+      <entry key="AVG" />
+    </obverse>
+    <reverse>
+      <entry key="CLEMENTIA TEMP" />
+    </reverse>
+    <mintmark mint="S || XXI" />
+  </legend>
+</coin>

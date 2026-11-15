@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC IX Siscia 14D">
+  <identity set="Roman Imperial" />
+  <emperor name="Gratianus" />
+  <denomination name="Centenionalis" />
+  <mint>
+    <date from="367" to="375" />
+    <place city="Siscia" region="Pannonia Superior" />
+  </mint>
+  <obverse>
+    <legend>D N GRATIA-NVS P F AVG</legend>
+    <description>Bust of Gratian, pearl-diademed, draped and cuirassed, right</description>
+  </obverse>
+  <reverse>
+    <legend>GLORIA RO-MANORVM | F | D on (C on R) || ΔSISCE</legend>
+    <description>Emperor advancing right, dragging captive with right hand and holding labarum in left</description>
+  </reverse>
+  <measurement diameter="19 mm" weight="2.64 g" />
+  <image>
+    <obverse file="RIC IX Siscia 14D (A).jpg" />
+    <reverse file="RIC IX Siscia 14D (R).jpg" />
+  </image>
+  <origin price="26" currency="EUR" rate="1" fee="18.0%" 
+          seller="Savoca Numismatik GmbH" date="24.11.2019" auction="26th Blue Auction" lot="1924" invoice="Savoca Numismatik - 24" />
+  <legend>
+    <obverse>
+      <entry key="D N" />
+      <entry key="GRATIANVS" />
+      <entry key="P F" />
+      <entry key="AVG" />
+    </obverse>
+    <reverse>
+      <entry key="GLORIA ROMANORVM" />
+    </reverse>
+    <mintmark mint="F | D on C on R || ΔSISCE" />
+  </legend>
+</coin>

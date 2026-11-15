@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC IV Caracalla 69">
+  <identity set="Roman Imperial" />
+  <emperor name="Caracalla" />
+  <denomination name="Denar" />
+  <mint>
+    <date from="203" />
+    <place city="Roma" region="Italia" />
+  </mint>
+  <obverse>
+    <legend>ANTONINVS PIVS AVG</legend>
+    <description>Bust of Caracalla, laureate, draped, right</description>
+  </obverse>
+  <reverse>
+    <legend>PONT TR P VI COS</legend>
+    <description>Roma, helmeted, draped, standing left, holding Victory in extended right hand and spear in left hand</description>
+  </reverse>
+  <measurement diameter="18.5 mm" weight="3.06 g" />
+  <image>
+    <obverse file="RIC IV Caracalla 69 (A).jpg" />
+    <reverse file="RIC IV Caracalla 69 (R).jpg" />
+  </image>
+  <deity name="Roma" />
+  <origin price="60" currency="EUR" rate="1" fee="18.5%" 
+          seller="Numismatik Zöttl" date="30.11.2019" auction="eLive Auktion 3" lot="454" invoice="Numismatik Zöttl - 01" />
+  <legend>
+    <obverse>
+      <entry key="ANTONINVS[caracalla]" />
+      <entry key="PIVS" />
+      <entry key="AVG" />
+    </obverse>
+    <reverse>
+      <entry key="PONT" />
+      <entry key="TR P VI" />
+      <entry key="COS" />
+    </reverse>
+  </legend>
+</coin>

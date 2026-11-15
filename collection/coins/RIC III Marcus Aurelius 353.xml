@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC III Marcus Aurelius 353">
+  <identity set="Roman Imperial" />
+  <emperor name="Marcus Aurelius" />
+  <denomination name="Denar" />
+  <mint>
+    <date from="175" to="176" />
+    <place city="Roma" region="Italia" />
+  </mint>
+  <obverse>
+    <legend>M ANTONINVS AVG GERM SARM</legend>
+    <description>Head of Marcus Aurelius, laureate, right</description>
+  </obverse>
+  <reverse>
+    <legend>TR P XXX IMP VIII COS III</legend>
+    <description>Genius, nude, standing left, holding patera in right hand and corn-ears in left hand</description>
+  </reverse>
+  <measurement diameter="18 mm" weight="3.16 g" />
+  <image>
+    <obverse file="RIC III Marcus Aurelius 353 (A).jpg" />
+    <reverse file="RIC III Marcus Aurelius 353 (R).jpg" />
+  </image>
+  <deity name="Genius" />
+  <origin price="75" currency="EUR" rate="1" fee="18.0%" 
+          seller="Artemide Kunstauktionen GmbH" date="06.10.2019" auction="e-Live Auktion 9" lot="399" invoice="Artemide Aste - 02" />
+  <legend>
+    <obverse>
+      <entry key="M ANTONINVS[aurel]" />
+      <entry key="AVG" />
+      <entry key="GERM" />
+      <entry key="SARM" />
+    </obverse>
+    <reverse>
+      <entry key="TR P XXX" />
+      <entry key="IMP VIII" />
+      <entry key="COS III" />
+    </reverse>
+  </legend>
+</coin>

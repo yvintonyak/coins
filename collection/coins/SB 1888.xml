@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="SB 1888">
+  <identity set="Byzantine Empire" />
+  <emperor name="Nicephorus III Botaniates" />
+  <denomination name="Follis" />
+  <mint>
+    <date from="1078" to="1081" />
+    <place city="Constantinopolis" />
+  </mint>
+  <obverse>
+    <legend>IC XC</legend>
+    <description>IC XC to left and right of three-quarter length figure of Christ standing facing, wearing nimbus cross, holding book of gospels and raising right hand</description>
+  </obverse>
+  <reverse>
+    <legend>C F N D</legend>
+    <description>large star to left and right, C F N D in the four corners of a cross with a large dot at the ends of each arm, circle in centre containing large star of eight rays</description>
+  </reverse>
+  <measurement diameter="26 mm" weight="5.01 g" />
+  <image>
+    <obverse file="SB 1888 (A).jpg" />
+    <reverse file="SB 1888 (R).jpg" />
+  </image>
+  <origin price="10" currency="EUR" rate="1" fee="15%" 
+          seller="Biga Numismatics" date="13.06.2025" auction="Online Auction 37" lot="771" invoice="Biga Numismatics - 02" />
+  <remark>Sear 1888, DO 9</remark>
+</coin>

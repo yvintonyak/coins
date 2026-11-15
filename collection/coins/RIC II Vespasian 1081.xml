@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC II Vespasian 1081">
+  <identity set="Roman Imperial" />
+  <emperor name="Domitianus Caesar" />
+  <denomination name="Denar" />
+  <mint>
+    <date from="79" />
+    <place city="Roma" region="Italia" />
+  </mint>
+  <obverse>
+    <legend>CAESAR AVG F DOMITIANVS COS VI</legend>
+    <description>Head of Domitian, laureate, right</description>
+  </obverse>
+  <reverse>
+    <legend>PRINCEPS IVVENTVTIS</legend>
+    <description>Clasped hands holding aquila set in prow</description>
+  </reverse>
+  <measurement diameter="19 mm" weight="3.49 g" />
+  <image>
+    <obverse file="RIC II Vespasian 1081 (A).jpg" />
+    <reverse file="RIC II Vespasian 1081 (R).jpg" />
+  </image>
+  <origin price="100" currency="EUR" rate="1" fee="18.0%" 
+          seller="Artemide Kunstauktionen GmbH" date="24.03.2019" auction="e-Live Auktion 7" lot="214" invoice="Artemide Aste - 01" />
+  <legend>
+    <obverse>
+      <entry key="CAESAR" />
+      <entry key="AVG F" />
+      <entry key="DOMITIANVS" />
+      <entry key="COS VI" />
+    </obverse>
+    <reverse>
+      <entry key="PRINCEPS IVVENTVTIS" />
+    </reverse>
+  </legend>
+</coin>

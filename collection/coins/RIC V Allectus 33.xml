@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC V Allectus 33">
+  <identity set="Roman Imperial" />
+  <emperor name="Allectus" />
+  <denomination name="Antoninian" />
+  <mint>
+    <date from="293" to="296" />
+    <place city="Londinium" region="Britannia" />
+  </mint>
+  <obverse>
+    <legend>IMP C ALLECTVS P F AVG</legend>
+    <description>Bust of Allectus, radiate, draped, cuirassed, right</description>
+  </obverse>
+  <reverse>
+    <legend>PAX AVG | S | A || ML</legend>
+    <description>Pax, draped, standing left, holding olive-branch in right hand and transverse sceptre in left hand</description>
+  </reverse>
+  <measurement diameter="22 mm" weight="4.00 g" />
+  <image>
+    <obverse file="RIC V Allectus 33 (A).jpg" />
+    <reverse file="RIC V Allectus 33 (R).jpg" />
+  </image>
+  <deity name="Pax" />
+  <origin price="140" currency="GBP" rate="1.12" fee="21.5%" 
+          seller="Bertolami Fine Arts Ltd" date="07.06.2020" auction="E-Live Auction 83" lot="1303" invoice="Bertolami Fine Arts - 05" />
+  <legend>
+    <obverse>
+      <entry key="IMP" />
+      <entry key="C" />
+      <entry key="ALLECTVS" />
+      <entry key="P F" />
+      <entry key="AVG" />
+    </obverse>
+    <reverse>
+      <entry key="PAX AVG" />
+    </reverse>
+    <mintmark mint="S | A || ML" />
+  </legend>
+</coin>

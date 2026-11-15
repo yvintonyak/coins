@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RPC III 2632">
+  <identity set="Roman Provincial" />
+  <emperor name="Salonia Matidia" />
+  <denomination name="Æ" />
+  <mint>
+    <date from="112" to="119" />
+    <place city="Cotiaeum" region="Phrygia" />
+  </mint>
+  <obverse>
+    <legend>ΜΑΤΙΔΙΑ ϹΕΒΑϹΤΗ</legend>
+    <description>Draped bust of Matidia, right</description>
+  </obverse>
+  <reverse>
+    <legend>ΕΠΙ ΚΛ ΟΥΑΡΟΥ ΚΟΤΙΑΕΩΝ</legend>
+    <description>Zeus seated right, resting with his right on sceptre, left on his knee</description>
+  </reverse>
+  <measurement diameter="22 mm" weight="4.65 g" />
+  <image>
+    <obverse file="RPC III 2632 (A).jpg" />
+    <reverse file="RPC III 2632 (R).jpg" />
+  </image>
+  <deity name="Zeus" />
+  <origin price="51" currency="EUR" rate="1" fee="23%" 
+          seller="Aquila Numismatics" date="06.07.2024" auction="Auktion 15" lot="172" invoice="Ancient Numismatics Auctions - 01" />
+  <remark>BMC 43</remark>
+</coin>

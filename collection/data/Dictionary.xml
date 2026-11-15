@@ -1,0 +1,484 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<dictionary>
+  <entry key="A VITELLIVS" value="A{VLVS} VITELLIVS" comment="Aulus Vitellius" />
+  <entry key="AEL EVDOXIA" value="AEL{IA} EVDOXIA" comment="Aelia Eudoxia" />
+  <entry key="AEL FLACCILLA" value="AEL{IA} FLACCILLA" comment="Aelia Flaccilla" />
+  <entry key="AEMILIANVS" value="AEMILIANVS" comment="Marcus Aelilius Aemilianus" />
+  <entry key="AEQVITAS AVG" value="AEQVITAS AVG{VSTI}" comment="Fairness of the Emperor" />
+  <entry key="AEQVITAS AVGVST" value="AEQVITAS AVGVST{I}" comment="Fairness of the Emperor" />
+  <entry key="AEQVTAS AVGG" value="AEQV{I}TAS AVGG(Augustorum)" comment="Fairness of the Emperors" />
+  <entry key="AETERNA MEMORIA" value="AETERNA MEMORIA" comment="Eternal memory" />
+  <entry key="AETERNITAS AVG N" value="AETERNITAS AVG{VSTI} N{OSTRI}" comment="Eternity of our Emperor" />
+  <entry key="ALLECTVS" value="ALLECTVS" comment="Allectus" />
+  <entry key="ALEXANDER" value="ALEXANDER" comment="Marcus Aurelius Severus Alexander" />
+  <entry key="ANNONA AVGG" value="ANNONA AVGG(Augustorum)" comment="Grain Supply of the Emperors [to the city of Rome]" />
+  <entry key="ANTONIA" value="ANTONIA" comment="Antonia Augusta Minor" />
+  <entry key="ANTONINVS[caracalla]" value="ANTONINVS" comment="Marcus Aurelius Severus Antoninus Pius (Caracalla)" />
+  <entry key="ANTONINVS[elagabal]" value="ANTONINVS" comment="Marcus Aurelius Antoninus (Elagabal)" />
+  <entry key="ANTONINVS[pius]" value="ANTONINVS" comment="Titus Aelius Hadrianus Antoninus Pius" />
+  <entry key="APOLINI CONSERVA" value="APOLINI CONSERVA{TORI}" comment="[dedicated to] Apollo the Protector" />
+  <entry key="ARCADIVS" value="ARCADIVS" comment="Flavius Arcadius" />
+  <entry key="ARM" value="ARM{ENIACVS}" comment="Victor over Armenians" />
+  <entry key="ARMENIACVS" value="ARMENIACVS" comment="Victor over Armenians" />
+  <entry key="ASIA RECEPTA" value="ASIA RECEPTA" comment="Recovery of Asia" />
+  <entry key="AVG" value="AVG{VSTVS}" comment="Imperial title (meaning 'majestic', 'venerable'), given to the Emperor" />
+  <entry key="AVG[usta]" value="AVG{VSTA}" comment="Imperial title, usually given to the wife of the Emperor" />
+  <entry key="AVG F" value="AVG{VSTI} F{ILIVS}" comment="Son of the Emperor" />
+  <entry key="AVG PII F" value="AVG{VSTI} PII F{ILIVS}" comment="Son of the Emperor [Antoninus] Pius" />
+  <entry key="AVGVS F" value="AVGVS{TVS} F{ILIVS}(?)" />
+  <entry key="AVGVST F" value="AVGVST{I} F{ILIVS}" comment="Son of the Emperor" />
+  <entry key="AVGVSTA" value="AVGVSTA" comment="Imperial title, given to the Empress" />
+  <entry key="AVGVSTI F[2x]" value="AVGVSTI F{ILII}" comment="Sons of the Emperor" />
+  <entry key="AVGVSTVS" value="AVGVSTVS" comment="Imperial title (meaning 'majestic', 'venerable'), given to the Emperor" />
+  <entry key="AVRELIANVS" value="AVRELIANVS" comment="Lucius Domitius Avrelianus" />
+  <entry key="AVRELIVS" value="AVRELIVS" comment="Marcus Aelius Aurelius Verus" />
+  <entry key="BEA C" value="BEA{TISSIMI} C{AESARI}" comment="[dedicated to] The most Blessed Caesar" />
+  <entry key="BEATA TRANQVILLITAS" value="BEATA TRANQVILLITAS" comment="Blessed tranquillity (peace, calm)" />
+  <entry key="BONVS EVENTVS AVGVSTI" value="BONVS EVENTVS AVGVSTI" comment="Success of the Emperor" />
+  <entry key="BRIT" value="BRIT{ANICVS}" comment="Victor over Britains" />
+  <entry key="C" value="C{AESAR}" comment="Imperial title, derives from the cognomen of Julius Caesar, given to the designated Emperor" />
+  <entry key="C CAES[julius]" value="C{AIVS} CAES{AR}" comment="Gaius Julius Caesar" />
+  <entry key="C CAESAR[caligula]" value="C{AIVS} CAESAR" comment="Gaius Julius Caesar" />
+  <entry key="C L CAESARES" value="C{AIVS} [et] L{VCIVS} CAESARES" comment="Gaius Caesar [and] Lucius Caesar" />
+  <entry key="C OVAL OSTIL MES COVINTVS" value="C{AIVS} OVAL{ENS} OSTIL{IANVS} MES{SIVS} COVINTVS" comment="Gaius Valens Hostilianus Messius Quintus" />
+  <entry key="C PIV ESV TETRICVS" value="C{AIVS} PIV{S} ESV{VIVS} TETRICVS" comment="Caius Pius Esuvius Tetricus" />
+  <entry key="C V" value="C{ONSVL} V(Quinquies)" comment="Consul for the 5th time" />
+  <entry key="C VAL DIOCLETIANVS" value="C{AIVS} VAL{ERIVS} DIOCLETIANVS" comment="Gaius Aurelius Valerius Diocletianus" />
+  <entry key="C VALENS HOSTIL MES QVINTVS" value="C{AIVS} VALENS HOSTIL{IANVS} MES{SIVS} QVINTVS" comment="Gaius Valens Hostilianus Messius Quintus" />
+  <entry key="C VIB TREB GALLVS" value="C{AIVS} VIB{IVS} TREB{ONIANVS} GALLVS" comment="Gaius Vibius Afinius Trebonianus Gallus" />
+  <entry key="C VIB VOLVSIANVS" value="C{AIVS} VIB{IVS} VOLVSIANVS" comment="Gaius Vibius Volusianus" />
+  <entry key="CAES" value="CAES{AR}" comment="Imperial title, derives from the cognomen of Julius Caesar, given to the designated Emperor" />
+  <entry key="CAESAR" value="CAESAR" comment="Imperial title, derives from the cognomen of Julius Caesar, given to the designated Emperor" />
+  <entry key="CAESARVM NOSTRORVM" value="CAESARVM NOSTRORVM" comment="[dedicated to] Our Caesars" />
+  <entry key="CARAVSIVS" value="CARAVSIVS" comment="Marcus Aurelius Mausaeus Carausius" />
+  <entry key="CARVS" value="CARVS" comment="Marcus Aurelius Carus" />
+  <entry key="CENS" value="CENS{OR}" comment="Censor" />
+  <entry key="CENS P" value="CENS{OR} P{ERPETVVS}" comment="Censor for life" />
+  <entry key="CL V" value="CL{IPEVS} V{OTIVVS}" comment="The votive shield" />
+  <entry key="CLARITAS REIPVBLICAE" value="CLARITAS REIPVBLICAE" comment="Brightness of the Republic" />
+  <entry key="CLAVDIVS" value="CLAVDIVS" comment="Marcus Aurelius Valerius Claudius" />
+  <entry key="CLEMENTIA TEMP" value="CLEMENTIA TEMP{ORVM}" comment="Times of Peace" />
+  <entry key="CONCORDIA" value="CONCORDIA" comment="The Harmony" />
+  <entry key="CONCORD AVG" value="CONCORD{IA} AVG{VSTI}" comment="Harmony of the Emperor" />
+  <entry key="CONCORDIA AVG" value="CONCORDIA AVG{VSTI}" comment="Harmony of the Emperor" />
+  <entry key="CONCORDIA AVGG" value="CONCORDIA AVGG(Augustorum)" comment="Harmony to the Emperors" />
+  <entry key="CONCORDIA AVGGG" value="CONCORDIA AVGGG(Trium Augustorum)" comment="Harmony to the three Emperors" />
+  <entry key="CONCORDIA EXERCIT" value="CONCORDIA EXERCIT{VVM}" comment="Harmony with the army" />
+  <entry key="CONCORD MILIT" value="CONCORD{IA} MILIT{VM}" comment="Harmony with soldiers" />
+  <entry key="CONCORDIA MILITVM" value="CONCORDIA MILITVM" comment="Harmony with soldiers" />
+  <entry key="CONCORDIAE MILITVM" value="CONCORDIAE MILITVM" comment="for Harmony with soldiers" />
+  <entry key="CONSECRATIO" value="CONSECRATIO" comment="Consecration" />
+  <entry key="CONSECRATIO AVG" value="CONSECRATIO AVG{VSTI}" comment="Consecration of the Emperor" />
+  <entry key="CONSER AVG" value="CONSER{VATOR} AVG{VSTVS}" comment="Emperor the Protector" />
+  <entry key="CONSERV VRB SVAE" value="CONSERV{ATORES} VRB{IS} SVAE" comment="Defender of his city" />
+  <entry key="CONSTANS" value="CONSTANS" comment="Flavius Julius Constans" />
+  <entry key="CONSTANTINIANA DAFNE" value="CONSTANTINIANA DAFNE" comment="[dedicated to] Constantinian Victory (greek word 'Dafne' - laurel)" />
+  <entry key="CONSTANTINOPOLI" value="CONSTANTINOPOLI" comment="[dedicated to] Constantinople" />
+  <entry key="CONSTANTINOPOLIS" value="CONSTANTINOPOLIS" comment="Constantinople" />
+  <entry key="CONSTANTINVS[I]" value="CONSTANTINVS" comment="Flavius Valerius Aurelius Constantinus" />
+  <entry key="CONSTANTINVS[II]" value="CONSTANTINVS" comment="Flavius Claudius Constantinus" />
+  <entry key="CONSTANTINVS IVN" value="CONSTANTINVS IVN{IOR}" comment="Flavius Claudius Constantinus" />
+  <entry key="CONSTANTIVS[chlorus]" value="CONSTANTIVS" comment="Marcus Flavius Valerius Constantius" />
+  <entry key="CONSTANTIVS[II]" value="CONSTANTIVS" comment="Flavius Julius Constantius" />
+  <entry key="CONSTANTIVS IVN" value="CONSTANTIVS IVN{IOR}" comment="Flavius Julius Constantius" />
+  <entry key="COS" value="CO{N}S{VL}" comment="Consul" />
+  <entry key="COS II" value="CO{N}S{VL} II(Secundum)" comment="Consul for the 2nd time" />
+  <entry key="COS III" value="CO{N}S{VL} III(Tertium)" comment="Consul for the 3rd time" />
+  <entry key="COS IIII" value="CO{N}S{VL} IIII(Quartum)" comment="Consul for the 4th time" />
+  <entry key="COS V" value="CO{N}S{VL} V(Quinquies)" comment="Consul for the 5th time" />
+  <entry key="COS VI" value="CO{N}S{VL} VI(Sextum)" comment="Consul for the 6th time" />
+  <entry key="COS VIII" value="CO{N}S{VL} VIII(Octavum)" comment="Consul for the 8th time" />
+  <entry key="COS VIIII" value="CO{N}S{VL} VIIII(Nonum)" comment="Consul for the 9th time" />
+  <entry key="COS XIIII" value="CO{N}S{VL} XIIII(Quartadecumanum)" comment="Consul for the 14th time" />
+  <entry key="COS XVI" value="CO{N}S{VL} XVI(Sextusdecumanum)" comment="Consul for the 16th time" />
+  <entry key="COS DESIG" value="CO{N}S{VLES} DESIG{NATI}" comment="Designated Consuls" />
+  <entry key="CRISPINA" value="CRISPINA" comment="Bruttia Crispina" />
+  <entry key="CRISPVS" value="CRISPVS" comment="Gaius Flavius Julius Crispus" />
+  <entry key="D CAEL BALBINVS" value="D{ECIMVS} CAEL{IVS} BALBINVS" comment="Decimus Caelius Calvinus Balbinus" />
+  <entry key="D CL SEPT ALBIN" value="D{ECIMVS} CL{ODIVS} SEPT{IMIVS} ALBIN{VS}" comment="Decimus Clodius Septimius Albinus" />
+  <entry key="D CLO SEP ALB" value="D{ECIMVS} CLO{DIVS} SEP{TIMIVS} ALB{INVS}" comment="Decimus Clodius Septimius Albinus" />
+  <entry key="D N" value="D{OMINVS} N{OSTER}" comment="Our Lord" />
+  <entry key="D N[a]" value="D{OMINA} N{OSTRA}" comment="Our Lady" />
+  <entry key="D N CONSTANTINI AVG" value="D{OMINI} N{OSTRI} CONSTANTINI AVG{VSTI}" comment="[dedicated to] Our Lord Constatinus Augustus" />
+  <entry key="D N CONSTANTINI MAX AVG" value="D{OMINI} N{OSTRI} CONSTANTINI MAX{IMI} AVG{VSTI}" comment="[dedicated to] Our Lord Constatinus the Great Augustus" />
+  <entry key="DAC" value="DAC{ICVS}" comment="Victor over Dacians" />
+  <entry key="DAC[2]" value="DAC{ICO}" comment="[dedicated to] Victor over Dacians" />
+  <entry key="DACIA" value="DACIA" comment="Province Dacia" />
+  <entry key="DECENTIVS" value="DECENTIVS" comment="Flavius Magnus Decentius" />
+  <entry key="DESTINATO IMPERAT" value="DESTINATO IMPERAT{ORE}" comment="[dedicated to] the designated Emperor" />
+  <entry key="DIANA LVCIFERA" value="DIANA LVCIFERA" comment="Diana the Bringer of Light" />
+  <entry key="DIANAE CONS AVG" value="DIANAE CONS{ERVATRIX} AVG{USTI}" comment="[dedicated to] Diana protector of the Emperor" />
+  <entry key="DIOCLETIANVS" value="DIOCLETIANVS" comment="Gaius Aurelius Velerius Diocletianus" />
+  <entry key="DIVA" value="DIVA" comment="The Goddess" />
+  <entry key="DIVAE MARINIANAE" value="DIVAE MARINIANAE" comment="[dedicated to] Diva Mariniana" />
+  <entry key="DIVI F" value="DIVI F{ILIVS}" comment="Son of the Divine" />
+  <entry key="DIVI AVG F" value="DIVI AVG{VSTI} F{ILIVS}" comment="Son of the Divine Autustus" />
+  <entry key="DIVI AVG N" value="DIVI AVG{VSTI} N{EPOS}" comment="Grandson of the Divine Autustus" />
+  <entry key="DIVI AVG PRON" value="DIVI AVG{VSTI} PRON{EPOS}" comment="Great Grandson of the Divine Autustus" />
+  <entry key="DIVO CLAVDIO" value="DIVO CLAVDIO" comment="[dedicated to] the Divine Claudius" />
+  <entry key="DIVO CONSTANTIO PIO" value="DIVO CONSTANTIO PIO" comment="[dedicated to] the Divine Constantius Pius" />
+  <entry key="DIVO CARO PARTHICO" value="DIVO CARO PARTHICO" comment="[dedicated to] the Divine Carus Parthicus" />
+  <entry key="DIVO GAL VAL MAXIMIANO" value="DIVO GAL{ERIO} VAL{ERIO} MAXIMIANO" comment="[dedicated to] the Divine Galerius Valerius Maximianus" />
+  <entry key="DIVO MAXIMIANO" value="DIVO MAXIMIANO" comment="[dedicated to] the Divine Maximianus Herculius" />
+  <entry key="DIVO PIO" value="DIVO PIO" comment="[dedicated to] the Divine Pius" />
+  <entry key="DIVO ROMVLO" value="DIVO ROMVLO" comment="[dedicated to] the Divine Romulus" />
+  <entry key="DIVVS" value="DIVVS" comment="The Divine" />
+  <entry key="DOMIT" value="DOMIT{IANVS}" comment="Titus Flavius Domitianus" />
+  <entry key="DOMITIA" value="DOMITIA" comment="Domitia Longina" />
+  <entry key="DOMITIANVS" value="DOMITIANVS" comment="Titus Flavius Domitianus" />
+  <entry key="DRVSVS CAESAR" value="DRVSVS CAESAR" comment="Drusus Julius Caesar" />
+  <entry key="DV CONSTANTINVS" value="DV(DIVVS) CONSTANTINVS" comment="Divus Constantinus" />
+  <entry key="EVGENIVS" value="EVGENIVS" comment="Flavius Eugenius" />
+  <entry key="FAVSTINA[maior]" value="FAVSTINA" comment="Annia Galeria Faustina Augusta [Maior]" />
+  <entry key="FAVSTINA[minor]" value="FAVSTINA" comment="Annia Galeria Faustina Augusta [Minor]" />
+  <entry key="FECVNDITAS AVG" value="FECVNDITAS AVG{VSTA}" comment="Fertility of the Empress" />
+  <entry key="FEL" value="FEL{IX}" comment="Happy, Fortunate, Succesful" />
+  <entry key="FEL TEMP REPARATIO" value="FEL{ICIVM} TEMP{ORVM} REPARATIO" comment="Restoration of happy times" />
+  <entry key="FELICITAS AVGG" value="FELICITAS AVGG(Augustorum)" comment="[dedicated to] the Happiness of the Emperors" />
+  <entry key="FELICITAS TEMP" value="FELICITAS TEMP{ORVM}" comment="Happy Times" />
+  <entry key="FELICITAS SAECVLI" value="FELICITAS SAECVLI" comment="Happy Century" />
+  <entry key="FELIX" value="FELIX" comment="Happy, Fortunate, Succesful" />
+  <entry key="FIDES MILITVM" value="FIDES MILITVM" comment="Loyalty of soldiers" />
+  <entry key="FIDES MILITVM AVGG ET CAESS NN" value="FIDES MILITVM AVGG(Augustorum) ET CAESS(Caesarum) NN(Nostrorum)" comment="The loyalty of soldiers of our Emperors and Ceasars" />
+  <entry key="FL CL IVLIANVS" value="FL{AVIVS} CL{AVDIVS} IVLIANVS" comment="Flavius Claudius Julianus" />
+  <entry key="FL CONSTANTIS" value="FL{AVII} CONSTANTIS" comment="[dedicated to] Flavius Julius Constans" />
+  <entry key="FL DELMATIVS" value="FL{AVIVS} DELMATIVS" comment="Flavius Dalmatius" />
+  <entry key="FL HANNIBALLIANO" value="FL{AVIO} HANNIBALLIANO" comment="[dedicated to] Flavius Hannibalianus" />
+  <entry key="FL HELENA" value="FL{AVIA} HELENA" comment="Flavia Julia Helena" />
+  <entry key="FL IVL CONSTANS" value="FL{AVIVS} IVL{IVS} CONSTANS" comment="Flavius Julius Constans" />
+  <entry key="FL IVL CONSTANTIVS" value="FL{AVIVS} IVL{IVS} CONSTANTIVS" comment="Flavius Julius Constantius" />
+  <entry key="FL IVL CRISPVS" value="FL{AVIVS} IVL{IVS} CRISPVS" comment="Gaius Flavius Julius Crispus" />
+  <entry key="FL MAX THEODORAE" value="FL{AVIA} MAX{IMIANA} THEODORAE" comment="Flavia Maximiana Theodora" />
+  <entry key="FL VAL CONSTANTINVS" value="FL{AVIVS} VAL{ERIVS} CONSTANTINVS" comment="Flavius Valerius Aurelius Constantinus" />
+  <entry key="FL VAL CONSTANTIVS" value="FL{AVIVS} VAL{ERIVS} CONSTANTIVS" comment="Marcus Flavius Valerius Constantius" />
+  <entry key="FL VAL SEVERVS" value="FL{AVIVS} VAL{ERIVS} SEVERVS" comment="Flavius Valerius Severus" />
+  <entry key="FL VICTOR" value="FL{AVIVS} VICTOR" comment="Flavius Victor" />
+  <entry key="FLAV MAX FAVSTA" value="FLAV{IA} MAX{IMA} FAVSTA" comment="Flavia Maxima Fausta" />
+  <entry key="FLORIANVS" value="FLORIANVS" comment="Marcus Annius Florianus" />
+  <entry key="FORT REDVCI" value="FORT{VNAE} REDVCI" comment="Fortune who returns" />
+  <entry key="FORTI FORTVNAE" value="FORTI FORTVNAE" comment="[dedicated to] the powerful Fortuna" />
+  <entry key="FORTVNA AVGVST" value="FORTVNA AVGVST{I}" comment="Fortune to the Emperor" />
+  <entry key="FVL MACRIANVS" value="FVL{VIVS} MACRIANVS" comment="Titus Fulivus Junius Macrianus" />
+  <entry key="FVL QVIETVS" value="FVL{VIVS} QVIETVS" comment="Titus Fulivus Junius Quietus" />
+  <entry key="FVNDATOR PACIS" value="FVNDATOR PACIS" comment="Founder of peace" />
+  <entry key="GAL MAXIMIANVS" value="GAL{ERIVS} MAXIMIANVS" comment="Gaius Galerius Valerius Maximianus" />
+  <entry key="GAL VAL MAXIMIANVS" value="GAL{ERIVS} VAL{ERIVS} MAXIMIANVS" comment="Gaius Galerius Valerius Maximianus" />
+  <entry key="GAL VAL MAXIMINVS" value="GAL{ERIVS} VAL{ERIVS} MAXIMINVS" comment="Gaius Galerius Valerius Maximinus" />
+  <entry key="GAL VALERIA" value="GAL{ERIA} VALERIA" comment="Galeria Valeria" />
+  <entry key="GALLA PLACIDIA" value="GALLA PLACIDIA" comment="Galla Placidia" />
+  <entry key="GALLIENVS" value="GALLIENVS" comment="Publius Licinius Egnatius Gallienus" />
+  <entry key="GENIO AVGVSTI" value="GENIO AVGVSTI" comment="[dedicated to] Guardian Spirit of the Emperor" />
+  <entry key="GENIO CAESARIS" value="GENIO CAESARIS" comment="[dedicated to] Guardian Spirit of the Caesar" />
+  <entry key="GENIO POP ROM" value="GENIO POP{VLI} ROM{ANI}" comment="[dedicated to] Guardian Spirit of the Roman people" />
+  <entry key="GENIO POPVLI ROMANI" value="GENIO POPVLI ROMANI" comment="[dedicated to] Guardian Spirit of the Roman people" />
+  <entry key="GER" value="GER{MANICVS}" comment="Victor over Germans" />
+  <entry key="GER[2]" value="GER{MANICO}" comment="[dedicated to] Victor over Germans" />
+  <entry key="GERM" value="GERM{ANICVS}" comment="Victor over Germans" />
+  <entry key="GERMANICVS" value="GERMANICVS" comment="Victor over Germans" />
+  <entry key="GERMANICVS CAESAR" value="GERMANICVS CAESAR" comment="Germanicus Julius Caesar" />
+  <entry key="GLORIA EXERCITVS" value="GLORIA EXERCITVS" comment="Glory of the army" />
+  <entry key="GLORIA ROMANORVM" value="GLORIA ROMANORVM" comment="Glory of the Romans" />
+  <entry key="GORDIANVS" value="GORDIANVS" comment="Marcus Antonius Gordianus" />
+  <entry key="GRATIANVS" value="GRATIANVS" comment="Flavius Gratianus" />
+  <entry key="HADRIANVS" value="HADRIANVS" comment="Publius Aelius Traianus Hadrianus" />
+  <entry key="HER ETRVSCILLA" value="HER{ENNIA} ETRVSCILLA" comment="Annia Cupressenia Herennia Etruscilla" />
+  <entry key="HERC DEVSONIENSI" value="HERC{VLI} DEVSONIENSI" comment="[dedicated to] Hercules Deusoniensis" />
+  <entry key="HERCVLI CONSERVAT" value="HERCVLI CONSERVAT{ORI}" comment="[dedicated to] Hercules the Protector" />
+  <entry key="HONORIVS" value="HONORIVS" comment="Flavius Honorius" />
+  <entry key="IIIVIR A A A F F" value="IIIVIR(TRIVMVIRI [Monetales]) A{VRO} A{RGENTO} A{ERE} F{LANDO} F{ERIVNDO}" comment="Three magistrates for casting and striking gold, silver, and bronze" />
+  <entry key="INDVLGENTIA AVG" value="INDVLGENTIA AVG{VSTI}" comment="Favour of the Emperor" />
+  <entry key="IMP" value="IMP{ERATOR}" comment="Supreme Commander for military forces" />
+  <entry key="IMP III" value="IMP{ERATOR} III" comment="Supreme Commander for military forces for the 3rd time" />
+  <entry key="IMP IIII" value="IMP{ERATOR} IIII" comment="Supreme Commander for military forces for the 4th time" />
+  <entry key="IMP VII" value="IMP{ERATOR} VII" comment="Supreme Commander for military forces for the 7th time" />
+  <entry key="IMP VIII" value="IMP{ERATOR} VIII" comment="Supreme Commander for military forces for the 8th time" />
+  <entry key="IMP T AVG F" value="IMP{ERATORI} T{ITI} AVG{VSTI} F{ILIA}" comment="Daughter of Imperator Titus Augustus" />
+  <entry key="IMP XV" value="IMP{ERATOR} XV" comment="Supreme Commander for military forces for the 15th time" />
+  <entry key="IMP XXI" value="IMP{ERATOR} XXI" comment="Supreme Commander for military forces for the 21st time" />
+  <entry key="IMP XXII" value="IMP{ERATOR} XXII" comment="Supreme Commander for military forces for the 22nd time" />
+  <entry key="IMPERAT V" value="IMPERAT{OR} V" comment="Supreme Commander for military forces for the 5th time" />
+  <entry key="HOC SIGNO VICTOR ERIS" value="HOC SIGNO VICTOR ERIS" comment="'In this sign you shell be the victor'" />
+  <entry key="INVICTVS" value="INVICTVS" comment="Invincible" />
+  <entry key="IOHANNES" value="IOHANNES" comment="Johannes" />
+  <entry key="IOVI CONSERVAT" value="IOVI CONSERVAT{ORI}" comment="[dedicated to] Jupiter the Protector" />
+  <entry key="IOVI CONSERVATORI" value="IOVI CONSERVATORI" comment="[dedicated to] Jupiter the Protector" />
+  <entry key="IOVI CONSERVATORI AVGG" value="IOVI CONSERVATORI AVGG(Augustorum)" comment="[dedicated to] Jupiter the Protector of the Emperors" />
+  <entry key="IOVI CRESCENTI" value="IOVI CRESCENTI" comment="[dedicated to] the growing Jupiter" />
+  <entry key="IOVI ET HERCVLI CONS CAES" value="IOVI ET HERCVLI CONS{ERVATORI} CAES{ARIS}" comment="[dedicated to] Jupiter and Hercules the Protectors of the Caesar" />
+  <entry key="IOVI PROPVGNATORI" value="IOVI PROPVGNATORI" comment="[dedicated to] Jupiter the Defender" />
+  <entry key="IOVIANVS" value="IOVIANVS" comment="Flavius Jovianus" />
+  <entry key="IVL VERVS MAXIMVS CAES" value="IVL{IVS} VERVS MAXIMVS CAES{AR}" comment="Julius Verus Maximus Caesar" />
+  <entry key="IVLIA AQVILIA SEVERA" value="IVLIA AQVILIA SEVERA" comment="Julia Aquilia Severa" />
+  <entry key="IVLIA[domna]" value="IVLIA" comment="Julia Domna" />
+  <entry key="IVLIA[titi]" value="IVLIA" comment="Julia Titi Flavia" />
+  <entry key="IVLIA MAESA" value="IVLIA MAESA" comment="Julia Maesa" />
+  <entry key="IVLIA MAMAEA" value="IVLIA MAMAEA" comment="Julia Avita Mamaea" />
+  <entry key="IVLIA PAVLA" value="IVLIA PAVLA" comment="Julia Cornelia Paula" />
+  <entry key="IVLIA SOAEMIAS" value="IVLIA SOAEMIAS" comment="Julia Soaemias" />
+  <entry key="IVLIANVS" value="IVLIANVS" comment="Flavius Claudius Julianus" />
+  <entry key="IVNO CONSERVATRIX" value="IVNO CONSERVATRIX" comment="Juno the Preserver" />
+  <entry key="IVNONI LVCINAE" value="IVNONI LVCINAE" comment="[dedicated to] Juno the Goddess of childbirth" />
+  <entry key="IVNO REGINA" value="IVNO REGINA" comment="Juno the Queen" />
+  <entry key="IVNONI REGINAE" value="IVNONI REGINAE" comment="[dedicated to] Juno the Queen" />
+  <entry key="IVPPITER CVSTOS" value="IVPPITER CVSTOS" comment="Jupiter the Guardian" />
+  <entry key="L AELIVS CAESAR" value="L{VCIVS} AELIVS CAESAR" comment="Lucius Aelius Caesar" />
+  <entry key="L AVREL COMMODVS" value="L{VCIVS} AVREL{IVS} COMMODVS" comment="Lucius Aelius Aurelius Commodus" />
+  <entry key="L AVREL VERVS" value="L{VCIVS} AVREL{IVS} VERVS" comment="Lucius Aurelius Verus" />
+  <entry key="LAMIA SILIVS ANNIVS" value="LAMIA SILIVS ANNIVS" comment="Issuer (Triumviri Monetales): L. Aelius Lamia, P. Silius P., C. Annius Pollio" />
+  <entry key="LAETITIA AVG" value="LAETITIA AVG{VSTI}" comment="Joy of the Emperor" />
+  <entry key="LAETITIA AVG N" value="LAETITIA AVG{VSTI} N{OSTRI}" comment="Joy of our Emperor" />
+  <entry key="LAETITIA TEMPOR" value="LAETITIA TEMPOR{VM}" comment="Joyful Times" />
+  <entry key="LEO" value="LEO" comment="Flavius Leo" />
+  <entry key="LEO[II]" value="LEO" comment="Flavius Leo Iunior" />
+  <entry key="LIBERALITAS AVG V" value="LIBERALITAS AVG{VSTI} V" comment="Generosity of the Emperor 5th time" />
+  <entry key="LIBERTAS AVGVSTA" value="LIBERTAS AVGVSTA" comment="Liberty of the Emperor" />
+  <entry key="LIBERTAS PVBLICA" value="LIBERTAS PVBLICA" comment="Liberty of the public" />
+  <entry key="LIBERTAS RESTITVTA" value="LIBERTAS RESTITVTA" comment="Liberty restored" />
+  <entry key="LIC LICINIVS" value="LICIN{IANVS} LICINIVS" comment="Gaius Velerius Licinianus Licinius" />
+  <entry key="LIC LICINNIVS" value="LICIN{IANVS} LICINIVS" comment="Gaius Velerius Licinianus Licinius" />
+  <entry key="LVCILLA" value="LVCILLA" comment="Annia Aurelia Galeria Lucilla" />
+  <entry key="M A VAL MAXIMIANVS" value="M{ARCVS} A{VRELIVS} VAL{ERIVS} MAXIMIANVS" comment="Marcus Aurelius Valerius Maximianus" />
+  <entry key="M A MAXIMIANVS" value="M{ARCVS} A{VRELIVS} MAXIMIANVS" comment="Marcus Aurelius Valerius Maximianus" />
+  <entry key="M AGRIPPA L F" value="M{ARCVS} AGRIPPA L{VCIVS} F{ILIVS}" comment="Marcus Vipsanius Agrippa, son of Lucius" />
+  <entry key="M AN FLORIANVS" value="M{ARCVS} AN{NIVS} FLORIANVS" comment="Marcus Annius Florianus" />
+  <entry key="M ANT GORDIANVS" value="M{ARCVS} ANT{ONIVS} GORDIANVS" comment="Marcus Antonius Gordianus" />
+  <entry key="M ANTONINVS[aurel]" value="M{ARCVS} ANTONINVS" comment="Marcus Aurelius Antoninus" />
+  <entry key="M AVR ANTON[caracalla]" value="M{ARCVS} AVR{ELIVS} ANTON{INVS}" comment="Marcus Aurelius Antoninus (Caracalla)" />
+  <entry key="M AVR ANTONINVS[elagabal]" value="M{ARCVS} AVR{ELIVS} ANTONINVS" comment="Marcus Aurelius Antoninus (Elagabal)" />
+  <entry key="M AVR CARINVS" value="M{ARCVS} AVR{ELIVS} CARINVS" comment="Marcus Aurelius Carinus" />
+  <entry key="M AVR CL QVINTILLVS" value="M{ARCVS} AVR{ELIVS} CL{AVDIVS} QVINTILLVS" comment="Marcus Aurelius Claudius Quintillus" />
+  <entry key="M AVR MARIVS" value="M{ARCVS} AVR{ELIVS} MARIVS" comment="Marcus Aurelius Marius" />
+  <entry key="M AVR NVMERIANVS" value="M{ARCVS} AVR{ELIVS} NVMERIANVS" comment="Marcus Aurelius Numerius Numerianus" />
+  <entry key="M AVR PROBVS" value="M{ARCVS} AVR{ELIVS} PROBVS" comment="Marcus Aurelius Probus" />
+  <entry key="M AVREL ANTONINVS[aurel]" value="M{ARCVS} AVREL{IVS} ANTONINVS" comment="Marcus Aurelius Antoninus" />
+  <entry key="M CL TACITVS" value="M{ARCVS} CL{AVDIVS} TACITVS" comment="Marcus Claudius Tacitus" />
+  <entry key="M CLOD PVPIENVS" value="M{ARCVS} CLOD{IVS} PVPIENVS" comment="Marcus Clodius Pupienus Maximus" />
+  <entry key="M COMM ANT" value="M{ARCVS} COMM{ODVS} ANT{ONINVS}" comment="Marcus Aurelius Commodus Antoninus (later name of Commodus)" />
+  <entry key="M IVL PHILIPPVS[I]" value="M{ARCVS} IVL{IVS} PHILIPPVS" comment="Marcus Julius Philippus (I)" />
+  <entry key="M IVL PHILIPPVS[II]" value="M{ARCVS} IVL{IVS} PHILIPPVS" comment="Marcus Julius Severus Philippus (II)" />
+  <entry key="M IVL PHILIPPVS CAES" value="M{ARCVS} IVL{IVS} PHILIPPVS CAESAR" comment="Marcus Julius Severus Philippus Caesar" />
+  <entry key="M OPEL DIADVMENIANVS" value="M{ARCVS} OPEL{LIVS} DIADVMENIANVS" comment="Marcus Opellius Antoninus Diadumenianus" />
+  <entry key="M OPEL SEV MACRINVS" value="M{ARCVS} OPEL{LIVS} SEV{ERVS} MACRINVS" comment="Marcus Opellius Severus Macrinus" />
+  <entry key="M OTACIL SEVERA" value="M{ARCIA} OTACIL{IA} SEVERA" comment="Marcia Otacilia Severa" />
+  <entry key="M OTHO" value="M{ARCVS} OTHO" comment="Marcus Otho" />
+  <entry key="M Q TRAIANVS DECIVS" value="M{ESSIVS} Q{VINTVS} TRAIANVS DECIVS" comment="Gaius Messius Quintus Traianus Decius" />
+  <entry key="M VAL MAXIMIANVS" value="M{ARCVS} VAL{ERIVS} MAXIMIANVS" comment="Marcus Aurelius Valerius Maximianus" />
+  <entry key="MAG MAXIMVS" value="MAG{NVS} MAXIMVS" comment="Flavius Magnus Maximus" />
+  <entry key="MAGN VRBICA" value="MAGN{IA} VRBICA" comment="Magnia Urbica" />
+  <entry key="MAGNENTIVS" value="MAGNENTIVS" comment="Magnus Magnentius" />
+  <entry key="MARCIANVS" value="MARCIANVS" comment="Flavius Marcianus" />
+  <entry key="MARS VLTOR" value="MARS VLTOR" comment="Mars the Avenger" />
+  <entry key="MARTI PROPVGNATORI" value="MARTI PROPVGNATORI" comment="[dedicated to] Mars the Defender" />
+  <entry key="MARTI PATRI CONSERVATORI" value="MARTI PATRI CONSERVATORI" comment="[dedicated to] Mars, the Protecting Father" />
+  <entry key="MAXIMIANVS[herculius]" value="MAXIMIANVS" comment="Marcus Aurelius Valerius Maximianus" />
+  <entry key="MAXIMINVS[thrax]" value="MAXIMINVS" comment="Gaius Julius Verus Maximinus" />
+  <entry key="MAX" value="MAX{IMVS}" comment="The Great" />
+  <entry key="MAXENTIVS" value="MAXENTIVS" comment="Marcus Aurelius Valerius Maxentius" />
+  <entry key="MEMORIAE AETERNAE" value="MEMORIAE AETERNAE" comment="Eternal Memory" />
+  <entry key="MEMORIA FELIX" value="MEMORIA FELIX" comment="Happy Memory" />
+  <entry key="MONETA AVG" value="MONETA AVG{VSTI}" comment="Mint of the Emperor" />
+  <entry key="MVL X" value="MVL{TIS} X(Decennalibus)" comment="more [hoped for] 10th anniversary [of rule]" />
+  <entry key="MVLT X" value="MVLT{IS} X(Decennalibus)" comment="more [hoped for] 10th anniversary [of rule]" />
+  <entry key="MVLT XX" value="MVLT{IS} XX(Vicennalibus)" comment="more [hoped for] 20th anniversary [of rule]" />
+  <entry key="MVLT XXXX" value="MVLT{IS} XXXX(Quadragennalibus)" comment="more [hoped for] 40th anniversary [of rule]" />
+  <entry key="MVLTIS X" value="MVLTIS X(Decennalibus)" comment="more [hoped for] 10th anniversary [of rule]" />
+  <entry key="MVLTIS XXXX" value="MVLTIS XXXX(Quadragennalibus)" comment="more [hoped for] 40th anniversary [of rule]" />
+  <entry key="N C" value="N{OBILISSIMVS} C{AESAR}" comment="The most Noble Caesar" />
+  <entry key="N V FILIO" value="N{OSTRAE} V{RBIS} FILIO" comment="[dedicated to] The son of our city" />
+  <entry key="NERO" value="NERO" comment="Nero Claudius" />
+  <entry key="NERVA" value="NERVA" comment="Marcus Cocceius Nerva" />
+  <entry key="NER TRAIAN" value="NER{VA} TRAIAN{VS}" comment="Nerva Traianus" />
+  <entry key="NERVA TRAIAN" value="NERVA TRAIAN{VS}" comment="Nerva Traianus" />
+  <entry key="NOB C" value="NOB{ILISSIMVS} C{AESAR}" comment="The most Noble Caesar" />
+  <entry key="NOB CAES" value="NOB{ILISSIMVS} CAES{AR}" comment="The most Noble Caesar" />
+  <entry key="NOB CAESAR" value="NOB{ILISSIMVS} CAESAR" comment="The most Noble Caesar" />
+  <entry key="NOBIL CAES" value="NOBIL{ISSIMVS} CAES{AR}" comment="The most Noble Caesar" />
+  <entry key="NVMERIANVS" value="NVMERIANVS" comment="Marcus Aurelius Numerius Numerianus" />
+  <entry key="OPTIME MAXIME" value="OPTIME MAXIME" comment="[dedicated to] the Best and the Greatest" />
+  <entry key="OPT IMP" value="OPT{IMO} IMP{ERATORI}" comment="[dedicated to] the best Imperator" />
+  <entry key="OPTIM AVG" value="OPTIMO AVG{USTI}" comment="[dedicated to] the best Emperor" />
+  <entry key="OPTIMO PRINC" value="OPTIMO PRINC{IPI}" comment="[dedicated to] the best Emperor" />
+  <entry key="OPTIMO PRINCIPI" value="OPTIMO PRINCIPI" comment="[dedicated to] the best Emperor" />
+  <entry key="ORIENS AVG" value="ORIENS AVG{VSTI}" comment="Rising Sun of the Emperor" />
+  <entry key="P" value="P{IVS}" comment="Dutiful, Dedicated" />
+  <entry key="P F" value="P{IVS} F{ELIX}" comment="Dutiful, Dedicated [and] Happy, Fortunate, Succesful" />
+  <entry key="P F[a]" value="P{IA} F{ELIX}" comment="Dutiful, Dedicated [and] Happy, Fortunate, Succesful" />
+  <entry key="P FEL" value="P{IVS} FEL{IX}" comment="Dutiful, Dedicated [and] Happy, Fortunate, Succesful" />
+  <entry key="P HELV PERTIN" value="P{VBLIVS} HELV{IVS} PERTIN{AX}" comment="Publius Helvius Pertimax" />
+  <entry key="P LIC GALLIENVS" value="P{VBLIVS} LIC{INIVS} GALLIENVS" comment="Publius Licinius Egnatius Gallienus" />
+  <entry key="P M" value="P{ONTIFEX} M{AXIMVS}" comment="The High Priest" />
+  <entry key="P P" value="P{ATER} P{ARTIAE}" comment="Father of the Country" />
+  <entry key="P SEPT GETA" value="P{VBLIVS} SEPT{IMIVS} GETA" comment="Publius Septimius Geta" />
+  <entry key="PACI PERPET" value="PACI PERPET{VAE}" comment="to the perperual peace" />
+  <entry key="PARTH" value="PARTH{ICVS}" comment="Victor over Parthians" />
+  <entry key="PARTHICO" value="PARTHICO" comment="[dedicated to] Victor over Parthians" />
+  <entry key="PATER PATRIAE" value="PATER PATRIAE" comment="Father of the Country" />
+  <entry key="PATER" value="PATER" comment="Father" />
+  <entry key="PAVLINA" value="CAECILIA PAVLINA" comment="Caecilia Pauina" />
+  <entry key="PAX AVG" value="PAX AVG{VSTI}" comment="[dedicated to] the Peace [provided] by the Emperor" />
+  <entry key="PERPETVITATE AVG" value="PERPETVITATE AVG{VSTI}" comment="Immortality to the Emperor" />
+  <entry key="PHILIPPVS[I]" value="PHILIPPVS" comment="Marcus Julius Philippus (I)" />
+  <entry key="PIA" value="PIA" comment="Dutiful, Dedicated" />
+  <entry key="PIETAS AVG" value="PIETAS AVG{VSTI}" comment="the Piety of the Emperor" />
+  <entry key="PIETAS AVGG" value="PIETAS AVGG(Augustorum)" comment="the Piety of the Emperors" />
+  <entry key="PIETAS ROMANA" value="PIETAS ROMANA" comment="the Roman Piety" />
+  <entry key="PIVS" value="PIVS" comment="Dutiful, Dedicated" />
+  <entry key="PIVS FEL" value="PIVS FEL{IX}" comment="Dutiful, Dedicated [and] Happy, Fortunate, Succesful" />
+  <entry key="PLAVTILLA" value="PLAVTILLA" comment="Publia Fulvia Plautilla" />
+  <entry key="PON" value="PON{TIFEX}" comment="The Priest" />
+  <entry key="PONTIF" value="PONTIF{EX}" comment="The Priest" />
+  <entry key="PON M" value="PON{TIFEX} M{AXIMVS}" comment="The High Priest" />
+  <entry key="PONT" value="PONT{IFEX}" comment="The Priest" />
+  <entry key="PONT MAX" value="PONT{IFEX} MAX{IMVS}" comment="The High Priest" />
+  <entry key="PONTIF" value="PONTIF{EX}" comment="The Priest" />
+  <entry key="PONTIF MAXIM" value="PONTIF{EX} MAXIM{VS}" comment="The High Priest" />
+  <entry key="PONTIFEX" value="PONTIFEX" comment="The Priest" />
+  <entry key="POP ROMANVS" value="POP{VLVS} ROMANVS" comment="the Roman People" />
+  <entry key="POSTVMVS" value="POSTVMVS" comment="Marcus Cassianius Latinius Postumus" />
+  <entry key="PRINC IVVENT[2x]" value="PRINC{IPES} IVVENT{VTIS}" comment="The Princes of Youths" />
+  <entry key="PRINC IVVENTVTIS" value="PRINC{EPS} IVVENTVTIS" comment="The Prince of Youths" />
+  <entry key="PRINCEPS IVVENTVTIS" value="PRINCEPS IVVENTVTIS" comment="The Prince of Youths" />
+  <entry key="PRINCIPI IVVENT" value="PRINCIPI IVVENT{VTIS}" comment="The Prince of Youths" />
+  <entry key="PRINCIPI IVVENTVT" value="PRINCIPI IVVENTVT{IS}" comment="The Prince of Youths" />
+  <entry key="PRINCIPI IVVENTVTIS" value="PRINCIPI IVVENTVTIS" comment="The Prince of Youths" />
+  <entry key="PROCOPIVS" value="PROCOPIVS" comment="Procopius" />
+  <entry key="PROV DEOR" value="PROV{IDENTIA} DEOR{VM}" comment="Providence of the Gods" />
+  <entry key="PROVIDEN DEOR" value="PROVIDEN{TIA} DEOR{VM}" comment="Providence of the Gods" />
+  <entry key="PROVIDENTIA DEORVM" value="PROVIDENTIA DEORVM" comment="Providence of the Gods" />
+  <entry key="PROVIDENTIAE CAES" value="PROVIDENTIAE CAES{ARIS}" comment="[dedicated to] Providence of the Caesar" />
+  <entry key="PROVIDENTIAE CAESS" value="PROVIDENTIAE CAESS(Caesarum)" comment="[dedicated to] Providence of the Caesars" />
+  <entry key="PROVIDENTIAE AVGG" value="PROVIDENTIAE AVGG(Augustorum)" comment="[dedicated to] Providence of the Emperors" />
+  <entry key="PT AVGG" value="PT(Pater) AVGG(Augustorum)" comment="Father of the Emperors" />
+  <entry key="PVDICITIA" value="PVDICITIA" comment="Modesty" />
+  <entry key="PVDICITIA AVG" value="PVDICITIA AVG{VSTI}" comment="Modesty of the Emperor" />
+  <entry key="Q HER ETR MES DECIVS" value="Q{VINTVS} HER{ENNIVS} ETR{VSCVS} MES{SIVS} DECIVS" comment="Quintus Herennius Etruscus Messius" />
+  <entry key="RECTOR ORBIS" value="RECTOR ORBIS" comment="Master of the world" />
+  <entry key="REGI" value="REGI" comment="[dedicated to] the King (Rex)" />
+  <entry key="REPARATIO FEL TEMP" value="REPARATIO FEL{ICIVM} TEMP{ORVM}" comment="Restoration of happy times" />
+  <entry key="REPARATIO REIPVB" value="REPARATIO REIPVB{LICAE}" comment="Restoration of the Republic" />
+  <entry key="REQVIES OPTIMOR MERIT" value="REQVIES OPTIMOR{VM} MERIT{ORVM}" comment="The repose of the highest merits" />
+  <entry key="RESTITVT ORBIS" value="RESTITVT{OR} ORBIS" comment="The Restorer of the World" />
+  <entry key="ROMVLO CONDITORI" value="ROMVLO CONDITORI" comment="[dedicated to] Rolumus the Founder" />
+  <entry key="SALL BARBIA ORBIANA" value="SALL{VSTIA} BARBIA ORBIANA" comment="Gnaea Seia Herennia Sallustia Barbia Orbiana" />
+  <entry key="S C" value="S{ENATVS} C{ONSVLTO}" comment="Struck by the authority of the Senate" />
+  <entry key="S P Q R" value="S{ENATVS} P{OPVLVS}Q{VE} R{OMANVS}" comment="The Senate and the Roman People" />
+  <entry key="S P Q R OB C S" value="S{ENATVS} P{OPVLVS}Q{VE} R{OMANVS} OB C{IVES} S{ERVATOS}" comment="[awarded by] the senate and the Roman people for saving citizens" />
+  <entry key="SACR MONET AVGG ET CAESS NOSTR" value="SACR{A} MONET{A} AVGG(Augustorum) ET CAESS(Caesarum) NOSTR{ORVM}" comment="Sacred Mint of our Emperors and Caesars" />
+  <entry key="SAB TRANQVILLINA" value="SAB{INIA} TRANQVILLINA" comment="Furia Sabinia Tranquillina" />
+  <entry key="SABINA" value="SABINA" comment="Vibia Sabina" />
+  <entry key="SAECVLARES AVGG" value="SAECVLARES AVGG(Augustorum)" comment="Secular games of the Emperors" />
+  <entry key="SALON VALERIANVS" value="SALON{INVS} VALERIANVS" comment="Publius Cornelius Licinius Saloninus Valerianus" />
+  <entry key="SALONINA" value="SALONINA" comment="Julia Cornelia Salonina" />
+  <entry key="SALVS ANTONINI AVG" value="SALVS ANTONINI AVG{VSTI}" comment="[dedicated to] Health of the Emperor Antoninus" />
+  <entry key="SALVS AVGVSTI" value="SALVS AVGVSTI" comment="[dedicated to] Health of the Emperor" />
+  <entry key="SALVS REIPVBLICAE" value="SALVS REIPVBLICAE" comment="[dedicated to] Wellbeing of the Republic" />
+  <entry key="SALVS REIPVBLICE" value="SALVS REIPVBLICE" comment="[dedicated to] Wellbeing of the Republic" />
+  <entry key="SARM" value="SARM{ATICVS}"  comment="Victor over Sarmatians" />
+  <entry key="SARMATIA DEVICTA" value="SARMATIA DEVICTA" comment="Sarmatia defeated" />
+  <entry key="SECVRITAS P R" value="SECVRITAS P{OPVLVS} R{OMANVS}" comment="Security of the Roman People" />
+  <entry key="SECVRITAS PERPETVA" value="SECVRITAS PERPETVA" comment="Perpetual Security" />
+  <entry key="SECVRITAS PVBLICA" value="SECVRITAS PVBLICA" comment="Security of the public" />
+  <entry key="SECVRITAS REIPVB" value="SECVRITAS REIPVB{LICAE}" comment="Security of the Republic" />
+  <entry key="SECVRITAS REIPVBLICAE" value="SECVRITAS REIPVBLICAE" comment="Security of the Republic" />
+  <entry key="SECVRITAS REIPVBLICE" value="SECVRITAS REIPVBLICE" comment="Security of the Republic" />
+  <entry key="SEN FORT IMP" value="SEN{IOR} FORT{ISSIMVS} IMP{ERATOR}" comment="Senior Strongest Emperor" />
+  <entry key="SER GALBA" value="SER{VIVS} GALBA" comment="Servius Sulpicius Galba" />
+  <entry key="SEVERINA" value="SEVERINA" comment="Ulpia Severina" />
+  <entry key="SEVERVS[septimius]" value="SEVERVS" comment="Lucius Septimius Severus Eusebes Pertinax" />
+  <entry key="SEVERVS[II]" value="SEVERVS" comment="Flavius Valerius Severus" />
+  <entry key="SOLI INVICTO" value="SOLI INVICTO" comment="[dedicated to] Sol the Invincible" />
+  <entry key="SOLI INVICTO COMITI" value="SOLI INVICTO COMITI" comment="[dedicated to] Sol the Invincible, companion (of the Emperor)" />
+  <entry key="SPES AVGG" value="SPES AVGG(Augustorum)" comment="Hope on the Emperors" />
+  <entry key="SPES PVBLICA" value="SPES PVBLICA" comment="Hope of the public" />
+  <entry key="SPES REIPVBLICAE" value="SPES REIPVBLICAE" comment="Hope of the Republic" />
+  <entry key="SPES ROMANORVM" value="SPES ROMANORVM" comment="Hope of Rome" />
+  <entry key="T CAES" value="T{ITVS} CAES{AR}" comment="Titus Flavius Caesar Vespasianus" />
+  <entry key="T AELIVS CAESAR ANTONINVS" value="T{ITVS} AELIVS CAESAR ANTONINVS" comment="Titus Aelius Caesar Antoninus" />
+  <entry key="TETRICVS[I]" value="TETRICVS" comment="Gaius Pius Esuvius Tetricus" />
+  <entry key="TI" value="TI{BERIVS}" comment="Tiberius" />
+  <entry key="TI CLAVDIVS" value="TI{BERIVS} CLAVDIVS" comment="Tiberius Claudius" />
+  <entry key="TI AVG F" value="TI{BERII} AVG{VSTI} F{ILIVS}" comment="[dedicated to] Tiberius, son of Augustus" />
+  <entry key="TI AVGVST F" value="TI{BERII} AVGVST{I} F{ILIVS}" comment="[dedicated to] Tiberius, son of Augustus" />
+  <entry key="TITVS" value="TITVS" comment="Titus Flavius Vespasianus" />
+  <entry key="THEODOSIVS[I]" value="THEODOSIVS" comment="Flavius Theodosius (I)" />
+  <entry key="THEODOSIVS[II]" value="THEODOSIVS" comment="Flavius Theodosius (II)" />
+  <entry key="TR P" value="TR{IBVNICIA} P{OTESTAS}" comment="The Tribunician power" />
+  <entry key="TR P II" value="TR{IBVNICIA} P{OTESTAS} II" comment="The Tribunician power for the 2nd time" />
+  <entry key="TR P IIII" value="TR{IBVNICIA} P{OTESTAS} IIII" comment="The Tribunician power for the 4th time" />
+  <entry key="TR P VI" value="TR{IBVNICIA} P{OTESTAS} VI"  comment="The Tribunician power for the 6th time" />
+  <entry key="TR P VIIII" value="TR{IBVNICIA} P{OTESTAS} VIIII" comment="The Tribunician power for the 8th time" />
+  <entry key="TR P IX" value="TR{IBVNICIA} P{OTESTAS} IX" comment="The Tribunician power for the 9th time" />
+  <entry key="TR P XIII" value="TR{IBVNICIA} P{OTESTAS} XIII" comment="The Tribunician power for the 13th time" />
+  <entry key="TR P XV" value="TR{IBVNICIA} P{OTESTAS} XV" comment="The Tribunician power for the 15th time" />
+  <entry key="TR P XVI" value="TR{IBVNICIA} P{OTESTAS} XVI" comment="The Tribunician power for the 16th time" />
+  <entry key="TR P XVIII" value="TR{IBVNICIA} P{OTESTAS} XVIII" comment="The Tribunician power for the 18th time" />
+  <entry key="TR P XVIIII" value="TR{IBVNICIA} P{OTESTAS} XVIIII" comment="The Tribunician power for the 19th time" />
+  <entry key="TR P XX" value="TR{IBVNICIA} P{OTESTAS} XX" comment="The Tribunician power for the 20th time" />
+  <entry key="TR P XXX" value="TR{IBVNICIA} P{OTESTAS} XXX" comment="The Tribunician power for the 30th time" />
+  <entry key="TR POT" value="TR{IBVNICIA} POT{ESTAS}" comment="The Tribunician power" />
+  <entry key="TR POT XX" value="TR{IBVNICIA} POT{ESTAS} XX" comment="The Tribunician power for the 20th time" />
+  <entry key="TR POT XXI" value="TR{IBVNICIA} POT{ESTAS} XXI" comment="The Tribunician power for the 21st time" />
+  <entry key="TRIB POT" value="TRIB{VNICIA} POT{ESTAS}" comment="The Tribunician power" />
+  <entry key="TRIBVN POTEST XXIIII" value="TRIBVN{ICIA} POTEST{AS} XXIIII" comment="The Tribunician power for the 24th time" />
+  <entry key="TRIBVN POTESTATE XII" value="TRIBVN{ICIA} POTESTATE XII" comment="The Tribunician power for the 12th time" />
+  <entry key="TRAIANO" value="TRAIANO" comment="Nerva Traianus" />
+  <entry key="TRIBVN POTEST ITER" value="TRIBVN{ITIA} POTEST{AS} ITER{VM}" comment="The Tribunician power again (for the 2nd time)" />
+  <entry key="V C R IM D R" value="V{IR} C{LARISSIMVS} R{EX} IM{PERATOR} D{VX} R{OMANORVM}" comment="Most Illustrious (senatorial rank) King Imperator Duke under Rome" />
+  <entry key="VABALATHVS" value="VABALATHVS" comment="Lucius Julius Aurelius Septimius Vaballathus Athenodorus" />
+  <entry key="VAL LICIN LICINIVS[I]" value="VAL{ERIVS} LICIN{IANVS} LICINIVS" comment="Gaius Velerius Licinianus Licinius" />
+  <entry key="VAL LICIN LICINIVS[II]" value="VAL{ERIVS} LICIN{IANVS} LICINIVS" comment="Velerius Licinianus Licinius" />
+  <entry key="VALENS" value="VALENS" comment="Flavius Julius Valens" />
+  <entry key="VALENTINIANVS IVN" value="VALENTINIANVS IVN{IOR}" comment="Flavius Valentinianus Junior" />
+  <entry key="VALENTINIANVS[I]" value="VALENTINIANVS" comment="Flavius Valentinianus (I)" />
+  <entry key="VALENTINIANVS[II]" value="VALENTINIANVS" comment="Flavius Valentinianus (II)" />
+  <entry key="VALENTINIANVS[III]" value="VALENTINIANVS" comment="Flavius Placidius Valentinianus (III)" />
+  <entry key="VALERIANVS P" value="VALERIANVS P{VBLIVS}" comment="Publius Licinius Valerianus" />
+  <entry key="VALERIANVS[II]" value="VALERIANVS" comment="Publius Licinius Cornelius Egnatius Valerianus" />
+  <entry key="VENERI GENETRICI" value="VENERI GENETRICI" comment="[dedicated to] Venus the Mother" />
+  <entry key="VENERI VICTRICI" value="VENERI VICTRICI" comment="[dedicated to] Victorious Venus" />
+  <entry key="VENVS AVG" value="VENVS AVG{USTA}" comment="Empress Venus" />
+  <entry key="VENVS CAELESTIS" value="VENVS CAELESTIS" comment="Heavenly Venus" />
+  <entry key="VENVS GENETRIX" value="VENVS GENETRIX" comment="Venus the Mother" />
+  <entry key="VENVS VICTRIX" value="VENVS VICTRIX" comment="Victorious Venus" />
+  <entry key="VERVS" value="VERVS" comment="Lucius Aurelius Verus" />
+  <entry key="VESP" value="VESP{ASIANVS}" comment="Titus Flavius Vespasianus" />
+  <entry key="VESP[titus]" value="VESP{ASIANVS}" comment="Titus Flavius Vespasianus" />
+  <entry key="VESPASIAN[titus]" value="VESPASIAN{VS}" comment="Titus Flavius Vespasianus" />
+  <entry key="VESPASIANVS" value="VESPASIANVS" comment="Titus Flavius Vespasianus" />
+  <entry key="VESTA" value="VESTA" comment="Vesta" />
+  <entry key="VETRANIO" value="VETRANIO" comment="Flavius Vetranio" />
+  <entry key="VIC" value="VIC{TOR}" comment="Victor" />
+  <entry key="VICT AETERN" value="VICT{ORIA} AETERN{AE}" comment="Eternal victory" />
+  <entry key="VICT LAETAE PRINC PERP" value="VICT{ORIAE} LAETAE PRINC{IPVM} PERP{ETVAE}" comment="Joyous Victory to the Eternal Prince" />
+  <entry key="VICTORIAE LAETAE PRINC PERP" value="VICTORIAE LAETAE PRINC{IPVM} PERP{ETVAE}" comment="Joyous Victory to the Eternal Prince" />
+  <entry key="VICT AVG" value="VICT{ORIA} AVG{VSTI}" comment="[dedicated to] Victory of the Emperor" />
+  <entry key="VICTORIA AVG" value="VICTORIA AVG{VSTI}" comment="[dedicated to] Victory of the Emperor" />
+  <entry key="VICTORIA AVGG NN" value="VICTORIA AVGG(Augustorum) NN(Nostrorum)" comment="[dedicated to] Victory of our Emperors" />
+  <entry key="VICTORIA AVGGG" value="VICTORIA AVGGG(Trium Augustorum)" comment="[dedicated to] Victory of the three Emperors" />
+  <entry key="VICTORIAE DD NN AVG ET CAES" value="VICTORIAE DD(Dominorum) NN(Nostrorum) AVG{VSTI} ET CAES{ARIS}" comment="Victories of our Lords, Emperor and Caesar" />
+  <entry key="VICTORIAE DD NN AVG ET CAE" value="VICTORIAE DD(Domini) NN(Nostri) AVG{VSTI} ET CAE{SARIS}" comment="Victories of our Lords, Emperor and Caesar" />
+  <entry key="VICTORIAE DD NN AVG E CAE" value="VICTORIAE DD(Domini) NN(Nostri) AVG{VSTI} E{T} CAE{SARIS}" comment="Victories of our Lords, Emperor and Caesar" />
+  <entry key="VICTORINVS" value="VICTORINVS" comment="Mercus Piavonius Victorinus" />
+  <entry key="VIRTVS AVG" value="VIRTVS AVG{VSTI}" comment="Valor of the Emperor" />
+  <entry key="VIRTVS AVGG" value="VIRTVS AVGG(Augustorum)" comment="Valor of the Emperors" />
+  <entry key="VIRTVS AVGVSTI" value="VIRTVS AVGVSTI" comment="Valor of the Emperor" />
+  <entry key="VIRTVS AVGG ET CAESS NN" value="VIRTVS AVGG(Augustorum) ET CAESS(Caesarum) NN(Nostrorum)" comment="Valor of our Emperors and Caesars" />
+  <entry key="VIRTVS EXERCITI" value="VIRTVS EXERCITI" comment="[dedicated to] Valor of the army" />
+  <entry key="VIRTVS EXERCIT" value="VIRTVS EXERCIT{VS}" comment="Valor of the army" />
+  <entry key="VIRTVS MILITVM" value="VIRTVS MILITVM" comment="Valor of soldiers" />
+  <entry key="VIRTVS PROBI AVG" value="VIRTVS PROBI AVG{VSTI}" comment="Valor of the Emperor Probus" />
+  <entry key="VIRTVS ROMANORVM" value="VIRTVS ROMANORVM" comment="Valor of the Romans" />
+  <entry key="VN MR" value="V{E}N{ERANDAE} M{EMO}R{IAE}" comment="In honor of venerated memory" />
+  <entry key="VOT" value="VOT{A}" comment="Wishes [on the anniversary of rule]" />
+  <entry key="VOT P R" value="VOT{A} P{OPVLI} R{OMANI}" comment="Wishes of the Roman people" />
+  <entry key="VOT V" value="VOT{IS} V(Quinquennalibus)" comment="Wishes on the 5th anniversary [of rule]" />
+  <entry key="VOT X" value="VOT{IS} X(Decennalibus)" comment="Wishes on the 10th anniversary [of rule]" />
+  <entry key="VOT XX" value="VOT{IS} XX(Vicennalibus)" comment="Wishes on the 20th anniversary [of rule]" />
+  <entry key="VOTIS V" value="VOTIS V(Quinquennalibus)" comment="Wishes on the 5th anniversary [of rule]" />
+  <entry key="VOTIS XX" value="VOTIS XX(Vicennalibus)" comment="Wishes on the 20th anniversary [of rule]" />
+  <entry key="VOTIS XXX" value="VOTIS XXX(Tricennalibus)" comment="Wishes on the 30th anniversary [of rule]" />
+  <entry key="VOT PVB" value="VOT{A} PVB{LICA}" comment="Wishes of the public" />
+  <entry key="VOTA PVBLICA" value="VOTA PVBLICA" comment="Wishes of the public" />
+  <entry key="VRBS ROMA" value="VRBS ROMA" comment="The City of Rome" />
+  <entry key="ZENO" value="ZENO" comment="Flavius Zeno" />
+</dictionary>

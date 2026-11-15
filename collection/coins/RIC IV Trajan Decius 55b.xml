@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC IV Trajan Decius 55b">
+  <identity set="Roman Imperial" />
+  <emperor name="Herennia Etruscilla" />
+  <denomination name="Antoninian" />
+  <mint>
+    <date from="249" to="251" />
+    <place city="Roma" region="Italia" />
+  </mint>
+  <obverse>
+    <legend>HER ETRVSCILLA AVG</legend>
+    <description>Bust of Herennia Etruscilla, diademed, draped, on crescent, right</description>
+  </obverse>
+  <reverse>
+    <legend>FECVNDITAS AVG</legend>
+    <description>Fecunditas, draped, standing left, holding right hand over child standing right, and cornucopiae in left hand</description>
+  </reverse>
+  <measurement diameter="22 mm" weight="3.75 g" />
+  <image>
+    <obverse file="RIC IV Trajan Decius 55b (A).jpg" />
+    <reverse file="RIC IV Trajan Decius 55b (R).jpg" />
+  </image>
+  <deity name="Fecunditas" />
+  RIC IV Trajan Decius 55b 60,00 € 17,50% 70,50 €     
+  <origin price="60" currency="EUR" rate="1" fee="17.5%" 
+          seller="Künker GmbH n Co. KG" date="17.07.2019" auction="eLive Auktion 55" lot="84" invoice="Künker - 01" />
+  <legend>
+    <obverse>
+      <entry key="HER ETRVSCILLA" />
+      <entry key="AVG[usta]" />
+    </obverse>
+    <reverse>
+      <entry key="FECVNDITAS AVG" />
+    </reverse>
+  </legend>
+</coin>

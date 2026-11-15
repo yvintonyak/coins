@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC III Commodus 192">
+  <identity set="Roman Imperial" />
+  <emperor name="Commodus" />
+  <denomination name="Denar" />
+  <mint>
+    <date from="186" to="189" />
+    <place city="Roma" region="Italia" />
+  </mint>
+  <obverse>
+    <legend>M COMM ANT P FEL AVG BRIT</legend>
+    <description>Head of Commodus, laureate, right</description>
+  </obverse>
+  <reverse>
+    <legend>OPTIME MAXIME | C V P P</legend>
+    <description>Jupiter, nude, standing left, holding thunderbolt in right hand and sceptre in left hand</description>
+  </reverse>
+  <measurement diameter="17 mm" weight="3.06 g" />
+  <image>
+    <obverse file="RIC III Commodus 192 (A).jpg" />
+    <reverse file="RIC III Commodus 192 (R).jpg" />
+  </image>
+  <deity name="Jupiter" />
+  <origin price="55" currency="GBP" rate="1.18" fee="18.0%" 
+          seller="Savoca Numismatics Ltd" date="04.05.2019" auction="2nd Blue Auction" lot="1324" invoice="Savoca Numismatik - 15" />
+  <legend>
+    <obverse>
+      <entry key="M COMM ANT" />
+      <entry key="P FEL" />
+      <entry key="AVG" />
+      <entry key="BRIT" />
+    </obverse>
+    <reverse>
+      <entry key="OPTIME MAXIME" />
+      <entry key="C V" />
+      <entry key="P P" />
+    </reverse>
+  </legend>
+</coin>

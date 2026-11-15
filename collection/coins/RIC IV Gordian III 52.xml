@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC IV Gordian III 52">
+  <identity set="Roman Imperial" />
+  <emperor name="Gordianus III" />
+  <denomination name="Antoninian" />
+  <mint>
+    <date from="240" />
+    <place city="Roma" region="Italia" />
+  </mint>
+  <obverse>
+    <legend>IMP CAES GORDIANVS PIVS AVG</legend>
+    <description>Bust of Gordian III, radiate, draped, cuirassed, right</description>
+  </obverse>
+  <reverse>
+    <legend>CONCORDIA AVG</legend>
+    <description>Concordia, draped, seated left on throne, holding patera in extended right hand and double cornucopiae in left hand</description>
+  </reverse>
+  <measurement diameter="23 mm" weight="4.72 g" />
+  <image>
+    <obverse file="RIC IV Gordian III 52 (A).jpg" />
+    <reverse file="RIC IV Gordian III 52 (R).jpg" />
+  </image>
+  <deity name="Concordia" />
+  <origin price="25" currency="EUR" rate="1" fee="18.0%" 
+          seller="Savoca Numismatik GmbH" date="29.12.2018" auction="14th Blue Auction" lot="1071" invoice="Savoca Numismatik - 06" />
+  <legend>
+    <obverse>
+      <entry key="IMP" />
+      <entry key="CAES" />
+      <entry key="GORDIANVS" />
+      <entry key="PIVS" />
+      <entry key="AVG" />
+    </obverse>
+    <reverse>
+      <entry key="CONCORDIA AVG" />
+    </reverse>
+  </legend>
+</coin>

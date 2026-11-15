@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC VII Ticinum 114">
+  <identity set="Roman Imperial" />
+  <emperor name="Constantinus I" />
+  <denomination name="Follis" />
+  <mint>
+    <date from="319" to="320" />
+    <place city="Ticinum" region="Italia" />
+  </mint>
+  <obverse>
+    <legend>CONST-ANTINVS AVG</legend>
+    <description>Bust of Constantine I, helmeted, cuirassed, right</description>
+  </obverse>
+  <reverse>
+    <legend>VIRTVS - EXERCIT | VOT|XX || PT</legend>
+    <description>Standard with VOT|XX inscribed on drapery, flanked by two seated captives</description>
+  </reverse>
+  <measurement diameter="20 mm" weight="3.65 g" />
+  <image>
+    <obverse file="RIC VII Ticinum 114 (A).jpg" />
+    <reverse file="RIC VII Ticinum 114 (R).jpg" />
+  </image>
+  <origin price="40" currency="EUR" rate="1" fee="14.9%" 
+          seller="Numismatik Naumann GmbH" date="02.02.2020" auction="Auktion 86" lot="664" invoice="Numismatik Naumann - 13" />
+  <legend>
+    <obverse>
+      <entry key="CONSTANTINVS[I]" />
+      <entry key="AVG" />
+    </obverse>
+    <reverse>
+      <entry key="VIRTVS EXERCIT" />
+      <entry key="VOT XX" />
+    </reverse>
+    <mintmark mint="PT" />
+  </legend>
+</coin>

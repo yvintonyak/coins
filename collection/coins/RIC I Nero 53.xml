@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC I Nero 53">
+  <identity set="Roman Imperial" />
+  <emperor name="Nero" />
+  <denomination name="Denar" />
+  <mint>
+    <date from="64" to="65" />
+    <place city="Roma" region="Italia" />
+  </mint>
+  <obverse>
+    <legend>NERO CAESAR AVGVSTVS</legend>
+    <description>Head of Nero, laureate, right, with beard</description>
+  </obverse>
+  <reverse>
+    <legend>IVPPITER CVSTOS</legend>
+    <description>Jupiter, bare to waist, cloak round lower limbs, seated, left on throne, holding thunderbolt in right hand and long sceptre in left</description>
+  </reverse>
+  <measurement diameter="18 mm" weight="3.48 g" />
+  <image>
+    <obverse file="RIC I Nero 53 (A).jpg" />
+    <reverse file="RIC I Nero 53 (R).jpg" />
+  </image>
+  <deity name="Jupiter" />
+  <origin price="230" currency="GBP" rate="1" fee="23.4%" 
+          seller="Naville Numismatics Limited" date="21.07.2019" auction="Live Auction 51 (53)" lot="503" invoice="Naville Numismatics - 01" />
+  <legend>
+    <obverse>
+      <entry key="NERO" />
+      <entry key="CAESAR" />
+      <entry key="AVGVSTVS" />
+    </obverse>
+    <reverse>
+      <entry key="IVPPITER CVSTOS" />
+    </reverse>
+  </legend>
+</coin>

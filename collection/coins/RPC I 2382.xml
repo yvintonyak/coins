@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RPC I 2382">
+  <identity set="Roman Provincial" />
+  <emperor name="Nero" />
+  <denomination name="Hemiassarion" />
+  <mint>
+    <date from="55" to="60" />
+    <place city="Thyatira" region="Lydia" />
+  </mint>
+  <obverse>
+    <legend>ΝƐΡΩΝ ΚΛΑΥΔΙΟϹ ΚΑΙϹΑΡ ϹƐΒΑ</legend>
+    <description>Bareheaded and draped bust of Nero right (lightly bearded)</description>
+  </obverse>
+  <reverse>
+    <legend>ΘΥΑΤ-ƐΙΡΗ | ΝΩ-Ν</legend>
+    <description>Double axe (bipennis)</description>
+  </reverse>
+  <measurement diameter="18 mm" weight="2.83 g" />
+  <image>
+    <obverse file="RPC I 2382 (A).jpg" />
+    <reverse file="RPC I 2382 (R).jpg" />
+  </image>
+  <origin price="70" currency="EUR" rate="1" fee="10.0%" 
+          seller="Papillon Numismatic" date="29.11.2020" auction="Auktion 3" lot="293" invoice="Papillon Numismatic - 01" />
+  <remark>SNG München 613-6; SNG Copenhagen 597; BMC 62-4</remark>
+</coin>

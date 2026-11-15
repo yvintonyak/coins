@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC VIII Siscia 281">
+  <identity set="Roman Imperial" />
+  <emperor name="Vetranio" />
+  <denomination name="Centenionalis" />
+  <mint>
+    <date from="350" />
+    <place city="Siscia" region="Pannonia Superior" />
+  </mint>
+  <obverse>
+    <legend>D N VETRA-NIO P F AVG | A</legend>
+    <description>Bust of Vetranio, laureate, draped, cuirassed, right; A behind bust</description>
+  </obverse>
+  <reverse>
+    <legend>CONCORDIA – MILITVM | A || •ΔSIS✷</legend>
+    <description>Vetranio, diademed, draped, cuirassed, standing front, head left, holding standard with Chi-Rho on banner in each hand; above him, a star; A in left field</description>
+  </reverse>
+  <measurement diameter="24 mm" weight="5.86 g" />
+  <image>
+    <obverse file="RIC VIII Siscia 281 (A).jpg" />
+    <reverse file="RIC VIII Siscia 281 (R).jpg" />
+  </image>
+  <origin price="101" currency="EUR" rate="1" fee="14.9%" 
+          seller="Numismatik Naumann GmbH" date="01.12.2019" auction="Auktion 84" lot="519" invoice="Numismatik Naumann - 11" />
+  <legend>
+    <obverse>
+      <entry key="D N" />
+      <entry key="VETRANIO" />
+      <entry key="P F" />
+      <entry key="AVG" />
+    </obverse>
+    <reverse>
+      <entry key="CONCORDIA MILITVM" />
+    </reverse>
+    <mintmark mint="A || •ΔSIS✷" />
+  </legend>
+</coin>

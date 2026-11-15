@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC IV Clodius Albinus 5A">
+  <identity set="Roman Imperial" />
+  <emperor name="Clodius Albinus Caesar" />
+  <denomination name="Denar" />
+  <mint>
+    <date from="194" to="195" />
+    <place city="Roma" region="Italia" />
+  </mint>
+  <obverse>
+    <legend>D CL SEPT ALBIN CAES</legend>
+    <description>Head of Clodius Albinus, bare, right</description>
+  </obverse>
+  <reverse>
+    <legend>[FORT] REDVCI COS II</legend>
+    <description>Fortuna, draped, seated left, holding rudder set on globe in right hand and cornucopiae in left hand; under seat, wheel</description>
+  </reverse>
+  <measurement diameter="17.5 mm" weight="3.28 g" />
+  <image>
+    <obverse file="RIC IV Clodius Albinus 5A (A).jpg" />
+    <reverse file="RIC IV Clodius Albinus 5A (R).jpg" />
+  </image>
+  <deity name="Fortuna" />
+  <origin price="140" currency="EUR" rate="1" fee="18.5%" 
+          seller="Numismatik Zöttl" date="30.11.2019" auction="eLive Auktion 3" lot="361" invoice="Numismatik Zöttl - 01" />
+  <legend>
+    <obverse>
+      <entry key="D CL SEPT ALBIN" />
+      <entry key="CAES" />
+    </obverse>
+    <reverse>
+      <entry key="FORT REDVCI" />
+      <entry key="COS II" />
+    </reverse>
+  </legend>
+</coin>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="Metcalf 378">
+  <identity set="Byzantine Empire" />
+  <emperor name="Bohemond III" />
+  <denomination name="Denier" />
+  <mint>
+    <date from="1163" to="1201" />
+    <place city="Antiochia" />
+  </mint>
+  <obverse>
+  <legend>BOAMVNDVS</legend>
+    <description>Helmeted and mailed head left; crescent before, star behind.</description>
+  </obverse>
+  <reverse>
+    <legend>AИTIOCHIA</legend>
+    <description>Cross pattée; crescent in second quarter.</description>
+  </reverse>
+  <measurement diameter="17.1 mm" weight="0.88 g" />
+  <image>
+    <obverse file="Metcalf 378 (A).jpg" />
+    <reverse file="Metcalf 378 (R).jpg" />
+  </image>
+  <origin price="20" currency="EUR" rate="1" fee="18.15%" 
+          seller="Bucephalus Numismatic" date="15.09.2023" auction="Black Auktion 25" lot="1452" invoice="Bucephalus Numismatic - 03" />
+  <remark></remark>
+</coin>

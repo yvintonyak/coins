@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC VI Heraclea 25">
+  <identity set="Roman Imperial" />
+  <emperor name="Severus II Caesar" />
+  <denomination name="Follis" />
+  <mint>
+    <date from="305" to="306" />
+    <place city="Heraclea" region="Thracia" />
+  </mint>
+  <obverse>
+    <legend>FL VAL SEVERVS NOBIL CAES</legend>
+    <description>Head of Severus II, laureate, right</description>
+  </obverse>
+  <reverse>
+    <legend>GENIO POPV-L-I ROMANI || HTB</legend>
+    <description>Genius, wearing modius, nude, chlamys draped over left shoulder, standing left, pouring liquid from patera in right hand and holding cornucopiae in left hand</description>
+  </reverse>
+  <measurement diameter="28 mm" weight="11.12 g" />
+  <image>
+    <obverse file="RIC VI Heraclea 25 (A).jpg" />
+    <reverse file="RIC VI Heraclea 25 (R).jpg" />
+  </image>
+  <deity name="Genius" />
+  <origin price="85" currency="EUR" rate="1" fee="14.9%" 
+          seller="Numismatik Naumann GmbH" date="03.11.2019" auction="Auktion 83" lot="709" invoice="Numismatik Naumann - 10" />
+  <legend>
+    <obverse>
+      <entry key="FL VAL SEVERVS" />
+      <entry key="NOBIL CAES" />
+    </obverse>
+    <reverse>
+      <entry key="GENIO POPVLI ROMANI" />
+    </reverse>
+    <mintmark mint="HTB" />
+  </legend>
+</coin>

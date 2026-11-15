@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC I Augustus 276">
+  <identity set="Roman Imperial" />
+  <emperor name="Octavianus" />
+  <denomination name="Quinar" />
+  <mint>
+    <date from="29 BC" to="26 BC" />
+    <place city="" region="Italia" />
+  </mint>
+  <obverse>
+    <legend>CAESAR IM[P VII]</legend>
+    <description>Head of Octavian, bare, right</description>
+  </obverse>
+  <reverse>
+    <legend>ASIA RECEPTA</legend>
+    <description>Victory, draped, standing left, holding wreath in right hand and palm in left, on cista mystica between two snakes</description>
+  </reverse>
+  <measurement diameter="14 mm" weight="1.81 g" />
+  <image>
+    <obverse file="RIC I Augustus 276 (A).jpg" />
+    <reverse file="RIC I Augustus 276 (R).jpg" />
+  </image>
+  <deity name="Victoria" />
+  <origin price="70" currency="EUR" rate="1" fee="18.0%" 
+          seller="Artemide Aste s.r.l." date="29.02.2020" auction="Auktion 50E" lot="289" invoice="Artemide Aste - 05" />
+  <legend>
+    <obverse>
+      <entry key="CAESAR" />
+      <entry key="IMP VII" />
+    </obverse>
+    <reverse>
+      <entry key="ASIA RECEPTA" />
+    </reverse>
+  </legend>
+</coin>

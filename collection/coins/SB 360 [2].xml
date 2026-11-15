@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="SB 360">
+  <identity set="Byzantine Empire" />
+  <emperor name="Iustinus II" />
+  <denomination name="Follis" />
+  <mint>
+    <date from="566" to="567" />
+    <place city="Constantinopolis" />
+  </mint>
+  <obverse>
+    <legend>DN IVSTINVS PP AVG</legend>
+    <description>Justinus on left holding cross on globe and Sophia on right, holding sceptre topped by cross, both nimbate, seated facing on double-throne</description>
+  </obverse>
+  <reverse>
+    <legend>M | ANNO | II | B || CON</legend>
+    <description>M, ANNO to left, ☧ above, regnal year 2 (566-567) to right, officina letter below, mintmark CON</description>
+  </reverse>
+  <measurement diameter="31 mm" weight="14.06 g" />
+  <image>
+    <obverse file="SB 360 [2] (A).jpg" />
+    <reverse file="SB 360 [2] (R).jpg" />
+  </image>
+  <origin price="18" currency="EUR" rate="1" fee="22.0%" 
+         seller="Olympus Numismatik UG" date="02.04.2023" auction="Auktion 2" lot="424" invoice="Olympus Numismatik - 02" />
+  <remark>with Sophia. Sear 360; MIB 43</remark>
+</coin>

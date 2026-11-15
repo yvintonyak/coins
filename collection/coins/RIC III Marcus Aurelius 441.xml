@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC III Marcus Aurelius 441">
+  <identity set="Roman Imperial" />
+  <emperor name="Divus Antoninus Pius" />
+  <denomination name="Denar" />
+  <mint>
+    <date from="161" />
+    <place city="Roma" region="Italia" />
+  </mint>
+  <obverse>
+    <legend>DIVVS ANTONINVS</legend>
+    <description>Head of Antoninus Pius, bare, right</description>
+  </obverse>
+  <reverse>
+    <legend>DIVO PIO</legend>
+    <description>Square altar</description>
+  </reverse>
+  <measurement diameter="17 mm" weight="3.46 g" />
+  <image>
+    <obverse file="RIC III Marcus Aurelius 441 (A).jpg" />
+    <reverse file="RIC III Marcus Aurelius 441 (R).jpg" />
+  </image>
+  <origin price="81" currency="EUR" rate="1" fee="14.9%" 
+          seller="Numismatik Naumann GmbH" date="06.10.2019" auction="Auktion 82" lot="497" invoice="Numismatik Naumann - 09" />
+  <legend>
+    <obverse>
+      <entry key="DIVVS" />
+      <entry key="ANTONINVS[pius]" />
+    </obverse>
+    <reverse>
+      <entry key="DIVO PIO" />
+    </reverse>
+  </legend>
+</coin>

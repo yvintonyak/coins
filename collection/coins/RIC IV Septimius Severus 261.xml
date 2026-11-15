@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC IV Septimius Severus 261">
+  <identity set="Roman Imperial" />
+  <emperor name="Septimius Severus" />
+  <denomination name="Denar" />
+  <mint>
+    <date from="202" to="210" />
+    <place city="Roma" region="Italia" />
+  </mint>
+  <obverse>
+    <legend>SEVERVS PIVS AVG</legend>
+    <description>Bust of Septimius Severus, laureate, right</description>
+  </obverse>
+  <reverse>
+    <legend>FELICITAS AVGG</legend>
+    <description>Felicitas, draped, standing left, holding caduceus in right hand and cornucopiae in left hand</description>
+  </reverse>
+  <measurement diameter="17 mm" weight="3.18 g" />
+  <image>
+    <obverse file="RIC IV Septimius Severus 261 (A).jpg" />
+    <reverse file="RIC IV Septimius Severus 261 (R).jpg" />
+  </image>
+  <deity name="Felicitas" />
+  <origin price="40" currency="EUR" rate="1" fee="15.0%" 
+          seller="Savoca Numismatik GmbH" date="28.10.2018" auction="11th Blue Auction" lot="1599" invoice="Savoca Numismatik - 01" />
+  <legend>
+    <obverse>
+      <entry key="SEVERVS[septimius]" />
+      <entry key="PIVS" />
+      <entry key="AVG" />
+    </obverse>
+    <reverse>
+      <entry key="FELICITAS AVGG" />
+    </reverse>
+  </legend>
+</coin>

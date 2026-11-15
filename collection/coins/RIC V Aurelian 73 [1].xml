@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC V Aurelian 73">
+  <identity set="Roman Imperial" />
+  <emperor name="Aurelianus" />
+  <denomination name="Denarius" />
+  <mint>
+    <date from="270" to="275" />
+    <place city="Roma" region="Italia" />
+  </mint>
+  <obverse>
+    <legend>IMP AVRELIANVS AVG</legend>
+    <description>Bust of Aurelian, laureate, cuirassed, right</description>
+  </obverse>
+  <reverse>
+    <legend>VICTORIA AVG || B</legend>
+    <description>Victory, winged, draped, walking left, holding wreath in right hand and palm in left hand; at her feet, captive</description>
+  </reverse>
+  <measurement diameter="19.2 mm" weight="2,3 g" />
+  <image>
+    <obverse file="RIC V Aurelian 73 [1] (A).jpg" />
+    <reverse file="RIC V Aurelian 73 [1] (R).jpg" />
+  </image>
+  <origin price="46" currency="EUR" rate="1" fee="22.0%" 
+          seller="Olympus Numismatik UG" date="24.10.2025" auction="Auktion 26" lot="747" invoice="Olympus Numismatik - 03" />
+  <legend>
+    <obverse>
+      <entry key="IMP" />
+      <entry key="AVRELIANVS" />
+      <entry key="AVG" />
+    </obverse>
+    <reverse>
+      <entry key="VICTORIA AVG" />
+    </reverse>
+    <mintmark mint="B" />
+  </legend>
+</coin>

@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC IX Constantinople 88B">
+  <identity set="Roman Imperial" />
+  <emperor name="Arcadius" />
+  <denomination name="Maiorina" />
+  <mint>
+    <date from="392" to="395" />
+    <place city="Constantinopolis" region="Thracia" />
+  </mint>
+  <obverse>
+    <legend>D N ARCADI-VS P F AVG</legend>
+    <description>Bust of Arcadius, pearl-diademed, draped and cuirassed, right</description>
+  </obverse>
+  <reverse>
+    <legend>GLORIA-ROMANORVM || CONSB</legend>
+    <description>Emperor, head right, standing facing, holding standard and globe</description>
+  </reverse>
+  <measurement diameter="20.6 mm" weight="5.42 g" />
+  <image>
+    <obverse file="RIC IX Constantinople 88B (A).jpg" />
+    <reverse file="RIC IX Constantinople 88B (R).jpg" />
+  </image>
+  <origin price="4" currency="EUR" rate="1" fee="18.15%" 
+          seller="Bucephalus Numismatic" date="09.09.2023" auction="Bronze Auction 24" lot="1106" invoice="Bucephalus Numismatic - 02" />
+  <legend>
+    <obverse>
+      <entry key="D N" />
+      <entry key="ARCADIVS" />
+      <entry key="P F" />
+      <entry key="AVG" />
+    </obverse>
+    <reverse>
+      <entry key="GLORIA ROMANORVM" />
+    </reverse>
+    <mintmark mint="CONSB" />
+  </legend>
+</coin>

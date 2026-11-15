@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC IX Aquileia 55A">
+  <identity set="Roman Imperial" />
+  <emperor name="Magnus Maximus" />
+  <denomination name="Nummus" />
+  <mint>
+    <date from="387" to="388" />
+    <place city="Aquileia" region="Italia" />
+  </mint>
+  <obverse>
+    <legend>D N MAG MA-XIMVS P F AVG</legend>
+    <description>Bust of Magnus Maximus, pearl-diademed, draped and cuirassed, right</description>
+  </obverse>
+  <reverse>
+    <legend>SPES RO-MA-NORVM || SMAQ?</legend>
+    <description>Camp-gate with star between its two turrets</description>
+  </reverse>
+  <measurement diameter="14 mm" weight="1.14 g" />
+  <image>
+    <obverse file="RIC IX Aquileia 55A (A).jpg" />
+    <reverse file="RIC IX Aquileia 55A (R).jpg" />
+  </image>
+  <origin price="35" currency="EUR" rate="1" fee="15.25%" 
+          seller="Sol Numismatik" date="04.02.2023" auction="Auktion X" lot="309" invoice="Sol Numismatik - 01" />
+  <legend>
+    <obverse>
+      <entry key="D N" />
+      <entry key="MAG MAXIMVS" />
+      <entry key="P F" />
+      <entry key="AVG" />
+    </obverse>
+    <reverse>
+      <entry key="SPES ROMANORVM" />
+    </reverse>
+    <mintmark mint="SMAQ" />
+  </legend>
+</coin>

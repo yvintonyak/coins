@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC V Postumus 64">
+  <identity set="Roman Imperial" />
+  <emperor name="Postumus" />
+  <denomination name="Antoninian" />
+  <mint>
+    <date from="260" to="269" />
+    <place city="Lugdunum" region="Gallia Lugdunensis" />
+  </mint>
+  <obverse>
+    <legend>IMP C POSTVMVS P F AVG</legend>
+    <description>Bust of Postumus radiate, draped, cuirassed, right</description>
+  </obverse>
+  <reverse>
+    <legend>[H]ERC DEVSONIENSI</legend>
+    <description>Hercules, standing right, leaning on club with right hand and holding bow and lion's skin in left hand</description>
+  </reverse>
+  <measurement diameter="20 mm" weight="3.35 g" />
+  <image>
+    <obverse file="RIC V Postumus 64 (A).jpg" />
+    <reverse file="RIC V Postumus 64 (R).jpg" />
+  </image>
+  <deity name="Hercules Deusoniensis" />
+  <origin price="25" currency="EUR" rate="1" fee="0.0%" 
+          seller="Stuttgarter Münzenmesse" date="21.09.2019" auction="" lot="" invoice="_na" />
+  <legend>
+    <obverse>
+      <entry key="IMP" />
+      <entry key="C" />
+      <entry key="POSTVMVS" />
+      <entry key="P F" />
+      <entry key="AVG" />
+    </obverse>
+    <reverse>
+      <entry key="HERC DEVSONIENSI" />
+    </reverse>
+  </legend>
+</coin>

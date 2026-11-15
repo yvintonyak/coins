@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC I Tiberius 83">
+  <identity set="Roman Imperial" />
+  <emperor name="Divus Augustus" />
+  <denomination name="As" />
+  <mint>
+    <date from="34" to="37" />
+    <place city="Roma" region="Italia" />
+  </mint>
+  <obverse>
+    <legend>DIVVS AVGVSTVS PATER</legend>
+    <description>Head of Augustus, radiate, left</description>
+  </obverse>
+  <reverse>
+    <legend>S C</legend>
+    <description>Winged thunderbolt upright</description>
+  </reverse>
+  <measurement diameter="29 mm" weight="10.78 g" />
+  <image>
+    <obverse file="RIC I Tiberius 83 (A).jpg" />
+    <reverse file="RIC I Tiberius 83 (R).jpg" />
+  </image>
+  <origin price="238" currency="PLN" rate="0.23" fee="23%" 
+          seller="Salon Numizmatyczny Mateusz Wójcicki" date="29.09.2023" auction="XII Aukcja Premium" lot="708" invoice="Wojcicki - 01" />
+  <legend>
+    <obverse>
+      <entry key="DIVVS" />
+      <entry key="AVGVSTVS" />
+      <entry key="PATER" />
+    </obverse>
+    <reverse>
+      <entry key="S C" />
+    </reverse>
+  </legend>
+</coin>

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC X Theodosius II 432">
+  <identity set="Roman Imperial" />
+  <emperor name="Theodosius II" />
+  <denomination name="Nummus" />
+  <mint>
+    <date from="425" to="435" />
+    <place city="Heraclea" region="Thracia" />
+  </mint>
+  <obverse>
+    <legend>D N THEODOSI-VS•P•F•AVG</legend>
+    <description>Bust of Theodosius II, pearl-diademed, draped, cuirassed, right</description>
+  </obverse>
+  <reverse>
+    <legend>CONCOR-DIA AVG || SMH</legend>
+    <description>Victory, winged, draped, advancing forward, holding wreath in both hands</description>
+  </reverse>
+  <measurement diameter="10.7 mm" weight="1.33 g" />
+  <image>
+    <obverse file="RIC X Theodosius II 432 (A).jpg" />
+    <reverse file="RIC X Theodosius II 432 (R).jpg" />
+  </image>
+  <deity name="Victoria" />
+  <origin price="30" currency="EUR" rate="1" fee="18%" 
+          seller="Eid Mar Auctions GmbH" date="16.12.2023" auction="Auktion 1" lot="600" invoice="Eid Mar Auctions - 01" />
+  <legend>
+    <obverse>
+      <entry key="D N" />
+      <entry key="THEODOSIVS[II]" />
+      <entry key="P F" />
+      <entry key="AVG" />
+    </obverse>
+    <reverse>
+      <entry key="CONCORDIA AVG" />
+    </reverse>
+    <mintmark mint="SMH" />
+  </legend>
+</coin>

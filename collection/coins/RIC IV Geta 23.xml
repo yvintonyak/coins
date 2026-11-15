@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC IV Geta 23">
+  <identity set="Roman Imperial" />
+  <emperor name="Geta Caesar" />
+  <denomination name="Denar" />
+  <mint>
+    <date from="200" to="202" />
+    <place city="Roma" region="Italia" />
+  </mint>
+  <obverse>
+    <legend>P SEPT GETA CAES PONT</legend>
+    <description>Bust of Geta, bare-headed, draped, cuirassed, right</description>
+  </obverse>
+  <reverse>
+    <legend>VICT AETERN</legend>
+    <description>Victory, winged, draped, flying left, holding ribbon in both hands over shield on low base</description>
+  </reverse>
+  <measurement diameter="16 mm" weight="3.24 g" />
+  <image>
+    <obverse file="RIC IV Geta 23 (A).jpg" />
+    <reverse file="RIC IV Geta 23 (R).jpg" />
+  </image>
+  <deity name="Victoria" />
+  <origin price="38" currency="EUR" rate="1" fee="15.0%" 
+          seller="Savoca Numismatik GmbH" date="28.10.2018" auction="11th Blue Auction" lot="1615" invoice="Savoca Numismatik - 01" />
+  <legend>
+    <obverse>
+      <entry key="P SEPT GETA" />
+      <entry key="CAES" />
+      <entry key="PONT" />
+    </obverse>
+    <reverse>
+      <entry key="VICT AETERN" />
+    </reverse>
+  </legend>
+</coin>

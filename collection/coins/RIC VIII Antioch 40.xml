@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC VIII Antioch 40">
+  <identity set="Roman Imperial" />
+  <emperor name="Constantinus II" />
+  <denomination name="Follis" />
+  <mint>
+    <date from="337" to="347" />
+    <place city="Antiochia" region="Syria" />
+  </mint>
+  <obverse>
+    <legend>CONSTAN-TINVS AVG</legend>
+    <description>Bust of Constantine II, laureate, draped, cuirassed, right</description>
+  </obverse>
+  <reverse>
+    <legend>GLOR-IA EXERC-ITVS || SMANS</legend>
+    <description>Two soldiers, helmeted, draped, cuirassed, facing front, heads toward each other, each holding inverted spear in outer hand and resting inner hand on shield; between them, a standard</description>
+  </reverse>
+  <measurement diameter="16 mm" weight="2.10 g" />
+  <image>
+    <obverse file="RIC VIII Antioch 40 (A).jpg" />
+    <reverse file="RIC VIII Antioch 40 (R).jpg" />
+  </image>
+  <origin price="38" currency="GBP" rate="1.17" fee="0.0%" 
+          seller="Carpe Diem Numismatics" date="07.10.2019" auction="eBay" lot="2786" invoice="Carpe Diem - 04" />
+  <legend>
+    <obverse>
+      <entry key="CONSTANTINVS[II]" />
+      <entry key="AVG" />
+    </obverse>
+    <reverse>
+      <entry key="GLORIA EXERCITVS" />
+    </reverse>
+    <mintmark mint="SMANS" />
+  </legend>
+</coin>

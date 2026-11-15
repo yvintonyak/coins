@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC V Severina 3">
+  <identity set="Roman Imperial" />
+  <emperor name="Severina" />
+  <denomination name="Antoninian" />
+  <mint>
+    <date from="270" to="275" />
+    <place city="Roma" region="Italia" />
+  </mint>
+  <obverse>
+    <legend>SEVERINA AVG</legend>
+    <description>Bust of Severina, diademed, draped, on crescent, right</description>
+  </obverse>
+  <reverse>
+    <legend>CONCORDIA AVGG || ΓXXIR</legend>
+    <description>Severina, on the left, standing right, holding unidentified object in her left hand and clasping her right hand with Aurelian, on the right, standing left and holding scepter in his left hand</description>
+  </reverse>
+  <measurement diameter="21 mm" weight="2.46 g" />
+  <image>
+    <obverse file="RIC V Severina 3 (A).jpg" />
+    <reverse file="RIC V Severina 3 (R).jpg" />
+  </image>
+  <origin price="35" currency="CHF" rate="0.96" fee="18.5%" 
+          seller="Leu Numismatik AG" date="08.12.2019" auction="Webauktion 10" lot="1478" invoice="Leu Numismatik - 04" />
+  <remark>flan crack</remark>
+  <legend>
+    <obverse>
+      <entry key="SEVERINA" />
+      <entry key="AVG[usta]" />
+    </obverse>
+    <reverse>
+      <entry key="CONCORDIA AVGG" />
+    </reverse>
+    <mintmark mint="ΓXXIR" />
+    <mintmark mint="ΓXXIR" />
+  </legend>
+</coin>

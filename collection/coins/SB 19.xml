@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="SB 19">
+  <identity set="Byzantine Empire" />
+  <emperor name="Anastasius I" />
+  <denomination name="Follis" />
+  <mint>
+    <date from="512" to="517" />
+    <place city="Constantinopolis" />
+  </mint>
+  <obverse>
+    <legend>DN ANASTASIVS P P AVG</legend>
+    <description>Pearl diademed, draped, cuirassed bust right</description>
+  </obverse>
+  <reverse>
+    <legend>M | Є || CON</legend>
+    <description>M, star to left, cross above, star to right, officina letter below</description>
+  </reverse>
+  <measurement diameter="34 mm" weight="16.43 g" />
+  <image>
+    <obverse file="SB 19 (A).jpg" />
+    <reverse file="SB 19 (R).jpg" />
+  </image>
+  <origin price="10" currency="EUR" rate="1" fee="18.0%" 
+          seller="Savoca Numismatik GmbH" date="28.08.2022" auction="141st Blue Auction" lot="1446" invoice="Savoca Numismatik - 35" />
+  <remark>Sear 19; DOC 23i</remark>
+</coin>

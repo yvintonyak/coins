@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC V Claudius Gothicus 171">
+  <identity set="Roman Imperial" />
+  <emperor name="Claudius II Gothicus" />
+  <denomination name="Antoninian" />
+  <mint>
+    <date from="268" to="270" />
+    <place city="Mediolanum" region="Italia" />
+  </mint>
+  <obverse>
+    <legend>IMP CLAVDIVS P F [AVG]</legend>
+    <description>Bust of Claudius Gothicus, radiate, draped, right</description>
+  </obverse>
+  <reverse>
+    <legend>VICTORI[A AV]G || S</legend>
+    <description>Victory, winged, draped, running right, holding wreath in right hand and palm in left hand</description>
+  </reverse>
+  <measurement diameter="19 mm" weight="3.80 g" />
+  <image>
+    <obverse file="RIC V Claudius Gothicus 171 (A).jpg" />
+    <reverse file="RIC V Claudius Gothicus 171 (R).jpg" />
+  </image>
+  <deity name="Victoria" />
+  <origin price="50" currency="CHF" rate="0.94" fee="18.5%" 
+          seller="Nomos AG" date="02.07.2019" auction="Obolos 13" lot="677" invoice="Nomos - 02" />
+  <legend>
+    <obverse>
+      <entry key="IMP" />
+      <entry key="CLAVDIVS" />
+      <entry key="P F" />
+      <entry key="AVG" />
+    </obverse>
+    <reverse>
+      <entry key="VICTORIA AVG" />
+    </reverse>
+    <mintmark mint="S" />
+  </legend>
+</coin>

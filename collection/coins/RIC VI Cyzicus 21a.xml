@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC VI Cyzicus 21a">
+  <identity set="Roman Imperial" />
+  <emperor name="Constantius I Chlorus" />
+  <denomination name="Follis" />
+  <mint>
+    <date from="305" to="306" />
+    <place city="Cyzicus" region="Asia" />
+  </mint>
+  <obverse>
+    <legend>IMP C FL VAL CONSTANTIVS P F AVG</legend>
+    <description>Head of Constantius Chlorus, laureate, right</description>
+  </obverse>
+  <reverse>
+    <legend>GENIO POPV-LI ROMANI || K B</legend>
+    <description>Genius, wearing modius, nude, chlamys draped over left shoulder, standing left, pouring liquid from patera in right hand and holding cornucopiae in left hand</description>
+  </reverse>
+  <measurement diameter="29 mm" weight="10.52 g" />
+  <image>
+    <obverse file="RIC VI Cyzicus 21a (A).jpg" />
+    <reverse file="RIC VI Cyzicus 21a (R).jpg" />
+  </image>
+  <deity name="Genius" />
+  <origin price="95" currency="GBP" rate="1.13" fee="20.0%" 
+          seller="Bertolami Fine Arts Ltd" date="16.06.2019" auction="E-Live Auction 71" lot="972" invoice="Bertolami Fine Arts - 02" />
+  <legend>
+    <obverse>
+      <entry key="IMP" />
+      <entry key="C" />
+      <entry key="FL VAL CONSTANTIVS" />
+      <entry key="P F" />
+      <entry key="AVG" />
+    </obverse>
+    <reverse>
+      <entry key="GENIO POPVLI ROMANI" />
+    </reverse>
+    <mintmark mint="K B" />
+  </legend>
+</coin>

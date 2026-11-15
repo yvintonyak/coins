@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC VI Alexandria 84">
+  <identity set="Roman Imperial" />
+  <emperor name="Severus II" />
+  <denomination name="Antoninian" />
+  <mint>
+    <date from="306" to="307" />
+    <place city="Alexandria" region="Aegyptus" />
+  </mint>
+  <obverse>
+    <legend>IMP C SEVERVS P F AVG</legend>
+    <description>Bust of Severus II, radiate, draped, cuirassed, right</description>
+  </obverse>
+  <reverse>
+    <legend>CONCORDIA MI-LITVM | Γ || ALE</legend>
+    <description>Severus II, draped, cuirassed, standing right, receiving small Victory on globe from Jupiter; Jupiter, standing left, leaning on sceptre</description>
+  </reverse>
+  <measurement diameter="19 mm" weight="2.97 g" />
+  <image>
+    <obverse file="RIC VI Alexandria 84 (A).jpg" />
+    <reverse file="RIC VI Alexandria 84 (R).jpg" />
+  </image>
+  <deity name="Jupiter, Victoria" />
+  <origin price="70" currency="EUR" rate="1" fee="18.0%" 
+          seller="Savoca Numismatik GmbH" date="08.11.2020" auction="89th Blue Auction" lot="1440" invoice="Savoca Numismatik - 29" />
+  <legend>
+    <obverse>
+      <entry key="IMP" />
+      <entry key="C" />
+      <entry key="SEVERVS[II]" />
+      <entry key="P F" />
+      <entry key="AVG" />
+    </obverse>
+    <reverse>
+      <entry key="CONCORDIA MILITVM" />
+    </reverse>
+    <mintmark mint="Γ || ALE" />
+  </legend>
+</coin>

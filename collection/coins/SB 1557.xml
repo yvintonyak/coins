@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="SB 1557">
+  <identity set="Byzantine Empire" />
+  <emperor name="Constantinus V Copronymus" />
+  <denomination name="Follis" />
+  <mint>
+    <date from="741" to="775" />
+    <place city="Constantinopolis" />
+  </mint>
+  <obverse>
+    <legend></legend>
+    <description>Crowned facing figures Constantine V and Leo IV enthroned, both wearing chlamys; cross above</description>
+  </obverse>
+  <reverse>
+    <legend>M | X | N | A </legend>
+    <description>Crowned facing bust of Leo III, wearing loros and holding cross potent, set on horizontal bar; cross to right, pair of pellets flanking; below bar, large M between X - N; A below</description>
+  </reverse>
+  <measurement diameter="20 mm" weight="3.5 g" />
+  <image>
+    <obverse file="SB 1557 (A).jpg" />
+    <reverse file="SB 1557 (R).jpg" />
+  </image>
+  <origin price="18" currency="EUR" rate="1" fee="22%" 
+          seller="Ancient Rarity Coins UG" date="20.03.2026" auction="E-Auction 2" lot="820" invoice="Ancient Rarity Coins - 01" />
+  <remark>with Leo IV and Leo III on reverse; DOC 13</remark>
+</coin>

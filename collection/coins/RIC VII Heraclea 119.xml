@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC VII Heraclea 119">
+  <identity set="Roman Imperial" />
+  <emperor name="Constantinus I" />
+  <denomination name="Follis" />
+  <mint>
+    <date from="330" to="333" />
+    <place city="Heraclea" region="Thracia" />
+  </mint>
+  <obverse>
+    <legend>VRBS - ROMA</legend>
+    <description>Bust of Roma, helmeted, wearing imperial cloak, left</description>
+  </obverse>
+  <reverse>
+    <legend>|| •SMH∈</legend>
+    <description>She-wolf, standing left, suckling twins; above, two stars</description>
+  </reverse>
+  <measurement diameter="19 mm" weight="2.75 g" />
+  <image>
+    <obverse file="RIC VII Heraclea 119 (A).jpg" />
+    <reverse file="RIC VII Heraclea 119 (R).jpg" />
+  </image>
+  <deity name="Roma" />
+  <origin price="31" currency="EUR" rate="1" fee="18.0%" 
+          seller="Savoca Numismatik GmbH" date="16.10.2022" auction="145st Blue Auction" lot="1665" invoice="Savoca Numismatik - 36" />
+  <remark>Commemorative Series</remark>
+  <legend>
+    <obverse>
+      <entry key="VRBS ROMA" />
+    </obverse>
+    <reverse>
+    </reverse>
+    <mintmark mint="SMH∈" />
+  </legend>
+</coin>

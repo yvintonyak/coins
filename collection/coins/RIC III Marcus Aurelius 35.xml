@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC III Marcus Aurelius 35">
+  <identity set="Roman Imperial" />
+  <emperor name="Marcus Aurelius" />
+  <denomination name="Denar" />
+  <mint>
+    <date from="161" to="162" />
+    <place city="Roma" region="Italia" />
+  </mint>
+  <obverse>
+    <legend>IMP M AVREL ANTONINVS AVG</legend>
+    <description>Bust of Marcus Aurelius, bare, head right</description>
+  </obverse>
+  <reverse>
+    <legend>CONCORD AVG TR P XVI | COS III</legend>
+    <description>Concordia, draped, seated left on low seat, holding patera in extended right hand and resting left elbow on statuette of Spes: under seat, a cornucopiae; COS III in exergue</description>
+  </reverse>
+  <measurement diameter="18 mm" weight="3.25 g" />
+  <image>
+    <obverse file="RIC III Marcus Aurelius 35 (A).jpg" />
+    <reverse file="RIC III Marcus Aurelius 35 (R).jpg" />
+  </image>
+  <deity name="Concordia" />
+  <origin price="86" currency="EUR" rate="1" fee="18.0%" 
+          seller="Savoca Numismatik GmbH" date="16.12.2018" auction="28th Silver Auction" lot="373" invoice="Savoca Numismatik - 05" />
+  <legend>
+    <obverse>
+      <entry key="IMP" />
+      <entry key="M AVREL ANTONINVS[aurel]" />
+      <entry key="AVG" />
+    </obverse>
+    <reverse>
+      <entry key="CONCORD AVG" />
+      <entry key="TR P XVI" />
+      <entry key="COS III" />
+    </reverse>
+  </legend>
+</coin>

@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC VIII Lugdunum 218">
+  <identity set="Roman Imperial" />
+  <emperor name="Julianus II" />
+  <denomination name="Siliqua" />
+  <mint>
+    <date from="360" to="363" />
+    <place city="Lugdunum" region="Gallia Lugdunensis" />
+  </mint>
+  <obverse>
+    <legend>FL CL IVLIA-NVS P P AVG</legend>
+    <description>Bust of Julian, pearl-diademed, draped, cuirassed, right</description>
+  </obverse>
+  <reverse>
+    <legend>VOTIS|V|MVLTIS|X || LVG</legend>
+    <description>VOTIS|V|MVLTIS|X within a wreath</description>
+  </reverse>
+  <measurement diameter="18 mm" weight="1.85 g" />
+  <image>
+    <obverse file="RIC VIII Lugdunum 218 (A).jpg" />
+    <reverse file="RIC VIII Lugdunum 218 (R).jpg" />
+  </image>
+  <origin price="140" currency="EUR" rate="1" fee="23.0%" 
+          seller="Gerhard Hirsch Nachfolger" date="25.10.2019" auction="Auktion 352" lot="3211" invoice="Gerhard Hirsch Nachfolger - 01" />
+  <legend>
+    <obverse>
+      <entry key="FL CL IVLIANVS" />
+      <entry key="P P" />
+      <entry key="AVG" />
+    </obverse>
+    <reverse>
+      <entry key="VOTIS V" />
+      <entry key="MVLTIS X" />
+    </reverse>
+    <mintmark mint="LVG" />
+  </legend>
+</coin>

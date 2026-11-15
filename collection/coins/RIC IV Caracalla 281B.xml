@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC IV Caracalla 281B">
+  <identity set="Roman Imperial" />
+  <emperor name="Caracalla" />
+  <denomination name="Denar" />
+  <mint>
+    <date from="216" />
+    <place city="Roma" region="Italia" />
+  </mint>
+  <obverse>
+    <legend>ANTONINVS PIVS AVG GERM</legend>
+    <description>Bust of Caracalla, laureate, right</description>
+  </obverse>
+  <reverse>
+    <legend>P M TR P XVIIII COS IIII P P</legend>
+    <description>Sol, radiate, naked except for cloak over left shoulder, standing front, head left, raising right hand and holding globe in left hand</description>
+  </reverse>
+  <measurement diameter="18 mm" weight="3.21 g" />
+  <image>
+    <obverse file="RIC IV Caracalla 281B (A).jpg" />
+    <reverse file="RIC IV Caracalla 281B (R).jpg" />
+  </image>
+  <deity name="Sol Invictus" />
+  <origin price="125" currency="EUR" rate="1" fee="15.0%" 
+          seller="Brumus Numismatica" date="22.10.2018" auction="Auction V" lot="161" invoice="Brumus Numismatica - 01" />
+  <legend>
+    <obverse>
+      <entry key="ANTONINVS[caracalla]" />
+      <entry key="PIVS" />
+      <entry key="AVG" />
+      <entry key="GERM" />
+    </obverse>
+    <reverse>
+      <entry key="P M" />
+      <entry key="TR P XVIIII" />
+      <entry key="COS IIII" />
+      <entry key="P P" />
+    </reverse>
+  </legend>
+</coin>

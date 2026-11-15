@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RPC I 3175">
+  <identity set="Roman Provincial" />
+  <emperor name="Poppaea" />
+  <denomination name="Hemiassarion" />
+  <mint>
+    <date from="62" />
+    <place city="Acmonea" region="Phrygia" />
+  </mint>
+  <obverse>
+    <legend>ΠΟΠΠΑΙΑ [ΣΕΒΑΣΤΗ]</legend>
+    <description>Draped bust of Poppaea right, wearing grain wreath; to right, forepart of lion right</description>
+  </obverse>
+  <reverse>
+    <legend>ΣEPO[YHNIOY KAΠITΩNOΣ] | KAI IOYΛIAΣ ΣEOYHPAΣ AKMONEΩN | ΕΠΙ ΑΡΧ</legend>
+    <description>Artemis advancing right, drawing arrow and holding bow; monogram to left; to right, monogram above lyre</description>
+  </reverse>
+  <measurement diameter="17 mm" weight="3.1 g" />
+  <image>
+    <obverse file="RPC I 3175 (A).jpg" />
+    <reverse file="RPC I 3175 (R).jpg" />
+  </image>
+  <deity name="Artemis" />
+  <origin price="85" currency="GBP" rate="1.21" fee="%" 
+          seller="N&amp;N London Ltd" date="29.10.2022" auction="Online Auktion 9" lot="208" invoice="NN London - 01" />
+  <remark>Lucius Servenius Capito, archon, with his wife Julia Severa</remark>
+</coin>

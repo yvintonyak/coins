@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC IX Antioch 67D">
+  <identity set="Roman Imperial" />
+  <emperor name="Arcadius" />
+  <denomination name="Nummus" />
+  <mint>
+    <date from="383" to="392" />
+    <place city="Antiochia" region="Syria" />
+  </mint>
+  <obverse>
+    <legend>D N ARCADIVS P F AVG</legend>
+    <description>Bust of Arcadius, pearl-diademed, draped and cuirassed, right</description>
+  </obverse>
+  <reverse>
+    <legend>SALVS REI-PVBLICAE | ☧ || ANTΓ</legend>
+    <description>Victory advancing left, holding trophy on shoulder with right hand, and dragging captive with left</description>
+  </reverse>
+  <measurement diameter="15 mm" weight="1,22 g" />
+  <image>
+    <obverse file="RIC IX Antioch 67D (A).jpg" />
+    <reverse file="RIC IX Antioch 67D (R).jpg" />
+  </image>
+  <deity name="Victoria" />
+  <origin price="26" currency="EUR" rate="1" fee="18.0%" 
+          seller="Savoca Numismatik GmbH" date="24.11.2019" auction="26th Blue Auction" lot="1952" invoice="Savoca Numismatik - 24" />
+  <legend>
+    <obverse>
+      <entry key="D N" />
+      <entry key="ARCADIVS" />
+      <entry key="P F" />
+      <entry key="AVG" />
+    </obverse>
+    <reverse>
+      <entry key="SALVS REIPVBLICAE" />
+    </reverse>
+    <mintmark mint="ANTΓ" />
+  </legend>
+</coin>

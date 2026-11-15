@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="SB 1853">
+  <identity set="Byzantine Empire" />
+  <emperor name="Constantinus X Doukas" />
+  <denomination name="Follis" />
+  <mint>
+    <date from="1059" to="1067" />
+    <place city="Constantinopolis" />
+  </mint>
+  <obverse>
+    <legend>+EMMA NOVHA</legend>
+    <description>Christ standing facing on footstool, wearing nimbus and holding Gospels, IC XC across fields.</description>
+  </obverse>
+  <reverse>
+    <legend>EVDKARO +KWNTAK</legend>
+    <description>Eudocia on left, wearing loros with kite-shaped lower panel and crown with cross and pendilia, Constantine on right, wearing loros and crown with cross and pendilia, both standing facing, holding labarum with cross-piece on shaft between them, standing on base and three steps, each places one hand on heart.</description>
+  </reverse>
+  <measurement diameter="28.87 mm" weight="6.55 g" />
+  <image>
+    <obverse file="SB 1853 [1] (A).jpg" />
+    <reverse file="SB 1853 [1] (R).jpg" />
+  </image>
+  <origin price="21" currency="EUR" rate="1" fee="15%" 
+          seller="Rex Numismatics B.V." date="17.11.2023" auction="E-Rex Auction 3" lot="620" invoice="Rex Numismatics - 01" />
+  <remark>with Eudocia. Sear 1853; Doc 1.0.8</remark>
+</coin>

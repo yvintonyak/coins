@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="SB 670">
+  <identity set="Byzantine Empire" />
+  <emperor name="Phocas" />
+  <denomination name="20 Nummi" />
+  <mint>
+    <date from="603" to="604" />
+    <place city="Cyzicus" region="" />
+  </mint>
+  <obverse>
+    <legend>DN FOCA PERP AVG</legend>
+    <description>Emperor, crowned, mantled bust facing, holding mappa and cross</description>
+  </obverse>
+  <reverse>
+    <legend>XX | II | KYZ B</legend>
+    <description>Large XX, cross above. Regnal year II (603-604) to right</description>
+  </reverse>
+  <measurement diameter="21.5 mm" weight="6.23 g" />
+  <image>
+    <obverse file="SB 670 (A).jpg" />
+    <reverse file="SB 670 (R).jpg" />
+  </image>
+  <origin price="28" currency="EUR" rate="1" fee="18.15%" 
+          seller="Bucephalus Numismatic" date="16.09.2023" auction="Black Auction 25" lot="1358" invoice="Bucephalus Numismatic - 03" />
+  <remark>Sear 670</remark>
+</coin>

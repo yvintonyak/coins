@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC VI Heraclea 19b">
+  <identity set="Roman Imperial" />
+  <emperor name="Maximianus Herculius" />
+  <denomination name="Follis" />
+  <mint>
+    <date from="297" to="298" />
+    <place city="Heraclea" region="Thracia" />
+  </mint>
+  <obverse>
+    <legend>IMP C M A MAXIMIANVS P F AVG</legend>
+    <description>Head of Maximian, laureate, right</description>
+  </obverse>
+  <reverse>
+    <legend>GENIO POPV-L-I ROMANI || HTA</legend>
+    <description>Genius, wearing modius, nude, chlamys draped over left shoulder, standing left, pouring liquid from patera in right hand and holding cornucopiae in left hand</description>
+  </reverse>
+  <measurement diameter="26 mm" weight="10.24 g" />
+  <image>
+    <obverse file="RIC VI Heraclea 19b (A).jpg" />
+    <reverse file="RIC VI Heraclea 19b (R).jpg" />
+  </image>
+  <deity name="Genius" />
+  <origin price="16" currency="EUR" rate="1" fee="18.0%" 
+          seller="Savoca Numismatik GmbH" date="29.12.2018" auction="14th Blue Auction" lot="1193" invoice="Savoca Numismatik - 06" />
+  <legend>
+    <obverse>
+      <entry key="IMP" />
+      <entry key="C" />
+      <entry key="M A MAXIMIANVS" />
+      <entry key="P F" />
+      <entry key="AVG" />
+    </obverse>
+    <reverse>
+      <entry key="GENIO POPVLI ROMANI" />
+    </reverse>
+    <mintmark mint="HTA" />
+  </legend>
+</coin>

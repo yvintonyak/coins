@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC II Nerva 16">
+  <identity set="Roman Imperial" />
+  <emperor name="Nerva" />
+  <denomination name="Denar" />
+  <mint>
+    <date from="97" />
+    <place city="Roma" region="Italia" />
+  </mint>
+  <obverse>
+    <legend>IMP NERVA CAES AVG P M TR P COS III P P</legend>
+    <description>Bust of Nerva, laureate, right</description>
+  </obverse>
+  <reverse>
+    <legend>FORTVNA AVGVST</legend>
+    <description>Fortuna, draped, standing left, holding rudder set on ground in right hand and cornucopiae in left</description>
+  </reverse>
+  <measurement diameter="17 mm" weight="3.14 g" />
+  <image>
+    <obverse file="RIC II Nerva 16 (A).jpg" />
+    <reverse file="RIC II Nerva 16 (R).jpg" />
+  </image>
+  <deity name="Fortuna" />
+  <origin price="130" currency="GBP" rate="1.13" fee="20.0%" 
+          seller="Bertolami Fine Arts Ltd" date="14.01.2019" auction="E-Live Auktion 64" lot="739" invoice="Bertolami Fine Arts - 01" />
+  <legend>
+    <obverse>
+      <entry key="IMP" />
+      <entry key="NERVA" />
+      <entry key="CAES" />
+      <entry key="AVG" />
+      <entry key="P M" />
+      <entry key="TR P" />
+      <entry key="COS III" />
+      <entry key="P P" />
+    </obverse>
+    <reverse>
+      <entry key="FORTVNA AVGVST" />
+    </reverse>
+  </legend>
+</coin>

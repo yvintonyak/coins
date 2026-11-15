@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RPC I 3191">
+  <identity set="Roman Provincial" />
+  <emperor name="Nero" />
+  <denomination name="Æ" />
+  <mint>
+    <date from="55" />
+    <place city="Iulia" region="Phrygia" />
+  </mint>
+  <obverse>
+    <legend>ΝΕΡΩΝ ΚΑΙΣΑΡ</legend>
+    <description>Draped bust of Nero right</description>
+  </obverse>
+  <reverse>
+    <legend>ΣΕΡΓΙΟΣ ΗΦΑΙΣΤΙΩΝ ΙΟΥΛΙΕΩΝ</legend>
+    <description>Men on horseback with spear, riding right</description>
+  </reverse>
+  <measurement diameter="17 mm" weight="2.33 g" />
+  <image>
+    <obverse file="RPC I 3191 (A).jpg" />
+    <reverse file="RPC I 3191 (R).jpg" />
+  </image>
+  <origin price="44" currency="EUR" rate="1" fee="19.5%" 
+          seller="Numismad" date="12.11.2022" auction="Auktion 5" lot="444" invoice="Numismad - 01" />
+  <remark>vA Phryg. I, 404–14</remark>
+</coin>

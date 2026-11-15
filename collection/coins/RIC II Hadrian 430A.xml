@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC II Hadrian 430A">
+  <identity set="Roman Imperial" />
+  <emperor name="Aelius Caesar" />
+  <denomination name="Denar" />
+  <mint>
+    <date from="137" />
+    <place city="Roma" region="Italia" />
+  </mint>
+  <obverse>
+    <legend>L AELIVS CAESA[R]</legend>
+    <description>Head of Aelius Caesar, bare, right</description>
+  </obverse>
+  <reverse>
+    <legend>TR POT COS II</legend>
+    <description>Felicitas, draped, standing left, holding up caduceus in right hand and cornucopiae in left</description>
+  </reverse>
+  <measurement diameter="18 mm" weight="3.20 g" />
+  <image>
+    <obverse file="RIC II Hadrian 430A (A).jpg" />
+    <reverse file="RIC II Hadrian 430A (R).jpg" />
+  </image>
+  <deity name="Felicitas" />
+  <origin price="190" currency="EUR" rate="1" fee="14.9%" 
+          seller="Numismatik Naumann GmbH" date="01.09.2019" auction="Auktion 81" lot="436" invoice="Numismatik Naumann - 08" />
+  <legend>
+    <obverse>
+      <entry key="L AELIVS CAESAR" />
+    </obverse>
+    <reverse>
+      <entry key="TR POT" />
+      <entry key="COS II" />
+    </reverse>
+  </legend>
+</coin>

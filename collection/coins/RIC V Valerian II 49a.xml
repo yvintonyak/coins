@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC V Valerian II 49a">
+  <identity set="Roman Imperial" />
+  <emperor name="Valerianus II Caesar" />
+  <denomination name="Antoninian" />
+  <mint>
+    <date from="256" to="258" />
+    <place city="Antiochia" region="Syria" />
+  </mint>
+  <obverse>
+    <legend>VALERIANVS NOBIL CAES</legend>
+    <description>Bust of Valerian II, radiate, draped, right</description>
+  </obverse>
+  <reverse>
+    <legend>PRINC IVVENTVTIS</legend>
+    <description>Valerian II, in military attire, standing left, crowning trophy and holding spear and shield</description>
+  </reverse>
+  <measurement diameter="21 mm" weight="4.19 g" />
+  <image>
+    <obverse file="RIC V Valerian II 49a (A).jpg" />
+    <reverse file="RIC V Valerian II 49a (R).jpg" />
+  </image>
+  <origin price="55" currency="EUR" rate="1" fee="18.0%" 
+          seller="Savoca Numismatik GmbH" date="24.11.2019" auction="26th Blue Auction" lot="1485" invoice="Savoca Numismatik - 24" />
+  <legend>
+    <obverse>
+      <entry key="VALERIANVS[II]" />
+      <entry key="NOBIL CAES" />
+    </obverse>
+    <reverse>
+      <entry key="PRINC IVVENTVTIS" />
+    </reverse>
+  </legend>
+</coin>

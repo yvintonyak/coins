@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC IV Philip I 29">
+  <identity set="Roman Imperial" />
+  <emperor name="Philippus I Arab" />
+  <denomination name="Antoninian" />
+  <mint>
+    <date from="244" to="247" />
+    <place city="Roma" region="Italia" />
+  </mint>
+  <obverse>
+    <legend>IMP M IVL PHILIPPVS AVG</legend>
+    <description>Bust of Philip the Arab, radiate, draped, cuirassed, right</description>
+  </obverse>
+  <reverse>
+    <legend>ANNONA AVGG</legend>
+    <description>Annona, draped, standing left, holding cornears in right hand over prow and cornucopiae in left hand</description>
+  </reverse>
+  <measurement diameter="22 mm" weight="4.64 g" />
+  <image>
+    <obverse file="RIC IV Philip I 29 (A).jpg" />
+    <reverse file="RIC IV Philip I 29 (R).jpg" />
+  </image>
+  <deity name="Annona" />
+  <origin price="60" currency="EUR" rate="1" fee="18.0%" 
+          seller="Savoca Numismatik GmbH" date="01.12.2018" auction="13th Blue Auction" lot="1790" invoice="Savoca Numismatik - 04" />
+  <legend>
+    <obverse>
+      <entry key="IMP" />
+      <entry key="M IVL PHILIPPVS[I]" />
+      <entry key="AVG" />
+    </obverse>
+    <reverse>
+      <entry key="ANNONA AVGG" />
+    </reverse>
+  </legend>
+</coin>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC VI Rome 40a">
+  <identity set="Roman Imperial" />
+  <emperor name="Diocletianus" />
+  <denomination name="Argenteus" />
+  <mint>
+    <date from="295" to="297" />
+    <place city="Roma" region="Italia" />
+  </mint>
+  <obverse>
+    <legend>DIOCLETI-ANVS AVG</legend>
+    <description>Head of Diocletian, laureate, right</description>
+  </obverse>
+  <reverse>
+    <legend>VIRTVS – MILITVM || Δ</legend>
+    <description>Diocletian, Maximian, Constantius Chlorus, and Galerius, draped, sacrificing over tripod; behind, gate in a six-turreted enclosure</description>
+  </reverse>
+  <measurement diameter="17.8 mm" weight="3.10 g" />
+  <image>
+    <obverse file="RIC VI Rome 40a (A).jpg" />
+    <reverse file="RIC VI Rome 40a (R).jpg" />
+  </image>
+  <origin price="360" currency="CHF" rate="0.95" fee="21.0%" 
+          seller="Nomos AG" date="17.11.2019" auction="Auction 19" lot="344" invoice="Nomos - 03" />
+  <legend>
+    <obverse>
+      <entry key="DIOCLETIANVS" />
+      <entry key="AVG" />
+    </obverse>
+    <reverse>
+      <entry key="VIRTVS MILITVM" />
+    </reverse>
+    <mintmark mint="Δ" />
+  </legend>
+</coin>

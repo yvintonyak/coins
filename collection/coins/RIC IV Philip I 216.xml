@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC IV Philip I 216">
+  <identity set="Roman Imperial" />
+  <emperor name="Philippus II Caesar" />
+  <denomination name="Antoninian" />
+  <mint>
+    <date from="244" to="246" />
+    <place city="Roma" region="Italia" />
+  </mint>
+  <obverse>
+    <legend>M IVL PHILIPPVS CAES</legend>
+    <description>Bust of Philip II, radiate, draped, cuirassed, right</description>
+  </obverse>
+  <reverse>
+    <legend>PRINCIPI IVVENT</legend>
+    <description>Philip II, in military attire, standing right, holding globe in right hand and transverse sceptre in left hand</description>
+  </reverse>
+  <measurement diameter="22 mm" weight="3.52 g" />
+  <image>
+    <obverse file="RIC IV Philip I 216 (A).jpg" />
+    <reverse file="RIC IV Philip I 216 (R).jpg" />
+  </image>
+  <origin price="55" currency="EUR" rate="1" fee="18.0%" 
+          seller="Savoca Numismatik GmbH" date="20.01.2019" auction="15th Blue Auction" lot="1825" invoice="Savoca Numismatik - 08" />
+  <legend>
+    <obverse>
+      <entry key="M IVL PHILIPPVS CAES" />
+    </obverse>
+    <reverse>
+      <entry key="PRINCIPI IVVENT" />
+    </reverse>
+  </legend>
+</coin>

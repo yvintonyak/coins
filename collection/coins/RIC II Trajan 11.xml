@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC II Trajan 11">
+  <identity set="Roman Imperial" />
+  <emperor name="Trajanus" />
+  <denomination name="Denar" />
+  <mint>
+    <date from="98" to="99" />
+    <place city="Roma" region="Italia" />
+  </mint>
+  <obverse>
+    <legend>IMP CAES NERVA TRAIAN AVG GERM</legend>
+    <description>Bust of Trajan, laureate, right</description>
+  </obverse>
+  <reverse>
+    <legend>PONT MAX TR POT COS II</legend>
+    <description>Abundantia seated left on chair with crossed cornucopiae, holding sceptre in right hand</description>
+  </reverse>
+  <measurement diameter="18 mm" weight="3.66 g" />
+  <image>
+    <obverse file="RIC II Trajan 11 (A).jpg" />
+    <reverse file="RIC II Trajan 11 (R).jpg" />
+  </image>
+  <deity name="Abundantia" />
+  <origin price="85" currency="EUR" rate="1" fee="14.9%" 
+          seller="Numismatik Naumann GmbH" date="04.11.2018" auction="Auktion 71" lot="466" invoice="Numismatik Naumann - 01" />
+  <legend>
+    <obverse>
+      <entry key="IMP" />
+      <entry key="CAES" />
+      <entry key="NERVA TRAIAN" />
+      <entry key="AVG" />
+      <entry key="GERM" />
+    </obverse>
+    <reverse>
+      <entry key="PONT MAX" />
+      <entry key="TR POT" />
+      <entry key="COS II" />
+    </reverse>
+  </legend>
+</coin>

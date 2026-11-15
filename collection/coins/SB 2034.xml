@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="SB 2034">
+  <identity set="Byzantine Empire" dynasty="" />
+  <emperor name="Latin rulers" />
+  <denomination name="Trachy" />
+  <mint>
+    <date from="1204" to="1261" />
+    <place city="Constantinopolis" />
+  </mint>
+  <obverse>
+    <legend>MP-QV</legend>
+    <description>Virgin Mary Orans, standing, both hands raised</description>
+  </obverse>
+  <reverse>
+    <legend></legend>
+    <description>Emperor on left, standing facing, and Saint George on right, standing facing, holding sword in left hand, between them holding patriarchal cross set on three steps</description>
+  </reverse>
+  <measurement diameter="28 mm" weight="4.80 g" />
+  <image>
+    <obverse file="SB 2034 (A).jpg" />
+    <reverse file="SB 2034 (R).jpg" />
+  </image>
+  <origin price="14" currency="GBP" rate="1.25" fee="21%" 
+          seller="N&amp;N London Ltd" date="14.02.2025" auction="Online Auction 39" lot="637" invoice="NN London - 03" />
+  <remark>Sear 2034; Doc 4.50.14</remark>
+</coin>

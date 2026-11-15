@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC VI Antioch 107">
+  <identity set="Roman Imperial" />
+  <emperor name="Galeria Valeria" />
+  <denomination name="Follis" />
+  <mint>
+    <date from="308" to="309" />
+    <place city="Antiochia" region="Syria" />
+  </mint>
+  <obverse>
+    <legend>GAL VAL-ERIA AVG</legend>
+    <description>Bust of Galeria Valeria, diademed, draped, right</description>
+  </obverse>
+  <reverse>
+    <legend>VENERI V-ICTRICI | B || ANT</legend>
+    <description>Venus, draped, standing front, head left, holding up apple with right hand, raising drapery over left shoulder with left hand</description>
+  </reverse>
+  <measurement diameter="24 mm" weight="5.90 g" />
+  <image>
+    <obverse file="RIC VI Antioch 107 (A).jpg" />
+    <reverse file="RIC VI Antioch 107 (R).jpg" />
+  </image>
+  <deity name="Venus" />
+  <origin price="40" currency="EUR" rate="1" fee="0.0%" 
+          seller="Carpe Diem Numismatics" date="11.09.2019" auction="eBay" lot="3016" invoice="Carpe Diem - 02" />
+  <legend>
+    <obverse>
+      <entry key="GAL VALERIA" />
+      <entry key="AVG[usta]" />
+    </obverse>
+    <reverse>
+      <entry key="VENERI VICTRICI" />
+    </reverse>
+    <mintmark mint="B || ANT" />
+  </legend>
+</coin>

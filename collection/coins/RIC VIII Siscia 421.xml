@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC VIII Siscia 421">
+  <identity set="Roman Imperial" />
+  <emperor name="Julianus II" />
+  <denomination name="Centenionalis" />
+  <mint>
+    <date from="361" to="363" />
+    <place city="Siscia" region="Pannonia Superior" />
+  </mint>
+  <obverse>
+    <legend>D N FL CL IVLI-ANVS P F AVG</legend>
+    <description>Bust of Julian II, helmeted, pearl-diademed, cuirassed, left, holding spear in right hand and shield in left hand</description>
+  </obverse>
+  <reverse>
+    <legend>VOT|X|MVLT|XX | (palm branch left)ASISC•</legend>
+    <description>VOT|X|MVLT|XX within a wreath</description>
+  </reverse>
+  <measurement diameter="20 mm" weight="3.07 g" />
+  <image>
+    <obverse file="RIC VIII Siscia 421 (A).jpg" />
+    <reverse file="RIC VIII Siscia 421 (R).jpg" />
+  </image>
+  <origin price="36" currency="EUR" rate="1" fee="18.0%" 
+          seller="Savoca Numismatik GmbH" date="08.11.2020" auction="89th Blue Auction" lot="1521" invoice="Savoca Numismatik - 29" />
+  <legend>
+    <obverse>
+      <entry key="D N" />
+      <entry key="FL CL IVLIANVS" />
+      <entry key="P F" />
+      <entry key="AVG" />
+    </obverse>
+    <reverse>
+      <entry key="VOT X" />
+      <entry key="MVLT XX" />
+    </reverse>
+    <mintmark mint="(palm branch left)ASISC•" />
+  </legend>
+</coin>

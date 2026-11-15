@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC IV Elagabalus 21">
+  <identity set="Roman Imperial" />
+  <emperor name="Elagabalus" />
+  <denomination name="Denar" />
+  <mint>
+    <date from="219"/>
+    <place city="Roma" region="Italia" />
+  </mint>
+  <obverse>
+    <legend>IMP ANTONINVS AVG</legend>
+    <description>Bust of Elagabalus, laureate, draped, right</description>
+  </obverse>
+  <reverse>
+    <legend>P M TR P II COS II P P</legend>
+    <description>Pax, draped, walking left, holding olive-branch in right hand and sceptre in left hand</description>
+  </reverse>
+  <measurement diameter="19 mm" weight="2.72 g" />
+  <image>
+    <obverse file="RIC IV Elagabalus 21 (A).jpg" />
+    <reverse file="RIC IV Elagabalus 21 (R).jpg" />
+  </image>
+  <deity name="Pax" />
+  <origin price="85" currency="EUR" rate="1" fee="14.9%" 
+          seller="Numismatik Naumann" date="04.04.2021" auction="Auktion 101" lot="684" invoice="Numismatik Naumann - 21" />
+  <legend>
+    <obverse>
+      <entry key="IMP" />
+      <entry key="ANTONINVS[elagabal]" />
+      <entry key="AVG" />
+    </obverse>
+    <reverse>
+      <entry key="P M" />
+      <entry key="TR P II" />
+      <entry key="COS II" />
+      <entry key="P P" />
+    </reverse>
+  </legend>
+</coin>

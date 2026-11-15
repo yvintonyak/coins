@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC IX Siscia 5A">
+  <identity set="Roman Imperial" />
+  <emperor name="Valentinianus I" />
+  <denomination name="Centenionalis" />
+  <mint>
+    <date from="364" to="367" />
+    <place city="Siscia" region="Pannonia Superior" />
+  </mint>
+  <obverse>
+    <legend>D N VALENTINI-ANVS P F AVG</legend>
+    <description>Bust of Valentinian I, pearl-diademed, draped and cuirassed, right</description>
+  </obverse>
+  <reverse>
+    <legend>GLORIA RO-MANORVM || •ΓSISC</legend>
+    <description>Emperor advancing right, dragging captive with right hand and holding labarum in left</description>
+  </reverse>
+  <measurement diameter="19 mm" weight="2.60 g" />
+  <image>
+    <obverse file="RIC IX Siscia 5A (A).jpg" />
+    <reverse file="RIC IX Siscia 5A (R).jpg" />
+  </image>
+  <origin price="50" currency="EUR" rate="1" fee="14.9%" 
+          seller="Numismatik Naumann GmbH" date="07.06.2020" auction="Auktion 90" lot="690" invoice="Numismatik Naumann - 16" />
+  <legend>
+    <obverse>
+      <entry key="D N" />
+      <entry key="VALENTINIANVS[I]" />
+      <entry key="P F" />
+      <entry key="AVG" />
+    </obverse>
+    <reverse>
+      <entry key="GLORIA ROMANORVM" />
+    </reverse>
+    <mintmark mint="•ΓSISC" />
+  </legend>
+</coin>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC VII Heraclea 157">
+  <identity set="Roman Imperial" />
+  <emperor name="Constantinus I" />
+  <denomination name="Follis" />
+  <mint>
+    <date from="336" to="337" />
+    <place city="Heraclea" region="Thracia" />
+  </mint>
+  <obverse>
+    <legend>CONSTAN-TINOPOLI</legend>
+    <description>Bust of Constantinopolis, laureate, helmeted, wearing imperial cloak, left, holding reversed spear in right hand</description>
+  </obverse>
+  <reverse>
+    <legend>GLOR-IA EXERC-ITVS || SMHB</legend>
+    <description>Two soldiers, helmeted, draped, cuirassed, standing facing each other, each holding spear in outer hand and resting inner hand on shield; between them, a standard</description>
+  </reverse>
+  <measurement diameter="16.5 mm" weight="1.61 g" />
+  <image>
+    <obverse file="RIC VII Heraclea 157 (A).jpg" />
+    <reverse file="RIC VII Heraclea 157 (R).jpg" />
+  </image>
+  <deity name="Constantinopolis" />
+  <origin price="44" currency="EUR" rate="1" fee="19%" 
+          seller="Art &amp; Coins s.r.o." date="17.10.2022" auction="Auktion #8" lot="479" invoice="Art n Coins - 01" />
+  <remark>Commemorative Series</remark>
+  <legend>
+    <obverse>
+      <entry key="CONSTANTINOPOLI" />
+    </obverse>
+    <reverse>
+      <entry key="GLORIA EXERCITVS" />
+    </reverse>
+    <mintmark mint="SMHB" />
+  </legend>
+</coin>

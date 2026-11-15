@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC IV Macrinus 80a">
+  <identity set="Roman Imperial" />
+  <emperor name="Macrinus" />
+  <denomination name="Denar" />
+  <mint>
+    <date from="217" to="218" />
+    <place city="Roma" region="Italia" />
+  </mint>
+  <obverse>
+    <legend>IMP C M OPEL SEV MACRINVS AVG</legend>
+    <description>Bust of Macrinus, laureate, long bearded, draped, right</description>
+  </obverse>
+  <reverse>
+    <legend>PROVIDENTIA DEORVM</legend>
+    <description>Providentia, draped, standing left, holding wand in right hand over globe set on ground and cornucopiae in left hand</description>
+  </reverse>
+  <measurement diameter="19 mm" weight="3.15 g" />
+  <image>
+    <obverse file="RIC IV Macrinus 80a (A).jpg" />
+    <reverse file="RIC IV Macrinus 80a (R).jpg" />
+  </image>
+  <deity name="Providentia" />
+  <origin price="120" currency="EUR" rate="1" fee="18.0%" 
+          seller="Tauler n Fau Herrero" date="02.07.2019" auction="E-Auction 34" lot="4416" invoice="Tauler-n-Fau - 01" />
+  <legend>
+    <obverse>
+      <entry key="IMP" />
+      <entry key="C" />
+      <entry key="M OPEL SEV MACRINVS" />
+      <entry key="AVG" />
+    </obverse>
+    <reverse>
+      <entry key="PROVIDENTIA DEORVM" />
+    </reverse>
+  </legend>
+</coin>

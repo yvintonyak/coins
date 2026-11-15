@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC VIII Antioch 44">
+  <identity set="Roman Imperial" />
+  <emperor name="Constantius II" />
+  <denomination name="Follis" />
+  <mint>
+    <date from="337" to="347" />
+    <place city="Antiochia" region="Syria" />
+  </mint>
+  <obverse>
+    <legend>CONSTAN-TIVS AVG</legend>
+    <description>Bust of Constantius II, laureate, draped, cuirassed, right</description>
+  </obverse>
+  <reverse>
+    <legend>GLOR-IA EXERC-ITVS || SMANH</legend>
+    <description>Two soldiers, helmeted, draped, cuirassed, facing front, heads toward each other, each holding inverted spear in outer hand and resting inner hand on shield; between them, a standard</description>
+  </reverse>
+  <measurement diameter="16 mm" weight="1.82 g" />
+  <image>
+    <obverse file="RIC VIII Antioch 44 (A).jpg" />
+    <reverse file="RIC VIII Antioch 44 (R).jpg" />
+  </image>
+  <origin price="50" currency="GBP" rate="1.23" fee="24.0%" 
+          seller="Roma Numismatics Limited" date="09.01.2020" auction="E-Sale 66" lot="1225" invoice="Roma Numismatics - 02" />
+  <legend>
+    <obverse>
+      <entry key="CONSTANTIVS[II]" />
+      <entry key="AVG" />
+    </obverse>
+    <reverse>
+      <entry key="GLORIA EXERCITVS" />
+    </reverse>
+    <mintmark mint="SMANH" />
+  </legend>
+</coin>

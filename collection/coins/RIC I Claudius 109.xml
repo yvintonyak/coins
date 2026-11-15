@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC I Claudius 109">
+  <identity set="Roman Imperial" />
+  <emperor name="Nero Claudius Drusus" />
+  <denomination name="Sestertius" />
+  <mint>
+    <date from="50" to="54" />
+    <place city="Roma" region="Italia" />
+  </mint>
+  <obverse>
+    <legend>NERO CLAVDIVS DRVSVS GERMANICVS [IMP]</legend>
+    <description>Head of Nero Claudius Drusus, bare, left</description>
+  </obverse>
+  <reverse>
+    <legend>TI CLAVDIVS CAESAR AVG P M [TR P] IMP [P P] | S C</legend>
+    <description>Claudius, togate, seated left on curule chair, holding branch in right hand; various arms around</description>
+  </reverse>
+  <measurement diameter="35 mm" weight="24.89 g" />
+  <image>
+    <obverse file="RIC I Claudius 109 (A).jpg" />
+    <reverse file="RIC I Claudius 109 (R).jpg" />
+  </image>
+  <origin price="200" currency="EUR" rate="1" fee="20.0%" 
+          seller="Jean ELSEN n ses Fils s.a." date="11.09.2021" auction="Auktion 148" lot="191" invoice="Jean Elsen - 02" />
+  <remark></remark>
+  <legend>
+    <obverse>
+      <entry key="NERO CLAVDIVS DRVSVS" />
+      <entry key="GERMANICVS" />
+      <entry key="IMP" />
+    </obverse>
+    <reverse>
+      <entry key="TI CLAVDIVS" />
+      <entry key="CAESAR" />
+      <entry key="AVG" />
+      <entry key="P M" />
+      <entry key="TR P" />
+      <entry key="IMP" />
+      <entry key="P P" />
+      <entry key="S C" />
+    </reverse>
+  </legend>
+</coin>

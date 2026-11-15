@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC VII Antioch 92">
+  <identity set="Roman Imperial" />
+  <emperor name="Constantinus I" />
+  <denomination name="Follis" />
+  <mint>
+    <date from="330" to="335" />
+    <place city="Antiochia" region="Syria" />
+  </mint>
+  <obverse>
+    <legend>CONSTAN-TINOPOLIS</legend>
+    <description>Bust of Constantinopolis, laureate, helmeted, wearing imperial cloak, left, holding reversed spear in right hand</description>
+  </obverse>
+  <reverse>
+    <legend> || SMANI</legend>
+    <description>Victory, winged, draped, standing left on prow, holding spear in right hand and shield in left hand</description>
+  </reverse>
+  <measurement diameter="17.1 mm" weight="1.99 g" />
+  <image>
+    <obverse file="RIC VII Antioch 92 (A).jpg" />
+    <reverse file="RIC VII Antioch 92 (R).jpg" />
+  </image>
+  <deity name="Victoria" />
+  <origin price="31" currency="EUR" rate="1" fee="16.0%" 
+          seller="Ares Numismatics" date="22.12.2019" auction="Webauktion 5" lot="726" invoice="Ares Numismatics - 03" />
+  <remark>Commemorative Series</remark>
+  <legend>
+    <obverse>
+      <entry key="CONSTANTINOPOLIS" />
+    </obverse>
+    <mintmark mint="SMANI" />
+  </legend>
+</coin>

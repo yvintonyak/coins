@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC V Diocletian 551">
+  <identity set="Roman Imperial" />
+  <emperor name="Maximianus Herculius" />
+  <denomination name="Antoninian" />
+  <mint>
+    <date from="292" />
+    <place city="Ticinum" region="Italia" />
+  </mint>
+  <obverse>
+    <legend>IMP C M VAL MAXIMIANVS AVG</legend>
+    <description>Bust of Maximian, radiate, draped, cuirassed, right</description>
+  </obverse>
+  <reverse>
+    <legend>HERCVLI CONSERVAT || TXXIT</legend>
+    <description>Hercules, standing left, holding club in right hand and lion's skin and bow in left hand</description>
+  </reverse>
+  <measurement diameter="23 mm" weight="3.44 g" />
+  <image>
+    <obverse file="RIC V Diocletian 551 (A).jpg" />
+    <reverse file="RIC V Diocletian 551 (R).jpg" />
+  </image>
+  <deity name="Hercules" />
+  <origin price="40" currency="EUR" rate="1" fee="14.9%" 
+          seller="Numismatik Naumann GmbH" date="02.06.2019" auction="Auktion 78" lot="829" invoice="Numismatik Naumann - 05" />
+  <legend>
+    <obverse>
+      <entry key="IMP" />
+      <entry key="C" />
+      <entry key="M VAL MAXIMIANVS" />
+      <entry key="AVG" />
+    </obverse>
+    <reverse>
+      <entry key="HERCVLI CONSERVAT" />
+    </reverse>
+    <mintmark mint="TXXIT" />
+  </legend>
+</coin>

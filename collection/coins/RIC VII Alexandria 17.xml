@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC VII Alexandria 17">
+  <identity set="Roman Imperial" />
+  <emperor name="Constantinus I" />
+  <denomination name="Follis" />
+  <mint>
+    <date from="316" to="317" />
+    <place city="Alexandria" region="Aegyptus" />
+  </mint>
+  <obverse>
+    <legend>IMP C FL VAL CONSTANTINVS P F AVG</legend>
+    <description>Head of Constantine I, laureate, right</description>
+  </obverse>
+  <reverse>
+    <legend>IOVI CONSER-VATORI AVGG | K | (wreath on X on B) || ALE</legend>
+    <description>Jupiter, nude, chlamys spread, standing left, holding Victory on globe in right hand and leaning on sceptre with left hand; to left, eagle with wreath</description>
+  </reverse>
+  <measurement diameter="21 mm" weight="3.85 g" />
+  <image>
+    <obverse file="RIC VII Alexandria 17 (A).jpg" />
+    <reverse file="RIC VII Alexandria 17 (R).jpg" />
+  </image>
+  <deity name="Jupiter" />
+  <origin price="20" currency="EUR" rate="1" fee="18%" 
+          seller="Monnaies d'Antan" date="25.11.2023" auction="Auktion 34" lot="581" invoice="Monnaies d'Antan - 01" />
+  <remark></remark>
+  <legend>
+    <obverse>
+      <entry key="IMP" />
+      <entry key="C" />
+      <entry key="FL VAL CONSTANTINVS" />
+      <entry key="P F" />
+      <entry key="AVG" />
+    </obverse>
+    <reverse>
+      <entry key="IOVI CONSERVATORI AVGG" />
+    </reverse>
+    <mintmark mint="K | (wreath on X on B) || ALE" />
+  </legend>
+</coin>

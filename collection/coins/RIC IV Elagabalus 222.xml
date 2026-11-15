@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC IV Elagabalus 222">
+  <identity set="Roman Imperial" />
+  <emperor name="Julia Paula" />
+  <denomination name="Denar" />
+  <mint>
+    <date from="219" to="220" />
+    <place city="Roma" region="Italia" />
+  </mint>
+  <obverse>
+    <legend>[I]VLIA PAVLA AVG</legend>
+    <description>Bust of Julia Paula, hair waved and fastened in plait, draped, right</description>
+  </obverse>
+  <reverse>
+    <legend>VENVS GENETRIX</legend>
+    <description>Venus, draped, seated left, holding globe in extended right hand and sceptre in left hand</description>
+  </reverse>
+  <measurement diameter="19 mm" weight="2.48 g" />
+  <image>
+    <obverse file="RIC IV Elagabalus 222 (A).jpg" />
+    <reverse file="RIC IV Elagabalus 222 (R).jpg" />
+  </image>
+  <deity name="Venus" />
+  <origin price="120" currency="EUR" rate="1" fee="14.9%" 
+          seller="Numismatik Naumann GmbH" date="07.07.2019" auction="Auktion 79" lot="608" invoice="Numismatik Naumann - 06" />
+  <legend>
+    <obverse>
+      <entry key="IVLIA PAVLA" />
+      <entry key="AVG[usta]" />
+    </obverse>
+    <reverse>
+      <entry key="VENVS GENETRIX" />
+    </reverse>
+  </legend>
+</coin>

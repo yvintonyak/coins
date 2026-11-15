@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC VII Constantinople 35">
+  <identity set="Roman Imperial" />
+  <emperor name="Constantinus I" />
+  <denomination name="Follis" />
+  <mint>
+    <date from="328" />
+    <place city="Constantinopolis" region="Thracia" />
+  </mint>
+  <obverse>
+    <legend>CONSTANTI-NVS MAX AVG</legend>
+    <description>Bust of Constantine I, rosette-diademed, draped, cuirassed, right</description>
+  </obverse>
+  <reverse>
+    <legend>CONSTANTINI-ANA DAFNE | Z || CONS</legend>
+    <description>Victory, winged, draped, seated left on cippus, head right, holding palm in each hand; before her, trophy; at foot of trophy, kneeling captive, head turned, being spurned by Victory</description>
+  </reverse>
+  <measurement diameter="20 mm" weight="3.06 g" />
+  <image>
+    <obverse file="RIC VII Constantinople 35 (A).jpg" />
+    <reverse file="RIC VII Constantinople 35 (R).jpg" />
+  </image>
+  <deity name="Victoria" />
+  <origin price="55" currency="CHF" rate="0.97" fee="18.5 %" 
+          seller="Nomos AG" date="20.12.2020" auction="Obolos 17" lot="759" invoice="Nomos - 05" />
+  <legend>
+    <obverse>
+      <entry key="CONSTANTINVS[I]" />
+      <entry key="MAX" />
+      <entry key="AVG" />
+    </obverse>
+    <reverse>
+      <entry key="CONSTANTINIANA DAFNE" />
+    </reverse>
+    <mintmark mint="Z || CONS" />
+  </legend>
+</coin>

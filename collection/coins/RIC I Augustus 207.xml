@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC I Augustus 207">
+  <identity set="Roman Imperial" />
+  <emperor name="Augustus" />
+  <denomination name="Denar" />
+  <mint>
+    <date from="2 BC" to="4" />
+    <place city="Lugdunum" region="Gallia Lugdunensis" />
+  </mint>
+  <obverse>
+    <legend>[CAE]SAR AVGVSTVS DIVI F PATER PATRI[AE]</legend>
+    <description>Head of Augustus, laureate, right</description>
+  </obverse>
+  <reverse>
+    <legend>AVGVSTI F COS DESIG PRINC IVVEN[T] | [C L] CAESARE[S]</legend>
+    <description>Gaius and Lucius Caesar standing, each, togate, resting hand on shield and spear, simpulum, right, and lituus, left, flanking, left and right respectively</description>
+  </reverse>
+  <measurement diameter="18 mm" weight="3.84 g" />
+  <image>
+    <obverse file="RIC I Augustus 207 (A).jpg" />
+    <reverse file="RIC I Augustus 207 (R).jpg" />
+  </image>
+  <origin price="151" currency="EUR" rate="1" fee="20.0%" 
+          seller="Teutoburger Münzauktion GmbH" date="28.02.2020" auction="Auktion 128" lot="426" invoice="Teutoburger Muenzauktion - 01" />
+  <legend>
+    <obverse>
+      <entry key="CAESAR" />
+      <entry key="AVGVSTVS" />
+      <entry key="DIVI F" />
+      <entry key="PATER PATRIAE" />
+    </obverse>
+    <reverse>
+      <entry key="AVGVSTI F[2x]" />
+      <entry key="COS DESIG" />
+      <entry key="PRINC IVVENT[2x]" />
+      <entry key="C L CAESARES" />
+    </reverse>
+  </legend>
+</coin>

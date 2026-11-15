@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC IV Severus Alexander 319">
+  <identity set="Roman Imperial" />
+  <emperor name="Sallustia Orbiana" />
+  <denomination name="Denar" />
+  <mint>
+    <date from="225" to="227" />
+    <place city="Roma" region="Italia" />
+  </mint>
+  <obverse>
+    <legend>SALL BARBIA ORBIANA AVG</legend>
+    <description>Bust of Orbiana, diademed, draped, right</description>
+  </obverse>
+  <reverse>
+    <legend>CONCORDIA AVGG</legend>
+    <description>Concordia, draped, seated left, holding patera in right hand and double cornucopiae in left hand</description>
+  </reverse>
+  <measurement diameter="20 mm" weight="2.50 g" />
+  <image>
+    <obverse file="RIC IV Severus Alexander 319 (A).jpg" />
+    <reverse file="RIC IV Severus Alexander 319 (R).jpg" />
+  </image>
+  <deity name="Concordia" />
+  <origin price="220" currency="EUR" rate="1" fee="14.9%" 
+          seller="Numismatik Naumann GmbH" date="03.05.2020" auction="Auktion 89" lot="484" invoice="Numismatik Naumann - 15" />
+  <legend>
+    <obverse>
+      <entry key="SALL BARBIA ORBIANA" />
+      <entry key="AVG[usta]" />
+    </obverse>
+    <reverse>
+      <entry key="CONCORDIA AVGG" />
+    </reverse>
+  </legend>
+</coin>

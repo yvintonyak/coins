@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC IX Cyzicus 7">
+  <identity set="Roman Imperial" />
+  <emperor name="Procopius" />
+  <denomination name="Centenionalis" />
+  <mint>
+    <date from="365" to="366" />
+    <place city="Cyzicus" region="Bithynia et Pontus" />
+  </mint>
+  <obverse>
+    <legend>D N PROCO-PIVS P F AVG</legend>
+    <description>Bust of Procopius, pearl-diademed, draped and cuirassed, left</description>
+  </obverse>
+  <reverse>
+    <legend>REPARATI-O FEL TEMP | ☧ || ✷SMKΔ</legend>
+    <description>Emperor, head right, standing facing, holding labarum in right hand and resting left on shield. On ground left a small indeterminate object; above, in field, right Chi-Ro</description>
+  </reverse>
+  <measurement diameter="19 mm" weight="3.67 g" />
+  <image>
+    <obverse file="RIC IX Cyzicus 7 (A).jpg" />
+    <reverse file="RIC IX Cyzicus 7 (R).jpg" />
+  </image>
+  <origin price="220" currency="CHF" rate="0.99" fee="18.5%" 
+          seller="Nomos AG" date="24.05.2020" auction="Obolos 15" lot="875" invoice="Nomos - 04" />
+  <legend>
+    <obverse>
+      <entry key="D N" />
+      <entry key="PROCOPIVS" />
+      <entry key="P F" />
+      <entry key="AVG" />
+    </obverse>
+    <reverse>
+      <entry key="REPARATIO FEL TEMP" />
+    </reverse>
+    <mintmark mint="✷SMKΔ" />
+  </legend>
+</coin>

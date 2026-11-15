@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC VII Rome 104">
+  <identity set="Roman Imperial" />
+  <emperor name="Divus Maximianus Herculius" />
+  <denomination name="Follis" />
+  <mint>
+    <date from="317" to="318" />
+    <place city="Roma" region="Italia" />
+  </mint>
+  <obverse>
+    <legend>DIVO MAXIMIANO SEN FORT IMP</legend>
+    <description>Head of Maximian, veiled, laureate, right</description>
+  </obverse>
+  <reverse>
+    <legend>REQVIES OPTIMOR MERIT || RQ</legend>
+    <description>Maximian, veiled, draped, seated left in curule chair, raising right hand and holding short sceptre in left hand</description>
+  </reverse>
+  <measurement diameter="17 mm" weight="3.38 g" />
+  <image>
+    <obverse file="RIC VII Rome 104 (A).jpg" />
+    <reverse file="RIC VII Rome 104 (R).jpg" />
+  </image>
+  <origin price="31" currency="EUR" rate="1" fee="19.5%" 
+          seller="Numisfitz GmbH" date="04.06.2023" auction="Auktion 2" lot="996" invoice="Numisfitz - 01" />
+  <legend>
+    <obverse>
+      <entry key="DIVO MAXIMIANO" />
+      <entry key="SEN FORT IMP" />
+    </obverse>
+    <reverse>
+      <entry key="REQVIES OPTIMOR MERIT" />
+    </reverse>
+    <mintmark mint="RQ" />
+  </legend>
+</coin>

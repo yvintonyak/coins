@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC III Antoninus Pius 366a">
+  <identity set="Roman Imperial" />
+  <emperor name="Diva Faustina Maior" />
+  <denomination name="Denar" />
+  <mint>
+    <date from="141" />
+    <place city="Roma" region="Italia" />
+  </mint>
+  <obverse>
+    <legend>DIVA FAVSTINA</legend>
+    <description>Bust of Faustina I, draped, right, hair elaborately waved in several loops round head and drawn up and coiled on top</description>
+  </obverse>
+  <reverse>
+    <legend>AVGVSTA</legend>
+    <description>Venus, draped, standing front, head left, holding apple in right hand and resting left on large round shield at her side</description>
+  </reverse>
+  <measurement diameter="18 mm" weight="2.67 g" />
+  <image>
+    <obverse file="RIC III Antoninus Pius 366a (A).jpg" />
+    <reverse file="RIC III Antoninus Pius 366a (R).jpg" />
+  </image>
+  <deity name="Venus" />
+  <origin price="75" currency="CHF" rate="1" fee="18.5%" 
+          seller="Nomos AG" date="02.07.2019" auction="Obolos 13" lot="652" invoice="Nomos - 02" />
+  <legend>
+    <obverse>
+      <entry key="DIVA" />
+      <entry key="FAVSTINA[maior]" />
+    </obverse>
+    <reverse>
+      <entry key="AVGVSTA" />
+    </reverse>
+  </legend>
+</coin>

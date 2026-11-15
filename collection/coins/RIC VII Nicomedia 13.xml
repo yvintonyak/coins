@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC VII Nicomedia 13">
+  <identity set="Roman Imperial" />
+  <emperor name="Licinius" />
+  <denomination name="Follis" />
+  <mint>
+    <date from="313" to="317" />
+    <place city="Nicomedia" region="Bithynia et Pontus" />
+  </mint>
+  <obverse>
+    <legend>IMP C VAL LICIN LICINIVS P F AVG</legend>
+    <description>Head of Licinius, laureate, right</description>
+  </obverse>
+  <reverse>
+    <legend>IOVI CONS-ERVATORI | Є || SMN</legend>
+    <description>Jupiter, nude, chlamys draped across left shoulder, standing left, holding Victory on globe in right hand and leaning on sceptre with left hand; to left, eagle holding wreath</description>
+  </reverse>
+  <measurement diameter="21 mm" weight="3.32 g" />
+  <image>
+    <obverse file="RIC VII Nicomedia 13 (A).jpg" />
+    <reverse file="RIC VII Nicomedia 13 (R).jpg" />
+  </image>
+  <deity name="Jupiter" />
+  <origin price="16" currency="EUR" rate="1" fee="18.0%" 
+          seller="Savoca Numismatik GmbH" date="31.03.2019" auction="18th Blue Auction" lot="1948" invoice="Savoca Numismatik - 12" />
+  <legend>
+    <obverse>
+      <entry key="IMP" />
+      <entry key="C" />
+      <entry key="VAL LICIN LICINIVS[I]" />
+      <entry key="P F" />
+      <entry key="AVG" />
+    </obverse>
+    <reverse>
+      <entry key="IOVI CONSERVATORI" />
+    </reverse>
+    <mintmark mint="Є || SMN" />
+  </legend>
+</coin>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC V Carus 182">
+  <identity set="Roman Imperial" />
+  <emperor name="Carinus Caesar" />
+  <denomination name="Antoninian" />
+  <mint>
+    <date from="282" to="283" />
+    <place city="Ticinum" region="Italia" />
+  </mint>
+  <obverse>
+    <legend>M AVR CARINVS NOB C</legend>
+    <description>Bust of Carinus, radiate, draped, cuirassed, right</description>
+  </obverse>
+  <reverse>
+    <legend>PRINCIPI IVVENTVT || TXXI</legend>
+    <description>Carinus, draped, cuirassed, standing left, holding globe in right hand and spear in left hand; at feet, captive</description>
+  </reverse>
+  <measurement diameter="24 mm" weight="3.99 g" />
+  <image>
+    <obverse file="RIC V Carus 182 (A).jpg" />
+    <reverse file="RIC V Carus 182 (R).jpg" />
+  </image>
+  <origin price="100" currency="EUR" rate="1" fee="18.0%" 
+          seller="Savoca Numismatik GmbH" date="14.04.2019" auction="32nd Silver Auction" lot="574" invoice="Savoca Numismatik - 13" />
+  <legend>
+    <obverse>
+      <entry key="M AVR CARINVS" />
+      <entry key="NOB C" />
+    </obverse>
+    <reverse>
+      <entry key="PRINCIPI IVVENTVT" />
+    </reverse>
+    <mintmark mint="TXXI" />
+  </legend>
+</coin>

@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC II Domitian 685">
+  <identity set="Roman Imperial" />
+  <emperor name="Domitianus" />
+  <denomination name="Denar" />
+  <mint>
+    <date from="89" />
+    <place city="Roma" region="Italia" />
+  </mint>
+  <obverse>
+    <legend>IMP CAES DOMIT AVG GERM P M TR P VIIII</legend>
+    <description>Bust of Domitian, laureate, right</description>
+  </obverse>
+  <reverse>
+    <legend>IMP XXI COS XIIII CENS P P P</legend>
+    <description>Minerva advancing right, holding spear and shield</description>
+  </reverse>
+  <measurement diameter="18 mm" weight="3.24 g" />
+  <image>
+    <obverse file="RIC II Domitian 685 (A).jpg" />
+    <reverse file="RIC II Domitian 685 (R).jpg" />
+  </image>
+  <deity name="Minerva" />
+  <origin price="60" currency="EUR" rate="1" fee="15.0%" 
+          seller="Savoca Numismatik GmbH" date="18.11.2018" auction="12th Blue Auction" lot="1204" invoice="Savoca Numismatik - 02" />
+  <legend>
+    <obverse>
+      <entry key="IMP" />
+      <entry key="CAES" />
+      <entry key="DOMIT" />
+      <entry key="AVG" />
+      <entry key="GERM" />
+      <entry key="P M" />
+      <entry key="TR P VIIII" />
+    </obverse>
+    <reverse>
+      <entry key="IMP XXI" />
+      <entry key="COS XIIII" />
+      <entry key="CENS P" />
+      <entry key="P P" />
+    </reverse>
+  </legend>
+</coin>

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC III Antoninus Pius 203">
+  <identity set="Roman Imperial" />
+  <emperor name="Antoninus Pius" />
+  <denomination name="Denar" />
+  <mint>
+    <date from="151" to="152" />
+    <place city="Roma" region="Italia" />
+  </mint>
+  <obverse>
+    <legend>ANTONINVS AVG PIVS P P TR P XV</legend>
+    <description>Bust of Antoninus Pius, laureate, right</description>
+  </obverse>
+  <reverse>
+    <legend>COS IIII</legend>
+    <description>Vesta, veiled, draped, standing left, holding simpulum lowered in right hand and palladium at shoulder in left</description>
+  </reverse>
+  <measurement diameter="18 mm" weight="3.40 g" />
+  <image>
+    <obverse file="RIC III Antoninus Pius 203 (A).jpg" />
+    <reverse file="RIC III Antoninus Pius 203 (R).jpg" />
+  </image>
+  <deity name="Vesta" />
+  <origin price="60" currency="GBP" rate="1.13" fee="20.0%" 
+          seller="Bertolami Fine Arts Ltd" date="14.01.2019" auction="E-Live Auktion 64" lot="801" invoice="Bertolami Fine Arts - 01" />
+  <legend>
+    <obverse>
+      <entry key="ANTONINVS[pius]" />
+      <entry key="AVG" />
+      <entry key="PIVS" />
+      <entry key="P P" />
+      <entry key="TR P XV" />
+    </obverse>
+    <reverse>
+      <entry key="COS IIII" />
+    </reverse>
+  </legend>
+</coin>

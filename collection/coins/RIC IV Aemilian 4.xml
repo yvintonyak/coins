@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC IV Aemilian 4">
+  <identity set="Roman Imperial" />
+  <emperor name="Aemilianus" />
+  <denomination name="Antoninian" />
+  <mint>
+    <date from="253" />
+    <place city="Roma" region="Italia" />
+  </mint>
+  <obverse>
+    <legend>IMP AEMILIANVS PIVS FEL AVG</legend>
+    <description>Bust of Aemilian, radiate, draped, cuirassed, right</description>
+  </obverse>
+  <reverse>
+    <legend>IOVI CO[NSE]RVAT</legend>
+    <description>Jupiter, nude except for cloak on shoulders, standing left, extending right hand and hanging cloak over Aemilian, holding thunderbolt in right hand and sceptre in left hand</description>
+  </reverse>
+  <measurement diameter="20 mm" weight="3.37 g" />
+  <image>
+    <obverse file="RIC IV Aemilian 4 (A).jpg" />
+    <reverse file="RIC IV Aemilian 4 (R).jpg" />
+  </image>
+  <deity name="Jupiter" />
+  <origin price="220" currency="EUR" rate="1" fee="18.0%" 
+          seller="Tauler n Fau Herrero" date="05.02.2020" auction="Saalauktion 50" lot="255" invoice="Tauler-n-Fau - 04" />
+  <legend>
+    <obverse>
+      <entry key="IMP" />
+      <entry key="AEMILIANVS" />
+      <entry key="PIVS" />
+      <entry key="FEL" />
+      <entry key="AVG" />
+    </obverse>
+    <reverse>
+      <entry key="IOVI CONSERVAT" />
+    </reverse>
+  </legend>
+</coin>

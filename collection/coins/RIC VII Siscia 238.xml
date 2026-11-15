@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC VII Siscia 238">
+  <identity set="Roman Imperial" />
+  <emperor name="Constans Caesar" />
+  <denomination name="Follis" />
+  <mint>
+    <date from="334" to="335" />
+    <place city="Siscia" region="Pannonia Superior" />
+  </mint>
+  <obverse>
+    <legend>FL CONSTANTIS BEA C</legend>
+    <description>Bust of Constans, laureate, draped, cuirassed, right</description>
+  </obverse>
+  <reverse>
+    <legend>GLOR-IA EXERC-ITVS || •ASIS•</legend>
+    <description>Two soldiers, helmeted, draped, cuirassed, standing facing each other, each holding spear in outer hand and resting inner hand on shield; between them, two standards</description>
+  </reverse>
+  <measurement diameter="18 mm" weight="2.58 g" />
+  <image>
+    <obverse file="RIC VII Siscia 238 (A).jpg" />
+    <reverse file="RIC VII Siscia 238 (R).jpg" />
+  </image>
+  <origin price="46" currency="EUR" rate="1" fee="23.0%" 
+          seller="Kölner Münzkabinett" date="04.04.2020" auction="Auktion 113" lot="391" invoice="Kölner Münzkabinett - 03" />
+  <legend>
+    <obverse>
+      <entry key="FL CONSTANTIS" />
+      <entry key="BEA C" />
+    </obverse>
+    <reverse>
+      <entry key="GLORIA EXERCITVS" />
+    </reverse>
+    <mintmark mint="•ASIS•" />
+  </legend>
+</coin>

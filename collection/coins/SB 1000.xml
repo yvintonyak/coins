@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="SB 1000">
+  <identity set="Byzantine Empire" />
+  <emperor name="Constans II" />
+  <denomination name="Follis" />
+  <mint>
+    <date from="641" to="668" />
+    <place city="Constantinopolis" />
+  </mint>
+  <obverse>
+    <legend>EN TVTO NIKA</legend>
+    <description>Constans, beardless, crowned and wearing chlamys, standing facing, holding long cross and cross on globe</description>
+  </obverse>
+  <reverse>
+    <legend>m | ANA | NEOS || ?</legend>
+    <description>Large m (lower case), ANA to left, nothing, cross or star above, NEOS to right, officina letter and I, II or IIII below</description>
+  </reverse>
+  <measurement diameter="23 mm" weight="4.07 g" />
+  <image>
+    <obverse file="SB 1000 (A).jpg" />
+    <reverse file="SB 1000 (R).jpg" />
+  </image>
+  <origin price="18" currency="EUR" rate="1" fee="15.25%" 
+          seller="Sol Numismatik" date="05.08.2023" auction="Auktion XVI" lot="568" invoice="Sol Numismatik - 02" />
+  <remark>Sear 1000; Doc 1.1.1</remark>
+</coin>

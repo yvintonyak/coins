@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC III Marcus Aurelius 666">
+  <identity set="Roman Imperial" />
+  <emperor name="Commodus Caesar" />
+  <denomination name="Denar" />
+  <mint>
+    <date from="179" />
+    <place city="Roma" region="Italia" />
+  </mint>
+  <obverse>
+    <legend>L AVREL COMMODVS AVG</legend>
+    <description>Head of Commodus, laureate, right</description>
+  </obverse>
+  <reverse>
+    <legend>TR P IIII IMP III COS II P P</legend>
+    <description>Victory, winged, draped, seated left on low seat, holding patera in extended right hand and palm, sloped over left shoulder, in left hand</description>
+  </reverse>
+  <measurement diameter="18 mm" weight="3.48 g" />
+  <image>
+    <obverse file="RIC III Marcus Aurelius 666 (A).jpg" />
+    <reverse file="RIC III Marcus Aurelius 666 (R).jpg" />
+  </image>
+  <deity name="Victoria" />
+  <origin price="80" currency="EUR" rate="1" fee="18.0%" 
+          seller="Subastas Ibercoin SL" date="30.01.2019" auction="Online Auktion 25" lot="411" invoice="Ibercoin - 01" />
+  <legend>
+    <obverse>
+      <entry key="L AVREL COMMODVS" />
+      <entry key="AVG" />
+    </obverse>
+    <reverse>
+      <entry key="TR P IIII" />
+      <entry key="IMP III" />
+      <entry key="COS II" />
+      <entry key="P P" />
+    </reverse>
+  </legend>
+</coin>

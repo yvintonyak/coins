@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC VII Sirmium 48">
+  <identity set="Roman Imperial" />
+  <emperor name="Constantinus I" />
+  <denomination name="Follis" />
+  <mint>
+    <date from="324" to="325" />
+    <place city="Sirmium" region="Pannonia Inferior" />
+  </mint>
+  <obverse>
+    <legend>CONSTAN-TINVS AVG</legend>
+    <description>Head of Constantine I, laureate, right</description>
+  </obverse>
+  <reverse>
+    <legend>SARMATIA – DEVICTA || SIRM</legend>
+    <description>Victoria, winged, draped, advancing right, holding trophy in right hand and spurning seated captive with left hand</description>
+  </reverse>
+  <measurement diameter="18 mm" weight="3.43 g" />
+  <image>
+    <obverse file="RIC VII Sirmium 48 [1] (A).jpg" />
+    <reverse file="RIC VII Sirmium 48 [1] (R).jpg" />
+  </image>
+  <deity name="Victoria" />
+  <origin price="56" currency="EUR" rate="1" fee="23.0%" 
+          seller="Kölner Münzkabinett" date="19.10.2019" auction="Auktion 112" lot="406" invoice="Kölner Münzkabinett - 02" />
+  <legend>
+    <obverse>
+      <entry key="CONSTANTINVS[I]" />
+      <entry key="AVG" />
+    </obverse>
+    <reverse>
+      <entry key="SARMATIA DEVICTA" />
+    </reverse>
+    <mintmark mint="SIRM" />
+  </legend>
+</coin>

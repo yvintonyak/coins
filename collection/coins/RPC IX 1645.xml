@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RPC IX 1645">
+  <identity set="Roman Provincial" />
+  <emperor name="Trajanus Decius" />
+  <denomination name="Tetradrachm" />
+  <mint>
+    <date from="249" to="250" />
+    <place city="Antiochia" region="Syria" />
+  </mint>
+  <obverse>
+    <legend>ΑΥΤ Κ Γ ΜƐ ΚΥ ΔƐΚΙΟϹ ΤΡΑΙΑΝΟϹ ϹƐΒ</legend>
+    <description>Bust of Trajan Decius right, laureate, draped, cuirassed; ••• below bust</description>
+  </obverse>
+  <reverse>
+    <legend>ΔΗΜΑΡΧ ƐΞΟΥϹΙΑϹ || S C</legend>
+    <description>Eagle standing right on palm, head right, with wings open, holding wreath in beak</description>
+  </reverse>
+  <measurement diameter="25 mm" weight="13.3 g" />
+  <image>
+    <obverse file="RPC IX 1645 (A).jpg" />
+    <reverse file="RPC IX 1645 (R).jpg" />
+  </image>
+  <origin price="55" currency="GBP" rate="1.16" fee="0.0%" 
+          seller="Carpe Diem Numismatics" date="21.03.2020" auction="eBay" lot="4214" invoice="Carpe Diem - 05" />
+  <remark>Prieur 527; McAlee 1113c</remark>
+  <legend>
+    <mintmark mint="•••" />
+  </legend>
+</coin>

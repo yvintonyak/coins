@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC V Aurelian 289">
+  <identity set="Roman Imperial" />
+  <emperor name="Aurelianus" />
+  <denomination name="Antoninian" />
+  <mint>
+    <date from="270" to="275" />
+    <place city="Serdica" region="Thracia" />
+  </mint>
+  <obverse>
+    <legend>IMP AVRELIANVS AVG</legend>
+    <description>Bust of Aurelian, radiate, cuirassed, right</description>
+  </obverse>
+  <reverse>
+    <legend>RESTITVT ORBIS | ✷ || KA•Γ•</legend>
+    <description>Woman, draped, standing right, presenting wreath to Aurelian, standing left, holding sceptre</description>
+  </reverse>
+  <measurement diameter="24 mm" weight="4.25 g" />
+  <image>
+    <obverse file="RIC V Aurelian 289 (A).jpg" />
+    <reverse file="RIC V Aurelian 289 (R).jpg" />
+  </image>
+  <origin price="65" currency="EUR" rate="1" fee="18.0%" 
+          seller="Savoca Numismatik GmbH" date="19.05.2019" auction="20th Blue Auction" lot="2067" invoice="Savoca Numismatik - 17" />
+  <legend>
+    <obverse>
+      <entry key="IMP" />
+      <entry key="AVRELIANVS" />
+      <entry key="AVG" />
+    </obverse>
+    <reverse>
+      <entry key="RESTITVT ORBIS" />
+    </reverse>
+    <mintmark mint="✷ || KA•Γ•" />
+  </legend>
+</coin>

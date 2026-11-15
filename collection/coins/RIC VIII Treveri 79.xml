@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC VIII Treveri 79">
+  <identity set="Roman Imperial" />
+  <emperor name="Theodora" />
+  <denomination name="Follis" />
+  <mint>
+    <date from="337" to="340" />
+    <place city="Augusta Treverorum" region="Gallia Belgica" />
+  </mint>
+  <obverse>
+    <legend>[F]L MAX THEO-DORAE AVG</legend>
+    <description>Bust of Theodora, hair elaborately dressed, wearing plain mantle and necklace, right</description>
+  </obverse>
+  <reverse>
+    <legend>PIETAS - ROMANA || TRS</legend>
+    <description>Pietas, draped, standing front, head right, carrying an infant at her breast in right hand</description>
+  </reverse>
+  <measurement diameter="14 mm" weight="1.43 g" />
+  <image>
+    <obverse file="RIC VIII Treveri 79 (A).jpg" />
+    <reverse file="RIC VIII Treveri 79 (R).jpg" />
+  </image>
+  <deity name="Pietas" />
+  <origin price="100" currency="GBP" rate="1.17" 
+          seller="London Ancient Coins Ltd." date="13.07.2020" invoice="London Ancient Coins - 01" />
+  <legend>
+    <obverse>
+      <entry key="FL MAX THEODORAE" />
+      <entry key="AVG[usta]" />
+    </obverse>
+    <reverse>
+      <entry key="PIETAS ROMANA" />
+    </reverse>
+    <mintmark mint="TRS" />
+  </legend>
+</coin>

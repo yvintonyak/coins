@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC VIII Arelate 264">
+  <identity set="Roman Imperial" />
+  <emperor name="Julianus II Caesar" />
+  <denomination name="Siliqua" />
+  <mint>
+    <date from="355" to="360" />
+    <place city="Arelatum" region="Gallia Narbonensis" />
+  </mint>
+  <obverse>
+    <legend>D N IVLIANV-S NOB CAES</legend>
+    <description>Bust of Julian, bareheaded, draped, cuirassed, right</description>
+  </obverse>
+  <reverse>
+    <legend>VOTIS|V|MVLTIS|X || TCON</legend>
+    <description>VOTIS|V|MVLTIS|X within a wreath</description>
+  </reverse>
+  <measurement diameter="18 mm" weight="1.85 g" />
+  <image>
+    <obverse file="RIC VIII Arelate 264 (A).jpg" />
+    <reverse file="RIC VIII Arelate 264 (R).jpg" />
+  </image>
+  <origin price="120" currency="EUR" rate="1" fee="23%" 
+          seller="Heritage Auctions Europe" date="26.05.2021" auction="Auktion 70" lot="2844" invoice="Heritage Auctions - 04" />
+  <legend>
+    <obverse>
+      <entry key="D N" />
+      <entry key="IVLIANVS" />
+      <entry key="NOB CAES" />
+    </obverse>
+    <reverse>
+      <entry key="VOTIS|V|MVLTIS|X" />
+    </reverse>
+    <mintmark mint="TCON" />
+  </legend>
+</coin>

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC IV Caracalla 263E">
+  <identity set="Roman Imperial" />
+  <emperor name="Caracalla" />
+  <denomination name="Antoninian" />
+  <mint>
+    <date from="215" />
+    <place city="Roma" region="Italia" />
+  </mint>
+  <obverse>
+    <legend>ANTONINVS PIVS AVG GERM</legend>
+    <description>Bust of Caracalla, radiate, draped, cuirassed, right</description>
+  </obverse>
+  <reverse>
+    <legend>P M TR P XVIII COS IIII P P</legend>
+    <description>Serapis, wearing polos on head, standing front, head left, raising right hand and holding transverse sceptre in left hand</description>
+  </reverse>
+  <measurement diameter="24 mm" weight="4.77 g" />
+  <image>
+    <obverse file="RIC IV Caracalla 263E (A).jpg" />
+    <reverse file="RIC IV Caracalla 263E (R).jpg" />
+  </image>
+  <deity name="Serapis" />
+  <origin price="95" currency="EUR" rate="1" fee="18.0%" 
+          seller="Savoca Numismatik GmbH" date="31.08.2019" auction="36th Silver Auction" lot="268" invoice="Savoca Numismatik - 22" />
+  <legend>
+    <obverse>
+      <entry key="ANTONINVS[caracalla]" />
+      <entry key="PIVS" />
+      <entry key="AVG" />
+      <entry key="GERM" />
+    </obverse>
+    <reverse>
+      <entry key="P M" />
+      <entry key="TR P XVIII" />
+      <entry key="COS IIII" />
+      <entry key="P P" />
+    </reverse>
+  </legend>
+</coin>

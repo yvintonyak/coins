@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC V Gallienus 181k">
+  <identity set="Roman Imperial" />
+  <emperor name="Gallienus" />
+  <denomination name="Antoninian" />
+  <mint>
+    <date from="260" to="268" />
+    <place city="Roma" region="Italia" />
+  </mint>
+  <obverse>
+    <legend>GALLIENVS A[VG]</legend>
+    <description>Head of Gallienus, radiate, right</description>
+  </obverse>
+  <reverse>
+    <legend>DIANAE C[ON]S [AV]G || XII</legend>
+    <description>Antelope, walking left</description>
+  </reverse>
+  <measurement diameter="20 mm" weight="2.64 g" />
+  <image>
+    <obverse file="RIC V Gallienus 181k (A).jpg" />
+    <reverse file="RIC V Gallienus 181k (R).jpg" />
+  </image>
+  <origin price="27" currency="EUR" rate="1" fee="19%" 
+          seller="Art &amp; Coins s.r.o." date="17.10.2022" auction="Auktion #8" lot="545" invoice="Art n Coins - 01" />
+  <legend>
+    <obverse>
+      <entry key="GALLIENVS" />
+      <entry key="AVG" />
+    </obverse>
+    <reverse>
+      <entry key="DIANAE CONS AVG" />
+    </reverse>
+    <mintmark mint="XII" />
+  </legend>
+</coin>

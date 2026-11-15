@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC VII Aquileia 14">
+  <identity set="Roman Imperial" />
+  <emperor name="Constantinus I" />
+  <denomination name="Follis" />
+  <mint>
+    <date from="317" />
+    <place city="Aquileia" region="Italia" />
+  </mint>
+  <obverse>
+    <legend>IMP CONSTANTINVS P F AVG</legend>
+    <description>Bust of Constantine I, laureate, draped, cuirassed, right</description>
+  </obverse>
+  <reverse>
+    <legend>CLARITAS - R-EIPVBLICAE | A || AQ</legend>
+    <description>Sol, radiate, chlamys flying, standing right, advancing left, raising right hand and holding whip in left hand</description>
+  </reverse>
+  <measurement diameter="18.3 mm" weight="2.5 g" />
+  <image>
+    <obverse file="RIC VII Aquileia 14 (A).jpg" />
+    <reverse file="RIC VII Aquileia 14 (R).jpg" />
+  </image>
+  <deity name="Sol" />
+  <origin price="30" currency="EUR" rate="1" fee="23%" 
+          seller="Rönesans Salzgitter GmbH" date="17.09.2023" auction="Auktion 4" lot="642" invoice="Rönesans Salzgitter - 01" />
+  <legend>
+    <obverse>
+      <entry key="IMP" />
+      <entry key="CONSTANTINVS[I]" />
+      <entry key="P F" />
+      <entry key="AVG" />
+    </obverse>
+    <reverse>
+      <entry key="CLARITAS REIPVBLICAE" />
+    </reverse>
+    <mintmark mint="A || AQ" />
+  </legend>
+</coin>

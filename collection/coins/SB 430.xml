@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="SB 430">
+  <identity set="Byzantine Empire" />
+  <emperor name="Tiberius II Constantinus" />
+  <denomination name="Follis" />
+  <mint>
+    <date from="581" to="582" />
+    <place city="Constantinopolis" />
+  </mint>
+  <obverse>
+    <legend>dM TIb CONSTANT PP AVG</legend>
+    <description>Emperor, crowned and mantled bust facing, holding mappa and eagle-tipped sceptre, cross above eagle</description>
+  </obverse>
+  <reverse>
+    <legend>M | ANNO | ςI || CONB</legend>
+    <description>Large M, ANNO to left, cross above, regnal year (ςI) to right, officina letter.</description>
+  </reverse>
+  <measurement diameter="30 mm" weight="11.86 g" />
+  <image>
+    <obverse file="SB 430 (A).jpg" />
+    <reverse file="SB 430 (R).jpg" />
+  </image>
+  <origin price="14" currency="EUR" rate="1" fee="15.25%" 
+          seller="Sol Numismatik" date="23.03.2024" auction="Auction XXVI" lot="814" invoice="Sol Numismatik - 03" />
+  <remark>Sear 430</remark>
+</coin>

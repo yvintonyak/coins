@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC IV Caracalla 311D">
+  <identity set="Roman Imperial" dynasty="" />
+  <emperor name="Caracalla" />
+  <denomination name="Antoninian" />
+  <mint>
+    <date from="213" to="217" />
+    <place city="Roma" region="Italia" />
+  </mint>
+  <obverse>
+    <legend>ANTONINVS PIVS AVG GERM</legend>
+    <description>Bust of Caracalla, radiate, draped, right</description>
+  </obverse>
+  <reverse>
+    <legend>VENVS VICTRIX</legend>
+    <description>enus, draped, standing left, holding Victory in extended right hand and spear in left hand, leaning on shield set on helmet</description>
+  </reverse>
+  <measurement diameter="25 mm" weight="4.95 g" />
+  <image>
+    <obverse file="RIC IV Caracalla 311D (A).jpg" />
+    <reverse file="RIC IV Caracalla 311D (R).jpg" />
+  </image>
+  <deity name="Venus" />
+  <origin price="95" currency="EUR" rate="1" fee="18.0%" 
+          seller="Savoca Numismatik GmbH" date="31.07.2021" auction="108th Silver Auction" lot="525" invoice="Savoca Numismatik - 33" />
+  <legend>
+    <obverse>
+      <entry key="ANTONINVS[caracalla]" />
+      <entry key="PIVS" />
+      <entry key="AVG" />
+      <entry key="GERM" />
+    </obverse>
+    <reverse>
+      <entry key="VENVS VICTRIX" />
+    </reverse>
+  </legend>
+</coin>

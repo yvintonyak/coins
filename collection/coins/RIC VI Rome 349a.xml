@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC VI Rome 349a">
+  <identity set="Roman Imperial" />
+  <emperor name="Constantinus I" />
+  <denomination name="Follis" />
+  <mint>
+    <date from="312" to="313" />
+    <place city="Roma" region="Italia" />
+  </mint>
+  <obverse>
+    <legend>IMP CONSTANTINVS P F AVG</legend>
+    <description>Bust of Constantinus I, laureate, cuirassed, right</description>
+  </obverse>
+  <reverse>
+    <legend>S P Q R OPTIMO PRINCIPI || R P</legend>
+    <description>Legionary eagle, standing front or right, between two vexilla</description>
+  </reverse>
+  <measurement diameter="23 mm" weight="4.72 g" />
+  <image>
+    <obverse file="RIC VI Rome 349a (A).jpg" />
+    <reverse file="RIC VI Rome 349a (R).jpg" />
+  </image>
+  <origin price="65" currency="EUR" rate="1" fee="18.9%" 
+          seller="Numismatik Naumann GmbH" date="04.09.2022" auction="Auktion 120" lot="680" invoice="Numismatik Naumann - 26" />
+  <legend>
+    <obverse>
+      <entry key="IMP" />
+      <entry key="CONSTANTINVS[I]" />
+      <entry key="P F" />
+      <entry key="AVG" />
+    </obverse>
+    <reverse>
+      <entry key="S P Q R" />
+      <entry key="OPTIMO PRINCIPI" />
+    </reverse>
+    <mintmark mint="R P" />
+  </legend>
+</coin>

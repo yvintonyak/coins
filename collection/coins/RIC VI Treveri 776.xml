@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC VI Treveri 776">
+  <identity set="Roman Imperial" />
+  <emperor name="Constantinus I" />
+  <denomination name="Follis" />
+  <mint>
+    <date from="307" to="308" />
+    <place city="Augusta Treverorum" region="Gallia Belgica" />
+  </mint>
+  <obverse>
+    <legend>IMP CONSTANTINVS P F AVG</legend>
+    <description>Bust of Constantine I, laureate, cuirassed, right.</description>
+  </obverse>
+  <reverse>
+    <legend>MARTI PATRI PROPVGNATORI | S | A || PTR</legend>
+    <description>Mars, nude, chlamys draped, advancing right, holding transverse spear in right hand and shield in left hand.</description>
+  </reverse>
+  <measurement diameter="25 mm" weight="7.17 g" />
+  <image>
+    <obverse file="RIC VI Treveri 776 (A).jpg" />
+    <reverse file="RIC VI Treveri 776 (R).jpg" />
+  </image>
+  <deity name="Mars" />
+  <origin price="70" currency="CHF" rate="1.09" fee="18.5%" 
+          seller="Nomos AG" date="08.10.2023" auction="Obolos 29" lot="640" invoice="Nomos - 06" />
+  <legend>
+    <obverse>
+      <entry key="IMP" />
+      <entry key="CONSTANTINVS[I]" />
+      <entry key="P F" />
+      <entry key="AVG" />
+    </obverse>
+    <reverse>
+      <entry key="MARTI PATRI PROPVGNATORI" />
+    </reverse>
+    <mintmark mint="S | A || PTR" />
+  </legend>
+</coin>

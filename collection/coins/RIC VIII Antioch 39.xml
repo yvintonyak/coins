@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC VIII Antioch 39">
+  <identity set="Roman Imperial" />
+  <emperor name="Divus Constantinus I" />
+  <denomination name="Follis" />
+  <mint>
+    <date from="337" to="340" />
+    <place city="Antiochia" region="Syria" />
+  </mint>
+  <obverse>
+    <legend>DV CONSTANTI-NVS PT AVGG</legend>
+    <description>Bust of Divus Constantinus I, veiled, draped, cuirassed, right</description>
+  </obverse>
+  <reverse>
+    <legend> || SMANθ</legend>
+    <description>Constantinus I, veiled, draped, riding right in quadriga; Hand of God reaches down to him</description>
+  </reverse>
+  <measurement diameter="15 mm" weight="1.72 g" />
+  <image>
+    <obverse file="RIC VIII Antioch 39 (A).jpg" />
+    <reverse file="RIC VIII Antioch 39 (R).jpg" />
+  </image>
+  <origin price="36" currency="EUR" rate="1" fee="18%" 
+          seller="Savoca Numismatik GmbH" date="25.04.2020" auction="31st Blue Auction" lot="1496" invoice="Savoca Numismatik - 27" />
+  <remark></remark>
+  <legend>
+    <obverse>
+      <entry key="DV CONSTANTINVS" />
+      <entry key="PT AVGG" />
+    </obverse>
+    <mintmark mint="SMANθ" />
+  </legend>
+</coin>

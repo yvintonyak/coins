@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC X Zeno 947 var">
+  <identity set="Byzantine Empire" />
+  <emperor name="Zeno" />
+  <denomination name="Nummus" />
+  <mint>
+    <date from="476" to="477" />
+    <place city="Constantinopolis"/>
+  </mint>
+  <obverse>
+    <legend>[D N] ZE-NO AV[G]</legend>
+    <description>Bust of Zeno, helmeted, pearl-diademed, draped, cuirassed, right</description>
+  </obverse>
+  <reverse>
+    <legend>[D] N L-∈O - [ ]</legend>
+    <description>Victory, winged, draped, advancing left, head left, holding wreath in right hand and dragging captive with left hand; ☧ in left field</description>
+  </reverse>
+  <measurement diameter="13 mm" weight="1.14 g" />
+  <image>
+    <obverse file="RIC X Zeno 947 var (A).jpg" />
+    <reverse file="RIC X Zeno 947 var (R).jpg" />
+  </image>
+ <origin price="22" currency="EUR" rate="1" fee="14.0%" 
+          seller="Sol Numismatik" date="20.09.2025" auction="Auktion XLV" lot="471" invoice="Sol Numismatik - 04" />
+  <remark></remark>
+  <legend>
+    <obverse>
+      <entry key="D N" />
+      <entry key="ZENO" />
+      <entry key="AVG" />
+    </obverse>
+    <reverse>
+      <entry key="D N" />
+      <entry key="LEO[II]" />
+      <entry key="AVG" />
+    </reverse>
+  </legend>
+</coin>

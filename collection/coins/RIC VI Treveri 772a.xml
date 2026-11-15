@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC VI Treveri 772a">
+  <identity set="Roman Imperial" />
+  <emperor name="Constantinus I" />
+  <denomination name="Follis" />
+  <mint>
+    <date from="307" to="308" />
+    <place city="Augusta Treverorum" region="Gallia Belgica" />
+  </mint>
+  <obverse>
+    <legend>IMP CONSTANTINVS P F AVG</legend>
+    <description>Bust of Constantine I, laureate, cuirassed, right</description>
+  </obverse>
+  <reverse>
+    <legend>MARTI PATRI CONSERVATORI | S | A || PTR</legend>
+    <description>Mars, nude, standing right, leaning on reversed spear with right hand and placing left hand on shield</description>
+  </reverse>
+  <measurement diameter="26 mm" weight="6.89 g" />
+  <image>
+    <obverse file="RIC VI Treveri 772a (A).jpg" />
+    <reverse file="RIC VI Treveri 772a (R).jpg" />
+  </image>
+  <deity name="Mars" />
+  <origin price="50" currency="EUR" rate="1" fee="18%" 
+          seller="Jesus Vico S.A." date="09.02.2021" auction="Subasta Online 12" lot="257" invoice="Jesus Vico - 01" />
+  <legend>
+    <obverse>
+      <entry key="IMP" />
+      <entry key="CONSTANTINVS[I]" />
+      <entry key="P F" />
+      <entry key="AVG" />
+    </obverse>
+    <reverse>
+      <entry key="MARTI PATRI CONSERVATORI" />
+    </reverse>
+    <mintmark mint="S | A || PTR" />
+  </legend>
+</coin>

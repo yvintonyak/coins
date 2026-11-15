@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC V Aurelian 381">
+  <identity set="Roman Imperial" />
+  <emperor name="Vabalathus" />
+  <denomination name="Antoninian" />
+  <mint>
+    <date from="270" to="272" />
+    <place city="Antiochia" region="Syria" />
+  </mint>
+  <obverse>
+    <legend>VABALATHVS V C R IM D R</legend>
+    <description>Bust of Vabalathus, laureate, draped, cuirassed, right</description>
+  </obverse>
+  <reverse>
+    <legend>IMP C AVRELIANVS AVG || Δ</legend>
+    <description>Bust of Aurelian, radiate, cuirassed, right</description>
+  </reverse>
+  <measurement diameter="21 mm" weight="2.63 g" />
+  <image>
+    <obverse file="RIC V Aurelian 381 (A).jpg" />
+    <reverse file="RIC V Aurelian 381 (R).jpg" />
+  </image>
+  <origin price="65" currency="CHF" rate="0.96" fee="18.5%" 
+          seller="Leu Numismatik AG" date="08.12.2019" auction="Webauktion 10" lot="1476" invoice="Leu Numismatik - 04" />
+  <legend>
+    <obverse>
+      <entry key="VABALATHVS" />
+      <entry key="V C R IM D R" />
+    </obverse>
+    <reverse>
+      <entry key="IMP" />
+      <entry key="C" />
+      <entry key="AVRELIANVS" />
+      <entry key="AVG" />
+    </reverse>
+    <mintmark mint="Δ" />
+  </legend>
+</coin>

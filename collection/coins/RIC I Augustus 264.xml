@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC I Augustus 264">
+  <identity set="Roman Imperial" />
+  <emperor name="Octavianus" />
+  <denomination name="Denar" />
+  <mint>
+    <date from="29 BC" to="27 BC" />
+    <place city="" region="Italia" />
+  </mint>
+  <obverse>
+    <description>Victory standing right, on prow, holding wreath in right hand and palm in left</description>
+  </obverse>
+  <reverse>
+    <legend>IMP CAESAR</legend>
+    <description>Octavian standing in quadriga right, holding branch in right hand and reins in left</description>
+  </reverse>
+  <measurement diameter="20 mm" weight="3.47 g" />
+  <image>
+    <obverse file="RIC I Augustus 264 (A).jpg" />
+    <reverse file="RIC I Augustus 264 (R).jpg" />
+  </image>
+  <deity name="Victoria" />
+  <origin price="151" currency="CHF" rate="0.99" fee="18.5%" 
+          seller="Leu Numismatik AG" date="23.02.2020" auction="Webauktion 11" lot="338" invoice="Leu Numismatik - 05" />
+  <legend>
+    <reverse>
+      <entry key="IMP" />
+      <entry key="CAESAR" />
+    </reverse>
+  </legend>
+</coin>

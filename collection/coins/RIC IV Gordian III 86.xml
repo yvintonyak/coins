@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC IV Gordian III 86">
+  <identity set="Roman Imperial" />
+  <emperor name="Gordianus III" />
+  <denomination name="Antoninian" />
+  <mint>
+    <date from="241" to="243" />
+    <place city="Roma" region="Italia" />
+  </mint>
+  <obverse>
+    <legend>IMP GORDIANVS PIVS FEL AVG</legend>
+    <description>Bust of Gordian III, radiate, draped, cuirassed, right</description>
+  </obverse>
+  <reverse>
+    <legend>LAETITIA AVG N</legend>
+    <description>Laetitia, draped, standing left, holding wreath in extended right hand and anchor set on ground in left hand</description>
+  </reverse>
+  <measurement diameter="21 mm" weight="4.38 g" />
+  <image>
+    <obverse file="RIC IV Gordian III 86 (A).jpg" />
+    <reverse file="RIC IV Gordian III 86 (R).jpg" />
+  </image>
+  <deity name="Laetitia" />
+  <origin price="36" currency="EUR" rate="1" fee="18.0%" 
+          seller="Savoca Numismatik GmbH" date="01.12.2018" auction="13th Blue Auction" lot="1732" invoice="Savoca Numismatik - 04" />
+  <legend>
+    <obverse>
+      <entry key="IMP" />
+      <entry key="GORDIANVS" />
+      <entry key="PIVS" />
+      <entry key="FEL" />
+      <entry key="AVG" />
+    </obverse>
+    <reverse>
+      <entry key="LAETITIA AVG N" />
+    </reverse>
+  </legend>
+</coin>

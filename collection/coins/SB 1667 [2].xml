@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="SB 1667">
+  <identity set="Byzantine Empire" />
+  <emperor name="Theophilus" />
+  <denomination name="Follis" />
+  <mint>
+    <date from="830" to="842" />
+    <place city="Constantinopolis" />
+  </mint>
+  <obverse>
+    <legend>ΘEOFIL-bASIL</legend>
+    <description>Crowned, three-quarter length figure of Theophilus facing, pellets on crown, wearing loros, holding labarum and cross on globe</description>
+  </obverse>
+  <reverse>
+    <legend>+ ΘEO FILE AVϚ OVStE SV nICAS</legend>
+    <description>Legend in four lines</description>
+  </reverse>
+  <measurement diameter="27.45 mm" weight="7.17 g" />
+  <image>
+    <obverse file="SB 1667 [2] (A).jpg" />
+    <reverse file="SB 1667 [2] (R).jpg" />
+  </image>
+  <origin price="18" currency="EUR" rate="1" fee="20%" 
+          seller="SPQR Collection Sp z o.o" date="17.06.2025" auction="Auction 9" lot="1307" invoice="SPQR Collection - 01" />
+  <remark>DOC 15</remark>
+</coin>

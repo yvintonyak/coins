@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC IV Maximus 13">
+  <identity set="Roman Imperial" />
+  <emperor name="Maximus Caesar" />
+  <denomination name="Sestertius" />
+  <mint>
+    <date from="236" to="238" />
+    <place city="Roma" region="Italia" />
+  </mint>
+  <obverse>
+    <legend>MAXIMVS CAES GERM</legend>
+    <description>Bust of Maximus, bare-headed, draped, right</description>
+  </obverse>
+  <reverse>
+    <legend>PRINCIPI IVVENTVTIS | S C</legend>
+    <description>Maximus, in military attire, standing left, holding baton in right hand and transverse spear in left hand; behind him, two standards</description>
+  </reverse>
+  <measurement diameter="31 mm" weight="21.7 g" />
+  <image>
+    <obverse file="RIC IV Maximus 13 (A).jpg" />
+    <reverse file="RIC IV Maximus 13 (R).jpg" />
+  </image>
+  <origin price="50" currency="EUR" rate="1" fee="15.0%" 
+          seller="NBS Auctions" date="18.09.2022" auction="Web Auktion 15" lot="550" invoice="NBS Auctions - 01" />
+  <legend>
+    <obverse>
+      <entry key="MAXIMVS" />
+      <entry key="CAES" />
+      <entry key="GERM" />
+    </obverse>
+    <reverse>
+      <entry key="PRINCIPI IVVENTVTIS" />
+      <entry key="S C" />
+    </reverse>
+  </legend>
+</coin>

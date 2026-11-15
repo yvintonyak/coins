@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC V Carus 341">
+  <identity set="Roman Imperial" />
+  <emperor name="Magnia Urbica" />
+  <denomination name="Antoninian" />
+  <mint>
+    <date from="283" to="285" />
+    <place city="Roma" region="Italia" />
+  </mint>
+  <obverse>
+    <legend>MAGN VRBICA AVG</legend>
+    <description>Bust of Magnia Urbica, diademed, draped, right on crescent</description>
+  </obverse>
+  <reverse>
+    <legend>IVNO REGINA || KAς</legend>
+    <description>Juno, draped, standing left, holding patera in right hand and sceptre in left hand; sometimes at foot, peacock</description>
+  </reverse>
+  <measurement diameter="24 mm" weight="3.00 g" />
+  <image>
+    <obverse file="RIC V Carus 341 (A).jpg" />
+    <reverse file="RIC V Carus 341 (R).jpg" />
+  </image>
+  <deity name="Juno Regina" />
+  <origin price="120" currency="GBP" rate="1.23" fee="24.0%" 
+          seller="Roma Numismatics Limited" date="09.01.2020" auction="E-Sale 66" lot="1148" invoice="Roma Numismatics - 02" />
+  <legend>
+    <obverse>
+      <entry key="MAGN VRBICA" />
+      <entry key="AVG[usta]" />
+    </obverse>
+    <reverse>
+      <entry key="IVNO REGINA" />
+    </reverse>
+    <mintmark mint="KAς" />
+  </legend>
+</coin>

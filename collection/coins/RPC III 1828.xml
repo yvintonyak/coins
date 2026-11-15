@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RPC III 1828">
+  <identity set="Roman Provincial" />
+  <emperor name="Plotina" />
+  <denomination name="Hemiassarion" />
+  <mint>
+    <date from="112" to="117" />
+    <place city="Thyateira" region="Lydia" />
+  </mint>
+  <obverse>
+    <legend>ΠΛΩΤΕΙΝΑ ϹΕΒΑϹΤΗ</legend>
+    <description>Draped bust of Plotina right</description>
+  </obverse>
+  <reverse>
+    <legend>ΘΥΑΤΕΙΡΗΝΩΝ</legend>
+    <description>Tyche standing front, head to left, holding rudder in her right hand and cornucopiae in her left</description>
+  </reverse>
+  <measurement diameter="19 mm" weight="5.00 g" />
+  <image>
+    <obverse file="RPC III 1828 (A).jpg" />
+    <reverse file="RPC III 1828 (R).jpg" />
+  </image>
+  <deity name="Tyche" />
+  <origin price="171" currency="CHF" rate="0.97" fee="18.5%" 
+          seller="Leu Numismatik AG" date="27.02.2021" auction="Webauktion 15" lot="1189" invoice="Leu Numismatik - 08" />
+</coin>

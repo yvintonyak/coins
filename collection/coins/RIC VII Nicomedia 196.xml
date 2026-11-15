@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC VII Nicomedia 196">
+  <identity set="Roman Imperial" />
+  <emperor name="Constantinus I" />
+  <denomination name="Follis" />
+  <mint>
+    <date from="330" to="335" />
+    <place city="Nicomedia" region="Bithynia et Pontus" />
+  </mint>
+  <obverse>
+    <legend>CONSTAN-TINOPOLI</legend>
+    <description>Bust of Constantinopolis, laureate, helmeted, wearing imperial cloak, left, holding reversed spear in right hand</description>
+  </obverse>
+  <reverse>
+    <legend>|| SMN∈</legend>
+    <description>Victory, winged, draped, standing left on prow, holding spear in right hand and shield in left hand</description>
+  </reverse>
+  <measurement diameter="18 mm" weight="2.58 g" />
+  <image>
+    <obverse file="RIC VII Nicomedia 196 (A).jpg" />
+    <reverse file="RIC VII Nicomedia 196 (R).jpg" />
+  </image>
+  <deity name="Victoria" />
+  <origin price="38" currency="EUR" rate="1" fee="19%" 
+          seller="Salon Numizmatyczny Mateusz Wójcicki" date="05.10.2022" auction="Aukcja X" lot="7453" invoice="Salon Numizmatyczny Wójcicki - 01" />
+  <remark>Commemorative Series</remark>
+  <legend>
+    <obverse>
+      <entry key="CONSTANTINOPOLI" />
+    </obverse>
+    <reverse>
+    </reverse>
+    <mintmark mint="SMN∈" />
+  </legend>
+</coin>

@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC IX Nicomedia 46C">
+  <identity set="Roman Imperial" />
+  <emperor name="Honorius" />
+  <denomination name="Maiorina" />
+  <mint>
+    <date from="392" to="395" />
+    <place city="Nicomedia" region="Bithynia et Pontus" />
+  </mint>
+  <obverse>
+    <legend>D N HONORIVS P F AVG</legend>
+    <description>Bust of Honorius, pearl-diademed, draped and cuirassed, right</description>
+  </obverse>
+  <reverse>
+    <legend>GLORIA - ROMANORVM || SMNΓ</legend>
+    <description>Emperor, head right, standing facing, holding standard and globe</description>
+  </reverse>
+  <measurement diameter="21 mm" weight="4.3 g" />
+  <image>
+    <obverse file="RIC IX Nicomedia 46C [1] (A).jpg" />
+    <reverse file="RIC IX Nicomedia 46C [1] (R).jpg" />
+  </image>
+  <origin price="16" currency="GBP" rate="1.23" fee="14.0%" 
+          seller="Zeus Numismatics" date="10.02.2020" auction="Budget Auktion 4" lot="1004" invoice="Zeus Numismatics - 01" />
+  <legend>
+    <obverse>
+      <entry key="D N" />
+      <entry key="HONORIVS" />
+      <entry key="P F" />
+      <entry key="AVG" />
+    </obverse>
+    <reverse>
+      <entry key="GLORIA ROMANORVM" />
+    </reverse>
+    <mintmark mint="SMNΓ" />
+  </legend>
+</coin>

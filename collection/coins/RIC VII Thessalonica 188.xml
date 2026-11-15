@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC VII Thessalonica 188">
+  <identity set="Roman Imperial" />
+  <emperor name="Constantinus I" />
+  <denomination name="Follis" />
+  <mint>
+    <date from="330" to="333" />
+    <place city="Thessalonica" region="Macedonia" />
+  </mint>
+  <obverse>
+    <legend>CONSTAN-TINOPOLIS</legend>
+    <description>Bust of Constantinopolis, laureate, helmeted, wearing imperial cloak, left, holding reversed spear in right hand</description>
+  </obverse>
+  <reverse>
+    <legend> || SMTSΔ</legend>
+    <description>Victory, winged, draped, standing left on prow, holding spear in right hand and shield in left hand</description>
+  </reverse>
+  <measurement diameter="19 mm" weight="2.23 g" />
+  <image>
+    <obverse file="RIC VII Thessalonica 188 (A).jpg" />
+    <reverse file="RIC VII Thessalonica 188 (R).jpg" />
+  </image>
+  <deity name="Victoria" />
+  <origin price="20" currency="GBP" rate="1.23" fee="20.0%" 
+          seller="Saint Paul Antiques Ltd" date="30.11.2019" auction="Auktion 19" lot="601" invoice="Saint Paul Antiques - 01" />
+  <remark>Commemorative Series</remark>
+  <legend>
+    <obverse>
+      <entry key="CONSTANTINOPOLIS" />
+    </obverse>
+    <mintmark mint="SMTSΔ" />
+  </legend>
+</coin>

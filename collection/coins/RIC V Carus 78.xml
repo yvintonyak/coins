@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC V Carus 78">
+  <identity set="Roman Imperial" />
+  <emperor name="Carus" />
+  <denomination name="Antoninian" />
+  <mint>
+    <date from="282" to="283" />
+    <place city="Ticinum" region="Italia" />
+  </mint>
+  <obverse>
+    <legend>IMP CARVS P F AVG</legend>
+    <description>Bust of Carus, radiate, cuirassed, right</description>
+  </obverse>
+  <reverse>
+    <legend>PERPETVITATE AVG || VXXI</legend>
+    <description>Securitas, draped, standing left, leaning on column, holding globe in right hand and sceptre in left hand</description>
+  </reverse>
+  <measurement diameter="22 mm" weight="3.22 g" />
+  <image>
+    <obverse file="RIC V Carus 78 (A).jpg" />
+    <reverse file="RIC V Carus 78 (R).jpg" />
+  </image>
+  <deity name="Securitas" />
+  <origin price="100" currency="EUR" rate="1" fee="18.0%" 
+          seller="Savoca Numismatik GmbH" date="14.04.2019" auction="32nd Silver Auction" lot="567" invoice="Savoca Numismatik - 13" />
+  <legend>
+    <obverse>
+      <entry key="IMP" />
+      <entry key="CARVS" />
+      <entry key="P F" />
+      <entry key="AVG" />
+    </obverse>
+    <reverse>
+      <entry key="PERPETVITATE AVG" />
+    </reverse>
+    <mintmark mint="VXXI" />
+  </legend>
+</coin>

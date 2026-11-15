@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC IX Aquileia 55B">
+  <identity set="Roman Imperial" />
+  <emperor name="Flavius Victor" />
+  <denomination name="Nummus" />
+  <mint>
+    <date from="387" to="388" />
+    <place city="Aquileia" region="Italia" />
+  </mint>
+  <obverse>
+    <legend>D N F[L VIC]-TOR [P F AVG]</legend>
+    <description>Bust of Flavius Victor, pearl-diademed, draped and cuirassed, right</description>
+  </obverse>
+  <reverse>
+    <legend>[SPES RO]-MA-[NORVM] || SMAQS</legend>
+    <description>Camp-gate with star between its two turrets</description>
+  </reverse>
+  <measurement diameter="13 mm" weight="0.92 g" />
+  <image>
+    <obverse file="RIC IX Aquileia 55B (A).jpg" />
+    <reverse file="RIC IX Aquileia 55B (R).jpg" />
+  </image>
+  <origin price="200" currency="EUR" rate="1" fee="22%" 
+          seller="Numismatik Zöttl" date="26.06.2021" auction="E-Auktion 4" lot="113" invoice="Numismatik Zöttl - 02" />
+  <legend>
+    <obverse>
+      <entry key="D N" />
+      <entry key="FL VICTOR" />
+      <entry key="P F" />
+      <entry key="AVG" />
+    </obverse>
+    <reverse>
+      <entry key="SPES ROMANORVM" />
+    </reverse>
+    <mintmark mint="SMAQS" />
+  </legend>
+</coin>

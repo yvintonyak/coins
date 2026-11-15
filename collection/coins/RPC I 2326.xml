@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RPC I 2326">
+  <identity set="Roman Provincial" />
+  <emperor name="Lucius Caesar" />
+  <denomination name="Æ" />
+  <mint>
+    <date from="2 BC" to="2 AD" />
+    <place city="Skepsis" region="Asia" />
+  </mint>
+  <obverse>
+    <legend>ΛΕΥ ΚΑΙΣΑΡ ΣΚΗ</legend>
+    <description>Bare head of Lucius Caesar, right</description>
+  </obverse>
+  <reverse>
+    <legend>ΓΑΙ ΚΑΙΣΑΡ</legend>
+    <description>Bare head of Gaius Caesar, right</description>
+  </reverse>
+  <measurement diameter="14.3 mm" weight="1.9 g" />
+  <image>
+    <obverse file="RPC I 2326 (A).jpg" />
+    <reverse file="RPC I 2326 (R).jpg" />
+  </image>
+  <origin price="95" currency="USD" rate="0.89" fee="0%" 
+          seller="Cerberus Ancient Coins" date="08.01.2026" auction="vcoins.com" lot="31-3014" invoice="Cerberus Ancient Coins - 01" />
+  <remark>Countermark on reverse: N in circular incuse</remark>
+</coin>

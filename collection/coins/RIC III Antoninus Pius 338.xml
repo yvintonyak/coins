@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC III Antoninus Pius 338">
+  <identity set="Roman Imperial" />
+  <emperor name="Faustina Maior" />
+  <denomination name="Denar" />
+  <mint>
+    <date from="139" to="140" />
+    <place city="Roma" region="Italia" />
+  </mint>
+  <obverse>
+    <legend>FAVSTINA AVGVSTA</legend>
+    <description>Bust of Faustina Maior, draped, right, hair elaborately waved in several loops round head and drawn up and coiled on top</description>
+  </obverse>
+  <reverse>
+    <legend>IVNONI REGINAE</legend>
+    <description>Juno, veiled, draped, standing left, holding patera in extended right hand and vertival sceptre in left; at her feet left, peacock standing, left</description>
+  </reverse>
+  <measurement diameter="18 mm" weight="3.43 g" />
+  <image>
+    <obverse file="RIC III Antoninus Pius 338 (A).jpg" />
+    <reverse file="RIC III Antoninus Pius 338 (R).jpg" />
+  </image>
+  <deity name="Juno Regina" />
+  <origin price="90" currency="EUR" rate="1" fee="23.5%" 
+          seller="Emporium Hamburg Numismatics" date="24.04.2020" auction="Auction 89 n 90" lot="398" invoice="Emporium Hamburg - 01" />
+  <legend>
+    <obverse>
+      <entry key="FAVSTINA[maior]" />
+      <entry key="AVGVSTA" />
+    </obverse>
+    <reverse>
+      <entry key="IVNONI REGINAE" />
+    </reverse>
+  </legend>
+</coin>

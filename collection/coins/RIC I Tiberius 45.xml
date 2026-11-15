@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC I Tiberius 45">
+  <identity set="Roman Imperial" />
+  <emperor name="Drusus Julius Caesar" />
+  <denomination name="As" />
+  <mint>
+    <date from="22" to="23" />
+    <place city="Roma" region="Italia" />
+  </mint>
+  <obverse>
+    <legend>DRVSVS CAESAR TI AVG F DIVI AVG N</legend>
+    <description>Head of Drusus, bare, left</description>
+  </obverse>
+  <reverse>
+    <legend>PONTIF TRIBVN POTEST ITER | S C</legend>
+    <description>Legend surrounding large S C</description>
+  </reverse>
+  <measurement diameter="30 mm" weight="10.54 g" />
+  <image>
+    <obverse file="RIC I Tiberius 45 (A).jpg" />
+    <reverse file="RIC I Tiberius 45 (R).jpg" />
+  </image>
+  <origin price="130" currency="EUR" rate="1" fee="18.0%" 
+          seller="Artemide Kunstauktionen GmbH" date="06.10.2019" auction="e-Live Auktion 9" lot="283" invoice="Artemide Aste - 02" />
+  <legend>
+    <obverse>
+      <entry key="DRVSVS CAESAR" />
+      <entry key="TI AVG F" />
+      <entry key="DIVI AVG N" />
+    </obverse>
+    <reverse>
+      <entry key="PONTIF" />
+      <entry key="TRIBVN POTEST ITER" />
+      <entry key="S C" />
+    </reverse>
+  </legend>
+</coin>

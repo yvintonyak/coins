@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC IX Siscia 39B">
+  <identity set="Roman Imperial" />
+  <emperor name="Theodosius I" />
+  <denomination name="Nummus" />
+  <mint>
+    <date from="384" to="387" />
+    <place city="Siscia" region="Pannonia Superior" />
+  </mint>
+  <obverse>
+    <legend>D N THEODO-SIVS P F AVG</legend>
+    <description>Bust of Theodosius I, pearl-diademed, draped and cuirassed, right</description>
+  </obverse>
+  <reverse>
+    <legend>VICTOR-IA AVGGG || ASIS</legend>
+    <description>Victory advancing left, holding wreath and palm</description>
+  </reverse>
+  <measurement diameter="13 mm" weight="1.30 g" />
+  <image>
+    <obverse file="RIC IX Siscia 39B (A).jpg" />
+    <reverse file="RIC IX Siscia 39B (R).jpg" />
+  </image>
+  <deity name="Victoria" />
+  <origin price="30" currency="EUR" rate="1" fee="18.0%" 
+          seller="Artemide Kunstauktionen GmbH" date="06.10.2019" auction="e-Live Auktion 9" lot="638" invoice="Artemide Aste - 02" />
+  <legend>
+    <obverse>
+      <entry key="D N" />
+      <entry key="THEODOSIVS" />
+      <entry key="P F" />
+      <entry key="AVG" />
+    </obverse>
+    <reverse>
+      <entry key="VICTORIA AVGGG" />
+    </reverse>
+    <mintmark mint="ASIS" />
+  </legend>
+</coin>

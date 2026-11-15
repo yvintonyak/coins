@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RPC VI 1714">
+  <identity set="Roman Provincial" />
+  <emperor name="Severus Alexander Caesar" />
+  <denomination name="Æ" />
+  <mint>
+    <date from="221" to="222" />
+    <place city="Odessus" region="Moesia Inferior" />
+  </mint>
+  <obverse>
+    <legend>Μ ΑΥΡΗ ΑΛΕΖΑΝΔΡΟϹ</legend>
+    <description>Bare-headed, draped and cuirassed bust of Severus Alexander, right, seen from rear</description>
+  </obverse>
+  <reverse>
+    <legend>ΟΔΗϹϹΕΙΤΩΝ</legend>
+    <description>Apollo seated on rock, left, holding lyre and laurel branch</description>
+  </reverse>
+  <measurement diameter="20.4 mm" weight="4.04 g" />
+  <image>
+    <obverse file="RPC VI 1714 (A).jpg" />
+    <reverse file="RPC VI 1714 (R).jpg" />
+  </image>
+  <deity name="Apollo" />
+  <origin price="70" currency="EUR" rate="1" fee="18.15%" 
+          seller="Bucephalus Numismatic" date="19.11.2022" auction="Black Auktion 12" lot="1136" invoice="Bucephalus Numismatic - 01" />
+  <remark>AMNG 2312, Lazarenko 186–8, 190</remark>
+</coin>

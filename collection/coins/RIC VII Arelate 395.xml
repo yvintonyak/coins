@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC VII Arelate 395">
+  <identity set="Roman Imperial" />
+  <emperor name="Constantinus II Caesar" />
+  <denomination name="Follis" />
+  <mint>
+    <date from="336" />
+    <place city="Arelatum" region="Gallia Narbonensis" />
+  </mint>
+  <obverse>
+    <legend>CONSTANTI-NVS IVN N C</legend>
+    <description>Bust of Constantine II, laureate, cuirassed, right</description>
+  </obverse>
+  <reverse>
+    <legend>GLOR-IA EXERC-ITVS || PCONST</legend>
+    <description>Two soldiers, helmeted, draped, cuirassed, standing facing each other, each holding spear in outer hand and resting inner hand on shield; between them,  a standard with ☧</description>
+  </reverse>
+  <measurement diameter="17 mm" weight="1.36 g" />
+  <image>
+    <obverse file="RIC VII Arelate 395 (A).jpg" />
+    <reverse file="RIC VII Arelate 395 (R).jpg" />
+  </image>
+  <origin price="20" currency="EUR" rate="1" fee="18%" 
+          seller="Jesus Vico S.A." date="09.02.2021" auction="Subasta Online 12" lot="255" invoice="Jesus Vico - 01" />
+  <legend>
+    <obverse>
+      <entry key="CONSTANTINVS IVN" />
+      <entry key="N C" />
+    </obverse>
+    <reverse>
+      <entry key="GLORIA EXERCITVS" />
+    </reverse>
+    <mintmark mint="PCONST" />
+  </legend>
+</coin>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC IV Philip I 31">
+  <identity set="Roman Imperial" />
+  <emperor name="Philippus I Arab" />
+  <denomination name="Antoninian" />
+  <mint>
+    <date from="244" to="247" />
+    <place city="Roma" region="Italia" />
+  </mint>
+  <obverse>
+    <legend>IMP M IVL PHILIPPVS AVG</legend>
+    <description>Bust of Philip the Arab, radiate, draped, cuirassed, right</description>
+  </obverse>
+  <reverse>
+    <legend>FELICITAS TEMP</legend>
+    <description>Felicitas, draped, standing left, holding long caduceus in right hand and cornucopiae in left hand</description>
+  </reverse>
+  <measurement diameter="21 mm" weight="3.57 g" />
+  <image>
+    <obverse file="RIC IV Philip I 31 (A).jpg" />
+    <reverse file="RIC IV Philip I 31 (R).jpg" />
+  </image>
+  <deity name="Felicitas" />
+  <origin price="60" currency="EUR" rate="1" fee="9.0%" 
+          seller="Catawiki" date="06.11.2018" auction="Ancient Coin Auction" lot="104" invoice="Catawiki - 01" />
+  <legend>
+    <obverse>
+      <entry key="IMP" />
+      <entry key="M IVL PHILIPPVS[I]" />
+      <entry key="AVG" />
+    </obverse>
+    <reverse>
+      <entry key="FELICITAS TEMP" />
+    </reverse>
+  </legend>
+</coin>

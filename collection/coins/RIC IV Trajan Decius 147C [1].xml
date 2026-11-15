@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC IV Trajan Decius 147C">
+  <identity set="Roman Imperial" />
+  <emperor name="Herennius Etruscus Caesar" />
+  <denomination name="Antoninian" />
+  <mint>
+    <date from="250" to="251" />
+    <place city="Roma" region="Italia" />
+  </mint>
+  <obverse>
+    <legend>Q HER ETR MES DECIVS NOB C</legend>
+    <description>Bust of Herennius Etruscus, radiate, draped, right</description>
+  </obverse>
+  <reverse>
+    <legend>PRINCIPI IVVENTVTIS</legend>
+    <description>Herennius, in military attire, standing left, holding wand in right hand and transverse spear in left hand</description>
+  </reverse>
+  <measurement diameter="23 mm" weight="3.58 g" />
+  <image>
+    <obverse file="RIC IV Trajan Decius 147C [1] (A).jpg" />
+    <reverse file="RIC IV Trajan Decius 147C [1] (R).jpg" />
+  </image>
+  <origin price="40" currency="EUR" rate="1" fee="18.0%" 
+          seller="Savoca Numismatik GmbH" date="19.05.2019" auction="20th Blue Auction" lot="2030" invoice="Savoca Numismatik - 17" />
+  <legend>
+    <obverse>
+      <entry key="Q HER ETR MES DECIVS" />
+      <entry key="NOB C" />
+    </obverse>
+    <reverse>
+      <entry key="PRINCIPI IVVENTVTIS" />
+    </reverse>
+  </legend>
+</coin>

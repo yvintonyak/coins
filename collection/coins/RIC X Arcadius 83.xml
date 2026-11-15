@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC X Arcadius 83">
+  <identity set="Roman Imperial" />
+  <emperor name="Aelia Eudoxia" />
+  <denomination name="Centenionalis" />
+  <mint>
+    <date from="400" to="401" />
+    <place city="Antiochia" region="Syria" />
+  </mint>
+  <obverse>
+    <legend>AEL EVDO-XIA AVG || ANTA</legend>
+    <description>Bust of Eudoxia, pearl-diademed, draped, right, wearing necklace and earrings, crowned by Hand of God</description>
+  </obverse>
+  <reverse>
+    <legend>GLORIA RO-MANORVM</legend>
+    <description>Eudoxia enthroned facing front, folding hands over breast; crowned by Hand of God; cross in right field</description>
+  </reverse>
+  <measurement diameter="17 mm" weight="2.50 g" />
+  <image>
+    <obverse file="RIC X Arcadius 83 (A).jpg" />
+    <reverse file="RIC X Arcadius 83 (R).jpg" />
+  </image>
+  <origin price="80" currency="GBP" rate="1.16" fee="15.0%" 
+          seller="Zeus Numismatics" date="31.10.2020" auction="Budget Auktion 13" lot="1086" invoice="Zeus Numismatics - 04" />
+  <legend>
+    <obverse>
+      <entry key="AEL EVDOXIA" />
+      <entry key="AVG[usta]" />
+    </obverse>
+    <reverse>
+      <entry key="GLORIA ROMANORVM" />
+    </reverse>
+    <mintmark mint="ANTA" />
+  </legend>
+</coin>

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC I Claudius 116">
+  <identity set="Roman Imperial" />
+  <emperor name="Claudius" />
+  <denomination name="As" />
+  <mint>
+    <date from="50" to="54" />
+    <place city="Roma" region="Italia" />
+  </mint>
+  <obverse>
+    <legend>TI CLAVDIVS CAESAR AVG P M TR P IMP P P</legend>
+    <description>Head of Claudius, bare, left</description>
+  </obverse>
+  <reverse>
+    <legend>S C</legend>
+    <description>Minerva, helmeted and draped, advancing right, levelling javelin in right hand and shield in left</description>
+  </reverse>
+  <measurement diameter="29 mm" weight="10.09 g" />
+  <image>
+    <obverse file="RIC I Claudius 116 (A).jpg" />
+    <reverse file="RIC I Claudius 116 (R).jpg" />
+  </image>
+  <deity name="Minerva" />
+  <origin price="101" currency="CHF" rate="0.93" fee="18.5%" 
+          seller="Nomos AG" date="31.03.2019" auction="Obolos 12" lot="656" invoice="Nomos - 01" />
+  <legend>
+    <obverse>
+      <entry key="TI CLAVDIVS" />
+      <entry key="CAESAR" />
+      <entry key="AVG" />
+      <entry key="P M" />
+      <entry key="TR P" />
+      <entry key="IMP" />
+      <entry key="P P" />
+    </obverse>
+    <reverse>
+      <entry key="S C" />
+    </reverse>
+  </legend>
+</coin>

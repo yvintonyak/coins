@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC V Carus 315">
+  <identity set="Roman Imperial" />
+  <emperor name="Carinus" />
+  <denomination name="Antoninian" />
+  <mint>
+    <date from="283" to="285" />
+    <place city="Siscia" region="Pannonia Superior" />
+  </mint>
+  <obverse>
+    <legend>IMP C M AVR CARINVS P F AVG</legend>
+    <description>Bust of Carinus, radiate, cuirassed, right</description>
+  </obverse>
+  <reverse>
+    <legend>VOTA PVBLICA || SMSXXIA</legend>
+    <description>Carinus and Numerian, draped, standing facing each other, sacrificing at tripod; behind, two ensigns</description>
+  </reverse>
+  <measurement diameter="23 mm" weight="3.35 g" />
+  <image>
+    <obverse file="RIC V Carus 315 (A).jpg" />
+    <reverse file="RIC V Carus 315 (R).jpg" />
+  </image>
+  <origin price="55" currency="EUR" rate="1" fee="14.9%" 
+          seller="Numismatik Naumann GmbH" date="02.06.2019" auction="Auktion 78" lot="820" invoice="Numismatik Naumann - 05" />
+  <remark>differs from RIC: mintmark SMSXXIA, like in 'RIC V Carus 316'</remark>
+  <legend>
+    <obverse>
+      <entry key="IMP" />
+      <entry key="C" />
+      <entry key="M AVR CARINVS" />
+      <entry key="P F" />
+      <entry key="AVG" />
+    </obverse>
+    <reverse>
+      <entry key="VOTA PVBLICA" />
+    </reverse>
+    <mintmark mint="SMSXXIA" />
+  </legend>
+</coin>

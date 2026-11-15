@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC V Macrianus Minor 5">
+  <identity set="Roman Imperial" />
+  <emperor name="Macrianus Minor" />
+  <denomination name="Antoninian" />
+  <mint>
+    <date from="260" to="261" />
+    <place city="Antiochia" region="Syria" />
+  </mint>
+  <obverse>
+    <legend>IMP C FVL MACRIANVS P F AVG</legend>
+    <description>Bust of Macrianus Minor, radiate, cuirassed, right</description>
+  </obverse>
+  <reverse>
+    <legend>AEQVTAS AVGG | ✷</legend>
+    <description>Aequitas, draped, standing left, holding scales in right hand and cornucopiae in left hand</description>
+  </reverse>
+  <measurement diameter="22 mm" weight="3.91 g" />
+  <image>
+    <obverse file="RIC V Macrianus Minor 5 (A).jpg" />
+    <reverse file="RIC V Macrianus Minor 5 (R).jpg" />
+  </image>
+  <deity name="Aequitas" />
+  <origin price="190" currency="EUR" rate="1" fee="18.0%" 
+          seller="Artemide Kunstauktionen GmbH" date="26.01.2020" auction="e-Live Auktion 11" lot="570" invoice="Artemide Aste - 04" />
+  <legend>
+    <obverse>
+      <entry key="IMP" />
+      <entry key="C" />
+      <entry key="FVL MACRIANVS" />
+      <entry key="P F" />
+      <entry key="AVG" />
+    </obverse>
+    <reverse>
+      <entry key="AEQVTAS AVGG" />
+    </reverse>
+    <mintmark mint="✷" />
+  </legend>
+</coin>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC VI Alexandria 99a">
+  <identity set="Roman Imperial" />
+  <emperor name="Maximinus II Daia Caesar" />
+  <denomination name="Follis" />
+  <mint>
+    <date from="308" to="310" />
+    <place city="Alexandria" region="Aegyptus" />
+  </mint>
+  <obverse>
+    <legend>GAL VAL MAXIMINVS NOB CAES</legend>
+    <description>Head of Maximinus Daia, laureate, right; ties divergent, with pointed truncation</description>
+  </obverse>
+  <reverse>
+    <legend>GENIO CA-ESARIS | K | B on P || ALE</legend>
+    <description>Genius, wearing modius, nude, chlamys draped over left shoulder, standing left, holding patera in right hand and holding cornucopiae in left hand; liquid sometimes flowing from patera</description>
+  </reverse>
+  <measurement diameter="25 mm" weight="6.89 g" />
+  <image>
+    <obverse file="RIC VI Alexandria 99a (A).jpg" />
+    <reverse file="RIC VI Alexandria 99a (R).jpg" />
+  </image>
+  <deity name="Genius" />
+  <origin price="14" currency="EUR" rate="1.21" fee="18.0%" 
+          seller="Savoca Numismatics Ltd" date="24.03.2019" auction="1st Blue Auction" lot="1443" invoice="Savoca Numismatik - 11" />
+  <legend>
+    <obverse>
+      <entry key="GAL VAL MAXIMINVS" />
+      <entry key="NOB CAES" />
+    </obverse>
+    <reverse>
+      <entry key="GENIO CAESARIS" />
+    </reverse>
+    <mintmark mint="K | B on P || ALE" />
+  </legend>
+</coin>

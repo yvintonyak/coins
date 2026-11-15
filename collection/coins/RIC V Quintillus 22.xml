@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC V Quintillus 22">
+  <identity set="Roman Imperial" />
+  <emperor name="Quintillus" />
+  <denomination name="Antoninian" />
+  <mint>
+    <date from="270" />
+    <place city="Roma" region="Italia" />
+  </mint>
+  <obverse>
+    <legend>IMP C M AVR CL QVINTILLVS AVG</legend>
+    <description>Bust of Quintillus, radiate, draped, right</description>
+  </obverse>
+  <reverse>
+    <legend>LAETITIA AVG | XII</legend>
+    <description>Laetitia, draped, standing left, holding wreath in right hand and anchor set on globe in left hand</description>
+  </reverse>
+  <measurement diameter="20 mm" weight="2.91 g" />
+  <image>
+    <obverse file="RIC V Quintillus 22 (A).jpg" />
+    <reverse file="RIC V Quintillus 22 (R).jpg" />
+  </image>
+  <deity name="Laetitia" />
+  <origin price="51" currency="CHF" rate="0.96" fee="18.5%" 
+          seller="Leu Numismatik AG" date="08.12.2019" auction="Webauktion 10" lot="1472" invoice="Leu Numismatik - 04" />
+  <legend>
+    <obverse>
+      <entry key="IMP" />
+      <entry key="C" />
+      <entry key="M AVR CL QVINTILLVS" />
+      <entry key="AVG" />
+    </obverse>
+    <reverse>
+      <entry key="LAETITIA AVG" />
+    </reverse>
+    <mintmark mint="XII" />
+  </legend>
+</coin>

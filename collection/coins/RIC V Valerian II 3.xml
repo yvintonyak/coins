@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC V Valerian II 3">
+  <identity set="Roman Imperial" />
+  <emperor name="Valerianus II Caesar" />
+  <denomination name="Antoninian" />
+  <mint>
+    <date from="255" />
+    <place city="Lugdunum" region="Gallia Lugdunensis" />
+  </mint>
+  <obverse>
+    <legend>VALERIANVS CAES</legend>
+    <description>Bust of Valerian II, radiate, draped, right</description>
+  </obverse>
+  <reverse>
+    <legend>IOVI CRESCENTI</legend>
+    <description>Infant Jupiter riding on back of goat walking to right</description>
+  </reverse>
+  <measurement diameter="22 mm" weight="3.00 g" />
+  <image>
+    <obverse file="RIC V Valerian II 3 (A).jpg" />
+    <reverse file="RIC V Valerian II 3 (R).jpg" />
+  </image>
+  <deity name="Jupiter" />
+  <origin price="45" currency="EUR" rate="1" fee="23.0%" 
+          seller="Heritage Auctions Europe" date="17.11.2020" auction="Auktion 66" lot="4446" invoice="Heritage Auctions - 01" />
+  <legend>
+    <obverse>
+      <entry key="VALERIANVS[II]" />
+      <entry key="CAES" />
+    </obverse>
+    <reverse>
+      <entry key="IOVI CRESCENTI" />
+    </reverse>
+  </legend>
+</coin>

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC IV Gordian III 336">
+  <identity set="Roman Imperial" />
+  <emperor name="Gordianus III" />
+  <denomination name="Sestertius" />
+  <mint>
+    <date from="244" />
+    <place city="Roma" region="Italia" />
+  </mint>
+  <obverse>
+    <legend>IMP GORDIANVS PIVS FEL AVG</legend>
+    <description>Bust of Gordian III, laureate, draped, cuirassed, right</description>
+  </obverse>
+  <reverse>
+    <legend>SECVRITAS PERPETVA | S C</legend>
+    <description>Securitas, draped, standing left with legs cross, leaning left arm on column, and holding sceptre in right hand</description>
+  </reverse>
+  <measurement diameter="34 mm" weight="21.72 g" />
+  <image>
+    <obverse file="RIC IV Gordian III 336 (A).jpg" />
+    <reverse file="RIC IV Gordian III 336 (R).jpg" />
+  </image>
+  <deity name="Securitas" />
+  <origin price="80" currency="EUR" rate="1" fee="14.5%" 
+          seller="Demos AC sp. z o.o." date="17.04.2021" auction="Auction 1" lot="487" invoice="Demos Auctions - 01" />
+  <legend>
+    <obverse>
+      <entry key="IMP" />
+      <entry key="GORDIANVS" />
+      <entry key="PIVS FEL" />
+      <entry key="AVG" />
+    </obverse>
+    <reverse>
+      <entry key="SECVRITAS PERPETVA" />
+      <entry key="S C" />
+    </reverse>
+  </legend>
+</coin>

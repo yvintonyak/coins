@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC I Augustus 42A">
+  <identity set="Roman Imperial"/>
+  <emperor name="Augustus" />
+  <denomination name="Denar" />
+  <mint>
+    <date from="20 BC" to="19 BC" />
+    <place city="Caesaraugusta" region="Hispania Tarraconensis" />
+  </mint>
+  <obverse>
+    <legend>CAESAR AVGVSTVS</legend>
+    <description>Head of Augustus, bare, right</description>
+  </obverse>
+  <reverse>
+    <legend>S•P•Q•R | CL•V</legend>
+    <description>Legend in two lines on shield</description>
+  </reverse>
+  <measurement diameter="21 mm" weight="3.90 g" />
+  <image>
+    <obverse file="RIC I Augustus 42A (A).jpg" />
+    <reverse file="RIC I Augustus 42A (R).jpg" />
+  </image>
+  <origin price="150" currency="CHF" rate="0.99" fee="18.5%" 
+          seller="Leu Numismatik AG" date="23.02.2020" auction="Webauktion 11" lot="340" invoice="Leu Numismatik - 05" />
+  <legend>
+    <obverse>
+      <entry key="CAESAR" />
+      <entry key="AVGVSTVS" />
+    </obverse>
+    <reverse>
+      <entry key="S P Q R" />
+      <entry key="CL V" />
+    </reverse>
+  </legend>
+</coin>

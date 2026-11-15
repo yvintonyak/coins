@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RPC IX 1797">
+  <identity set="Roman Provincial" />
+  <emperor name="Trebonianus Gallus" />
+  <denomination name="Tetradrachm" />
+  <mint>
+    <date from="252" />
+    <place city="Antiochia" region="Syria" />
+  </mint>
+  <obverse>
+    <legend>ΑΥΤΟΚ Κ Γ ΟΥΙΒ ΤΡƐΒ ΓΑΛΛΟϹ ϹƐΒ</legend>
+    <description>Bust of Trebonianus Gallus right, laureate, draped, cuirassed; ••• below bust</description>
+  </obverse>
+  <reverse>
+    <legend>ΔΗΜΑΡΧ ƐΞΟΥϹΙΑϹ | Γ || S C</legend>
+    <description>Eagle standing front, head left, with wings open, holding wreath in beak; between legs, Γ</description>
+  </reverse>
+  <measurement diameter="25 mm" weight="12.8 g" />
+  <image>
+    <obverse file="RPC IX 1797 (A).jpg" />
+    <reverse file="RPC IX 1797 (R).jpg" />
+  </image>
+  <origin price="50" currency="GBP" rate="1.16" fee="0.0%" 
+          seller="Carpe Diem Numismatics" date="21.03.2020" auction="eBay" lot="4220" invoice="Carpe Diem - 05" />
+  <remark>Prieur 660; McAlee 1172c</remark>
+  <legend>
+    <mintmark mint="•••" />
+  </legend>
+</coin>

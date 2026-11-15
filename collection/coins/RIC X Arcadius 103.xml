@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC X Arcadius 103">
+  <identity set="Roman Imperial" />
+  <emperor name="Aelia Eudoxia" />
+  <denomination name="Centenionalis" />
+  <mint>
+    <date from="401" to="403" />
+    <place city="Cyzicus" region="Asia" />
+  </mint>
+  <obverse>
+    <legend>AEL EVDO-XIA AVG</legend>
+    <description>Bust of Eudoxia, pearl-diademed, draped, right, wearing necklace and earrings, crowned by Hand of God</description>
+  </obverse>
+  <reverse>
+    <legend>[SALVS REI-PVBLICAE] || SMKA</legend>
+    <description>Victory, winged, draped, seated right on cuirass, pointing to a shield inscribed with a ☧ (Chi-Rho), supported on a low column</description>
+  </reverse>
+  <measurement diameter="19 mm" weight="2.99 g" />
+  <image>
+    <obverse file="RIC X Arcadius 103 (A).jpg" />
+    <reverse file="RIC X Arcadius 103 (R).jpg" />
+  </image>
+  <deity name="Victoria" />
+  <origin price="85" currency="CHF" rate="0.99" fee="18.5%" 
+          seller="Leu Numismatik AG" date="23.02.2020" auction="Webauktion 11" lot="2113" invoice="Leu Numismatik - 05" />
+  <legend>
+    <obverse>
+      <entry key="AEL EVDOXIA" />
+      <entry key="AVG[usta]" />
+    </obverse>
+    <reverse>
+      <entry key="SALVS REIPVBLICAE" />
+    </reverse>
+    <mintmark mint="SMKA" />
+  </legend>
+</coin>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+
+  <emperor id="">
+    <name></name>
+    <dynasty></dynasty>
+    <dates born="" died="" aged="" />
+    <place city="" region="" />
+    <reign from="" to="" />
+    <description></description>
+  </emperor>
+

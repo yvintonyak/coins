@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC V Claudius Gothicus 201">
+  <identity set="Roman Imperial" />
+  <emperor name="Claudius II Gothicus" />
+  <denomination name="Antoninian" />
+  <mint>
+    <date from="268" to="270" />
+    <place city="Antiochia" region="Syria" />
+  </mint>
+  <obverse>
+    <legend>IMP C CLAVDIVS AVG</legend>
+    <description>Bust of Claudius Gothicus, radiate, draped, right</description>
+  </obverse>
+  <reverse>
+    <legend>CONSER AVG || Γ</legend>
+    <description>Serapis, wearing polos, draped, standing left, raising right hand and holding sceptre in left hand</description>
+  </reverse>
+  <measurement diameter="20 mm" weight="3.90 g" />
+  <image>
+    <obverse file="RIC V Claudius Gothicus 201 (A).jpg" />
+    <reverse file="RIC V Claudius Gothicus 201 (R).jpg" />
+  </image>
+  <deity name="Serapis" />
+  <origin price="22" currency="EUR" rate="1" fee="14.0%" 
+          seller="Ares Numismatics" date="20.10.2019" auction="Webauktion 3" lot="778" invoice="Ares Numismatics - 01" />
+  <legend>
+    <obverse>
+      <entry key="IMP" />
+      <entry key="C" />
+      <entry key="CLAVDIVS" />
+      <entry key="AVG" />
+    </obverse>
+    <reverse>
+      <entry key="CONSER AVG" />
+    </reverse>
+    <mintmark mint="Γ" />
+  </legend>
+</coin>

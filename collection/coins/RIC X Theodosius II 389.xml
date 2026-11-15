@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC X Theodosius II 389">
+  <identity set="Roman Imperial" />
+  <emperor name="Theodosius II" />
+  <denomination name="Siliqua" />
+  <mint>
+    <date from="438" to="450" />
+    <place city="Constantinopolis" region="Thracia" />
+  </mint>
+  <obverse>
+    <legend>D N THEODO-SIVS P F AVG</legend>
+    <description>Bust of Theodosius II, pearl-diademed, draped, cuirassed, right</description>
+  </obverse>
+  <reverse>
+    <legend>VOT | MVLT | XXXX || CONS✳</legend>
+    <description>VOT | MVLT | XXXX within a wreath</description>
+  </reverse>
+  <measurement diameter="12.3 mm" weight="0.7 g" />
+  <image>
+    <obverse file="RIC X Theodosius II 389 (A).jpg" />
+    <reverse file="RIC X Theodosius II 389 (R).jpg" />
+  </image>
+  <origin price="100" currency="EUR" rate="1" fee="22.0%" 
+          seller="Olympus Numismatik UG" date="17.02.2023" auction="Auktion 1" lot="567" invoice="Olympus Numismatik - 01" />
+  <legend>
+    <obverse>
+      <entry key="D N" />
+      <entry key="THEODOSIVS[II]" />
+      <entry key="P F" />
+      <entry key="AVG" />
+    </obverse>
+    <reverse>
+      <entry key="VOT" />
+      <entry key="MVLT XXXX" />
+    </reverse>
+    <mintmark mint="CONS" />
+  </legend>
+</coin>

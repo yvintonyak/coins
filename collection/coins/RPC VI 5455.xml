@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RPC VI 5455">
+  <identity set="Roman Provincial" />
+  <emperor name="Annia Faustina" />
+  <denomination name="Æ" />
+  <mint>
+    <date from="221" />
+    <place city="Hierapolis" region="Phrygia" />
+  </mint>
+  <obverse>
+    <legend>ΑΝΝΙΑ ΦΑΥϹΤΕΙΝΑ ϹΕΒ</legend>
+    <description>Draped bust of Annia Faustina, right</description>
+  </obverse>
+  <reverse>
+    <legend>ΙΕΡΑΠΟΛΕΙΤΩΝ ΝΕΩΚΟΡΩΝ | ΠΥΘΙΑ</legend>
+    <description>inscription within wreath topped by three military banners; below, boar(?) running, right</description>
+  </reverse>
+  <measurement diameter="23 mm" weight="4.82 g" />
+  <image>
+    <obverse file="RPC VI 5455 (A).jpg" />
+    <reverse file="RPC VI 5455 (R).jpg" />
+  </image>
+  <origin price="40" currency="EUR" rate="1" fee="15%" 
+          seller="Rex Numismatics B.V." date="01.09.2024" auction="E-Rex Duo Auction 13" lot="1115" invoice="Rex Numismatics - 02" />
+  <remark>Johnston, Hierapolis 41-2; countermark on obverse</remark>
+</coin>

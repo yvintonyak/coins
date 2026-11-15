@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC II Titus 398">
+  <identity set="Roman Imperial" />
+  <emperor name="Julia Titi" />
+  <denomination name="Dupondius" />
+  <mint>
+    <date from="80" to="81" />
+    <place city="Roma" region="Italia" />
+  </mint>
+  <obverse>
+    <legend>[IVL]IA IMP T AVG F AVGVSTA</legend>
+    <description>Bust of Julia Titi, draped, right; hair bundled high in front and wrapped in bun in back</description>
+  </obverse>
+  <reverse>
+    <legend>VES[TA] | S C</legend>
+    <description>Vesta seated left, holding palladium and sceptre</description>
+  </reverse>
+  <measurement diameter="30 mm" weight="11.3 g" />
+  <image>
+    <obverse file="RIC II Titus 398 (A).jpg" />
+    <reverse file="RIC II Titus 398 (R).jpg" />
+  </image>
+  <deity name="Vesta" />
+  <origin price="130" currency="EUR" rate="1" fee="18%" 
+          seller="Jesus Vico S.A." date="09.02.2021" auction="Subasta Online 12" lot="92" invoice="Jesus Vico - 01" />
+  <legend>
+    <obverse>
+      <entry key="IVLIA[titi]" />
+      <entry key="IMP T AVG F" />
+      <entry key="AVGVSTA" />
+    </obverse>
+    <reverse>
+      <entry key="VESTA" />
+      <entry key="S C" />
+    </reverse>
+  </legend>
+</coin>

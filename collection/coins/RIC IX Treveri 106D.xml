@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC IX Treveri 106D">
+  <identity set="Roman Imperial" />
+  <emperor name="Eugenius" />
+  <denomination name="Siliqua" />
+  <mint>
+    <date from="392" to="394" />
+    <place city="Augusta Treverorum" region="Gallia Belgica" />
+  </mint>
+  <obverse>
+    <legend>[D N EVGENI-VS P F AVG]</legend>
+    <description>Bust of Eugenius, pearl-diademed, draped and cuirassed, right</description>
+  </obverse>
+  <reverse>
+    <legend>[VIRTVS RO-MANORVM] || [TRPS]</legend>
+    <description>Roma seated left on cuirass, holding Victory on globe and reversed spear</description>
+  </reverse>
+  <measurement diameter="13 mm" weight="1.15 g" />
+  <image>
+    <obverse file="RIC IX Treveri 106D (A).jpg" />
+    <reverse file="RIC IX Treveri 106D (R).jpg" />
+  </image>
+  <deity name="Roma" />
+  <origin price="200" currency="GBP" rate="1.16" fee="22.5%" 
+          seller="Roma Numismatics Limited" date="24.11.2022" auction="E-Sale 103" lot="1367" invoice="Roma Numismatics - 04" />
+  <legend>
+    <obverse>
+      <entry key="D N" />
+      <entry key="EVGENIVS" />
+      <entry key="P F" />
+      <entry key="AVG" />
+    </obverse>
+    <reverse>
+      <entry key="VIRTVS ROMANORVM" />
+    </reverse>
+    <mintmark mint="TRPS" />
+  </legend>
+</coin>

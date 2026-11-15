@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC III Antoninus Pius 429A">
+  <identity set="Roman Imperial" />
+  <emperor name="Marcus Aurelius Caesar" />
+  <denomination name="Denar" />
+  <mint>
+    <date from="145" to="160" />
+    <place city="Roma" region="Italia" />
+  </mint>
+  <obverse>
+    <legend>AVRELIVS CAESAR AVG PII F</legend>
+    <description>Head of Marcus Aurelius, bare, right</description>
+  </obverse>
+  <reverse>
+    <legend>COS II</legend>
+    <description>Honos, togate, standing left, holding up branch in right hand and cornucopiae in left</description>
+  </reverse>
+  <measurement diameter="18 mm" weight="3.76 g" />
+  <image>
+    <obverse file="RIC III Antoninus Pius 429A (A).jpg" />
+    <reverse file="RIC III Antoninus Pius 429A (R).jpg" />
+  </image>
+  <deity name="Honos" />
+  <origin price="140" currency="EUR" rate="1" fee="18.0%" 
+          seller="Nomisma S.p.A." date="02.10.2019" auction="E-Live Auction 12" lot="2183" invoice="Nomisma Spa - 02" />
+  <legend>
+    <obverse>
+      <entry key="AVRELIVS" />
+      <entry key="CAESAR" />
+      <entry key="AVG PII F" />
+    </obverse>
+    <reverse>
+      <entry key="COS II" />
+    </reverse>
+  </legend>
+</coin>

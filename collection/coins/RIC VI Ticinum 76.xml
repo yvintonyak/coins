@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC VI Ticinum 76">
+  <identity set="Roman Imperial" />
+  <emperor name="Constantinus I Caesar" />
+  <denomination name="Follis" />
+  <mint>
+    <date from="306" />
+    <place city="Ticinum" region="Italia" />
+  </mint>
+  <obverse>
+    <legend>CONSTANTINVS NOB CAES</legend>
+    <description>Bust of Constantine I, laureate, draped, right, seen from behind</description>
+  </obverse>
+  <reverse>
+    <legend>VIRTVS AV-GG ET CAESS NN || S T</legend>
+    <description>Mars, helmeted, advancing right, holding transverse spear in right hand and trophy over left shoulder</description>
+  </reverse>
+  <measurement diameter="26.5 mm" weight="8.71 g" />
+  <image>
+    <obverse file="RIC VI Ticinum 76 (A).jpg" />
+    <reverse file="RIC VI Ticinum 76 (R).jpg" />
+  </image>
+  <deity name="Mars" />
+  <origin price="120" currency="EUR" rate="1" fee="22.0%" 
+          seller="BAC Numismatics" date="05.05.2021" auction="Online Auktion 29" lot="154" invoice="BAC Numismatics - 01" />
+  <remark>uncertain officina</remark>
+  <legend>
+    <obverse>
+      <entry key="CONSTANTINVS[I]" />
+      <entry key="NOB CAES" />
+    </obverse>
+    <reverse>
+      <entry key="VIRTVS AVGG ET CAESS NN" />
+    </reverse>
+    <mintmark mint="S T" />
+  </legend>
+</coin>

@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC VI Ostia 33">
+  <identity set="Roman Imperial" />
+  <emperor name="Divus Romulus" />
+  <denomination name="Follis" />
+  <mint>
+    <date from="309" to="312" />
+    <place city="Ostia" region="Italia" />
+  </mint>
+  <obverse>
+    <legend>IMP MAXENTIVS DIVO ROMVLO N V FILIO</legend>
+    <description>Head of Romulus, right</description>
+  </obverse>
+  <reverse>
+    <legend>AETERNA - MEMORIA || MOSTS</legend>
+    <description>Eagle, wings spread, standing right on domed hexastyle shrine, right door ajar</description>
+  </reverse>
+  <measurement diameter="24 mm" weight="5.50 g" />
+  <image>
+    <obverse file="RIC VI Ostia 33 (A).jpg" />
+    <reverse file="RIC VI Ostia 33 (R).jpg" />
+  </image>
+  <origin price="160" currency="EUR" rate="1" fee="14.9%" 
+          seller="Numismatik Naumann GmbH" date="17.10.2021" auction="Auktion 109" lot="423" invoice="Numismatik Naumann - 23" />
+  <legend>
+    <obverse>
+      <entry key="IMP" />
+      <entry key="MAXENTIVS" />
+      <entry key="DIVO ROMVLO" />
+      <entry key="N V FILIO" />
+    </obverse>
+    <reverse>
+      <entry key="AETERNA MEMORIA" />
+    </reverse>
+    <mintmark mint="MOSTS" />
+  </legend>
+</coin>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC VI Antioch 55a">
+  <identity set="Roman Imperial" />
+  <emperor name="Constantius I Chlorus Caesar" />
+  <denomination name="Follis" />
+  <mint>
+    <date from="300" to="301" />
+    <place city="Antiochia" region="Syria" />
+  </mint>
+  <obverse>
+    <legend>FL VAL CONSTANTIVS NOB CAES</legend>
+    <description>Head of Constantius Chlorus, laureate, right</description>
+  </obverse>
+  <reverse>
+    <legend>GENIO POPV-LI ROMANI | K | Z on V || ANT</legend>
+    <description>Genius, wearing modius, nude, chlamys draped over left shoulder, standing left, pouring liquid from patera in right hand and holding cornucopiae in left hand</description>
+  </reverse>
+  <measurement diameter="28 mm" weight="10.25 g" />
+  <image>
+    <obverse file="RIC VI Antioch 55a (A).jpg" />
+    <reverse file="RIC VI Antioch 55a (R).jpg" />
+  </image>
+  <deity name="Genius" />
+  <origin price="60" currency="EUR" rate="1" fee="14.9%" 
+          seller="Numismatik Naumann GmbH" date="03.11.2019" auction="Auktion 83" lot="728" invoice="Numismatik Naumann - 10" />
+  <legend>
+    <obverse>
+      <entry key="FL VAL CONSTANTIVS" />
+      <entry key="NOB CAES" />
+    </obverse>
+    <reverse>
+      <entry key="GENIO POPVLI ROMANI" />
+    </reverse>
+    <mintmark mint="K | Z on V || ANT" />
+  </legend>
+</coin>

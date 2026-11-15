@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="SB 2402">
+  <identity set="Byzantine Empire" />
+  <emperor name="Andronicus II Palaiologos" />
+  <denomination name="Basilikon" />
+  <mint>
+    <date from="1282" to="1328" />
+    <place city="Constantinopolis" />
+  </mint>
+  <obverse>
+    <legend>KVPIE BOHΘEI | IC-XC</legend>
+    <description>Christ, nimbate, seated facing on backless throne, raising his right hand in benediction and holding book of Gospels in his left; below each elbow of Christ, small pellet</description>
+  </obverse>
+  <reverse>
+    <legend>AVTOKPATO-[PЄC] [PⲰM]AIⲰN</legend>
+    <description>Andronicus II, on the left, standing facing, wearing crown with pendilia and loros and Michael IX, on the right, standing facing, wearing crown with pendilia and loros, holding between them labarum on shaft</description>
+  </reverse>
+  <measurement diameter="21 mm" weight="2.14 g" />
+  <image>
+    <obverse file="SB 2402 (A).jpg" />
+    <reverse file="SB 2402 (R).jpg" />
+  </image>
+  <origin price="30" currency="EUR" rate="1" fee="20%" 
+          seller="Savoca Numismatik GmbH &amp; Co. KG" date="20.06.2026" auction="329th Weekly Blue Auction" lot="354" invoice="Savoca Numismatik - 44" />
+  <remark>Michael IX. Sear 2402; DOC 528 ff</remark>
+</coin>

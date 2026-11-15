@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RPC I 1755">
+  <identity set="Roman Provincial" />
+  <emperor name="Claudia Octavia" />
+  <denomination name="Æ" />
+  <mint>
+    <date from="54" to="62" />
+    <place city="Perinthus" region="Thracia" />
+  </mint>
+  <obverse>
+    <legend>ΟΚΤΑΟΥΙΑ ΣΕΒΑΣΤΗ</legend>
+    <description>Bust of Octavia right</description>
+  </obverse>
+  <reverse>
+    <legend>ΗΡΑ ΠΕΡΙΝΘΙΩΝ</legend>
+    <description>Statue of Hera of Samos left</description>
+  </reverse>
+  <measurement diameter="27 mm" weight="11.45 g" />
+  <image>
+    <obverse file="RPC I 1755 (A).jpg" />
+    <reverse file="RPC I 1755 (R).jpg" />
+  </image>
+  <deity name="Hera" />
+  <origin price="250" currency="EUR" rate="1" fee="25%" 
+          seller="Leipziger Münzhandlung Höhn" date="10.11.2022" auction="Auktion 100" lot="803" invoice="Leipziger Münzhandlung - 01" />
+  <remark>Schönert-Geiss 255–8; Varbanov 3694</remark>
+</coin>

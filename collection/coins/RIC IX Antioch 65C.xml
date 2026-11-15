@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC IX Antioch 65C">
+  <identity set="Roman Imperial" />
+  <emperor name="Arcadius" />
+  <denomination name="Nummus" />
+  <mint>
+    <date from="383" to="388" />
+    <place city="Antiochia" region="Syria" />
+  </mint>
+  <obverse>
+    <legend>[D N] ARCADIVS P F [AVG]</legend>
+    <description>Bust of Arcadius, pearl-diademed, draped and cuirassed, right</description>
+  </obverse>
+  <reverse>
+    <legend>VOT|X|MVLT|XX || ?</legend>
+    <description>VOT|X|MVLT|XX within wreath</description>
+  </reverse>
+  <measurement diameter="12 mm" weight="0.93 g" />
+  <image>
+    <obverse file="RIC IX Antioch 65C (A).jpg" />
+    <reverse file="RIC IX Antioch 65C (R).jpg" />
+  </image>
+  <origin price="24" currency="EUR" rate="1" fee="18.0%" 
+          seller="Savoca Numismatik GmbH" date="27.06.2021" auction="106th Blue Auction" lot="1618" invoice="Savoca Numismatik - 32" />
+  <remark>uncertain mint, can be 'RIC IX Antioch 56D' or 'RIC IX Cyzicus 21D'; from the Tareq Hani collection</remark>
+  <legend>
+    <obverse>
+      <entry key="D N" />
+      <entry key="ARCADIVS" />
+      <entry key="P F" />
+      <entry key="AVG" />
+    </obverse>
+    <reverse>
+      <entry key="VOT X" />
+      <entry key="MVLT XX" />
+    </reverse>
+    <mintmark mint="?" />
+  </legend>
+</coin>

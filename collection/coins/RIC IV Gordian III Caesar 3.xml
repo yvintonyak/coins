@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC IV Gordian III Caesar 3">
+  <identity set="Roman Imperial" />
+  <emperor name="Gordianus III Caesar" />
+  <denomination name="Sestertius" />
+  <mint>
+    <date from="238" />
+    <place city="Roma" region="Italia" />
+  </mint>
+  <obverse>
+    <legend>M ANT GORDIANVS CAES</legend>
+    <description>Bust of Gordian III, bare-headed, draped, right</description>
+  </obverse>
+  <reverse>
+    <legend>PIETAS AVGG || S C</legend>
+    <description>Priestly emblems: jug between lituus, knife and patera on the left and simpulum and sprinkler on right</description>
+  </reverse>
+  <measurement diameter="31 mm" weight="19.80 g" />
+  <image>
+    <obverse file="RIC IV Gordian III Caesar 3 (A).jpg" />
+    <reverse file="RIC IV Gordian III Caesar 3 (R).jpg" />
+  </image>
+  <origin price="140" currency="EUR" rate="1" fee="24%" 
+          seller="Bertolami Fine Arts Ltd" date="24.10.2021" auction="E-Auktion 105" lot="2368" invoice="Bertolami Fine Arts - 08" />
+  <legend>
+    <obverse>
+      <entry key="M ANT GORDIANVS" />
+      <entry key="CAES" />
+    </obverse>
+    <reverse>
+      <entry key="PIETAS AVGG" />
+      <entry key="S C" />
+    </reverse>
+  </legend>
+</coin>

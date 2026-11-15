@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RPC VII-2 67940">
+  <identity set="Roman Provincial" />
+  <emperor name="Gordianus III" />
+  <denomination name="Drachm" />
+  <mint>
+    <date from="240" to="241" />
+    <place city="Caesarea" region="Cappadocia" />
+  </mint>
+  <obverse>
+    <legend>ΑΥ ΚΑΙ Μ ΑΝΤ ΓΟΡΔΙΑΝΟϹ</legend>
+    <description>Laureate head of Gordian III right</description>
+  </obverse>
+  <reverse>
+    <legend>ΜΗΤΡΟ ΚΑΙϹΑ Β ΝƐ || ƐΤ Δ</legend>
+    <description>View of Mount Argaeus; to left, pellet</description>
+  </reverse>
+  <measurement diameter="17 mm" weight="3.37 g" />
+  <image>
+    <obverse file="RPC VII-2 67940 (A).jpg" />
+    <reverse file="RPC VII-2 67940 (R).jpg" />
+  </image>
+  <origin price="40" currency="EUR" rate="1" fee="10.0%" 
+          seller="Papillon Numismatic" date="29.11.2020" auction="Auktion 3" lot="434" invoice="Papillon Numismatic - 01" />
+  <remark>Ganschow 876h; Bland 1991a, 47</remark>
+</coin>

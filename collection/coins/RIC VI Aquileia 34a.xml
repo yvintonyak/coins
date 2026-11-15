@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC VI Aquileia 34a">
+  <identity set="Roman Imperial" />
+  <emperor name="Constantius I Chlorus Caesar" />
+  <denomination name="Follis" />
+  <mint>
+    <date from="301" />
+    <place city="Aquileia" region="Italia" />
+  </mint>
+  <obverse>
+    <legend>CONSTANTIVS NOB CAES</legend>
+    <description>Head of Constantius Chlorus, laureate, right</description>
+  </obverse>
+  <reverse>
+    <legend>SACR MONET AVGG ET CAESS NOSTR | V || AQΓ</legend>
+    <description>Moneta, draped, standing left, holding scales in right hand and cornucopiae in left hand</description>
+  </reverse>
+  <measurement diameter="29 mm" weight="9.59 g" />
+  <image>
+    <obverse file="RIC VI Aquileia 34a (A).jpg" />
+    <reverse file="RIC VI Aquileia 34a (R).jpg" />
+  </image>
+  <deity name="Juno Moneta" />
+  <origin price="85" currency="EUR" rate="1" fee="14.9%" 
+          seller="Numismatik Naumann GmbH" date="07.04.2019" auction="Auktion 76" lot="519" invoice="Numismatik Naumann - 03" />
+  <legend>
+    <obverse>
+      <entry key="CONSTANTIVS[chlorus]" />
+      <entry key="NOB CAES" />
+    </obverse>
+    <reverse>
+      <entry key="SACR MONET AVGG ET CAESS NOSTR" />
+    </reverse>
+    <mintmark mint="V || AQΓ" />
+  </legend>
+</coin>

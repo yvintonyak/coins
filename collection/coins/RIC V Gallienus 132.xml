@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC V Gallienus 132">
+  <identity set="Roman Imperial" />
+  <emperor name="Gallienus" />
+  <denomination name="Antoninian" />
+  <mint>
+    <date from="254" />
+    <place city="Roma" region="Italia" />
+  </mint>
+  <obverse>
+    <legend>IMP C P LIC GALLIENVS AVG</legend>
+    <description>Bust of Gallienus, radiate, draped, cuirassed, right</description>
+  </obverse>
+  <reverse>
+    <legend>CONCORDIA EXERCIT</legend>
+    <description>Concordia, draped, standing left, holding patera in right hand and cornucopiae in left hand</description>
+  </reverse>
+  <measurement diameter="24 mm" weight="4.02 g" />
+  <image>
+    <obverse file="RIC V Gallienus 132 (A).jpg" />
+    <reverse file="RIC V Gallienus 132 (R).jpg" />
+  </image>
+  <deity name="Concordia" />
+  <origin price="50" currency="EUR" rate="1" fee="18.0%" 
+          seller="Savoca Numismatik GmbH" date="20.01.2019" auction="15th Blue Auction" lot="1857" invoice="Savoca Numismatik - 08" />
+  <legend>
+    <obverse>
+      <entry key="IMP" />
+      <entry key="C" />
+      <entry key="P LIC GALLIENVS" />
+      <entry key="AVG" />
+    </obverse>
+    <reverse>
+      <entry key="CONCORDIA EXERCIT" />
+    </reverse>
+  </legend>
+</coin>

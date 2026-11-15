@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="SB 1760">
+  <identity set="Byzantine Empire" />
+  <emperor name="Romanus I Lacapenus" />
+  <denomination name="Follis" />
+  <mint>
+    <date from="931" to="944" />
+    <place city="Constantinopolis" />
+  </mint>
+  <obverse>
+    <legend>RωMAN bASILEVS RωM</legend>
+    <description>Emperor, crowned, bearded, facing bust of Romanus, wearing chlamys, holding labarum and cross on globe</description>
+  </obverse>
+  <reverse>
+    <legend>+RωmA/Һ’ ЄҺ ӨЄω ЬA/SILЄVS Rω/mAIωҺ</legend>
+    <description>Legend in four rows</description>
+  </reverse>
+  <measurement diameter="26 mm" weight="4.9 g" />
+  <image>
+    <obverse file="SB 1760 [1] (A).jpg" />
+    <reverse file="SB 1760 [1] (R).jpg" />
+  </image>
+  <origin price="11" currency="EUR" rate="1" fee="22.0%" 
+         seller="Olympus Numismatik UG" date="02.04.2023" auction="Auktion 2" lot="452" invoice="Olympus Numismatik - 02" />
+  <remark>Sear 1760; Doc 1.0.25</remark>
+</coin>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC VII Arelate 233">
+  <identity set="Roman Imperial" />
+  <emperor name="Constantinus I" />
+  <denomination name="Follis" />
+  <mint>
+    <date from="321" />
+    <place city="Arelate" region="Gallia Narbonensis" />
+  </mint>
+  <obverse>
+    <legend>CONSTAN-TINVS AVG</legend>
+    <description>Head of Constantine I, laureate, right</description>
+  </obverse>
+  <reverse>
+    <legend>D N CONSTANTINI MAX AVG | VOT|XX || P(crescent)A</legend>
+    <description>VOT|XX within a laurel wreath</description>
+  </reverse>
+  <measurement diameter="20 mm" weight="2.69 g" />
+  <image>
+    <obverse file="RIC VII Arelate 233 (A).jpg" />
+    <reverse file="RIC VII Arelate 233 (R).jpg" />
+  </image>
+  <origin price="26" currency="EUR" rate="1" fee="18%" 
+          seller="Savoca Numismatik GmbH" date="25.04.2020" auction="31st Blue Auction" lot="1374" invoice="Savoca Numismatik - 27" />
+  <legend>
+    <obverse>
+      <entry key="CONSTANTINVS[I]" />
+      <entry key="AVG" />
+    </obverse>
+    <reverse>
+      <entry key="D N CONSTANTINI MAX AVG" />
+      <entry key="VOT XX" />
+    </reverse>
+    <mintmark mint="P(crescent)A" />
+  </legend>
+</coin>

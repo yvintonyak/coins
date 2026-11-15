@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC IX Siscia 26B">
+  <identity set="Roman Imperial" />
+  <emperor name="Valentinianus II" />
+  <denomination name="Maiorina" />
+  <mint>
+    <date from="378" to="383" />
+    <place city="Siscia" region="Pannonia Superior" />
+  </mint>
+  <obverse>
+    <legend>D N VALENTINIANVS IVN P F AVG</legend>
+    <description>Bust of Valentinian II, pearl-diademed, draped and cuirassed, right</description>
+  </obverse>
+  <reverse>
+    <legend>REPARATIO - REIPVB || ✷ASISC</legend>
+    <description>Emperor, head left, standing facing, with right hand raising kneeling turreted woman, and holding Victory on globe in left</description>
+  </reverse>
+  <measurement diameter="22.5 mm" weight="5.28 g" />
+  <image>
+    <obverse file="RIC IX Siscia 26B (A).jpg" />
+    <reverse file="RIC IX Siscia 26B (R).jpg" />
+  </image>
+  <deity name="Victoria" />
+  <origin price="50" currency="EUR" rate="1" fee="0.0%" 
+          seller="Stuttgarter Münzenmesse" date="21.09.2019" auction="" lot="" invoice="Stuttgarter Münzenmesse - 01" />
+  <legend>
+    <obverse>
+      <entry key="D N" />
+      <entry key="VALENTINIANVS IVN" />
+      <entry key="P F" />
+      <entry key="AVG" />
+    </obverse>
+    <reverse>
+      <entry key="REPARATIO REIPVB" />
+    </reverse>
+    <mintmark mint="✷ASISC" />
+  </legend>
+</coin>

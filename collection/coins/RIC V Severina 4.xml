@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC V Severina 4">
+  <identity set="Roman Imperial" />
+  <emperor name="Severina" />
+  <denomination name="Antoninian" />
+  <mint>
+    <date from="270" to="275" />
+    <place city="Roma" region="Italia" />
+  </mint>
+  <obverse>
+    <legend>SEVERINA AVG</legend>
+    <description>Bust of Severina, diademed, draped, on crescent, right</description>
+  </obverse>
+  <reverse>
+    <legend>CONCORDIAE MILITVM | H || XXIR</legend>
+    <description>Concordia, draped, standing left, holding ensign in each hand</description>
+  </reverse>
+  <measurement diameter="22 mm" weight="3.75 g" />
+  <image>
+    <obverse file="RIC V Severina 4 (A).jpg" />
+    <reverse file="RIC V Severina 4 (R).jpg" />
+  </image>
+  <deity name="Concordia" />
+  <origin price="30" currency="EUR" rate="1" fee="0.0%" 
+          seller="Savoca Coins" date="12.07.2019" auction="eBay" lot="" invoice="Savoca Coins - 01" />
+  <legend>
+    <obverse>
+      <entry key="SEVERINA" />
+      <entry key="AVG[usta]" />
+    </obverse>
+    <reverse>
+      <entry key="CONCORDIAE MILITVM" />
+    </reverse>
+    <mintmark mint="H || XXIR" />
+  </legend>
+</coin>

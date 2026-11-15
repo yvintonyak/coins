@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC II Hadrian 396">
+  <identity set="Roman Imperial" />
+  <emperor name="Sabina" />
+  <denomination name="Denar" />
+  <mint>
+    <date from="128" to="136" />
+    <place city="Roma" region="Italia" />
+  </mint>
+  <obverse>
+    <legend>SABINA AVGVSTA</legend>
+    <description>Bust of Sabina, diademed, draped, right; hair is knotted in back and falls in waves down neck, hair also piled on top, above diadem</description>
+  </obverse>
+  <reverse>
+    <legend>VENERI GENETRICI</legend>
+    <description>Venus, draped, standing front, head right, holding apple up in left hand and with right hand, drawing a fold of drapery from left shoulder</description>
+  </reverse>
+  <measurement diameter="17.5 mm" weight="3.61 g" />
+  <image>
+    <obverse file="RIC II Hadrian 396 (A).jpg" />
+    <reverse file="RIC II Hadrian 396 (R).jpg" />
+  </image>
+  <deity name="Venus" />
+  <origin price="70" currency="EUR" rate="1" fee="17.5%" 
+          seller="InAsta S.p.A" date="09.07.2019" auction="Auction 82 E-Live" lot="351" invoice="InAsta Spa - 01" />
+  <legend>
+    <obverse>
+      <entry key="SABINA" />
+      <entry key="AVGVSTA" />
+    </obverse>
+    <reverse>
+      <entry key="VENERI GENETRICI" />
+    </reverse>
+  </legend>
+</coin>

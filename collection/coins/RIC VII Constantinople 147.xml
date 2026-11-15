@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC VII Constantinople 147">
+  <identity set="Roman Imperial" />
+  <emperor name="Hannibalianus Caesar" />
+  <denomination name="Follis" />
+  <mint>
+    <date from="336" to="337" />
+    <place city="Constantinopolis" region="Thracia" />
+  </mint>
+  <obverse>
+    <legend>FL HANNIBALLIANO REGI</legend>
+    <description>Bust of Hannibalianus, draped, cuirassed, right</description>
+  </obverse>
+  <reverse>
+    <legend>SE-CVRITAS PVBLICA || CONSS</legend>
+    <description>Euphrates, draped to waist, seated right on ground, leaning on sceptre with right hand; beside him, urn; behind, reed</description>
+  </reverse>
+  <measurement diameter="16 mm" weight="1.24 g" />
+  <image>
+    <obverse file="RIC VII Constantinople 147 (A).jpg" />
+    <reverse file="RIC VII Constantinople 147 (R).jpg" />
+  </image>
+  <deity name="Euphrates" />
+  <origin price="150" currency="EUR" rate="1" fee="19.0%" 
+          seller="Wormser Auktionshaus" date="06.06.2020" auction="3. Numismatik Auktion" lot="82083" invoice="Wormser Auktionshaus - 01" />
+  <legend>
+    <obverse>
+      <entry key="FL HANNIBALLIANO" />
+      <entry key="REGI" />
+    </obverse>
+    <reverse>
+      <entry key="SECVRITAS PVBLICA" />
+    </reverse>
+    <mintmark mint="CONSS" />
+  </legend>
+</coin>

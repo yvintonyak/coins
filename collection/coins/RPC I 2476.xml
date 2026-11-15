@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RPC I 2476">
+  <identity set="Roman Provincial" />
+  <emperor name="Britannicus Caesar" />
+  <denomination name="Hemiassarion" />
+  <mint>
+    <date from="50" to="54" />
+    <place city="Smyrna" region="Ionia" />
+  </mint>
+  <obverse>
+    <legend>ΖΜΥ</legend>
+    <description>Bare, draped head of  Britannicus (?) right</description>
+  </obverse>
+  <reverse>
+    <legend>ΕΠΙ ΦΙΛΙΣΤΟΥ ΕΙΚΑΔΙΟΣ</legend>
+    <description>Nike advancing right, carrying trophy over shoulder</description>
+  </reverse>
+  <measurement diameter="17 mm" weight="4.36 g" />
+  <image>
+    <obverse file="RPC I 2476 (A).jpg" />
+    <reverse file="RPC I 2476 (R).jpg" />
+  </image>
+  <deity name="Nike" />
+  <origin price="121" currency="EUR" rate="1" fee="14.5%" 
+          seller="Demos AC sp. z o.o." date="17.04.2021" auction="Auction 1" lot="230" invoice="Demos Auctions - 01" />
+  <remark>The portrait might be of Nero as Caesar.</remark>
+</coin>

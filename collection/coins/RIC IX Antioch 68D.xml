@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC IX Antioch 68D">
+  <identity set="Roman Imperial" />
+  <emperor name="Arcadius" />
+  <denomination name="Maiorina" />
+  <mint>
+    <date from="392" to="395" />
+    <place city="Antiochia" region="Syria" />
+  </mint>
+  <obverse>
+    <legend>D N ARCADI-VS P F AVG</legend>
+    <description>Bust of Arcadius, rosette-diademed, draped and cuirassed, right</description>
+  </obverse>
+  <reverse>
+    <legend>GLORIA-ROMANORVM || ANTB</legend>
+    <description>Emperor, head right, standing facing, holding standard and globe</description>
+  </reverse>
+  <measurement diameter="23.1 mm" weight="4.06 g" />
+  <image>
+    <obverse file="RIC IX Antioch 68D (A).jpg" />
+    <reverse file="RIC IX Antioch 68D (R).jpg" />
+  </image>
+  <origin price="10" currency="EUR" rate="1" fee="18.15%" 
+          seller="Bucephalus Numismatic" date="09.09.2023" auction="Bronze Auction 24" lot="1030" invoice="Bucephalus Numismatic - 02" />
+  <legend>
+    <obverse>
+      <entry key="D N" />
+      <entry key="ARCADIVS" />
+      <entry key="P F" />
+      <entry key="AVG" />
+    </obverse>
+    <reverse>
+      <entry key="GLORIA ROMANORVM" />
+    </reverse>
+    <mintmark mint="ANTB" />
+  </legend>
+</coin>

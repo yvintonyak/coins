@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC V Valerian 241">
+  <identity set="Roman Imperial" />
+  <emperor name="Valerianus" />
+  <denomination name="Antoninian" />
+  <mint>
+    <date from="257" />
+    <place city="Mediolanum" region="Italia" />
+  </mint>
+  <obverse>
+    <legend>IMP VALERIANVS P AVG</legend>
+    <description>Bust of Valerian, radiate, draped, right</description>
+  </obverse>
+  <reverse>
+    <legend>FIDES MILITVM</legend>
+    <description>Fides, draped, standing left, holding standard in right hand and transverse ensign in left hand</description>
+  </reverse>
+  <measurement diameter="20 mm" weight="3.29 g" />
+  <image>
+    <obverse file="RIC V Valerian 241 (A).jpg" />
+    <reverse file="RIC V Valerian 241 (R).jpg" />
+  </image>
+  <deity name="Fides" />
+  <origin price="50" currency="EUR" rate="1" fee="18.0%" 
+          seller="Savoca Numismatik GmbH" date="11.02.2019" auction="16th Blue Auction" lot="1485" invoice="Savoca Numismatik - 09" />
+  <legend>
+    <obverse>
+      <entry key="IMP" />
+      <entry key="VALERIANVS P" />
+      <entry key="AVG" />
+    </obverse>
+    <reverse>
+      <entry key="FIDES MILITVM" />
+    </reverse>
+  </legend>
+</coin>

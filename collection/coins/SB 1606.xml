@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="SB 1606">
+  <identity set="Byzantine Empire" />
+  <emperor name="Nicephorus I" />
+  <denomination name="Follis" />
+  <mint>
+    <date from="802" to="811" />
+    <place city="Constantinopopis" />
+  </mint>
+  <obverse>
+    <legend>NICOFOR BAS</legend>
+    <description>Crowned bust of the Emperor facing with short beard, wearing chlamys, holding cross potent and akakia</description>
+  </obverse>
+  <reverse>
+    <legend>M | XXX | NNN | A </legend>
+    <description>Large M, XXX to left, cross above, NNN to right, A below</description>
+  </reverse>
+  <measurement diameter="22.72 mm" weight="4.14 g" />
+  <image>
+    <obverse file="SB 1606 (A).jpg" />
+    <reverse file="SB 1606 (R).jpg" />
+  </image>
+  <origin price="20" currency="EUR" rate="1" fee="20%" 
+          seller="Pandora Numismatics" date="27.02.2026" auction="Auction 39" lot="841" invoice="Concordia Numismatic - 03" />
+</coin>

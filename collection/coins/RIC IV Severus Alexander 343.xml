@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC IV Severus Alexander 343">
+  <identity set="Roman Imperial" />
+  <emperor name="Julia Mamaea" />
+  <denomination name="Denar" />
+  <mint>
+    <date from="225" to="235" />
+    <place city="Roma" region="Italia" />
+  </mint>
+  <obverse>
+    <legend>IVLIA MAMAEA AVG</legend>
+    <description>Bust of Julia Mamaea, draped, right</description>
+  </obverse>
+  <reverse>
+    <legend>IVNO CONSERVATRIX</legend>
+    <description>Juno, diademed, veiled, draped, standing left, holding patera in right hand and sceptre in left hand; at feet, peacock</description>
+  </reverse>
+  <measurement diameter="20 mm" weight="3.00 g" />
+  <image>
+    <obverse file="RIC IV Severus Alexander 343 (A).jpg" />
+    <reverse file="RIC IV Severus Alexander 343 (R).jpg" />
+  </image>
+  <deity name="Juno Regina" />
+  <origin price="85" currency="GBP" rate="1.16" fee="22.2%" 
+          seller="Roma Numismatics Limited" date="11.07.2019" auction="E-Sale 59" lot="899" invoice="Roma Numismatics - 01" />
+  <legend>
+    <obverse>
+      <entry key="IVLIA MAMAEA" />
+      <entry key="AVG[usta]" />
+    </obverse>
+    <reverse>
+      <entry key="IVNO CONSERVATRIX" />
+    </reverse>
+  </legend>
+</coin>

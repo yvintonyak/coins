@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC I Augustus 469">
+  <identity set="Roman Imperial" />
+  <emperor name="Tiberius Caesar" />
+  <denomination name="As" />
+  <mint>
+    <date from="10" to="11" />
+    <place city="Roma" region="Italia" />
+  </mint>
+  <obverse>
+    <legend>TI CAESAR AVGVST F IMPERAT V</legend>
+    <description>Head of Tiberius, bare, right</description>
+  </obverse>
+  <reverse>
+    <legend>PONTIFEX TRIBVN POTESTATE XII | S C</legend>
+    <description>Legend surrounding S C</description>
+  </reverse>
+  <measurement diameter="30 mm" weight="10.36 g" />
+  <image>
+    <obverse file="RIC I Augustus 469 (A).jpg" />
+    <reverse file="RIC I Augustus 469 (R).jpg" />
+  </image>
+  <origin price="80" currency="EUR" rate="1" fee="20%" 
+          seller="Artemide Kunstauktionen GmbH" date="04.12.2022" auction="e-Live Auktion 25" lot="607" invoice="Artemide Aste - 06" />
+  <remark></remark>
+  <legend>
+    <obverse>
+      <entry key="TI" />
+      <entry key="CAESAR" />
+      <entry key="AVGVST F" />
+      <entry key="IMPERAT V" />
+    </obverse>
+    <reverse>
+      <entry key="PONTIFEX" />
+      <entry key="TRIBVN POTESTATE XII" />
+      <entry key="S C" />
+    </reverse>
+  </legend>
+</coin>

@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC VI Cyzicus 12b">
+  <identity set="Roman Imperial" />
+  <emperor name="Maximianus Herculius" />
+  <denomination name="Follis" />
+  <mint>
+    <date from="297" to="299" />
+    <place city="Cyzicus" region="Asia" />
+  </mint>
+  <obverse>
+    <legend>IMP C M A MAXIMIANVS P F AVG</legend>
+    <description>Head of Maximian, laureate, right</description>
+  </obverse>
+  <reverse>
+    <legend>GENIO POPV-LI ROMANI || K Є</legend>
+    <description>Genius, wearing modius, nude, chlamys draped over left shoulder, standing left, pouring liquid from patera in right hand and holding cornucopiae in left hand</description>
+  </reverse>
+  <measurement diameter="30 mm" weight="9.38 g" />
+  <image>
+    <obverse file="RIC VI Cyzicus 12b (A).jpg" />
+    <reverse file="RIC VI Cyzicus 12b (R).jpg" />
+  </image>
+  <deity name="Genius" />
+  <origin price="60" currency="EUR" rate="1" fee="14.9%" 
+          seller="Numismatik Naumann GmbH" date="07.04.2019" auction="Auktion 76" lot="517" invoice="Numismatik Naumann - 03" />
+  <legend>
+    <obverse>
+      <entry key="IMP" />
+      <entry key="C" />
+      <entry key="M A MAXIMIANVS" />
+      <entry key="P F" />
+      <entry key="AVG" />
+    </obverse>
+    <reverse>
+      <entry key="GENIO POPVLI ROMANI" />
+    </reverse>
+    <mintmark mint="K Є" />
+  </legend>
+</coin>

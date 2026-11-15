@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC VIII Antioch 216">
+  <identity set="Roman Imperial" />
+  <emperor name="Julianus II" />
+  <denomination name="Maiorina" />
+  <mint>
+    <date from="361" to="363" />
+    <place city="Antiochia" region="Syria" />
+  </mint>
+  <obverse>
+    <legend>D N FL CL IVLI-ANVS P F AVG</legend>
+    <description>Bust of Julian, pearl-diademed, draped, cuirassed, right</description>
+  </obverse>
+  <reverse>
+    <legend>SECVRITAS REI PVB || (palm branch left)ANTΓ(palm branch right)</legend>
+    <description>Bull, standing right, head front; above, two stars</description>
+  </reverse>
+  <measurement diameter="28 mm" weight="8.29 g" />
+  <image>
+    <obverse file="RIC VIII Antioch 216 (A).jpg" />
+    <reverse file="RIC VIII Antioch 216 (R).jpg" />
+  </image>
+  <origin price="100" currency="EUR" rate="1" fee="18.0%" 
+          seller="Artemide Kunstauktionen GmbH" date="26.01.2020" auction="e-Live Auktion 11" lot="623" invoice="Artemide Aste - 04" />
+  <legend>
+    <obverse>
+      <entry key="D N" />
+      <entry key="FL CL IVLIANVS" />
+      <entry key="P F" />
+      <entry key="AVG" />
+    </obverse>
+    <reverse>
+      <entry key="SECVRITAS REIPVB" />
+    </reverse>
+    <mintmark mint="(palm branch left)ANTΓ(palm branch right)" />
+  </legend>
+</coin>

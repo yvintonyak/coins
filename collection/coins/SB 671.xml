@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="SB 671">
+  <identity set="Byzantine Empire" />
+  <emperor name="Phocas" />
+  <denomination name="Follis" />
+  <mint>
+    <date from="602" to="603" />
+    <place city="Antiochia (Theoupolis)" />
+  </mint>
+  <obverse>
+    <legend>DN FOCA NE PE AV</legend>
+    <description>Phocas on left, holding cross on globe and Leontia, usually but not always nimbate, on right, holding sceptre topped by cross, standing facing</description>
+  </obverse>
+  <reverse>
+    <legend>m | ANNO | I | THEUP</legend>
+    <description>Large m (lower case), ANNO to left, cross above, regnal year 1 (602-603) to right, mintmark THEUP</description>
+  </reverse>
+  <measurement diameter="29 mm" weight="10.61 g" />
+  <image>
+    <obverse file="SB 671 (A).jpg" />
+    <reverse file="SB 671 (R).jpg" />
+  </image>
+  <origin price="22" currency="EUR" rate="1" fee="18.0%" 
+          seller="Savoca Numismatik GmbH" date="30.04.2023" auction="162nd Blue Auction" lot="2247" invoice="Savoca Numismatik - 41" />
+  <remark>with Leontia. Sear 671</remark>
+</coin>

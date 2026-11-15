@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC VI Aquileia 76b">
+  <identity set="Roman Imperial" />
+  <emperor name="Severus II" />
+  <denomination name="Follis" />
+  <mint>
+    <date from="306" to="307" />
+    <place city="Aquileia" region="Italia" />
+  </mint>
+  <obverse>
+    <legend>IMP C SEVERVS P F AVG</legend>
+    <description>Head of Severus II, laureate, right</description>
+  </obverse>
+  <reverse>
+    <legend>FIDES MILITVM AVGG ET CAESS NN || AQS</legend>
+    <description>Fides, draped, standing front, head left, holding standard in each hand</description>
+  </reverse>
+  <measurement diameter="29 mm" weight="8.01 g" />
+  <image>
+    <obverse file="RIC VI Aquileia 76b (A).jpg" />
+    <reverse file="RIC VI Aquileia 76b (R).jpg" />
+  </image>
+  <deity name="Fides" />
+  <origin price="80" currency="EUR" rate="1" fee="23%" 
+          seller="Heritage Auctions Europe" date="26.05.2021" auction="Auktion 70" lot="2808" invoice="Heritage Auctions - 03" />
+  <legend>
+    <obverse>
+      <entry key="IMP" />
+      <entry key="C" />
+      <entry key="SEVERVS[II]" />
+      <entry key="P F" />
+      <entry key="AVG" />
+    </obverse>
+    <reverse>
+      <entry key="FIDES MILITVM AVGG ET CAESS NN" />
+    </reverse>
+    <mintmark mint="" />
+  </legend>
+</coin>

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC I Claudius 92">
+  <identity set="Roman Imperial" />
+  <emperor name="Antonia Minor" />
+  <denomination name="Dupondius" />
+  <mint>
+    <date from="41" to="50" />
+    <place city="Roma" region="Italia" />
+  </mint>
+  <obverse>
+    <legend>ANTONIA AVGVSTA</legend>
+    <description>Bust of Antonia Minor, bare-headed, draped, right; hair in long plait</description>
+  </obverse>
+  <reverse>
+    <legend>TI CLAVDIVS CAESAR AVG P M TR P IMP | S C</legend>
+    <description>Claudius, veiled and togate, standing left, holding simpulum in right hand</description>
+  </reverse>
+  <measurement diameter="28 mm" weight="16.14 g" />
+  <image>
+    <obverse file="RIC I Claudius 92 (A).jpg" />
+    <reverse file="RIC I Claudius 92 (R).jpg" />
+  </image>
+  <origin price="190" currency="EUR" rate="1" fee="18%" 
+          seller="Tauler n Fau Herrero" date="07.07.2020" auction="E-Auktion 61" lot="1198" invoice="Tauler-n-Fau - 05" />
+  <legend>
+    <obverse>
+      <entry key="ANTONIA" />
+      <entry key="AVGVSTA" />
+    </obverse>
+    <reverse>
+      <entry key="TI CLAVDIVS" />
+      <entry key="CAESAR" />
+      <entry key="AVG" />
+      <entry key="P M" />
+      <entry key="TR P" />
+      <entry key="IMP" />
+      <entry key="S C" />
+    </reverse>
+  </legend>
+</coin>

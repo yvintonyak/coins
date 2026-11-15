@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC VIII Nicomedia 5">
+  <identity set="Roman Imperial" />
+  <emperor name="Constantinus II" />
+  <denomination name="Follis" />
+  <mint>
+    <date from="337" to="340" />
+    <place city="Nicomedia" region="Bithynia et Pontus" />
+  </mint>
+  <obverse>
+    <legend>D N CONSTAN-TINVS P F AVG</legend>
+    <description>Head of Constantine II, laureate, right</description>
+  </obverse>
+  <reverse>
+    <legend>GLOR-IA EXERC-ITVS || SMNA</legend>
+    <description>Two soldiers, helmeted, draped, cuirassed, facing front, heads toward each other, each holding inverted spear in outer hand and resting inner hand on shield; between them, a standard</description>
+  </reverse>
+  <measurement diameter="16 mm" weight="1.27 g" />
+  <image>
+    <obverse file="RIC VIII Nicomedia 5 (A).jpg" />
+    <reverse file="RIC VIII Nicomedia 5 (R).jpg" />
+  </image>
+  <origin price="30" currency="EUR" rate="1" fee="0%" 
+          seller="NumisCorner" date="02.08.2023" auction="vcoins.com" invoice="NumisCorner - 01" />
+  <legend>
+    <obverse>
+      <entry key="D N" />
+      <entry key="CONSTANTINVS[II]" />
+      <entry key="P F" />
+      <entry key="AVG" />
+    </obverse>
+    <reverse>
+      <entry key="GLORIA EXERCITVS" />
+    </reverse>
+    <mintmark mint="SMNA" />
+  </legend>
+</coin>

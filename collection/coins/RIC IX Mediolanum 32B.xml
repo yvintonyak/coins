@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC IX Mediolanum 32B">
+  <identity set="Roman Imperial" />
+  <emperor name="Arcadius" />
+  <denomination name="Siliqua" />
+  <mint>
+    <date from="393" to="394" />
+    <place city="Mediolanum" region="Italia" />
+  </mint>
+  <obverse>
+    <legend>D N ARCADI-VS P F AVG</legend>
+    <description>Bust of Arcadius, pearl-diademed, draped and cuirassed, right</description>
+  </obverse>
+  <reverse>
+    <legend>VIRTVS RO-MANORVM || MDPS</legend>
+    <description>Roma seated left on cuirass, holding Victory on globe and reversed spear</description>
+  </reverse>
+  <measurement diameter="16 mm" weight="1.19 g" />
+  <image>
+    <obverse file="RIC IX Mediolanum 32B (A).jpg" />
+    <reverse file="RIC IX Mediolanum 32B (R).jpg" />
+  </image>
+  <deity name="Roma" />
+  <origin price="110" currency="GBP" rate="1.19" fee="20%" 
+          seller="Roma Numismatics Limited" date="04.02.2021" auction="E-Sale 80" lot="1747" invoice="Roma Numismatics - 03" />
+  <legend>
+    <obverse>
+      <entry key="D N" />
+      <entry key="ARCADIVS" />
+      <entry key="P F" />
+      <entry key="AVG" />
+    </obverse>
+    <reverse>
+      <entry key="VIRTVS ROMANORVM" />
+    </reverse>
+    <mintmark mint="MDPS" />
+  </legend>
+</coin>

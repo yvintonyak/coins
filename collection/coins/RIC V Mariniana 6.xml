@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC V Mariniana 6">
+  <identity set="Roman Imperial" />
+  <emperor name="Diva Mariniana" />
+  <denomination name="Antoninian" />
+  <mint>
+    <date from="254" />
+    <place city="Roma" region="Italia" />
+  </mint>
+  <obverse>
+    <legend>DIVAE MARINIANAE</legend>
+    <description>Bust of Mariniana, diademed, veiled, draped, on crescent, right</description>
+  </obverse>
+  <reverse>
+    <legend>CONSECRATIO</legend>
+    <description>Mariniana, draped, seated on peacock flying right to heaven</description>
+  </reverse>
+  <measurement diameter="22 mm" weight="3.68 g" />
+  <image>
+    <obverse file="RIC V Mariniana 6 (A).jpg" />
+    <reverse file="RIC V Mariniana 6 (R).jpg" />
+  </image>
+  <origin price="141" currency="EUR" rate="1" fee="14.9%" 
+          seller="Numismatik Naumann GmbH" date="03.11.2019" auction="Auktion 83" lot="684" invoice="Numismatik Naumann - 10" />
+  <legend>
+    <obverse>
+      <entry key="DIVAE MARINIANAE" />
+    </obverse>
+    <reverse>
+      <entry key="CONSECRATIO" />
+    </reverse>
+  </legend>
+</coin>

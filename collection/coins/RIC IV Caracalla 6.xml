@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC IV Caracalla 6">
+  <identity set="Roman Imperial" />
+  <emperor name="Caracalla Caesar" />
+  <denomination name="Denar" />
+  <mint>
+    <date from="196" to="198" />
+    <place city="Roma" region="Italia" />
+  </mint>
+  <obverse>
+    <legend>M AVR ANT[ON CAES] PONTIF</legend>
+    <description>Bust of Caracalla, bare-headed, draped, cuirassed, right</description>
+  </obverse>
+  <reverse>
+    <legend>[DESTINATO IMP]ERAT</legend>
+    <description>Lituus, apex, bucranium, and simpulum</description>
+  </reverse>
+  <measurement diameter="17 mm" weight="3.20 g" />
+  <image>
+    <obverse file="RIC IV Caracalla 6 (A).jpg" />
+    <reverse file="RIC IV Caracalla 6 (R).jpg" />
+  </image>
+  <origin price="51" currency="CHF" rate="0.97" fee="18.5%" 
+          seller="Leu Numismatik AG" date="13.12.2020" auction="Webauktion 14" lot="1357" invoice="Leu Numismatik - 07" />
+  <legend>
+    <obverse>
+      <entry key="M AVR ANTON[caracalla]" />
+      <entry key="CAES" />
+      <entry key="PONTIF" />
+    </obverse>
+    <reverse>
+      <entry key="DESTINATO IMPERAT" />
+    </reverse>
+  </legend>
+</coin>

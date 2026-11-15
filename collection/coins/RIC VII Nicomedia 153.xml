@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC VII Nicomedia 153">
+  <identity set="Roman Imperial" />
+  <emperor name="Constantinus I" />
+  <denomination name="Follis" />
+  <mint>
+    <date from="328" to="329" />
+    <place city="Nicomedia" region="Bithynia et Pontus" />
+  </mint>
+  <obverse>
+    <legend>CONSTAN-TINVS AVG</legend>
+    <description>Head of Constantine I, pearl-diademed, right</description>
+  </obverse>
+  <reverse>
+    <legend>PROVIDEN-TIAE AVGG || SMNA</legend>
+    <description>Camp gate with two turrets, without doors, with two stone layers; star above</description>
+  </reverse>
+  <measurement diameter="18.5 mm" weight="2.61 g" />
+  <image>
+    <obverse file="RIC VII Nicomedia 153 (A).jpg" />
+    <reverse file="RIC VII Nicomedia 153 (R).jpg" />
+  </image>
+  <origin price="4" currency="EUR" rate="1" fee="0.0%" 
+          seller="Dutch Numismatic Auction" date="28.04.2019" auction="Auction 3" lot="395" invoice="Agora Numismatik - 01" />
+  <legend>
+    <obverse>
+      <entry key="CONSTANTINVS[I]" />
+      <entry key="AVG" />
+    </obverse>
+    <reverse>
+      <entry key="PROVIDENTIAE AVGG" />
+    </reverse>
+    <mintmark mint="SMNA" />
+  </legend>
+</coin>

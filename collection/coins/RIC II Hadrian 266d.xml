@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC II Hadrian 266d">
+  <identity set="Roman Imperial" />
+  <emperor name="Hadrianus" />
+  <denomination name="Denar" />
+  <mint>
+    <date from="134" to="138" />
+    <place city="Roma" region="Italia" />
+  </mint>
+  <obverse>
+    <legend>HADRIANVS AVG COS III P P</legend>
+    <description>Bust of Hadrian, laureate, right</description>
+  </obverse>
+  <reverse>
+    <legend>ROMVLO CONDITORI</legend>
+    <description>Romulus, bare-headed, in military dress, advancing right, holding transverse spear in right hand and trophy over left shoulder in left</description>
+  </reverse>
+  <measurement diameter="18 mm" weight="3.44 g" />
+  <image>
+    <obverse file="RIC II Hadrian 266d (A).jpg" />
+    <reverse file="RIC II Hadrian 266d (R).jpg" />
+  </image>
+  <deity name="Romulus" />
+  <origin price="95" currency="EUR" rate="1" fee="18.0%" 
+          seller="Savoca Numismatik GmbH" date="20.01.2019" auction="15th Blue Auction" lot="1574" invoice="Savoca Numismatik - 08" />
+  <legend>
+    <obverse>
+      <entry key="HADRIANVS" />
+      <entry key="AVG" />
+      <entry key="COS III" />
+      <entry key="P P" />
+    </obverse>
+    <reverse>
+      <entry key="ROMVLO CONDITORI" />
+    </reverse>
+  </legend>
+</coin>

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC V Claudius Gothicus 225">
+  <identity set="Roman Imperial" />
+  <emperor name="Claudius II Gothicus" />
+  <denomination name="Antoninian" />
+   <mint>
+    <date from="268" to="270" />
+    <place city="Antiochia" region="Syria" />
+  </mint>
+  <obverse>
+    <legend>IMP C CLAVDIVS AVG</legend>
+    <description>Bust of Claudius Gothicus, radiate, draped, right or bust of Claudius Gothicus, radiate, cuirassed, right or head of Claudius Gothicus, radiate, left</description>
+  </obverse>
+  <reverse>
+    <legend>VIRTVS AVG || S</legend>
+    <description>Minerva, helmeted, draped, standing right, resting right hand on shield and holding spear in left hand</description>
+  </reverse>
+  <measurement diameter="20 mm" weight="3.58 g" />
+  <image>
+    <obverse file="RIC V Claudius Gothicus 225 (A).jpg" />
+    <reverse file="RIC V Claudius Gothicus 225 (R).jpg" />
+  </image>
+  <deity name="Minerva" />
+  <origin price="55" currency="EUR" rate="1.18" fee="18.0%" 
+          seller="Savoca Numismatics Ltd" date="04.05.2019" auction="2nd Blue Auction" lot="1469" invoice="Savoca Numismatik - 15" />
+  <legend>
+    <obverse>
+      <entry key="IMP" />
+      <entry key="C" />
+      <entry key="CLAVDIVS" />
+      <entry key="AVG" />
+    </obverse>
+    <reverse>
+      <entry key="VIRTVS AVG" />
+    </reverse>
+    <mintmark mint="S" />
+  </legend>
+</coin>

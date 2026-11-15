@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC IV Pupienus 20">
+  <identity set="Roman Imperial" />
+  <emperor name="Pupienus" />
+  <denomination name="Sestertius" />
+  <mint>
+    <date from="238" />
+    <place city="Roma" region="Italia" />
+  </mint>
+  <obverse>
+    <legend>IMP CAES M CLOD PVPIENVS AVG</legend>
+    <description></description>
+  </obverse>
+  <reverse>
+    <legend>CONCORDIA AVGG | S C</legend>
+    <description>Concordia, draped, seated left, holding patera in extended right hand and cornucopiae in left hand</description>
+  </reverse>
+  <measurement diameter="31 mm" weight="18.16 g" />
+  <image>
+    <obverse file="RIC IV Pupienus 20 (A).jpg" />
+    <reverse file="RIC IV Pupienus 20 (R).jpg" />
+  </image>
+  <deity name="Concordia" />
+  <origin price="170" currency="EUR" rate="1" fee="23%" 
+          seller="Heritage Auctions Europe" date="26.05.2021" auction="Auktion 70" lot="2689" invoice="Heritage Auctions - 04" />
+  <legend>
+    <obverse>
+      <entry key="IMP" />
+      <entry key="CAES" />
+      <entry key="M CLOD PVPIENVS" />
+      <entry key="AVG" />
+    </obverse>
+    <reverse>
+      <entry key="CONCORDIA AVGG" />
+      <entry key="S C" />
+    </reverse>
+  </legend>
+</coin>

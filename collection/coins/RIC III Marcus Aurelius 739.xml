@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC III Marcus Aurelius 739">
+  <identity set="Roman Imperial" />
+  <emperor name="Diva Faustina Minor" />
+  <denomination name="Denar" />
+  <mint>
+    <date from="176" to="180" />
+    <place city="Roma" region="Italia" />
+  </mint>
+  <obverse>
+    <legend>DIVA FAVSTINA PIA</legend>
+    <description>Bust of Diva Faustina Minor, hair waved and fastened in a bun on back of head, draped, right</description>
+  </obverse>
+  <reverse>
+    <legend>AETERNITAS</legend>
+    <description>Aeternitas, draped, standing front, head left, arranging veil on right shoulder with right hand and holding torch in left hand</description>
+  </reverse>
+  <measurement diameter="18.5 mm" weight="3.38 g" />
+  <image>
+    <obverse file="RIC III Marcus Aurelius 739 (A).jpg" />
+    <reverse file="RIC III Marcus Aurelius 739 (R).jpg" />
+  </image>
+  <deity name="Aeternitas" />
+  <origin price="110" currency="EUR" rate="1" fee="17.5%" 
+          seller="InAsta S.p.A" date="15.05.2020" auction="Auction 87" lot="134" invoice="InAsta Spa - 02" />
+  <legend>
+    <obverse>
+      <entry key="DIVA" />
+      <entry key="FAVSTINA[minor]" />
+      <entry key="PIA" />
+    </obverse>
+    <reverse>
+      <entry key="AETERNITAS" />
+    </reverse>
+  </legend>
+</coin>

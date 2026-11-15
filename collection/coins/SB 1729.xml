@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="SB 1729">
+  <identity set="Byzantine Empire" dynasty="" />
+  <emperor name="Leo VI" />
+  <denomination name="Follis" />
+  <mint>
+    <date from="886" to="912" />
+    <place city="Constantinopolis" />
+  </mint>
+  <obverse>
+    <legend>+LЄOҺ ЬASILЄVS ROM</legend>
+    <description>Crowned and draped bust of Leo VI facing, holding akakia</description>
+  </obverse>
+  <reverse>
+    <legend>+LЄOҺ | ЄҺ ӨЄO ЬA | SILЄVS R | OmЄOҺ</legend>
+    <description>Legend in four lines</description>
+  </reverse>
+  <measurement diameter="24.1 mm" weight="5.8 g" />
+  <image>
+    <obverse file="SB 1729 (A).jpg" />
+    <reverse file="SB 1729 (R).jpg" />
+  </image>
+  <origin price="30" currency="EUR" rate="1" fee="18%" 
+          seller="Lydia Numismatics" date="17.07.2021" auction="Online Auktion 9" lot="722" invoice="Lydia Numismatics - 02" />
+  <remark>Sear 1729; DOC 8</remark>
+</coin>

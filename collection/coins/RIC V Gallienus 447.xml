@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC V Gallienus 447">
+  <identity set="Roman Imperial" />
+  <emperor name="Gallienus" />
+  <denomination name="Antoninian" />
+  <mint>
+    <date from="255" to="256" />
+    <place city="Samosata" region="Syria" />
+  </mint>
+  <obverse>
+    <legend>IMP C P LIC GALLIENVS P F AVG</legend>
+    <description>Bust of Gallienus, radiate, draped, cuirassed, right</description>
+  </obverse>
+  <reverse>
+    <legend>PIETAS AVGG</legend>
+    <description>Gallienus and Valerian, standing face to face, sacrificing at altar; right figure holding patera in right hand and parazonium in left hand (?); left figure holding patera in right hand and eagle-tipped sceptre in left hand; star above</description>
+  </reverse>
+  <measurement diameter="19 mm" weight="3.35 g" />
+  <image>
+    <obverse file="RIC V Gallienus 447 (A).jpg" />
+    <reverse file="RIC V Gallienus 447 (R).jpg" />
+  </image>
+  <origin price="32" currency="GBP" rate="1.18" fee="18.0%" 
+          seller="Savoca Numismatics Ltd" date="15.03.2020" auction="London Auktion 5" lot="701" invoice="Savoca Numismatik - 25" />
+  <legend>
+    <obverse>
+      <entry key="IMP" />
+      <entry key="C" />
+      <entry key="P LIC GALLIENVS" />
+      <entry key="P F" />
+      <entry key="AVG" />
+    </obverse>
+    <reverse>
+      <entry key="PIETAS AVGG" />
+    </reverse>
+  </legend>
+</coin>

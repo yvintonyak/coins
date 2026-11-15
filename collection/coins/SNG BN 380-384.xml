@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="SNG BN 380-384">
+  <identity set="Ancient Greece" />
+  <denomination name="Obol" />
+  <mint>
+    <date from="525 BC" to="475 BC" />
+    <place city="Cyzicus" region="Mysia" />
+  </mint>
+  <obverse>
+    <description>Forepart of boar running left, tunny fish upwards behind</description>
+  </obverse>
+  <reverse>
+    <description>Head of roaring lion left, backwards K above left, all in incuse square</description>
+  </reverse>
+  <measurement diameter="10 mm" weight="0.77 g" />
+  <image>
+    <obverse file="SNG BN 380-384 (A).jpg" />
+    <reverse file="SNG BN 380-384 (R).jpg" />
+  </image>
+  <origin price="24" currency="EUR" rate="1" fee="18.0%" 
+          seller="Savoca Numismatik GmbH" date="20.01.2019" auction="15th Blue Auction" lot="387" invoice="Savoca Numismatik - 08" />
+</coin>

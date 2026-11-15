@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC VIII Rome 21">
+  <identity set="Roman Imperial" />
+  <emperor name="Constantinus II" />
+  <denomination name="Follis" />
+  <mint>
+    <date from="337" to="340" />
+    <place city="Roma" region="Italia" />
+  </mint>
+  <obverse>
+    <legend>VIC CONSTANTINVS AVG</legend>
+    <description>Bust of Constantinus II, laureate, rosette-diademed, cuirassed, right</description>
+  </obverse>
+  <reverse>
+    <legend>VIRTVS AVGVSTI || R*[?]</legend>
+    <description>Constantinus II, draped, cuirassed, standing front, head right, holding spear in right hand, resting left hand on shield</description>
+  </reverse>
+  <measurement diameter="15 mm" weight="1.72 g" />
+  <image>
+    <obverse file="RIC VIII Rome 21 (A).jpg" />
+    <reverse file="RIC VIII Rome 21 (R).jpg" />
+  </image>
+  <origin price="45" currency="EUR" rate="1" fee="18.9%" 
+          seller="Numismatik Naumann GmbH" date="07.06.2026" auction="Auction 168" lot="740" invoice="Numismatik Naumann - 30" />
+  <legend>
+    <obverse>
+      <entry key="VIC" />
+      <entry key="CONSTANTINVS[II]" />
+      <entry key="AVG" />
+    </obverse>
+    <reverse>
+      <entry key="VIRTVS AVGVSTI" />
+    </reverse>
+    <mintmark mint="R*[?]" />
+  </legend>
+</coin>

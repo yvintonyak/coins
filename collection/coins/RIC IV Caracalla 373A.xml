@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC IV Caracalla 373A">
+  <identity set="Roman Imperial" />
+  <emperor name="Julia Domna" />
+  <denomination name="Denar" />
+  <mint>
+    <date from="211" to="217" />
+    <place city="Roma" region="Italia" />
+  </mint>
+  <obverse>
+    <legend>IVLIA PIA FELIX AVG</legend>
+    <description>Bust of Julia Domna, hair elaborately waved in ridges and turned up low at the back, draped, right</description>
+  </obverse>
+  <reverse>
+    <legend>DIANA LVCIFERA</legend>
+    <description>Diana, draped, standing left, holding a torch in both hands</description>
+  </reverse>
+  <measurement diameter="18 mm" weight="3.09 g" />
+  <image>
+    <obverse file="RIC IV Caracalla 373A (A).jpg" />
+    <reverse file="RIC IV Caracalla 373A (R).jpg" />
+  </image>
+  <deity name="Diana" />
+  <origin price="85" currency="EUR" rate="1" fee="18.0%" 
+          seller="Savoca Numismatik GmbH" date="10.03.2019" auction="31th Silver Auction" lot="492" invoice="Savoca Numismatik - 10" />
+  <legend>
+    <obverse>
+      <entry key="IVLIA[domna]" />
+      <entry key="PIA" />
+      <entry key="FELIX" />
+      <entry key="AVG[usta]" />
+    </obverse>
+    <reverse>
+      <entry key="DIANA LVCIFERA" />
+    </reverse>
+  </legend>
+</coin>

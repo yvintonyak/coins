@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC IV Elagabalus 243">
+  <identity set="Roman Imperial" />
+  <emperor name="Julia Soaemias" />
+  <denomination name="Denar" />
+  <mint>
+    <date from="218" to="222" />
+    <place city="Roma" region="Italia" />
+  </mint>
+  <obverse>
+    <legend>IVLIA SOAEMIAS AVG</legend>
+    <description>Bust of Julia Soaemias, hair waved and turned up low at the back, draped, right</description>
+  </obverse>
+  <reverse>
+    <legend>VENVS CAELESTIS</legend>
+    <description>Venus, diademed, draped, seated left, holding apple in extended right hand and sceptre in left hand; at feet, child</description>
+  </reverse>
+  <measurement diameter="18 mm" weight="3.24 g" />
+  <image>
+    <obverse file="RIC IV Elagabalus 243 (A).jpg" />
+    <reverse file="RIC IV Elagabalus 243 (R).jpg" />
+  </image>
+  <deity name="Venus" />
+  <origin price="65" currency="GBP" rate="1.16" fee="22.2%" 
+          seller="Roma Numismatics Limited" date="11.07.2019" auction="E-Sale 59" lot="892" invoice="Roma Numismatics - 01" />
+  <legend>
+    <obverse>
+      <entry key="IVLIA SOAEMIAS" />
+      <entry key="AVG[usta]" />
+    </obverse>
+    <reverse>
+      <entry key="VENVS CAELESTIS" />
+    </reverse>
+  </legend>
+</coin>

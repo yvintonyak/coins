@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC IV Trajan Decius 12">
+  <identity set="Roman Imperial" />
+  <emperor name="Trajanus Decius" />
+  <denomination name="Antoninian" />
+  <mint>
+    <date from="249" to="251" />
+    <place city="Roma" region="Italia" />
+  </mint>
+  <obverse>
+    <legend>IMP C M Q TRAIANVS DECIVS AVG</legend>
+    <description>Bust of Trajan Decius, radiate, draped, cuirassed, right</description>
+  </obverse>
+  <reverse>
+    <legend>DACIA</legend>
+    <description>Dacia, draped in long robe reaching feet, standing left, holding vertical staff with head of ass in right hand</description>
+  </reverse>
+  <measurement diameter="23 mm" weight="5.88 g" />
+  <image>
+    <obverse file="RIC IV Trajan Decius 12 (A).jpg" />
+    <reverse file="RIC IV Trajan Decius 12 (R).jpg" />
+  </image>
+  <origin price="80" currency="EUR" rate="1" fee="18.0%" 
+          seller="Savoca Numismatik GmbH" date="30.12.2018" auction="29th Silver Auction" lot="361" invoice="Savoca Numismatik - 07" />
+  <legend>
+    <obverse>
+      <entry key="IMP" />
+      <entry key="C" />
+      <entry key="M Q TRAIANVS DECIVS" />
+      <entry key="AVG" />
+    </obverse>
+    <reverse>
+      <entry key="DACIA" />
+    </reverse>
+  </legend>
+</coin>

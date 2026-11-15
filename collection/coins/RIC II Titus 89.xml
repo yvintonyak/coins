@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC II Titus 89">
+  <identity set="Roman Imperial" />
+  <emperor name="Titus" />
+  <denomination name="Denar" />
+  <mint>
+    <date from="79" to="80" />
+    <place city="Roma" region="Italia" />
+  </mint>
+  <obverse>
+    <legend>IMP TITVS CAES VESPASIAN AVG P M</legend>
+    <description>Head of Titus, laureate, right</description>
+  </obverse>
+  <reverse>
+    <legend>BONVS EVENTVS AVGVSTI</legend>
+    <description>Bonus Eventus, naked, standing left, holding patera in right and corn-ears and poppy in left</description>
+  </reverse>
+  <measurement diameter="18 mm" weight="3.05 g" />
+  <image>
+    <obverse file="RIC II Titus 89 (A).jpg" />
+    <reverse file="RIC II Titus 89 (R).jpg" />
+  </image>
+  <deity name="Bonus Eventus" />
+  <origin price="160" currency="EUR" rate="1" fee="18.0%" 
+          seller="Savoca Numismatik GmbH" date="12.05.2019" auction="33rd Silver Auction" lot="273" invoice="Savoca Numismatik - 16" />
+  <legend>
+    <obverse>
+      <entry key="IMP" />
+      <entry key="TITVS" />
+      <entry key="CAES" />
+      <entry key="VESPASIAN[titus]" />
+      <entry key="AVG" />
+      <entry key="P M" />
+    </obverse>
+    <reverse>
+      <entry key="BONVS EVENTVS AVGVSTI" />
+    </reverse>
+  </legend>
+</coin>

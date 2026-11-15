@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="ME 0001">
+  <identity set="Middle East" />
+  <emperor name="Khosrau II" />
+  <denomination name="Drachm" />
+  <mint>
+    <date from="607" />
+    <place city="Darabgird" region="Sasanian Empire" />
+  </mint>
+  <obverse>
+    <legend>AFZUT GDH (in Pahlawi) | HWSRWD (in Pahlawi) | APD NWKW (in Pahlawi)</legend>
+    <description>Draped bust of Khosrau II to right, wearing elaborate mural crown; behind head, AFZUT GDH ('may his kingship increase' in Pahlawi); before head, HWSRWD ('Khosrau' in Pahlawi); in outer margin, APD NWKW ('excellent' and 'good' in Pahlawi)</description>
+  </obverse>
+  <reverse>
+    <legend>HPTDH (in Pahlawi) | DA (in Pahlawi)</legend>
+    <description>Fire altar with ribbons flanked by two attendants; in upper left field, six-pointed star; in upper right field, crescent; to left, reign year HPTDH (17 in Pahlawi); to right, DA (the mint in Pahlawi: Darabgird)</description>
+  </reverse>
+  <measurement diameter="31 mm" weight="4.07 g" />
+  <image>
+    <obverse file="ME 0001 (A).jpg" />
+    <reverse file="ME 0001 (R).jpg" />
+  </image>
+  <origin price="38" currency="EUR" rate="1" fee="18.0%" 
+          seller="Savoca Numismatik GmbH" date="29.10.2022" auction="146th Blue Auction" lot="447" invoice="Savoca Numismatik - 37" />
+  <remark>temporary catalogue ID, to be identified</remark>
+</coin>

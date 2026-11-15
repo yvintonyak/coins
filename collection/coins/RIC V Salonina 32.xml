@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC V Salonina 32">
+  <identity set="Roman Imperial" />
+  <emperor name="Salonina" />
+  <denomination name="Antoninian" />
+  <mint>
+    <date from="260" to="268" />
+    <place city="Roma" region="Italia" />
+  </mint>
+  <obverse>
+    <legend>SALONINA AVG</legend>
+    <description>Bust of Salonina, diademed, draped, right, on crescent</description>
+  </obverse>
+  <reverse>
+    <legend>VESTA | Q</legend>
+    <description>Vesta, draped, seated left, holding patera in right hand and sceptre in left hand</description>
+  </reverse>
+  <measurement diameter="19 mm" weight="3.65 g" />
+  <image>
+    <obverse file="RIC V Salonina 32 (A).jpg" />
+    <reverse file="RIC V Salonina 32 (R).jpg" />
+  </image>
+  <deity name="Vesta" />
+  <origin price="45" currency="EUR" rate="1" fee="14.9%" 
+          seller="Numismatik Naumann GmbH" date="17.10.2021" auction="Auktion 109" lot="372" invoice="Numismatik Naumann - 23" />
+  <legend>
+    <obverse>
+      <entry key="SALONINA" />
+      <entry key="AVG[usta]" />
+    </obverse>
+    <reverse>
+      <entry key="VESTA" />
+    </reverse>
+    <mintmark mint="Q" />
+  </legend>
+</coin>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC VI Rome 356">
+  <identity set="Roman Imperial" />
+  <emperor name="Constantinus I" />
+  <denomination name="Half Follis" />
+  <mint>
+    <date from="312" to="313" />
+    <place city="Roma" region="Italia" />
+  </mint>
+  <obverse>
+    <legend>FL VAL CONSTANTINVS AVG</legend>
+    <description>Bust of Constantinus I, laureate, cuirassed, right</description>
+  </obverse>
+  <reverse>
+    <legend>PACI P-ERPET || R P</legend>
+    <description>Pax, draped, standing front, head left, holding branch in right hand and standard in left hand; to left, XII</description>
+  </reverse>
+  <measurement diameter="17 mm" weight="1.39 g" />
+  <image>
+    <obverse file="RIC VI Rome 356 (A).jpg" />
+    <reverse file="RIC VI Rome 356 (R).jpg" />
+  </image>
+  <origin price="21" currency="EUR" rate="1" fee="22.8%" 
+          seller="NAM Numismatic e.U." date="02.07.2026" auction="Nymphe Auction 2" lot="636" invoice="NAM Numismatic - 02" />
+  <legend>
+    <obverse>
+      <entry key="FL VAL CONSTANTINVS" />
+      <entry key="AVG" />
+    </obverse>
+    <reverse>
+      <entry key="PACI PERPET" />
+    </reverse>
+    <mintmark mint="R P" />
+  </legend>
+</coin>

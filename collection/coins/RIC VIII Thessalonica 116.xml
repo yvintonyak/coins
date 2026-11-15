@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC VIII Thessalonica 116">
+  <identity set="Roman Imperial" />
+  <emperor name="Constans" />
+  <denomination name="Centenionalis" />
+  <mint>
+    <date from="348" to="350" />
+    <place city="Thessalonica" region="Macedonia" />
+  </mint>
+  <obverse>
+    <legend>D N CONSTA-NS P F AVG</legend>
+    <description>Bust of Constans, pearl-diademed, draped, cuirassed, right, holding globe in right hand</description>
+  </obverse>
+  <reverse>
+    <legend>FEL TEMP RE-PARATIO || TSB✷</legend>
+    <description>oldier, helmeted, draped, cuirassed, advancing left, spearing fallen horseman with right hand and wearing shield on left arm; shield on ground to right; horseman wearing a pointed cap, falling forward onto hands and knees</description>
+  </reverse>
+  <measurement diameter="23 mm" weight="6.35 g" />
+  <image>
+    <obverse file="RIC VIII Thessalonica 116 (A).jpg" />
+    <reverse file="RIC VIII Thessalonica 116 (R).jpg" />
+  </image>
+  <origin price="51" currency="CHF" rate="0.97" fee="18.5%" 
+          seller="Leu Numismatik AG" date="13.12.2020" auction="Webauktion 14" lot="1486" invoice="Leu Numismatik - 07" />
+  <legend>
+    <obverse>
+      <entry key="D N" />
+      <entry key="CONSTANS" />
+      <entry key="P F" />
+      <entry key="AVG" />
+    </obverse>
+    <reverse>
+      <entry key="FEL TEMP REPARATIO" />
+    </reverse>
+    <mintmark mint="TSB✷" />
+  </legend>
+</coin>

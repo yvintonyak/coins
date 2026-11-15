@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC VI Treveri 720b">
+  <identity set="Roman Imperial" />
+  <emperor name="Constantinus I Caesar" />
+  <denomination name="Follis" />
+  <mint>
+    <date from="307" />
+    <place city="Augusta Treverorum" region="Gallia Belgica" />
+  </mint>
+  <obverse>
+    <legend>FL VAL CONSTANTINVS NOB C</legend>
+    <description>Bust of Constantine I, laureate, draped, cuirassed, right</description>
+  </obverse>
+  <reverse>
+    <legend>GENIO - POP ROM | S | A || PTR</legend>
+    <description>Genius, turreted, nude, loins draped, standing left, holding patera in right hand and cornucopiae in left hand</description>
+  </reverse>
+  <measurement diameter="27.7 mm" weight="6.73 g" />
+  <image>
+    <obverse file="RIC VI Treveri 720b (A).jpg" />
+    <reverse file="RIC VI Treveri 720b (R).jpg" />
+  </image>
+  <deity name="Genius" />
+  <origin price="40" currency="EUR" rate="1" fee="18.15%" 
+          seller="Bucephalus Numismatic" date="09.09.2023" auction="Bronze Auction 24" lot="933" invoice="Bucephalus Numismatic - 02" />
+  <remark></remark>
+  <legend>
+    <obverse>
+      <entry key="FL VAL CONSTANTINVS" />
+      <entry key="NOB C" />
+    </obverse>
+    <reverse>
+      <entry key="GENIO POP ROM" />
+    </reverse>
+    <mintmark mint="S | A || PTR" />
+  </legend>
+</coin>

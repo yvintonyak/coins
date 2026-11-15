@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC VII Arelate 264">
+  <identity set="Roman Imperial" />
+  <emperor name="Constantinus I" />
+  <denomination name="Follis" />
+  <mint>
+    <date from="324" to="325" />
+    <place city="Arelatum" region="Gallia Narbonensis" />
+  </mint>
+  <obverse>
+    <legend>CONSTAN-TINVS AVG</legend>
+    <description>Head of Constantine I, laureate, right</description>
+  </obverse>
+  <reverse>
+    <legend>PROVIDEN-TIAE AVGG || P(crescent)AR</legend>
+    <description>Camp gate with two turrets, without doors, varying number of stone layers; star above</description>
+  </reverse>
+  <measurement diameter="?" weight="3.18 g" />
+  <image>
+    <obverse file="RIC VII Arelate 264 (A).jpg" />
+    <reverse file="RIC VII Arelate 264 (R).jpg" />
+  </image>
+  <origin price="15" currency="EUR" rate="1" fee="22.0%" 
+          seller="Numismatik Zöttl" date="20.11.2021" auction="eLive Auktion 6" lot="158" invoice="Numismatik Zöttl - 03" />
+  <remark>differs from RIC VII Arelate 264: in mintmark - (crescent) instead of star (*)</remark>
+  <legend>
+    <obverse>
+      <entry key="CONSTANTINVS[I]" />
+      <entry key="AVG" />
+    </obverse>
+    <reverse>
+      <entry key="PROVIDENTIAE AVGG" />
+    </reverse>
+    <mintmark mint="P(crescent)AR" />
+  </legend>
+</coin>

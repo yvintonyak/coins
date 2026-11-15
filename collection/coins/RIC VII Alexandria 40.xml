@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC VII Alexandria 40">
+  <identity set="Roman Imperial" />
+  <emperor name="Fausta" />
+  <denomination name="Follis" />
+  <mint>
+    <date from="325" to="326" />
+    <place city="Alexandria" region="Aegyptus" />
+  </mint>
+  <obverse>
+    <legend>FLAV MAX - FAVSTA AVG</legend>
+    <description>Bust of Fausta, waved hair, mantled, right</description>
+  </obverse>
+  <reverse>
+    <legend>SPES REIP-VBLICAE || SMALB</legend>
+    <description>Spes, veiled, draped, standing front, head left, holding two children in her arms</description>
+  </reverse>
+  <measurement diameter="20 mm" weight="3.02 g" />
+  <image>
+    <obverse file="RIC VII Alexandria 40 (A).jpg" />
+    <reverse file="RIC VII Alexandria 40 (R).jpg" />
+  </image>
+  <deity name="Spes" />
+  <origin price="55" currency="GBP" rate="1.13" fee="20.0%" 
+          seller="Bertolami Fine Arts Ltd" date="15.09.2019" auction="E-Live Auktion 73" lot="1395" invoice="Bertolami Fine Arts - 03" />
+  <legend>
+    <obverse>
+      <entry key="FLAV MAX FAVSTA" />
+      <entry key="AVG[usta]" />
+    </obverse>
+    <reverse>
+      <entry key="SPES REIPVBLICAE" />
+    </reverse>
+    <mintmark mint="SMALB" />
+  </legend>
+</coin>

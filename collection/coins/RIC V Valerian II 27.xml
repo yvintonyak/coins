@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC V Valerian II 27">
+  <identity set="Roman Imperial" />
+  <emperor name="Divus Valerianus II" />
+  <denomination name="Antoninian" />
+  <mint>
+    <date from="258"/>
+    <place city="Roma" region="Italia" />
+  </mint>
+  <obverse>
+    <legend>DIVO CAES VALERIANO</legend>
+    <description>Head of Valerian II, radiate, right</description>
+  </obverse>
+  <reverse>
+    <legend>CONSECRATIO | S</legend>
+    <description>Eagle standing right, head left</description>
+  </reverse>
+  <measurement diameter="21 mm" weight="2.66 g" />
+  <image>
+    <obverse file="RIC V Valerian II 27 (A).jpg" />
+    <reverse file="RIC V Valerian II 27 (R).jpg" />
+  </image>
+  <origin price="50" currency="EUR" rate="1" fee="14.9%" 
+          seller="Numismatik Naumann" date="04.04.2021" auction="Auktion 101" lot="739" invoice="Numismatik Naumann - 21" />
+  <legend>
+    <obverse>
+      <entry key="DIVO CAES VALERIANO" />
+    </obverse>
+    <reverse>
+      <entry key="CONSECRATIO" />
+    </reverse>
+  </legend>
+</coin>

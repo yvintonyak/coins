@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC V Florian 110">
+  <identity set="Roman Imperial" />
+  <emperor name="Florianus" />
+  <denomination name="Antoninian" />
+  <mint>
+    <date from="276" />
+    <place city="Serdica" region="Thracia" />
+  </mint>
+  <obverse>
+    <legend>IMP C M AN FLORIANVS P AVG</legend>
+    <description>Bust of Florian, radiate, draped, cuirassed, right</description>
+  </obverse>
+  <reverse>
+    <legend>PROVIDEN DEOR | ✷ || A</legend>
+    <description>Providentia, draped, standing right, holding ensign in each hand, facing Sol, standing left, raising right hand and holding globe in left hand</description>
+  </reverse>
+  <measurement diameter="23 mm" weight="3.82 g" />
+  <image>
+    <obverse file="RIC V Florian 110 (A).jpg" />
+    <reverse file="RIC V Florian 110 (R).jpg" />
+  </image>
+  <deity name="Providentia, Sol Invictus" />
+  <origin price="100" currency="EUR" rate="1" fee="23.5%" 
+          seller="Emporium Hamburg Numismatics" date="24.04.2020" auction="Auction 89 n 90" lot="500" invoice="Emporium Hamburg - 01" />
+  <legend>
+    <obverse>
+      <entry key="IMP" />
+      <entry key="C" />
+      <entry key="M AN FLORIANVS" />
+      <entry key="P" />
+      <entry key="AVG" />
+    </obverse>
+    <reverse>
+      <entry key="PROVIDEN DEOR" />
+    </reverse>
+    <mintmark mint="✷ || A" />
+  </legend>
+</coin>

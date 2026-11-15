@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC VI Treveri 789">
+  <identity set="Roman Imperial" />
+  <emperor name="Divus Constantius I Chlorus" />
+  <denomination name="Follis" />
+  <mint>
+    <date from="307" to="308" />
+    <place city="Augusta Treverorum" region="Gallia Belgica" />
+  </mint>
+  <obverse>
+    <legend>DIVO CONSTANTIO PIO</legend>
+    <description>Bust of Constantius Chlorus, laureate, veiled, right</description>
+  </obverse>
+  <reverse>
+    <legend>MEMORIA FELIX || PTR</legend>
+    <description>Altar, lighted and garlanded; on either side, eagle</description>
+  </reverse>
+  <measurement diameter="26 mm" weight="4.55 g" />
+  <image>
+    <obverse file="RIC VI Treveri 789 (A).jpg" />
+    <reverse file="RIC VI Treveri 789 (R).jpg" />
+  </image>
+  <origin price="100" currency="EUR" rate="1" fee="18.0%" 
+          seller="Nomisma S.p.A." date="02.10.2019" auction="E-Live Auction 12" lot="2256" invoice="Nomisma Spa - 02" />
+  <legend>
+    <obverse>
+      <entry key="DIVO CONSTANTIO PIO" />
+    </obverse>
+    <reverse>
+      <entry key="MEMORIA FELIX" />
+    </reverse>
+    <mintmark mint="PTR" />
+  </legend>
+</coin>

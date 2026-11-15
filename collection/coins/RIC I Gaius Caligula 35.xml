@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC I Gaius Caligula 35">
+  <identity set="Roman Imperial" />
+  <emperor name="Germanicus Caesar" />
+  <denomination name="As" />
+  <mint>
+    <date from="37" to="38" />
+    <place city="Roma" region="Italia" />
+  </mint>
+  <obverse>
+    <legend>GERMANICVS CAESAR TI AVGVST F DIVI AVG N</legend>
+    <description>Head of Germanicus, bare, left</description>
+  </obverse>
+  <reverse>
+    <legend>C CAESAR AVG GERMANICVS PON M TR POT | S C</legend>
+    <description>Legend surrounding S C</description>
+  </reverse>
+  <measurement diameter="28 mm" weight="9.68 g" />
+  <image>
+    <obverse file="RIC I Gaius Caligula 35 (A).jpg" />
+    <reverse file="RIC I Gaius Caligula 35 (R).jpg" />
+  </image>
+  <origin price="60" currency="GBP" rate="1.13" fee="20.0%" 
+          seller="Bertolami Fine Arts Ltd" date="15.09.2019" auction="E-Live Auktion 73" lot="721" invoice="Bertolami Fine Arts - 03" />
+  <legend>
+    <obverse>
+      <entry key="GERMANICVS CAESAR" />
+      <entry key="TI AVGVST F" />
+      <entry key="DIVI AVG N" />
+    </obverse>
+    <reverse>
+      <entry key="C CAESAR[caligula]" />
+      <entry key="AVG" />
+      <entry key="GERMANICVS" />
+      <entry key="PON M" />
+      <entry key="TR POT" />
+      <entry key="S C" />
+    </reverse>
+  </legend>
+</coin>

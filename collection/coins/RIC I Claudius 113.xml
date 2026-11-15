@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC I Claudius 113">
+  <identity set="Roman Imperial" />
+  <emperor name="Claudius" />
+  <denomination name="As" />
+  <mint>
+    <date from="50" to="54" />
+    <place city="Roma" region="Italia" />
+  </mint>
+  <obverse>
+    <legend>TI CLAVDIVS CAESAR AVG P M TR P IMP P P</legend>
+    <description>Head of Claudius, bare, left</description>
+  </obverse>
+  <reverse>
+    <legend>LIBERTAS AVGVSTA | S C</legend>
+    <description>Libertas standing, to front, holding pileus in right and extending right hand</description>
+  </reverse>
+  <measurement diameter="28 mm" weight="8.95 g" />
+  <image>
+    <obverse file="RIC I Claudius 113 (A).jpg" />
+    <reverse file="RIC I Claudius 113 (R).jpg" />
+  </image>
+  <deity name="Libertas" />
+  <origin price="85" currency="EUR" rate="1" fee="14.9%" 
+          seller="Numismatik Naumann GmbH" date="02.06.2019" auction="Auktion 78" lot="727" invoice="Numismatik Naumann - 05" />
+  <legend>
+    <obverse>
+      <entry key="TI CLAVDIVS" />
+      <entry key="CAESAR" />
+      <entry key="AVG" />
+      <entry key="P M" />
+      <entry key="TR P" />
+      <entry key="IMP" />
+      <entry key="P P" />
+    </obverse>
+    <reverse>
+      <entry key="LIBERTAS AVGVSTA" />
+      <entry key="S C" />
+    </reverse>
+  </legend>
+</coin>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="SB 512">
+  <identity set="Byzantine Empire" />
+  <emperor name="Mauricius Tiberius" />
+  <denomination name="Follis" />
+  <mint>
+    <date from="590" to="591" />
+    <place city="Nicomedia" />
+  </mint>
+  <obverse>
+    <legend>DN MAVRIC TIbER PP A</legend>
+    <description>Helmeted and cuirassed or crowned and cuirassed bust of Maurice Tiberius facing, holding cross on globe and shield</description>
+  </obverse>
+  <reverse>
+    <legend>M | ANNO | VIIII | A || NIKO</legend>
+    <description>Large M, ANNO to left, cross above, regnal year 9 (590/1) to right, officina letter below, mintmark NIKO</description>
+  </reverse>
+  <measurement diameter="29 mm" weight="11.30 g" />
+  <image>
+    <obverse file="SB 512 (A).jpg" />
+    <reverse file="SB 512 (R).jpg" />
+  </image>
+  <origin price="25" currency="EUR" rate="1" fee="24%" 
+          seller="Bertolami Fine Arts Ltd" date="24.10.2021" auction="E-Auktion 105" lot="2773" invoice="Bertolami Fine Arts - 08" />
+  <remark>Sear 512; MIBE 76Db; DOC 99a</remark>
+</coin>

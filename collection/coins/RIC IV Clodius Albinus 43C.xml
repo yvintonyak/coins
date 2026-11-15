@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC IV Clodius Albinus 43C">
+  <identity set="Roman Imperial" />
+  <emperor name="Clodius Albinus" />
+  <denomination name="Denar" />
+  <mint>
+    <date from="195" to="197" />
+    <place city="Lugdunum" region="Gallia Lugdunensis" />
+  </mint>
+  <obverse>
+    <legend>IMP CAES D C[LO] SEP ALB AVG</legend>
+    <description>Head of Clodius Albinus, laureate, right</description>
+  </obverse>
+  <reverse>
+    <legend>[VICT A]VG COS II</legend>
+    <description>Victory, winged, draped, advancing right, holding wreath in extended right hand and palm sloped over left shoulder in left hand</description>
+  </reverse>
+  <measurement diameter="18 mm" weight="3.65 g" />
+  <image>
+    <obverse file="RIC IV Clodius Albinus 43C (A).jpg" />
+    <reverse file="RIC IV Clodius Albinus 43C (R).jpg" />
+  </image>
+  <deity name="Victoria" />
+  <origin price="130" currency="EUR" rate="1" fee="14.9%" 
+          seller="Numismatik Naumann GmbH" date="05.12.2021" auction="Auktion 111" lot="839" invoice="Numismatik Naumann - 25" />
+  <legend>
+    <obverse>
+      <entry key="IMP" />
+      <entry key="CAES" />
+      <entry key="D CLO SEP ALB" />
+      <entry key="AVG" />
+    </obverse>
+    <reverse>
+      <entry key="VICT AVG" />
+      <entry key="COS II" />
+    </reverse>
+  </legend>
+</coin>

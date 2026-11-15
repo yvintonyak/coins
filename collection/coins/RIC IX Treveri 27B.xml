@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC IX Treveri 27B">
+  <identity set="Roman Imperial" />
+  <emperor name="Valens" />
+  <denomination name="Siliqua" />
+  <mint>
+    <date from="367" to="375" />
+    <place city="Augusta Treverorum" region="Gallia Belgica" />
+  </mint>
+  <obverse>
+    <legend>D N VALEN-S P F AVG</legend>
+    <description>Bust of Valens, pearl-diademed, draped and cuirassed, right</description>
+  </obverse>
+  <reverse>
+    <legend>VRBS - ROMA || TRPS●</legend>
+    <description>Roma seated left on throne, holding Victory on globe and spear</description>
+  </reverse>
+  <measurement diameter="17.5 mm" weight="2.14 g" />
+  <image>
+    <obverse file="RIC IX Treveri 27B (A).jpg" />
+    <reverse file="RIC IX Treveri 27B (R).jpg" />
+  </image>
+  <deity name="Roma, Victoria" />
+  <origin price="140" currency="EUR" rate="1" fee="23.0%" 
+          seller="Heritage Auctions Europe" date="17.11.2020" auction="Auktion 66" lot="4342" invoice="Heritage Auctions - 02" />
+  <legend>
+    <obverse>
+      <entry key="D N" />
+      <entry key="VALENS" />
+      <entry key="P F" />
+      <entry key="AVG" />
+    </obverse>
+    <reverse>
+      <entry key="VRBS ROMA" />
+    </reverse>
+    <mintmark mint="TRPS●" />
+  </legend>
+</coin>

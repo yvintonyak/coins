@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC IV Elagabalus 138f">
+  <identity set="Roman Imperial" />
+  <emperor name="Elagabalus" />
+  <denomination name="Antoninian" />
+  <mint>
+    <date from="218" to="222" />
+    <place city="Roma" region="Italia" />
+  </mint>
+  <obverse>
+    <legend>IMP CAES M AVR ANTONINVS AVG</legend>
+    <description>Bust of Elagabalus, radiate, draped, cuirassed, right</description>
+  </obverse>
+  <reverse>
+    <legend>SALVS ANTONINI AVG</legend>
+    <description>Salus, draped, standing right, feeding snake held in her arms out of dish in left hand</description>
+  </reverse>
+  <measurement diameter="22 mm" weight="5.39 g" />
+  <image>
+    <obverse file="RIC IV Elagabalus 138f (A).jpg" />
+    <reverse file="RIC IV Elagabalus 138f (R).jpg" />
+  </image>
+  <deity name="Salus" />
+  <origin price="70" currency="EUR" rate="1" fee="18.0%" 
+          seller="AUREO n CALICÓ S.L." date="17.10.2019" auction="Auktion 337" lot="114" invoice="AUREO n CALICO - 03" />
+  <legend>
+    <obverse>
+      <entry key="IMP" />
+      <entry key="CAES" />
+      <entry key="M AVR ANTONINVS[elagabal]" />
+      <entry key="AVG" />
+    </obverse>
+    <reverse>
+      <entry key="SALVS ANTONINI AVG" />
+    </reverse>
+  </legend>
+</coin>

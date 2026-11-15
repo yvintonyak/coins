@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC II Trajan 122">
+  <identity set="Roman Imperial" />
+  <emperor name="Trajanus" />
+  <denomination name="Denar" />
+  <mint>
+    <date from="103" to="111" />
+    <place city="Roma" region="Italia" />
+  </mint>
+  <obverse>
+    <legend>IMP TRAIANO AVG GER DAC P M TR P</legend>
+    <description>Bust of Trajan, laureate, draped on left shoulder, right</description>
+  </obverse>
+  <reverse>
+    <legend>COS V P P S P Q R OPTIMO PRINC</legend>
+    <description>Fortuna standing left, holding rudder attached to prow in right hand and cornucopiae in left</description>
+  </reverse>
+  <measurement diameter="17 mm" weight="2.79 g" />
+  <image>
+    <obverse file="RIC II Trajan 122 (A).jpg" />
+    <reverse file="RIC II Trajan 122 (R).jpg" />
+  </image>
+  <deity name="Fortuna" />
+  <origin price="75" currency="EUR" rate="1" fee="18.0%" 
+          seller="Savoca Numismatik GmbH" date="01.12.2018" auction="13th Blue Auction" lot="1363" invoice="Savoca Numismatik - 04" />
+  <legend>
+    <obverse>
+      <entry key="IMP" />
+      <entry key="TRAIANO" />
+      <entry key="AVG" />
+      <entry key="GER" />
+      <entry key="DAC" />
+      <entry key="P M" />
+      <entry key="TR P" />
+    </obverse>
+    <reverse>
+      <entry key="COS V" />
+      <entry key="P P" />
+      <entry key="S P Q R" />
+      <entry key="OPTIMO PRINC" />
+    </reverse>
+  </legend>
+</coin>

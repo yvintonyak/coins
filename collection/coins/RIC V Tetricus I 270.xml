@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC V Tetricus I 270">
+  <identity set="Roman Imperial" />
+  <emperor name="Tetricus II Caesar" />
+  <denomination name="Antoninian" />
+  <mint>
+    <date from="273" to="274" />
+    <place city="Colonia Agrippina" region="Germania Inferior" />
+  </mint>
+  <obverse>
+    <legend>C PIV ESV TETRICVS CAES</legend>
+    <description>Bust of Tetricus I, radiate, draped, cuirassed, right</description>
+  </obverse>
+  <reverse>
+    <legend>SPES [AVGG]</legend>
+    <description>Spes, draped, walking left, holding flower in right hand and raising robe with left hand</description>
+  </reverse>
+  <measurement diameter="20 mm" weight="2.52 g" />
+  <image>
+    <obverse file="RIC V Tetricus I 270 (A).jpg" />
+    <reverse file="RIC V Tetricus I 270 (R).jpg" />
+  </image>
+  <deity name="Spes" />
+  <origin price="80" currency="GBP" rate="1.15" fee="21.5%" 
+          seller="Bertolami Fine Arts Ltd" date="26.04.2020" auction="E-Live Auction 80" lot="957" invoice="Bertolami Fine Arts - 04" />
+  <legend>
+    <obverse>
+      <entry key="C PIV ESV TETRICVS" />
+      <entry key="CAES" />
+    </obverse>
+    <reverse>
+      <entry key="SPES AVGG" />
+    </reverse>
+  </legend>
+</coin>

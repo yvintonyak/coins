@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC IV Maximinus Thrax 14">
+  <identity set="Roman Imperial" />
+  <emperor name="Maximinus I Thrax" />
+  <denomination name="Denar" />
+  <mint>
+    <date from="235" to="236" />
+    <place city="Roma" region="Italia" />
+  </mint>
+  <obverse>
+    <legend>IMP MAXIMINVS PIVS AVG</legend>
+    <description>Bust of Maximinus I, laureate, draped, cuirassed, right</description>
+  </obverse>
+  <reverse>
+    <legend>SALVS AVGVSTI</legend>
+    <description>Salus, draped, seated left, feeding out of patera in right hand snake coiled round altar</description>
+  </reverse>
+  <measurement diameter="20 mm" weight="2.82 g" />
+  <image>
+    <obverse file="RIC IV Maximinus Thrax 14 (A).jpg" />
+    <reverse file="RIC IV Maximinus Thrax 14 (R).jpg" />
+  </image>
+  <deity name="Salus" />
+  <origin price="75" currency="EUR" rate="1" fee="15.0%" 
+          seller="Savoca Numismatik GmbH" date="25.11.2018" auction="27th Silver Auction" lot="608" invoice="Savoca Numismatik - 03" />
+  <legend>
+    <obverse>
+      <entry key="IMP" />
+      <entry key="MAXIMINVS[thrax]" />
+      <entry key="PIVS" />
+      <entry key="AVG" />
+    </obverse>
+    <reverse>
+      <entry key="SALVS AVGVSTI" />
+    </reverse>
+  </legend>
+</coin>

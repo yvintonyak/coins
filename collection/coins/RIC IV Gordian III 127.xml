@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC IV Gordian III 127">
+  <identity set="Roman Imperial" />
+  <emperor name="Gordianus III" />
+  <denomination name="Denar" />
+  <mint>
+    <date from="241" />
+    <place city="Roma" region="Italia" />
+  </mint>
+  <obverse>
+    <legend>IMP GORDIANVS PIVS FEL AVG</legend>
+    <description>Bust of Gordian III, laureate, draped, cuirassed, right</description>
+  </obverse>
+  <reverse>
+    <legend>DIANA LVCIFERA</legend>
+    <description>Diana, draped, standing right, holding lighted torch in right hand</description>
+  </reverse>
+  <measurement diameter="20 mm" weight="3.72 g" />
+  <image>
+    <obverse file="RIC IV Gordian III 127 (A).jpg" />
+    <reverse file="RIC IV Gordian III 127 (R).jpg" />
+  </image>
+  <deity name="Diana" />
+  <origin price="51" currency="EUR" rate="1" fee="18.0%" 
+          seller="Savoca Numismatik GmbH" date="21.04.2019" auction="19th Blue Auction" lot="1535" invoice="Savoca Numismatik - 14" />
+  <legend>
+    <obverse>
+      <entry key="IMP" />
+      <entry key="GORDIANVS" />
+      <entry key="PIVS" />
+      <entry key="FEL" />
+      <entry key="AVG" />
+    </obverse>
+    <reverse>
+      <entry key="DIANA LVCIFERA" />
+    </reverse>
+  </legend>
+</coin>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="SB 2003">
+  <identity set="Byzantine Empire" />
+  <emperor name="Isaac II Angelos" />
+  <denomination name="Aspron trachy" />
+  <mint>
+    <date from="1185" to="1195" />
+    <place city="Constantinopolis" />
+  </mint>
+  <obverse>
+    <legend>MP-theta V</legend>
+    <description>Mary, nimbate, seated facing, holding before her the nimbate head of infant Christ facing left</description>
+  </obverse>
+  <reverse>
+    <legend>I CAA KI OC | DEC PO TH C</legend>
+    <description>Isaac, standing facing on the left, crowned, wearing divitision, loros and sagion, and holding cross-headed sceptre and akakia, crowned by hand of God in upper right field</description>
+  </reverse>
+  <measurement diameter="28 mm" weight="2.48 g" />
+  <image>
+    <obverse file="SB 2003 (A).jpg" />
+    <reverse file="SB 2003 (R).jpg" />
+  </image>
+  <origin price="28" currency="EUR" rate="1" fee="18.0%" 
+          seller="Savoca Numismatik GmbH" date="30.10.2022" auction="146th Blue Auction" lot="1548" invoice="Savoca Numismatik - 37" />
+  <remark>Sears 2003; BMC 19-31</remark>
+</coin>

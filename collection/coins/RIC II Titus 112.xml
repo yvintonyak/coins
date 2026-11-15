@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC II Titus 112">
+  <identity set="Roman Imperial" />
+  <emperor name="Titus" />
+  <denomination name="Denar" />
+  <mint>
+    <date from="80" />
+    <place city="Roma" region="Italia" />
+  </mint>
+  <obverse>
+    <legend>IMP TITVS CAES VESPASIAN AVG P M</legend>
+    <description>Head of Titus, laureate, right</description>
+  </obverse>
+  <reverse>
+    <legend>TR P IX IMP XV COS VIII P P</legend>
+    <description>Dolphin coiled around anchor</description>
+  </reverse>
+  <measurement diameter="18 mm" weight="3.30 g" />
+  <image>
+    <obverse file="RIC II Titus 112 (A).jpg" />
+    <reverse file="RIC II Titus 112 (R).jpg" />
+  </image>
+  <origin price="110" currency="EUR" rate="1" fee="18%" 
+          seller="Savoca Numismatik GmbH" date="26.07.2020" auction="82nd Silver Auction" lot="310" invoice="Savoca Numismatik - 28" />
+  <legend>
+    <obverse>
+      <entry key="IMP" />
+      <entry key="TITVS" />
+      <entry key="CAES" />
+      <entry key="VESPASIAN[titus]" />
+      <entry key="AVG" />
+      <entry key="P M" />
+    </obverse>
+    <reverse>
+      <entry key="TR P IX" />
+      <entry key="IMP XV" />
+      <entry key="COS VIII" />
+      <entry key="P P" />
+    </reverse>
+  </legend>
+</coin>

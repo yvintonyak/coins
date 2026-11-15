@@ -1,0 +1,2935 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<emperors>
+
+  <emperor id="Octavianus">
+    <name>GAIVS IVLIVS CAESAR OCTAVIANVS</name>
+    <dynasty>Julian-Claudian</dynasty>
+    <dates born="23 September 63 BC" died="19 August 14 AD" aged="75" />
+    <place city="Rome" region="Italia" />
+    <reign from="44 BC" to="16 January 27 BC" />
+    <description>The first Roman Emperor. 
+                 Great-nephew and adopted son of Julius Caesar. 
+                 Became de facto Emperor as a result of the settlement with the Roman Senate.
+                 Died by natural causes.
+    </description>
+  </emperor>
+
+  <emperor id="Augustus">
+    <name>IMPERATOR CAESAR DIVI FILIVS AVGVSTVS</name>
+    <dynasty>Julian-Claudian</dynasty>
+    <dates born="23 September 63 BC" died="19 August 14 AD" aged="75" />
+    <place city="Rome" region="Italia" />
+    <reign from="16 January 27 BC" to="19 August 14 AD" />
+    <description>The first Roman Emperor.
+                 Great-nephew and adopted son of Julius Caesar.
+                 Became de facto Emperor as a result of the settlement with the Roman Senate.
+                 On 16 January 27 BC the Roman Senate granted him the additional name Augustus.
+                 Died by natural causes. Consecrated (apotheosis).
+    </description>
+  </emperor>
+
+  <emperor id="Divus Augustus">
+    <name>IMPERATOR CAESAR DIVI FILIVS AVGVSTVS</name>
+    <dynasty>Julian-Claudian</dynasty>
+    <dates born="23 September 63 BC" died="19 August 14 AD" aged="75" />
+    <place city="Rome" region="Italia" />
+    <reign from="16 January 27 BC" to="19 August 14 AD" />
+    <description>The first Roman Emperor.
+                 Great-nephew and adopted son of Julius Caesar.
+                 Became de facto Emperor as a result of the settlement with the Roman Senate.
+                 On 16 January 27 BC the Roman Senate granted him the additional name Augustus.
+                 Died by natural causes. Consecrated (apotheosis).
+    </description>
+  </emperor>
+
+  <emperor id="Livia">
+    <name>LIVIA DRVSILLA | IVLIA AVGUSTA</name>
+    <dynasty>Julian-Claudian</dynasty>
+    <dates born="30 January 58 BC" died="28 September 29 AD" aged="86" />
+    <reign from="16 January 27 BC" to="28 September 29 AD" />
+    <description>Wife of Emperor Augustus (married 39 BC).
+                 Mother of Emperor Tiberius.
+                 Mother of Nero Claudius Drusus, the father of Germanicus Caesar and the grandfather of Emperor Caligula.
+                 Was granted the title Augusta and the new name Julia Augusta after the death of Augustus (14 AD).
+                 Died by natural causes. Consecrated (apotheosis).
+    </description>
+  </emperor>  
+
+  <emperor id="Marcus Agrippa">
+    <name>MARCVS VIPSANIVS AGRIPPA</name>
+    <dynasty>Julian-Claudian</dynasty>
+    <dates born="November 64/62 BC" died="12 BC" aged="49-52" />
+    <place city="Arpino" region="Istria" />
+    <reign from="23 BC" to="12 BC" />
+    <description>A close friend, son-in-law, and lieutenant to Emperor Augustus.
+                 Husband to Julia the Elder, daughter of Augustus.
+                 Father of Gaius Caesar and Lucius Caesar; both adopted by Augustus.
+                 Died by natural causes.
+    </description>
+  </emperor>
+
+  <emperor id="Gaius Caesar">
+    <name>GAIVS VIPSANIVS AGRIPPA IVLIVS CAESAR</name>
+    <dynasty>Julian-Claudian</dynasty>
+    <dates born="20 BC" died="21 February 4 AD" aged="23" />
+    <place city="Roma" region="Italia" />
+    <reign from="17 BC" to="21 February 4 AD" />
+    <description>Son of Marcus Agrippa and Julia the Elder, daughter of Augustus.
+                 Adopted by Augustus together with his brother Lucius Caesar.
+                 Wounded in a battle. Died of illness, caused by the wound.
+    </description>
+  </emperor>
+
+  <emperor id="Lucius Caesar">
+    <name>LVCIVS VIPSANIVS AGRIPPA IVLIVS CAESAR</name>
+    <dynasty>Julian-Claudian</dynasty>
+    <dates born="17 BC" died="20 August 2 AD" aged="18" />
+    <place city="Roma" region="Italia" />
+    <reign from="2 BC" to="20 August 2 AD" />
+    <description>Son of Marcus Agrippa and Julia the Elder, daughter of Augustus.
+                 Adopted by Augustus together with his brother Lucius Caesar.
+                 Died of illness.
+    </description>
+  </emperor>
+
+  <emperor id="Tiberius Caesar">
+    <name>TIBERIVS IVLIVS CAESAR</name>
+    <dynasty>Julian-Claudian</dynasty>
+    <dates born="16 November 42 BC" died="16 March 37 AD" aged="77" />
+    <place city="Roma" region="Italia" />
+    <reign from="26. Juni 4 AD" to="18 September 14 AD" />
+    <description>Son of Livia Drusilla, Augustus' third wife, by a previous marriage; adopted by Augustus.
+                 Stepbrother and third husband of Julia the Elder, daughter of Emperor Augustus.
+                 Suceeded his adoptive father Augustus.
+                 Died by natural causes, possibly assassinated by Caligula or Praetorian Prefect.
+    </description>
+  </emperor>
+
+  <emperor id="Tiberius">
+    <name>TIBERIVS IVLIVS CAESAR AVGVSTVS</name>
+    <dynasty>Julian-Claudian</dynasty>
+    <dates born="16 November 42 BC" died="16 March 37 AD" aged="77" />
+    <place city="Roma" region="Italia" />
+    <reign from="18 September 14 AD" to="16 March 37 AD" />
+    <description>Son of Livia Drusilla, Augustus' third wife, by a previous marriage; adopted by Augustus.
+                 Stepbrother and third husband of Julia the Elder, daughter of Emperor Augustus.
+                 Suceeded his adoptive father Augustus.
+                 Died by natural causes, possibly assassinated by Caligula or Praetorian Prefect.
+    </description>
+  </emperor>
+
+  <emperor id="Nero Claudius Drusus">
+    <name>NERO CLAVDIVS DRVSVS GERMANICVS</name>
+    <dynasty>Julian-Claudian</dynasty>
+    <dates born="14 January 38 BC" died="9 BC" aged="29" />
+    <place city="Roma" region="Italia" />
+    <reign from="19 BC" to="9 BC" />
+    <description>Son of Livia Drusilla, Augustus' third wife, by a previous marriage; adopted by Augustus.
+                 Married to Antonia Minor (16 BC).
+                 Father of Germanicus Caesar and Emperor Claudius, grandfather of Emperor Gaius Caligula.
+                 Died by natural causes after fall from a horse.
+    </description>
+  </emperor>
+
+
+  <emperor id="Antonia Minor">
+    <name>ANTONIA AVGUSTA MINOR</name>
+    <dynasty>Julian-Claudian</dynasty>
+    <dates born="31 January 36 BC" died="1 May 37 AD" aged="72" />
+    <place city="Athenae" region="Achaia" />
+    <reign from="37 AD" to="41 AD" />
+    <description>Daughter of Marcus Antonius and Octavia, sister of Emperor Augustus.
+                 Married to Nero Claudius Drusus (16 BC). Mother of Germanicus Caesar and Emperor Claudius. 
+                 Grandmother of Emperor Gaius Caligula.
+                 Received the title Augusta from Caligula (37).
+                 According to other sources, the title Augusta was granted in 41 posthumous by Claudius.
+                 Committed suicide, probably forced by Caligula.
+    </description>
+  </emperor>
+  
+  <emperor id="Germanicus Caesar">
+    <name>GERMANICVS IVLIVS CAESAR</name>
+    <dynasty>Julian-Claudian</dynasty>
+    <dates born="24 May 15 BC" died="10 October 19 AD" aged="33" />
+    <place city="Antioch" region="Syria" />
+    <reign from="26 June 4 AD" to="10 October 19 AD" />
+    <description>Son of Nero Claudius Drusus, legal stepson of Emperor Augustus, and Empress Antonia Minor.
+                 Nephew of Emperor Tiberius, older brother of Emperor Claudius, father of Emperor Caligula.
+                 Adopted by Tiberius.
+                 Died on natural causes, probably poisoned.
+    </description>
+  </emperor>
+
+  <emperor id="Agrippina Maior">
+    <name>AGRIPPINA GERMANICI</name>
+    <dynasty>Julian-Claudian</dynasty>
+    <dates born="14 BC" died="33 AD" aged="46" />
+    <place city="Athenae" region="Achaia" />
+    <reign from="26 June 4 AD" to="27 AD" />
+    <description>Daughter of Marcus Agrippa, granddaughter of Emperor Augustus.
+                 Wife of Germanicus Caesar, married 4 AD.
+                 Mother of Emperor Caligula and Empress Agrippina Minor.
+                 Grandmother of Emperor Nero.
+                 Died on natural causes, probably suicide.
+    </description>
+  </emperor>
+
+  <emperor id="Drusus Julius Caesar">
+    <name>DRVSVS IVLIVS CAESAR</name>
+    <dynasty>Julian-Claudian</dynasty>
+    <dates born="14 BC" died="14 September 23 AD" aged="36" />
+    <place city="Rome" region="Italia" />
+    <reign from="19 AD" to="14 September 23 AD" />
+    <description>Son of Emperor Tiberius and his first wife, Vipsania Agrippina.
+                 Heir to the Empire following the death of his adoptive brother Germanicus.
+                 Died, seemingly from natural causes.
+    </description>
+  </emperor>
+
+  <emperor id="Gaius Caligula">
+    <name>GAIVS IVLIVS CAESAR AVGVSTVS GERMANICVS</name>
+    <dynasty>Julian-Claudian</dynasty>
+    <dates born="31 August 12" died="24 January 41" aged="28" />
+    <place city="Antium" region="Italia" />
+    <reign from="16 March 37" to="24 January 41" />
+    <description>Great-nephew and adoptive grandson of Emperor Tiberius; natural son of Germanicus Caesar.
+                 Great-grandson of Emperor Augustus.
+                 Succeeded his adoptive grandfather Tiberius.
+                 Assassinated in a conspiracy involving senators and Praetorian Guards.
+                 Condemned (damnatio memoriae).
+    </description>
+  </emperor>
+
+  <emperor id="Claudius">
+    <name>TIBERIVS CLAVDIVS CAESAR AVGVSTVS GERMANICVS</name>
+    <dynasty>Julian-Claudian</dynasty>
+    <dates born="1 August 10 BC" died="13 October 54 AD" aged="63" />
+    <place city="Lugdunum" region="Gallia" />
+    <reign from="24 January 41" to="13 October 54" />
+    <description>Uncle of Emperor Caligula; brother of Germanicus Caesar; nephew of Emperor Tiberius.
+                 Son of Nero Claudius Drusus and Empress Antonia Minor.
+                 Great-nephew and step-grandson of Emperor Augustus;
+                 Proclaimed Emperor by Praetorian Guard after the death of Caligula.
+                 Died by natural causes, probably poisoned by his wife Agrippina the Younger, in favour of her son Nero.
+                 Consecrated (apotheosis).
+    </description>
+  </emperor>
+
+  <emperor id="Valeria Messalina">
+    <name>VALERIA MESSALINA AVGUSTA</name>
+    <dynasty>Julian-Claudian</dynasty>
+    <dates born="25 January 17" died="48" aged="31" />
+    <place city="Roma" region="Italia" />
+    <reign from="24 January 41" to="48" />
+    <description>Granddaughter of Antonia Major, the niece of Emperor Augustus. Cousin of Emperor Nero.
+                 The third wife of Emperor Claudius. Became Empress as Claudius became Emperor in 41.
+                 Mother of Britannicus Caesar and Claudia Octavia.
+                 Executed by the Pretorian Guard after betrayal of Claudius.
+                 Condemned (damnatio memoriae).
+    </description>
+  </emperor>
+
+  <emperor id="Britannicus Caesar">
+    <name>TIBERIVS CLAVDIVS CAESAR BRITANNICVS</name>
+    <dynasty>Julian-Claudian</dynasty>
+    <dates born="12 February 41" died="11 February 55" aged="13" />
+    <place city="Roma" region="Italia" />
+    <reign from="41" to="55" />
+    <description>Son of Emperor Claudius and Valeria Messalina.
+                 Step-brother of Emperor Nero.
+                 He was born after his father Claudis became Emperor.
+                 After the death of Claudius, Britannicus was poisoned.
+    </description>
+  </emperor>
+
+  <emperor id="Agrippina Minor">
+    <name>AGRIPPINA AVGVSTA</name>
+    <dynasty>Julian-Claudian</dynasty>
+    <dates born="6 November 15" died="23 March 59" aged="43" />
+    <place city="Colonia Claudia Ara Agripinnensium" region="Germania Inferior" />
+    <reign from="50" to="23 March 59" />
+    <description>Daughter of Gemanicus Caesar and Agrippina Maior, a granddaughter of Emperor Augustus.
+                 Sister of Emperor Gaius Caligula. Mother of Emperor Nero.
+                 4th wife of Emperor Claudius (married 49). Granted the title of Augusta by Claudius (50).
+                 Ruled togerther with her husband Claudius and later (54) with her son Nero.
+                 Assassinated under unknown circumstances. Condemned (damnatio memoriae).
+    </description>
+  </emperor>
+
+  <emperor id="Nero Caesar">
+    <name>NERO CLAVDIVS CAESAR DRVSVS GERMANICVS</name>
+    <dynasty>Julian-Claudian</dynasty>
+    <dates born="15 December 37" died="9 June 68" aged="30" />
+    <place city="Antium" region="Italia" />
+    <reign from="25 February 50" to="13 October 54" />
+    <description>Great-nephew, stepson, son-in-law and adopted son of Emperor Claudius.
+                 Nephew of Emperor Caligula; great-great-nephew of of Emperor Tiberius. 
+                 Grandson of Germanicus Caesar; great-great-grandson of Augustus.
+                 Adopted and elevated to Caesar (50) by Claudius after Nero's mother Agrippina Minor besame wife of Claudius.
+                 Became Emperor (54) after the death of Claudius.
+                 Committed suicide after being declared a public enemy by the Senate.
+    </description>
+  </emperor>
+
+  <emperor id="Nero">
+    <name>NERO CLAVDIVS CAESAR AVGVSTVS GERMANICVS</name>
+    <dynasty>Julian-Claudian</dynasty>
+    <dates born="15 December 37" died="9 June 68" aged="30" />
+    <place city="Antium" region="Italia" />
+    <reign from="13 October 54" to="9 June 68" />
+    <description>Great-nephew, stepson, son-in-law and adopted son of Emperor Claudius.
+                 Nephew of Emperor Caligula; great-great-nephew of of Emperor Tiberius. 
+                 Grandson of Germanicus Caesar; great-great-grandson of Augustus.
+                 Became Emperor with the consent of Praetorian Guard.
+                 Committed suicide after being declared a public enemy by the Senate.
+                 Last of Julian-Claudian dynasty. Condemned (damnatio memoriae).
+    </description>
+  </emperor>
+
+  <emperor id="Claudia Octavia">
+    <name>CLAVDIA OCTAVIA AVGUSTA</name>
+    <dynasty>Julian-Claudian</dynasty>
+    <dates born="40" died="9 June 62" aged="22" />
+    <place city="" region="" />
+    <reign from="13 October 54" to="9 June 62" />
+    <description>Daughter of Emperor Claudius and Empress Valeria Messalina.
+                 Sister of Britannicus Caesar.
+                 Merried Emperor Nero in 53 and became Empress in 54 as Nero became Emperor.
+                 Nero divorced Claudia in 62 to marry Poppaea.
+                 Exiled and executed short after the divorce.
+    </description>
+  </emperor>
+  
+  <emperor id="Poppaea">
+    <name>POPPAEA SABINA AVGVSTA</name>
+    <dynasty>Julian-Claudian</dynasty>
+    <dates born="30" died="65" aged="35" />
+    <place city="Pompeii" region="Italia" />
+    <reign from="62" to="65" />
+    <description>Also known as Ollia.
+                 Married future Emperor Otho (58), probably to be close to Emperor Nero.
+                 Divorced Otho (58-59) and married Nero (62).
+                 Became Augusta in 63.
+                 Killed by Nero, probably in "casual outburst". Consecrated (apotheosis).
+    </description>
+  </emperor>
+
+  <emperor id="Galba">
+    <name>IMPERATOR SERVIVS SVLPICIVS GALBA CAESAR AVGVSTVS</name>
+    <dynasty>Flavian</dynasty>
+    <dates born="24 December 3" died="15 January 69" aged="72" />
+    <place city="Terrancilium" region="Italia" />
+    <reign from="8 June 68" to="15 January 69" />
+    <description>Consul (33) and Governor (Praetor or Proconsul) in Aquitania (ca. 30), Africa (44-45), Hispania (54-68).
+                 Proclaimed Emperor as result of the revolt in Hispania Tarraconensis (April 68).
+                 Supported by Praetorian Guard and recognized the Senate after the suicide of Emperor Nero.
+                 Murdered by Praetorin Guard in the coup, lead by Emperor Otho. Condemned (damnatio memoriae).
+    </description>
+  </emperor>
+  
+  <emperor id="Otho">
+    <name>IMPERATOR MARKVS OTHO CAESAR AVGVSTVS</name>
+    <dynasty>Flavian</dynasty>
+    <dates born="28 April 32" died="16 April 69" aged="36" />
+    <place city="Ferentium" region="Italia" />
+    <reign from="15 January 69" to="16 April 69" />
+    <description>Friend of Emperor Nero. Governor of province Lusitania.
+                 Allied with Emperor Galba during the revolt of 68.
+                 Murdered Galba in 69 and proclaimed himself Emperor.
+                 Committed suicide after the defeat against Vitellius. Condemned (damnatio memoriae).
+    </description>
+  </emperor>
+
+  <emperor id="Vitellius">
+    <name>IMPERATOR AVLVS VITELLIVS AVGVSTVS</name>
+    <dynasty>Flavian</dynasty>
+    <dates born="24 September 15" died="22 December 69" aged="54" />
+    <place city="Rome" region="Italia" />
+    <reign from="16 April 69" to="22 December 69" />
+    <description>Consul (48) and Governor (Proconsul) in Africa (60 or 61).
+                 Military Commander in Germania Inferior under Emperor Galba.
+                 Proclaimed Emperor by the Rheine legions (Germania Inferior and Superior) in opposition to Emperor Galba and Emperor Otho.
+                 Vitellius was recongnized as Emperor by the Senate after defeating the armies of Otho and Otho's suicide.
+                 Defeated by the army of Emperor Vespasianus. Murdered after the defeat. Condemned (damnatio memoriae).
+    </description>
+  </emperor>
+
+
+  <emperor id="Vespasianus">
+    <name>IMPERATOR TITVS FLAVIVS CAESAR VESPASIANVS AVGVSTVS</name>
+    <dynasty>Flavian</dynasty>
+    <dates born="17 November 9" died="24 June 79" aged="69" />
+    <place city="Falacrine" region="Italia" />
+    <reign from="22 December 69" to="24 June 79" />
+    <description>Founder of the Flavian dynasty.
+                 Vespasian was legate of Legio II Augusta. Proclaimed Emperor in Judaea.
+                 Seized power with the support of the eastern Legions in the Year of the Four Emperors (69).
+                 Died by natural causes. Consecrated (apotheosis).
+    </description>
+  </emperor>
+
+  <emperor id="Divus Vespasianus">
+    <name>DIVVS AVGVSTVS VESPASIANVS</name>
+    <dynasty>Flavian</dynasty>
+    <dates born="17 November 9" died="24 June 79" aged="69" />
+    <place city="Falacrine" region="Italia" />
+    <reign from="22 December 69" to="24 June 79" />
+    <description>Founder of the Flavian dynasty.
+                 Vespasian was legate of Legio II Augusta. Proclaimed Emperor in Judaea.
+                 Seized power with the support of the eastern Legions in the Year of the Four Emperors (69).
+                 Died by natural causes. Consecrated (apotheosis).
+    </description>
+  </emperor>
+
+  <emperor id="Titus Caesar">
+    <name>TITVS FLAVIVS CAESAR VESPASIANVS</name>
+    <dynasty>Flavian</dynasty>
+    <dates born="30 December 39" died="13 September 81" aged="41" />
+    <place city="Rome" region="Italia" />
+    <reign from="22 December 69" to="23 June 79" />
+    <description>Son of Emperor Vespasian, brother of Emperor Domitian.
+                 Became Emperor in 79, succeeding his father Vespasian.
+                 Died by natural causes.
+    </description>
+  </emperor>
+
+  <emperor id="Titus">
+    <name>IMPERATOR TITVS FLAVIVS CAESAR VESPASIANVS AVGVSTVS</name>
+    <dynasty>Flavian</dynasty>
+    <dates born="30 December 39" died="13 September 81" aged="41" />
+    <place city="Rome" region="Italia" />
+    <reign from="23 June 79" to="13 September 81" />
+    <description>Son of Emperor Vespasian, brother of Emperor Domitian.
+                 Succeeded his father Vespasian.
+                 Died by natural causes. Consecrated (apotheosis).
+    </description>
+  </emperor>
+
+  <emperor id="Julia Titi">
+    <name>IVLIA TITI FLAVIA AVGVSTA</name>
+    <dynasty>Flavian</dynasty>
+    <dates born="64" died="ca. 88" aged="ca. 24" />
+    <place city="Rome" region="Italia" />
+    <reign from="79" to="88" />
+    <description>Daugther of Emperor Titus. Niece of Emperor Domitian.
+                 Made Augusta by her grandfather Emperor Vespasian.
+                 After execution of her husband by Domitian in 82, lived with Domitian 'as a wife'.
+                 Died by natural causes, probably after abortion, forced by Domitian.
+    </description>
+  </emperor>
+
+  <emperor id="Domitianus Caesar">
+    <name>TITVS FLAVIVS CAESAR DOMITIANVS</name>
+    <dynasty>Flavian</dynasty>
+    <dates born="24 October 51" died="18 September 96" aged="44" />
+    <place city="Rome" region="Italia" />
+    <reign from="22 December 69" to="14 September 81" />
+    <description>Son of Emperor Vespasian, brother of Emperor Titus.
+                 Became Emperor in 81, succeeding his brother Titus.
+                 Assassinated in a conspiracy by court officials.
+    </description>
+  </emperor>
+
+  <emperor id="Domitianus">
+    <name>IMPERATOR TITVS FLAVIVS CAESAR DOMITIANVS AVGVSTVS GERMANICVS</name>
+    <dynasty>Flavian</dynasty>
+    <dates born="24 October 51" died="18 September 96" aged="44" />
+    <place city="Rome" region="Italia" />
+    <reign from="14 September 81" to="18 September 96" />
+    <description>Son of Emperor Vespasian, brother of Emperor Titus.
+                 Succeeded his brother Titus.
+                 Assassinated in a conspiracy by court officials. 
+                 Last of Flavian dynasty. Condemned (damnatio memoriae).
+    </description>
+  </emperor>
+
+  <emperor id="Domitia">
+    <name>DOMITIA LONGINA AVGVSTA</name>
+    <dynasty>Flavian</dynasty>
+    <dates born="ca. 50-55" died="ca. 126-130" />
+    <reign from="14 September 81" to="18 September 96" />
+    <description>Wife of Emperor Domitianus (married 71).
+                 Her maternal grandmother was Junia Lepida, a great-great-granddaughter of Emperor Augustus.
+                 Her paternal aunt was Empress Milonia Caesonia, wife of Emperor Caligula.
+                 Became Augusta upon Domitian's accession in 81 until his assassination in 96.
+                 Died by natural causes.
+    </description>
+  </emperor>
+
+  <emperor id="Nerva">
+    <name>IMPERATOR MARCVS COCCEIVS NERVA CAESAR AVGVSTVS</name>
+    <dynasty>Nerva-Antonine</dynasty>
+    <dates born="8 November 30" died="27 January 98" aged="67" />
+    <place city="Narni" region="Italia" />
+    <reign from="18 September 96" to="27 January 98" />
+    <description>Nerva was Senator and two times Consul, when declared Emperor by the Senate after the assassination of Emperor Domitian.
+                 First of the “Five Good Emperors” (Nerva-Antonine dynasty).
+                 Adoptive father of Emperor Trajan.
+                 Died by natural causes. Consecrated (apotheosis).
+    </description>
+  </emperor>
+
+  <emperor id="Trajanus">
+    <name>IMPERATOR CAESAR NERVA TRAIANVS DIVI NERVAE FILIVS AVGVSTVS</name>
+    <dynasty>Nerva-Antonine</dynasty>
+    <dates born="18 September 53" died="8 August 117" aged="63" />
+    <place city="Italica" region="Hispania" />
+    <reign from="27 January 98" to="8 August 117" />
+    <description>Adopted son of Emperor Nerva.
+                 Succeeded his adoptive father Nerva.
+                 Declared by the Senate optimus princeps (best ruler).
+                 Died by natural causes. Consecrated (apotheosis).
+    </description>
+  </emperor>
+
+  <emperor id="Divus Trajanus">
+    <name>IMPERATOR CAESAR NERVA TRAIANVS DIVI NERVAE FILIVS AVGVSTVS</name>
+    <dynasty>Nerva-Antonine</dynasty>
+    <dates born="18 September 53" died="8 August 117" aged="63" />
+    <place city="Italica" region="Hispania" />
+    <reign from="27 January 98" to="8 August 117" />
+    <description>Adopted son of Emperor Nerva.
+                 Succeeded his adoptive father Nerva.
+                 Declared by the Senate optimus princeps (best ruler).
+                 Died by natural causes. Consecrated (apotheosis).
+    </description>
+  </emperor>
+
+  <emperor id="Plotina">
+    <name>POMPEIA PLOTINA AVGVSTA</name>
+    <dynasty>Nerva-Antonine</dynasty>
+    <dates born="ca. 70" died="after 123" aged="53" />
+    <place city="Nemausus" region="Gallia Narbonensis" />
+    <reign from="100" to="117" />
+    <description>Wife of Emperor Trajan (married before the succession of Trajan in 98).
+                 Received the title Augusta in 100, did not accept the title until 105.
+                 Died by natural causes. Consecrated (apotheosis).
+    </description>
+  </emperor>
+
+  <emperor id="Ulpia Marciana">
+    <name>VLPIA MARCIANA AVGVSTA</name>
+    <dynasty>Nerva-Antonine</dynasty>
+    <dates born="August 48" died="29 August 112" aged="64" />
+    <reign from="105" to="112" />
+    <description>Elder sister of Emperor Trajan. Mother of Salonia Matidia.
+                 Received the title of Augusta from her brother Trajan.
+                 Died by natural causes. Consecrated (apotheosis).
+    </description>
+  </emperor>
+
+  <emperor id="Salonia Matidia">
+    <name>SALONIA MATIDIA AVGVSTA</name>
+    <dynasty>Nerva-Antonine</dynasty>
+    <dates born="4 July 67" died="23 December 119" aged="52" />
+    <reign from="112" to="119" />
+    <description>Daughter of Ulpia Marciana (sister of Emperor Trajan).
+                 Received the title of Augusta from Trajan upon the death and divinization of Ulpia Marciana.
+                 Died by natural causes. Consecrated (apotheosis).
+    </description>
+  </emperor>
+
+  <emperor id="Hadrianus">
+    <name>IMPERATOR CAESAR PVBLIVS AELIVS TRAIANVS HADRIANVS AVGVSTVS</name>
+    <dynasty>Nerva-Antonine</dynasty>
+    <dates born="24 January 76" died="10 July 138" aged="62" />
+    <place city="Italica" region="Hispania" />
+    <reign from="10 August 117" to="10 July 138" />
+    <description>Nephew (his father was cousin of Trajan) and supposedly adopted son of Emperor Trajan.
+                 Succeeded Trajan.
+                 Adoptive father of Lucius Aelius Caesar and Emperor Antoninus Pius.
+                 Died by natural causes. Consecrated (apotheosis).
+    </description>
+  </emperor>
+
+  <emperor id="Sabina">
+    <name>VIBIA SABINA AVGVSTA</name>
+    <dynasty>Nerva-Antonine</dynasty>
+    <dates born="ca. 83-85" died="ca. 136-137" aged="61-64" />
+    <reign from="119" to="137" />
+    <description>Wife of Emperor Hadrian (married ca. 100).
+                 Daughter of Salonia Matidia (niece of Emperor Trajan).
+                 Received the title Augusta in 119.
+                 Died by natural causes, may be suicide. Consecrated (apotheosis).
+    </description>
+  </emperor>
+
+  <emperor id="Aelius Caesar">
+    <name>LVCIVS AELIVS CAESAR</name>
+    <dynasty>Nerva-Antonine</dynasty>
+    <dates born="13 January 101" died="1 January 138" aged="36" />
+    <reign from="Summer 136" to="1 January 138" />
+    <description>Adopted by Emperor Hadrian (136).
+                 Father of Emperor Lucius Verus.
+                 Died by natural causes.
+    </description>
+  </emperor>
+
+  <emperor id="Antoninus Pius Caesar">
+    <name>IMPERATOR TITVS AELIVS CAESAR HADRIANVS ANTONINVS</name>
+    <dynasty>Nerva-Antonine</dynasty>
+    <dates born="19 September 86" died="7 March 161" aged="74" />
+    <place city="Lanuvium" region="Italia" />
+    <reign from="25 January 138" to="10 July 138" />
+    <description>Adopted son of Emperor Hadrian.
+                 Married with Faustina Maior, niece of Handrian.
+                 Succeeded his adoptive father Hadrian.
+                 Adoptive father of Emperor Marcus Aurelius and Emperor Lucius Verus.
+                 Died by natural causes. Consecrated (apotheosis).
+    </description>
+  </emperor>
+
+  <emperor id="Antoninus Pius">
+    <name>IMPERATOR CAESAR TITVS AELIVS HADRIANVS ANTONINVS AVGVSTVS PIVS</name>
+    <dynasty>Nerva-Antonine</dynasty>
+    <dates born="19 September 86" died="7 March 161" aged="74" />
+    <place city="Lanuvium" region="Italia" />
+    <reign from="10 July 138" to="7 March 161" />
+    <description>Adopted son of Emperor Hadrian.
+                 Married with Faustina Maior, niece of Handrian.
+                 Succeeded his adoptive father Hadrian.
+                 Adoptive father of Emperor Marcus Aurelius and Emperor Lucius Verus.
+                 Died by natural causes. Consecrated (apotheosis).
+    </description>
+  </emperor>
+
+  <emperor id="Divus Antoninus Pius">
+    <name>IMPERATOR CAESAR TITVS AELIVS HADRIANVS ANTONINVS AVGVSTVS PIVS</name>
+    <dynasty>Nerva-Antonine</dynasty>
+    <dates born="19 September 86" died="7 March 161" aged="74" />
+    <place city="Lanuvium" region="Italia" />
+    <reign from="10 July 138" to="7 March 161" />
+    <description>Adopted son of Emperor Hadrian.
+                 Married with Faustina Maior, niece of the Handrian.
+                 Succeeded his adoptive father Hadrian.
+                 Adoptive father of Emperor Marcus Aurelius and Emperor Lucius Verus.
+                 Died by natural causes. Consecrated (apotheosis).
+    </description>
+  </emperor>
+
+  <emperor id="Faustina Maior">
+    <name>ANNIA GALERIA FAVSTINA AVGUSTA MAIOR</name>
+    <dynasty>Nerva-Antonine</dynasty>
+    <dates born="21 September 100" died="October or November 140" aged="40" />
+    <reign from="138" to="140" />
+    <description>Wife of Emperor Antoninus Pius (married between 110 and 115).
+                 Niece of Vibia Sabina Augusta and Emperor Handrian.
+                 Mother of Faustina Augusta Minor.
+                 Died by natural causes. Consecrated (apotheosis).
+    </description>
+  </emperor>
+
+  <emperor id="Diva Faustina Maior">
+    <name>ANNIA GALERIA FAVSTINA AVGUSTA MAIOR</name>
+    <dynasty>Nerva-Antonine</dynasty>
+    <dates born="21 September 100" died="October or November 140" aged="40" />
+    <reign from="138" to="140" />
+    <description>Wife of Emperor Antoninus Pius (married between 110 and 115).
+                 Niece of Vibia Sabina Augusta and Emperor Handrian.
+                 Mother of Faustina Augusta Minor.
+                 Died by natural causes. Consecrated (apotheosis).
+    </description>
+  </emperor>
+
+  <emperor id="Marcus Aurelius Caesar">
+    <name>MARCVS AELIVS AVRELIVS VERVS CAESAR</name>
+    <dynasty>Nerva-Antonine</dynasty>
+    <dates born="26 April 121" died="17 March 180" aged="58" />
+    <place city="Rome" region="Italia" />
+    <reign from="25 February 138" to="7 March 161" />
+    <description>Adopted son and son-in-law of Emperor Antoninus Pius. Nephew of Faustina Maior.
+                 Married to Faustina Minor, dauther of Antoninus Pius and Faustina Maior.
+                 Became Emperor, succeeding Antoninus Pius.
+                 Father of Emperor Commodus.
+                 Died by natural causes. Consecrated (apotheosis).
+    </description>
+  </emperor>
+
+  <emperor id="Marcus Aurelius">
+    <name>IMPERATOR CAESAR MARCVS AVRELIVS ANTONINVS AVGVSTVS</name>
+    <dynasty>Nerva-Antonine</dynasty>
+    <dates born="26 April 121" died="17 March 180" aged="58" />
+    <place city="Rome" region="Italia" />
+    <reign from="8 March 161" to="17 March 180" />
+    <description>Adopted son (138) and son-in-law of Emperor Antoninus Pius. Nephew of Faustina Maior.
+                 Married to Faustina Minor (145), dauther of Antoninus Pius and Faustina Maior.
+                 Succeeded his adoptive father Antoninus Pius.
+                 Co-Emperor with Lucius Verus until 169. Last of the "Five Good Emperors".
+                 Father of Emperor Commodus.
+                 Died by natural causes. Consecrated (apotheosis).
+    </description>
+  </emperor>
+ 
+  <emperor id="Divus Marcus Aurelius">
+    <name>IMPERATOR CAESAR MARCVS AVRELIVS ANTONINVS AVGVSTVS</name>
+    <dynasty>Nerva-Antonine</dynasty>
+    <dates born="26 April 121" died="17 March 180" aged="58" />
+    <place city="Rome" region="Italia" />
+    <reign from="8 March 161" to="17 March 180" />
+    <description>Adopted son (138) and son-in-law of Emperor Antoninus Pius. Nephew of Faustina Maior.
+                 Married to Faustina Minor (145), dauther of Antoninus Pius and Faustina Maior.
+                 Succeeded his adoptive father Antoninus Pius.
+                 Father of Emperor Commodus.
+                 Died by natural causes. Consecrated (apotheosis).
+    </description>
+  </emperor>
+
+  <emperor id="Faustina Minor">
+    <name>ANNIA GALERIA FAVSTINA AVGUSTA MINOR</name>
+    <dynasty>Nerva-Antonine</dynasty>
+    <dates born="21 September ca. 130" died="175-176" aged="ca. 45" />
+    <place city="Rome" region="Italia" />
+    <reign from="1 December 147" to="175-176" />
+    <description>Daughter of Emperor Antoninus Pius and Faustina Maior. 
+                 Wife of Emperor Marcus Aurelius (married 13 May 145). Mother of Emperor Commodus.
+                 Died after an accident. Consecrated (apotheosis).
+    </description>
+  </emperor>
+
+ <emperor id="Diva Faustina Minor">
+    <name>ANNIA GALERIA FAVSTINA AVGUSTA MINOR</name>
+    <dynasty>Nerva-Antonine</dynasty>
+    <dates born="21 September ca. 130" died="175-176" aged="ca. 45" />
+    <place city="Rome" region="Italia" />
+    <reign from="1 December 147" to="175-176" />
+    <description>Daughter of Emperor Antoninus Pius and Faustina Maior. 
+                 Wife of Emperor Marcus Aurelius (married 13 May 145). Mother of Emperor Commodus.
+                 Died after an accident. Consecrated (apotheosis).
+    </description>
+  </emperor>
+
+  <emperor id="Lucius Verus">
+    <name>IMPERATOR CAESAR LVCIVS AVRELIVS VERVS AVGVSTVS</name>
+    <dynasty>Nerva-Antonine</dynasty>
+    <dates born="15 December 130" died="23 January 169" aged="39" />
+    <place city="Rome" region="Italia" />
+    <reign from="8 March 161" to="23 January 169" />
+    <description>Son of Aelius Caesar. Adopted son of Emperor Antoninus Pius and son-in-law of Emperor Marcus Aurelius.
+                 Married to Lucilla, dauther of Marcus Aurelius and Faustina Minor.
+                 Succeeded adoptive father Antoninus Pius.
+                 Co-Emperor with Marcus Aurelius.
+                 Died by natural causes. Consecrated (apotheosis).
+    </description>
+  </emperor>
+
+  <emperor id="Divus Lucius Verus">
+    <name>IMPERATOR CAESAR LVCIVS AVRELIVS VERVS AVGVSTVS</name>
+    <dynasty>Nerva-Antonine</dynasty>
+    <dates born="15 December 130" died="23 January 169" aged="39" />
+    <place city="Rome" region="Italia" />
+    <reign from="8 March 161" to="23 January 169" />
+    <description>Son of Aelius Caesar. Adopted son of Emperor Antoninus Pius and son-in-law of Emperor Marcus Aurelius.
+                 Succeeded adoptive father Antoninus Pius. Co-Emperor with Marcus Aurelius.
+                 Died by natural causes. Consecrated (apotheosis).
+    </description>
+  </emperor>
+
+  <emperor id="Lucilla">
+    <name>ANNIA AVRELIA GALERIA LVCILLA AVGUSTA</name>
+    <dynasty>Nerva-Antonine</dynasty>
+    <dates born="7 March 149" died="181" aged="31-32" />
+    <place city="Rome" region="Italia" />
+    <reign from="164" to="169" />
+    <description>Daughter of Emperor Marcus Aurelius and wife of Emperor Lucius Verus (married 164).
+                 Executed after being involved in a failed conspiracy to assassinate Commodus.
+    </description>
+  </emperor>
+
+  <emperor id="Commodus Caesar">
+    <name>LVCIVS AVRELIVS COMMODVS CAESAR</name>
+    <dynasty>Nerva-Antonine</dynasty>
+    <dates born="31 August 161" died="31 December 192" aged="31" />
+    <place city="Lanuvium" region="Italia" />
+    <reign from="12 October 166" to="June 177" />
+    <description>Son of Emperor Marcus Aurelius and Faustina Minor.
+                 Co-Emperor with his father from June 177.
+                 Became sole Emperor after death of Marcus Aurelius.
+                 Assassinated in a conspiracy.
+    </description>
+  </emperor>
+
+  <emperor id="Commodus">
+    <name>IMPERATOR CAESAR LVCIVS AELIVS AVRELIVS COMMODVS AVGVSTVS</name>
+    <dynasty>Nerva-Antonine</dynasty>
+    <dates born="31 August 161" died="31 December 192" aged="31" />
+    <place city="Lanuvium" region="Italia" />
+    <reign from="June 177" to="31 December 192" />
+    <description>Son of Emperor Marcus Aurelius and Faustina Minor.
+                 Co-Emperor with his father from June 177. From 17 March 180 - sole Emperor.
+                 Assassinated in a conspiracy. Declared a public enemy by the Senate - de facto damnatio memoriae.
+                 Later consecrated (apotheosis) by Septimius Severus.
+    </description>
+  </emperor>
+
+  <emperor id="Bruttia Crispina">
+    <name>BRVTTIA CRISPINA AVGVSTA</name>
+    <dynasty>Nerva-Antonine</dynasty>
+    <dates born="ca. 164" died="193" aged="28-29" />
+    <place city="Rome" region="Italia" />
+    <reign from="178" to="191" />
+    <description>Wife of Emperor Commodus (married 178).
+                 Crispina was charged with adultery by her husband and was banished to the island of Capri in 188, later executed.
+                 Condemned (damnatio memoriae).
+    </description>
+  </emperor>
+  
+  <emperor id="Pertinax">
+    <name>IMPERATOR CAESAR PVBLIVS HELVIVS PERTINAX AVGVSTVS</name>
+    <dynasty>Severan</dynasty>
+    <dates born="1 August 126" died="28 March 193" aged="" />
+    <place city="Alba Pompeia" region="Italia" />
+    <reign from="31 December 192" to="28 March 193" />
+    <description>Son of freedman, military commander, senator and governor of multiple provinces under rule of Emperor Marcus Aurelius.
+                 Served as urban prefect of Rome during reign of Emperor Commodus.
+                 Proclaimed Emperor by the Praetorian Guard after assasination of Commodus.
+                 Murdered by rebelling soldiers of the Praetorian Guard. Consecrated (apotheosis).
+    </description>
+  </emperor>
+  
+  <emperor id="Septimius Severus">
+    <name>IMPERATOR CAESAR LVCIVS SEPTIMIVS SEVERVS EVSEBES PERTINAX AVGVSTVS</name>
+    <dynasty>Severan</dynasty>
+    <dates born="11 April 145" died="4 February 211" aged="65" />
+    <place city="Leptis Magna" region="Libya" />
+    <reign from="14 April 193" to="4 February 211" />
+    <description>Seized power after the death of Emperor Pertinax during the Year of the Five Emperors (193).
+                 Septimius Severus was governor of Pannonia Superior, when proclaimed Emperor by Pannonian legions.
+                 Founder of the Severan dynasty. Father of Emperor Caracalla and Emperor Geta.
+                 Died by natural causes. Consecrated (apotheosis).
+    </description>
+  </emperor>
+
+  <emperor id="Clodius Albinus Caesar">
+    <name>DECIMVS CLODIVS SEPTIMIVS ALBINVS CAESAR</name>
+    <dynasty>Severan</dynasty>
+    <dates born="25 November 147" died="19 February 197" aged="49" />
+    <place city="Hadrumetum" region="Africa" />
+    <reign from="193" to="196" />
+    <description>Claimed the title Emperor in the Year of the Five Emperors (193).
+                 Adopted by Emperor Septimius Severus (193), received the title Caesar.
+                 Proclaimed himself Emperor (196), supported by British and Spanish legions.
+                 Defeated by Septimius Severus, committed suicide afterwards. Condemned (damnatio memoriae).
+    </description>
+  </emperor>
+
+  <emperor id="Clodius Albinus">
+    <name>IMPERATOR CAESAR DECIMVS CLODIVS SEPTIMIVS ALBINVS AVGVSTVS</name>
+    <dynasty>Severan</dynasty>
+    <dates born="25 November 147" died="19 February 197" aged="49" />
+    <place city="Hadrumetum" region="Africa" />
+    <reign from="196" to="19 February 197" />
+    <description>Claimed the title Emperor in the Year of the Five Emperors (193).
+                 Adopted by Emperor Septimius Severus (193), received the title Caesar.
+                 Proclaimed himself Emperor (196), supported by British and Spanish legions.
+                 Defeated by Septimius Severus, committed suicide afterwards. Condemned (damnatio memoriae).
+    </description>
+  </emperor>
+
+  <emperor id="Julia Domna">
+    <name>IVLIA DOMNA AVGUSTA</name>
+    <dynasty>Severan</dynasty>
+    <dates born="ca. 170" died="217" aged="ca. 47" />
+    <place city="Emesa" region="Syria" />
+    <reign from="193" to="217" />
+    <description>Wife of Emperor Septimius Severus (married 185).
+                 Mother of Emperor Caracalla and Emperor Geta.
+                 Sister of Julia Maesa. Aunt to Julia Soaemias and Julia Mamaea.
+                 Commited suicide after assassination of Caracalla. Consecrated (apotheosis).
+    </description>
+  </emperor>
+
+  <emperor id="Caracalla Caesar">
+    <name>MARCVS AVRELIVS ANTONINVS CAESAR</name>
+    <dynasty>Severan</dynasty>
+    <dates born="4 April 186" died="8 April 217" aged="29" />
+    <place city="Lugdunum" region="Gallia" />
+    <reign from="4 April 196" to="Autumn 197" />
+    <description>Son of Emperor Septimius Severus; brother of Emperor Geta.
+                 Received the title Caeser from his father Septimius Severus.
+                 Became Co-Emperor with Septimius Severus in Autumn 197.
+                 Assassinated by a soldier as part of a conspiracy involving Praetorian Prefect Macrinus, later Emperor.
+    </description>
+  </emperor>
+
+  <emperor id="Caracalla">
+    <name>IMPERATOR CAESAR MARCVS AVRELIVS SEVERVS ANTONINVS PIVS AVGVSTVS</name>
+    <dynasty>Severan</dynasty>
+    <dates born="4 April 186" died="8 April 217" aged="29" />
+    <place city="Lugdunum" region="Gallia" />
+    <reign from="Autumn 197" to="8 April 217" />
+    <description>Son of Emperor Septimius Severus; brother of Emperor Geta.
+                 Received the title Augustus from his father Septimius Severus (197).
+                 Co-Emperor with Septimius Severus from 197, with Septimius Severus and Geta from 209 until February 211.
+                 Co-Emperor with Geta until December 211. Sole Emperor after the death of Geta.
+                 Assassinated by a soldier as part of a conspiracy involving Praetorian Prefect Macrinus, later Emperor.
+    </description>
+  </emperor>
+
+  <emperor id="Plautilla">
+    <name>PVBLIA FVLVIA PLAVTILLA AVGVSTA</name>
+    <dynasty>Severan</dynasty>
+    <dates born="ca. 185" died="211" aged="25-26" />
+    <place city="Rome" region="Italia" />
+    <reign from="April 202" to="January 205" />
+    <description>Wife of Emperor Caracalla, her paternal second cousin (married April 202).
+                 Daughter of Gaius Fulvius Plautianus, friend and Praetorian Prefect of Emperor Septimius Severus.
+                 Was sent to exile by Caracalla (January 205), after her father was executed for treachery.
+                 Assassinated on orders of Caracalla after the death of Septimius Severus (211).
+    </description>
+  </emperor>
+
+  <emperor id="Geta Caesar">
+    <name>PVBLIVS SEPTIMIVS GETA CAESAR</name>
+    <dynasty>Severan</dynasty>
+    <dates born="7 March 189" died="26 December 211" aged="22" />
+    <place city="Rome" region="Italia" />
+    <reign from="Autumn 197" to="Autumn 209" />
+    <description>Son of Emperor Septimius Severus; brother of Emperor Caracalla.
+                 Received the title Augustus from his father Septimius Severus (209).
+                 Assassinated by Praetorian Guards on orders of Caracalla.
+    </description>
+  </emperor>
+
+  <emperor id="Geta">
+    <name>IMPERATOR CAESAR PVBLIVS SEPTIMIVS GETA AVGVSTUS</name>
+    <dynasty>Severan</dynasty>
+    <dates born="7 March 189" died="26 December 211" aged="22" />
+    <place city="Rome" region="Italia" />
+    <reign from="Autumn 209" to="26 December 211" />
+    <description>Son of Emperor Septimius Severus; brother of Emperor Caracalla.
+                 Received the title Augustus from his father Septimius Severus (209).
+                 Co-Emperor with Septimius Severus and Caracalla from 209 until February 211.
+                 Co-Emperor with Caracalla until December 211.
+                 Assassinated by Praetorian Guards on orders of Caracalla. Condemned (damnatio memoriae).
+    </description>
+  </emperor>
+
+  <emperor id="Macrinus">
+    <name>IMPERATOR CAESAR MARCVS OPELLIVS SEVERVS MACRINVS AVGVSTVS</name>
+    <dynasty>Severan</dynasty>
+    <dates born="ca. 165" died="June 218" aged="53" />
+    <place city="Caesarea" region="Mauretania" />
+    <reign from="11 April 217" to="8 June 218" />
+    <description>Praetorian Prefect to Caracalla.
+                 Conspired to have Caracalla murdered and proclaimed himself Emperor after Caracalla's death. 
+                 Made his son Diadumenian co-Emperor in May 218.
+                 Executed after his troops were defeated by legions of Elagabalus. Condemned (damnatio memoriae).
+    </description>
+  </emperor>
+
+  <emperor id="Diadumenianus Caesar">
+    <name>MARCVS OPELLIVS ANTONINVS DIADVMENIANVS CAESAR</name>
+    <dynasty>Severan</dynasty>
+    <dates born="14 September 208" died="June 218" aged="9" />
+    <place city="Caesarea" region="Mauretania" />
+    <reign from="May 217" to="8 June 218" />
+    <description>Son of Emperor Macrinus.
+                 Elevated to Caesar my his father Macrinus in May 217 and to Augustus in May 218.
+                 Executed after his father Macrinus was defeated by legions of Elagabalus.
+    </description>
+  </emperor>
+
+  <emperor id="Julia Maesa">
+    <name>IVLIA MAESA AVGVSTA</name>
+    <dynasty>Severan</dynasty>
+    <dates born="7 May before ca. 160" died="ca. 224" aged="64-65" />
+    <place city="Emesa" region="Syria" />
+    <reign from="June 218" to="224" />
+    <description>Elder sister of Julia Domna, sister-in-law to Emperor Septimius Severus.
+                 Aunt of Emperor Caracalla and Emperor Geta.
+                 Mother of Julia Soaemias and Julia Mamaea.
+                 Grandmother and co-regent of Emperor Elagabalus and Emperor Severus Alexander.
+                 Received the title Augusta in 218 after Elagabalus became Emperor.
+                 Died by natural causes. Consecrated (apotheosis).
+    </description>
+  </emperor>
+
+  <emperor id="Elagabalus">
+    <name>IMPERATOR CAESAR MARCVS AVRELIVS ANTONINVS AVGVSTVS</name>
+    <dynasty>Severan</dynasty>
+    <dates born="ca. 204" died="11 March 222" aged="18" />
+    <place city="Emesa" region="Syria" />
+    <reign from="	16 May 218" to="11 March 222" />
+    <description>Grandnephew of Julia Domna and Emperor Septimius Severus.
+                 First cousin once removed and alleged illegitimate son of Emperor Caracalla.
+                 Grandson of Julia Maesa, son of Julia Soaemias. 
+                 Cousin of Emperor Severus Alexander. Adopted Severus Alexander as his hair.
+                 Proclaimed Emperor by Syrian legions in a conspiracy, organized by Julia Maesa against Macrinus.
+                 Murdered in a riot by Praetorian Guard. Condemned (damnatio memoriae).
+    </description>
+  </emperor>
+
+  <emperor id="Julia Soaemias">
+    <name>IVLIA SOAEMIAS AVGUSTA</name>
+    <dynasty>Severan</dynasty>
+    <dates born="ca. 180" died="11 March 222" aged="41-42" />
+    <place city="Emesa" region="Syria" />
+    <reign from="	16 May 218" to="11 March 222" />
+    <description>Niece of Julia Domna and Emperor Septimius Severus.
+                 Daughter of Julia Maesa, sister of Julia Mamaea.
+                 Mother and co-regent of Emperor Elagabalus.
+                 Received the title Augusta in 218 after Elagabalus became Emperor.
+                 Murdered in a riot by Praetorian Guard together with her son Elagabalus. Condemned (damnatio memoriae).
+    </description>
+  </emperor>
+
+  <emperor id="Julia Paula">
+    <name>IVLIA CORNELIA PAVLA AVGUSTA</name>
+    <dynasty>Severan</dynasty>
+    <dates born="?" died="?" />
+    <reign from="219" to="220" />
+    <description>First wife of Emperor Elagabalus (married in early 219).
+                 Elagabalus divorced her in late 220.
+                 Withdrew from public life after the divorce.
+    </description>
+  </emperor>
+
+  <emperor id="Aquilia Severa">
+    <name>IVLIA AQVILIA SEVERA AVGUSTA</name>
+    <dynasty>Severan</dynasty>
+    <dates born="?" died="after 222" />
+    <reign from="220" to="222" />
+    <description>Second and fourth wife of Emperor Elagabalus (married in late 220, divorced, marriage revoked in 221).
+                 Received the title Augusta after the first marriage with Elagabalus.
+                 Lost the title after the assassination of Elagabalus (222).
+                 Cause and date of death are unknown.
+    </description>
+  </emperor>
+
+  <emperor id="Annia Faustina">
+    <name>ANNIA AVRELIA FAVSTINA AVGUSTA</name>
+    <dynasty>Severan</dynasty>
+    <dates born="ca. 201" died="after 222" />
+    <reign from="221" to="221" />
+    <description>Third wife of Emperor Elagabalus (married in July 221, divorced by the end of 221).
+                 Great-granddaughter of Emperor Marcus Aurelius.
+                 Received the title Augusta after the marriage with Elagabalus.
+                 Cause and date of death are unknown.
+    </description>
+  </emperor>
+
+  <emperor id="Julia Mamaea">
+    <name>IVLIA AVITA MAMAEA AVGVSTA</name>
+    <dynasty>Severan</dynasty>
+    <dates born="after 180" died="19 March 235" aged="ca. 55" />
+    <place city="Emesa" region="Syria" />
+    <reign from="11 March 222" to="19 March 235" />
+    <description>Niece of Julia Domna and Emperor Septimius Severus.
+                 Daughter of Julia Maesa, sister of Julia Soaemias.
+                 Mother and co-regent of Emperor Severus Alexander.
+                 Received the title Augusta in 222 after Severus Alexander became Emperor.
+                 Lynched by soldiers together with her son Severus Alexander. Condemned (damnatio memoriae).
+    </description>
+  </emperor>
+
+  <emperor id="Severus Alexander Caesar">
+    <name>MARCVS AVRELIVS ALEXANDER CAESAR</name>
+    <dynasty>Severan</dynasty>
+    <dates born="ca. 208" died="19 March 235" aged="ca. 27" />
+    <place city="Arca Caesarea" region="Syria" />
+    <reign from="26 June 221" to="14 March 222" />
+    <description>Grandnephew of Julia Domna and Emperor Septimius Severus.
+                 First cousin once removed of Emperor Caracalla.
+                 Grandson of Julia Maesa, son of Julia Soaemias. 
+                 Cousin of Emperor Elagabalus. Adopted by Elagabalus and made Caesar in 221.
+                 Succeeded his cousin Elagabalus.
+                 Lynched by soldiers, after Maximinus Thrax was proclaimed Emperor. Consecrated (apotheosis).
+    </description>
+  </emperor>
+
+  <emperor id="Severus Alexander">
+    <name>IMPERATOR CAESAR MARCVS AVRELIVS SEVERVS ALEXANDER AVGVSTVS</name>
+    <dynasty>Severan</dynasty>
+    <dates born="ca. 208" died="19 March 235" aged="ca. 27" />
+    <place city="Arca Caesarea" region="Syria" />
+    <reign from="14 March 222" to="19 March 235" />
+    <description>Grandnephew of Julia Domna and Emperor Septimius Severus.
+                 First cousin once removed of Emperor Caracalla.
+                 Grandson of Julia Maesa, son of Julia Soaemias. 
+                 Cousin of Emperor Elagabalus. Adopted by Elagabalus.
+                 Succeeded his cousin Elagabalus.
+                 Lynched by soldiers, after Maximinus Thrax was proclaimed Emperor. Consecrated (apotheosis).
+    </description>
+  </emperor>
+
+  <emperor id="Sallustia Orbiana">
+    <name>GNAEA SEIA HERENNIA SALLVSTIA BARBIA ORBIANA AVGUSTA</name>
+    <dynasty>Severan</dynasty>
+    <dates born="ca. 209" died="?" />
+    <reign from="225" to="227" />
+    <description>Wife of Emperor Severus Alexander (married 225).
+                 Received the title Augusta after the marrige to Severus Alexander.
+                 Sent to exile after the failed coup of her father, Praetorian Prefect and Caesar Lucius Seius Herennius Sallustius.
+                 Lived in Africa. Date and cause of death are unknown.
+    </description>
+  </emperor>
+
+  <emperor id="Maximinus I Thrax">
+    <name>IMPERATOR CAESAR GAIVS IVLIVS VERVS MAXIMINVS AVGVSTVS</name>
+    <dynasty>Gordian</dynasty>
+    <dates born="ca. 173" died="May 238" aged="65" />
+    <place region="Thrace" />
+    <reign from="20 March 235" to="May 238" />
+    <description>Maximinus was Prefect of Legio IV Italica, when proclaimed Emperor by Germanic legions after assassination of Emperor Severus Alexander.
+                 Assassinated by his soldiers in the Year of the Six Emperors (238). Condemned (damnatio memoriae).
+    </description>
+  </emperor>
+
+  <emperor id="Diva Paulina">
+    <name>CAECILIA PAVLINA PIA AVGUSTA</name>
+    <dynasty>Gordian</dynasty>
+    <dates born="?" died="235" />
+    <place city="" region="" />
+    <reign from="235" to="235" />
+    <description>Wife of Emperor Maximinus Thrax. Mother of Maximus Caesar.
+                 Probably died before Maximinus became Emperor.
+                 Received the title Augusta posthumously. Deified (Diva). 
+    </description>
+  </emperor>
+  
+  <emperor id="Maximus Caesar">
+    <name>GAIVS IVLIVS VERVS MAXIMVS CAESAR</name>
+    <dynasty>Gordian</dynasty>
+    <dates born="217-220" died="May 238" aged="18-21" />
+    <reign from="236" to="May 238" />
+    <description>Son of Emperor Maximinus I Thrax.
+                 Maximinus I Thrax appointed his son Caesar around 236.
+                 Assassinated by soldiers together with his father.
+    </description>
+  </emperor>
+
+  <emperor id="Balbinus">
+    <name>IMPERATOR CAESAR DECIMVS CAELIVS CALVINVS BALBINVS AVGVSTVS</name>
+    <dynasty>Gordian</dynasty>
+    <dates born="ca. 178" died="29 July 238" aged="60" />
+    <reign from="22 April 238" to="29 July 238" />
+    <description>Roman senator, Consul 211 and 213 as colleague of Caracalla.
+                 Co-Emperor with Pupienus in the Year of the Six Emperors (238).
+                 Was installed as Emperor by the Senate after defeat and deaths of Emperors Gordian I and Gordian II against Emperor Maximinus Thrax.
+                 After the death of Maximinux Thrax, Pupienus and Balbinus have been assasinated by the Praetorian Guard, who resented serving under Senate-appointed Emperors.
+    </description>
+  </emperor>
+
+  <emperor id="Pupienus">
+    <name>IMPERATOR CAESAR MARCVS CLODIVS PVPIENVS MAXIMVS AVGVSTVS</name>
+    <dynasty>Gordian</dynasty>
+    <dates born="ca. 168" died="29 July 238" aged="70" />
+    <place city="Roma" region="Italia" />
+    <reign from="22 April 238" to="29 July 238" />
+    <description>Roman senator, Consul 222 and 234.
+                 Co-Emperor with Balbinus in the Year of the Six Emperors (238).
+                 Was installed as Emperor by the Senate after defeat and deaths of Emperors Gordian I and Gordian II against Emperor Maximinus Thrax.
+                 After the death of Maximinux Thrax, Pupienus and Balbinus have been assasinated by the Praetorian Guard, who resented serving under Senate-appointed Emperors.
+    </description>
+  </emperor>
+  
+  <emperor id="Gordianus III Caesar">
+    <name>MARCVS ANTONIVS GORDIANVS CAESAR</name>
+    <dynasty>Gordian</dynasty>
+    <dates born="20 January 225" died="11 February 244" aged="19" />
+    <place city="Rome" region="Italia" />
+    <reign from="22 April 238" to="29 July 238" />
+    <description>Grandson of Emperor Gordian I and nephew of Emperor Gordian II.
+                 Raised to Caesar by the Senate during the reign of Emperors Balbinus and Pupienus in the Year of the Six Emperors.
+                 Died by unknown causes. Possibly assassinated on orders of Philip I Arab. Consecrated (apotheosis).
+    </description>
+  </emperor>
+
+  <emperor id="Gordianus III">
+    <name>IMPERATOR CAESAR MARCVS ANTONIVS GORDIANVS AVGVSTVS</name>
+    <dynasty>Gordian</dynasty>
+    <dates born="20 January 225" died="11 February 244" aged="19" />
+    <place city="Rome" region="Italia" />
+    <reign from="29 July 238" to="11 February 244" />
+    <description>Grandson of Emperor Gordian I and nephew of Emperor Gordian II.
+                 Raised to Caesar by the Senate during the reign of Emperors Balbinus and Pupienus in the Year of the Six Emperors.
+                 Proclaimed Emperor by the Praetorian Guard, then by the Senate, after the assassination of Balbinus and Pupienus. 
+                 Died by unknown causes. Possibly assassinated on orders of Philip I Arab. Consecrated (apotheosis).
+    </description>
+  </emperor>
+
+  <emperor id="Tranquillina">
+    <name>FVRIA SABINIA TRANQVILLINA AVGVSTA</name>
+    <dynasty>Gordian</dynasty>
+    <dates born="ca. 225" died="after 244" />
+    <reign from="241" to="244" />
+    <description>Wife of Emperor Gordian III.
+                 Daughter of Timesitheus, the Praetorian Prefect of Gordian III.
+                 Survived assassination of Gordian III. Date and causes of death are unknown.
+    </description>
+  </emperor>
+
+  <emperor id="Philippus I Arab">
+    <name>IMPERATOR CAESAR MARCVS IVLIVS PHILIPPVS AVGVSTVS</name>
+    <dynasty>Gordian</dynasty>
+    <dates born="ca. 204" died="September 249" aged="45" />
+    <place city="Philippopolis" region="Arabia Petraea" />
+    <reign from="February 244" to="September 249" />
+    <description>Praetorian Prefect to Emperor Gordian III. 
+                 Took power after death of Gordian III. 
+                 Appointed his son Philip II co-Emperor in Summer 247.
+                 Killed in the battle against Emperor Trajanus Decius. Consecrated (apotheosis).
+    </description>
+  </emperor>
+
+  <emperor id="Otacilia Severa">
+    <name>MARCIA OTACILIA SEVERA AVGVSTA</name>
+    <dynasty>Gordian</dynasty>
+    <dates born="?" died="248-249" aged="" />
+    <reign from="244" to="248-249" />
+    <description>Wife of Emperor Philip I Arab. Mother of Emperor Philippus II.
+                 Received the title Augusta after Philip I Arab became Emperor.
+                 Survived her husband and son and lived later in obscurity.
+    </description>
+  </emperor>
+
+  <emperor id="Philippus II Caesar">
+    <name>MARCVS IVLIVS SEVERVS PHILLIPVS CAESAR</name>
+    <dynasty>Gordian</dynasty>
+    <dates born="237" died="249" aged="12" />
+    <reign from="244" to="247" />
+    <description>Son of Emperor Philip I Arab.
+                 Appointed Caesar in 244, when his father became Emperor. Co-Emperor from Summer 247.
+                 Assassinated by Praetorian Guard, when news of death of Philip I Arab reached Rome.
+    </description>
+  </emperor>
+
+  <emperor id="Philippus II">
+    <name>IMPERATOR CAESAR MARCVS IVLIVS SEVERVS PHILLIPVS AVGVSTVS</name>
+    <dynasty>Gordian</dynasty>
+    <dates born="237" died="249" aged="12" />
+    <reign from="247" to="249" />
+    <description>Son of Emperor Philip I Arab.
+                 Appointed Caesar in 244, when his father became Emperor. Co-Emperor from Summer 247.
+                 Assassinated by Praetorian Guard, when news of death of Philip I Arab reached Rome.
+    </description>
+  </emperor>
+
+  <emperor id="Trajanus Decius">
+    <name>IMPERATOR CAESAR GAIVS MESSIVS QVINTVS TRAIANVS DECIVS AVGVSTVS</name>
+    <dynasty>Decian</dynasty>
+    <dates born="ca. 201" died="June 251" aged="50" />
+    <place city="Budalia" region="Pannonia Inferior" />
+    <reign from="September 249" to="June 251" />
+    <description>Propraetor of Moesian and Pannonian provinces during reign Emperor Philip I Arab.
+                 Proclaimed Emperor by his troops. Recognized as Emperor by Senate after defeating Philip I Arab.
+                 Father of Emperor Herennius Etruscus and Emperor Hostilian.
+                 Killed in the battle against Goths together with Herennius Etruscus. Consecrated (apotheosis).
+    </description>
+  </emperor>
+
+  <emperor id="Herennia Etruscilla">
+    <name>ANNIA CVPRESSENIA HERENNIA ETRVSCILLA AVGVSTA</name>
+    <dynasty>Decian</dynasty>
+    <dates born="?" died="?" aged="" />
+    <reign from="249" to="251" />
+    <description>Wife of Emperor Trajan Decius (married ca. 230).
+                 Mother of Emperor Herennius Etruscus and Emperor Hostilian.
+                 Received the title Augusta after Trajan Decius became Emperor. Co-regent of Hostilian.
+                 Probably died of plague in 251.
+    </description>
+  </emperor>
+
+  <emperor id="Herennius Etruscus Caesar">
+    <name>QVINTVS HERENNIVS ETRVSCVS MESSIVS DECIVS CAESAR</name>
+    <dynasty>Decian</dynasty>
+    <dates born="ca. 227" died="June 251" aged="24" />
+    <place region="Pannonien" />
+    <reign from="May 250" to="June 251" />
+    <description>Son of Emperor Trajanus Decius and Herennia Etruscilla. Brother of Emperor Hostilian.
+                 Appointed Caesar by his father Trajanus Decius. Co-Emperor with Trajanus Decius in June 251.
+                 Killed in the battle against Goths together with his father.
+    </description>
+  </emperor>
+
+  <emperor id="Hostilianus Caesar">
+    <name>GAIVS VALENS HOSTILIANVS MESSIVS QVINTVS CAESAR</name>
+    <dynasty>Decian</dynasty>
+    <dates born="ca. 230-235" died="November 251" />
+    <place city="Sirmium" region="Pannonien" />
+    <reign from="May 251" to="June 251" />
+    <description>Son of Emperor Trajanus Decius and Herennia Etruscilla. Brother of Emperor Herennius Etruscus.
+                 Appointed Caesar by his father Trajanus Decius.
+                 Became Emperor in June 251. Co-Emperor with Trebonianus Gallus.
+                 Died of plague.
+    </description>
+  </emperor>
+
+  <emperor id="Hostilianus">
+    <name>IMPERATOR CAESAR GAIVS VALENS HOSTILIANVS MESSIVS QVINTVS AVGVSTVS</name>
+    <dynasty>Decian</dynasty>
+    <dates born="ca. 230-235" died="November 251" />
+    <place city="Sirmium" region="Pannonien" />
+    <reign from="June 251" to="November 251" />
+    <description>Son of Emperor Trajanus Decius and Herennia Etruscilla. Brother of Emperor Herennius Etruscus.
+                 Appointed Caesar by his father Trajanus Decius.
+                 Adopted by Emperor Trebonianus Gallus after death of Trajanus Decius.
+                 Accepted as Emperor by Senate. Co-Emperor with Trebonianus Gallus.
+                 Died of plague.
+    </description>
+  </emperor>
+
+  <emperor id="Trebonianus Gallus">
+    <name>IMPERATOR CAESAR GAIVS VIBIVS AFINIVS TREBONIANVS GALLVS AVGVSTVS</name>
+    <dynasty>Decian</dynasty>
+    <dates born="ca. 206" died="August 253" aged="47" />
+    <place region="Italia" />
+    <reign from="June 251" to="August 253" />
+    <description>Propraetor of Moesia Superior under Emperor Trajanus Decius.
+                 Proclaimed Emperor by Danubian legions after death of Trajanus Decius.
+                 Adopted and accepted Hostilian as co-Emperor.
+                 Made his son Volusianus co-Emperor in late 251.
+                 Assassinated by his own troops, in favour of Emperor Aemilianus. Condemned (damnatio memoriae).
+    </description>
+  </emperor>
+
+  <emperor id="Volusianus">
+    <name>IMPERATOR CAESAR GAIVS VIBIVS VOLVSIANVS AVGVSTVS</name>
+    <dynasty>Decian</dynasty>
+    <dates born="ca. 230" died="August 253" aged="23" />
+    <reign from="November 251" to="August 253" />
+    <description>Son of Emperor Trebonianus Gallus.
+                 Elevated to Caesar in about July 251 by his father.
+                 Became co-Emperor with Trebonianus Gallus after death of Emperor Hostilianus.
+                 Assassinated by own troops together with his father Trebonianus Gallus.
+    </description>
+  </emperor>
+
+  <emperor id="Aemilianus">
+    <name>IMPERATOR CAESAR MARCVS AEMILIVS AEMILIANVS AVGVSTVS</name>
+    <dynasty>Decian</dynasty>
+    <dates born="ca. 207" died="October 253" aged="46" />
+    <place region="Mauretania" />
+    <reign from="August 253" to="October 253" />
+    <description>Propraetor of Moesia Superior under Emperor Trebonianus Gallus.
+                 Proclaimed Emperor by Danubian legions. Defaeted Trebonianus Gallus and Volusianus.
+                 Recognized by Senate after death of Trebonianus Gallus.
+                 Assassinated by his own troops, in favour of Emperor Valerianus.
+    </description>
+  </emperor>
+  
+  <emperor id="Valerianus">
+    <name>IMPERATOR CAESAR PVBLIVS LICINIVS VALERIANVS AVGVSTVS</name>
+    <dynasty>Valerian</dynasty>
+    <dates born="ca. 173-200" died="after 260" />
+    <reign from="22 October 253" to="June 260" />
+    <description>Governor of Noricum and Raetia under Emperor Trebonianus Gallus.
+                 Proclaimed Emperor by Rhine legions after death of Trebonianus Gallus; accepted as Emperor after death of Emperor Aemilianus.
+                 Made his son Galienus co-Emperor.
+                 Taken captive by the Persians. Died in captivity.
+    </description>
+  </emperor>
+
+  <emperor id="Diva Mariniana">
+    <name>EGNATIA MARINIANA AVGVSTA</name>
+    <dynasty>Valerian</dynasty>
+    <dates born="?" died="before 250" />
+    <reign from="?" to="250" />
+    <description>Wife of Emperor Valerianus (married before 250).
+                 Mother of Emperor Gallienus.
+                 Died before Valerianus became Emperor. Consecrated (apotheosis).
+    </description>
+  </emperor>
+
+  <emperor id="Gallienus">
+    <name>IMPERATOR CAESAR PVBLIVS LICINIVS EGNATIVS GALLIENVS AVGVSTVS</name>
+    <dynasty>Valerian</dynasty>
+    <dates born="c. 218" died="September 268" aged="50" />
+    <place city="Mediolanum" region="Itala" />
+    <reign from="22 October 253" to="September 268" />
+    <description>Son of Emperor Valerianus and Mariniana.
+                 Became co-Emperor with his father Valerianus (253).
+                 Made co-Emperor his son Saloninus in July 260 for a short time.
+                 Sole Emperor after Valerianus was taken caprive and assasination of Saloninus.
+                 Assisinated by his soldiers during the revolt of Aureolus. Consecrated (apotheosis).
+    </description>
+  </emperor>
+
+  <emperor id="Salonina">
+    <name>IVLIA CORNELIA SALONINA AVGVSTA</name>
+    <dynasty>Valerian</dynasty>
+    <dates born="?" died="268" />
+    <reign from="22 October 253" to="September 268" />
+    <description>Wife of Emperor Gallienus. Mother of Valerianus II Caesar and Emperor Saloninus.
+                 Salonina was named Augusta after Gallienus became co-Emperor with Valerianus.
+                 Probably assasinated together with her husband Gallienus.
+    </description>
+  </emperor>
+
+  <emperor id="Valerianus II Caesar">
+    <name>PVBLIVS LICINIVS CORNELIVS EGNATIVS VALERIANVS CAESAR</name>
+    <dynasty>Valerian</dynasty>
+    <dates born="?" died="258" />
+    <reign from="256" to="258" />
+    <description>Son of Emperor Gallienus and Salonina.
+                 Valerianus II was made Caesar shortly after his father became co-Emperor with Emperor Valerianus I.
+                 Died in suspicious circumstances, probably during the attempted usurpation by Ingenuus. Consecrated (apotheosis).
+    </description>
+  </emperor>
+
+  <emperor id="Divus Valerianus II">
+    <name>PVBLIVS LICINIVS CORNELIVS EGNATIVS VALERIANVS CAESAR</name>
+    <dynasty>Valerian</dynasty>
+    <dates born="?" died="258" />
+    <reign from="256" to="258" />
+    <description>Son of Emperor Gallienus and Salonina.
+                 Valerianus II was made Caesar shortly after his father became co-Emperor with Emperor Valerianus I.
+                 Died in suspicious circumstances, probably during the attempted usurpation by Ingenuus. Consecrated (apotheosis).
+    </description>
+  </emperor>
+
+  <emperor id="Saloninus Caesar">
+    <name>PVBLIVS CORNELIVS LICINIVS SALONINVS VALERIANVS CAESAR</name>
+    <dynasty>Valerian</dynasty>
+    <dates born="ca. 242" died="260" aged="18" />
+    <reign from="258" to="260" />
+    <description>Son of Emperor Gallienus and Salonina. Brother of Valerianus II Caesar.
+                 Became Caesar after the death of his brother Valerianus II.
+                 Saloninus was briefly co-Emperor in July 260 with his father Gallienus.
+                 Assasinated by soldiers during the usurpation of Postumus. 
+    </description>
+  </emperor>
+
+  <emperor id="Macrianus Minor">
+    <name>IMPERATOR CAESAR TITVS FVLVIVS IVNIVS MACRIANVS AVGVSTVS</name>
+    <dynasty>Valerian</dynasty>
+    <dates born="?" died="261" />
+    <reign from="260" to="261" />
+    <description>Served as military tribune under Emperor Valerianus in the Persian campain (260).
+                 Proclaimed Emperor by his father Macrianus Maior after Valerianus was taken captive by Persians.
+                 Brother and co-Emperor of Quietus.
+                 Killed in the battle against the army of Emperor Gallienus, commanded by Aureolus.
+    </description>
+  </emperor>
+
+  <emperor id="Quietus">
+    <name>IMPERATOR CAESAR TITVS FVLVIVS IVNIVS QVIETVS AVGVSTVS</name>
+    <dynasty>Valerian</dynasty>
+    <dates born="?" died="261" />
+    <reign from="260" to="261" />
+    <description>Served as military tribune under Emperor Valerianus in the Persian campain (260).
+                 Proclaimed Emperor by his father Macrianus Maior after Valerianus was taken captive by Persians.
+                 Brother and co-Emperor of Macrianus Minor.
+                 Assasinated after the defeat and deaths of his brother Macrianus Minor and father Macrianus Maior.
+    </description>
+  </emperor>
+
+  <emperor id="Postumus">
+    <name>IMPERATOR CAESAR MARCVS CASSIANIVS LATINIVS POSTVMVS AVGVSTVS</name>
+    <dynasty>Gallic Empire</dynasty>
+    <dates born="?" died="March 269" />
+    <place region="Gallia" />
+    <reign from="Autumn 260" to="March 269" />
+    <description>Military commander in Gallia under Saloninus Caesar and Emperors Valerianus and Gallienus .
+                 Founder of the Gallic Roman Empire (Imperium Galliarum).
+                 Proclaimed Emperor by Gallian legions during the invasion of Alamanni and Franks after news of the defeat and capture of Emperor Valerianus.
+                 Lynched by his own soldiers after the revolt of the usurper Laelianus.
+    </description>
+  </emperor>
+
+  <emperor id="Marius">
+    <name>IMPERATOR CAESAR MARCVS AVRELIVS MARIVS AVGVSTVS</name>
+    <dynasty>Gallic Empire</dynasty>
+    <dates born="?" died="269" />
+    <reign from="March 269" to="Autumn 269" />
+    <description>An officer in the army of Emperor Postumus.
+                 Proclaimed Emperor of the Gallic Empire by soldiers after assassinaation of Postumus.
+                 Killed by Emperror Victorinus.
+    </description>
+  </emperor>
+ 
+  <emperor id="Victorinus">
+    <name>IMPERATOR CAESAR MARCVS PIAVONIVS VICTORINVS AVGVSTVS</name>
+    <dynasty>Gallic Empire</dynasty>
+    <dates born="ca. 220" died="Spring 271" aged="ca. 50" />
+    <place region="Gallia" />
+    <reign from="Autumn 269" to="Spring 271" />
+    <description>Praetorian Prefect and Consul of the Gallic Empire under Emperor Postumus.
+                 Declared Emperor by the troops at Augusta Treverorum (Trier) after the death of Postumus and the short reign of Emperor Marius.
+                 Murdered by one of his officers, whose wife Victorinus had supposedly seduced.
+    </description>
+  </emperor>
+
+  <emperor id="Tetricus I">
+    <name>IMPERATOR CAESAR GAIVS PIVS ESVVIVS TETRICVS</name>
+    <dynasty>Gallic Empire</dynasty>
+    <dates born="?" died="after 283" />
+    <place region="Gallia" />
+    <reign from="Spring 271" to="March 274" />
+    <description>Governor (Praeses Provinciae) of Gallia Aquitania under Emperor Victorinus.
+                 Appointed Emperor by Victoria, mother of Victorinus, after the assassination of Victorinus.
+                 The last Emperor of the Gallic Empire. Tetricus was defeated by Aurelianus in March 274.
+                 After the defeat was appointed Governor (Corrector) of either Lucania et Bruttii, a province in southern Italy or all of Italy.
+                 Died of natural causes.
+    </description>
+  </emperor>
+
+  <emperor id="Tetricus II Caesar">
+    <name>GAIVS PIVS ESVVIVS TETRICVS CAESAR</name>
+    <dynasty>Gallic Empire</dynasty>
+    <dates born="?" died="?" />
+    <reign from="273" to="March 274" />
+    <description>Son of Gallic Emperor Tetricus I.
+                 Was raised to the rank of Caesar by his father Tetricus I.
+                 Lost the title Caesar after Tetricus I was defeated by Emperor Aurelianus.
+                 According to some sources, Tetricus II had kept his senatorial rank.
+                 Date and causes of death are unknown.
+    </description>
+  </emperor>
+
+  <emperor id="Claudius II Gothicus">
+    <name>IMPERATOR CAESAR MARCVS AVRELIVS VALERIVS CLAVDIVS AVGVSTVS</name>
+    <dynasty>Illyrian</dynasty>
+    <dates born="10 May 214" died="September 270" aged="56" />
+    <place city="Sirmium" region="Pannonia" />
+    <reign from="September 268" to="September 270" />
+    <description>General in the army of Emperor Gallienus.
+                 Proclaimed Emperor after the assasination of Gallienus.
+                 Brother of Emperor Quintillus.
+                 Died by natural causes (plague). Consecrated (apotheosis).
+    </description>
+  </emperor>
+
+  <emperor id="Divus Claudius II Gothicus">
+    <name>IMPERATOR CAESAR MARCVS AVRELIVS VALERIVS CLAVDIVS AVGVSTVS</name>
+    <dynasty>Illyrian</dynasty>
+    <dates born="10 May 214" died="September 270" aged="56" />
+    <place city="Sirmium" region="Pannonia" />
+    <reign from="September 268" to="September 270" />
+    <description>General in the army of Emperor Gallienus.
+                 Proclaimed Emperor after the assasination of Gallienus.
+                 Brother of Emperor Quintillus.
+                 Died by natural causes (plague). Consecrated (apotheosis).
+    </description>
+  </emperor>
+
+  <emperor id="Quintillus">
+    <name>IMPERATOR CAESAR MARCVS AVRELIVS CLAVDIVS QVINTILLVS AVGVSTVS</name>
+    <dynasty>Illyrian</dynasty>
+    <dates born="ca. 210" died="September 270" aged="ca. 60" />
+    <place city="Sirmium" region="Pannonia" />
+    <reign from="September 270" />
+    <description>Brother of Emperor Claudius II Gothicus.
+                 Declared Emperor by the Senate upon the death of Claudius Gothicus.
+                 The cause of death is unclear; possibly suicide or assasination.
+    </description>
+  </emperor>
+
+  <emperor id="Aurelianus">
+    <name>IMPERATOR CAESAR LVCIVS DOMITIVS AVRELIANVS AVGVSTVS</name>
+    <dynasty>Illyrian</dynasty>
+    <dates born="9 September 214" died="September 275" aged="61" />
+    <place city="Sirmium" region="Pannonia" />
+    <reign from="September 270" to="September 275" />
+    <description>General under Emperor Claudius II Gothicus.
+                 Proclaimed Emperor by Danubian legions after the death of Claudius Gothicus, in opposition to Emperor Quintillus.
+                 Sole Emperor after the death of Quintillus.
+                 Assassinated by an officer of Praetorian Guard, fearing punishment from the Emperor.
+                 Condemned (damnatio memoriae) after his death, but this was reversed and Aurelianus was consecrated (apotheosis) after a short time.
+    </description>
+  </emperor>
+
+  <emperor id="Severina">
+    <name>VLPIA SEVERINA AVGVSTA</name>
+    <dynasty>Illyrian</dynasty>
+    <dates born="?" died="after 275" />
+    <reign from="270" to="275" />
+    <description>Wife of Emperor Aurelianus. Married before Aurelianus became Emperor (270).
+                 Gained the title of Augusta at least by the autumn of 274 (if not before).
+                 Severina ruled in her own right (interregnum) between the death of Aurelianus and the election of Emperor Tacitus.
+                 Date and cause of her death is unknown.
+    </description>
+  </emperor>
+
+  <emperor id="Vabalathus">
+    <name>LVCIVS IVLIVS AVRELIVS SEPTIMIVS VABALLATHVS ATHENODORVS</name>
+    <dynasty>Illyrian</dynasty>
+    <dates born="ca. 259" died="after 273" aged="" />
+    <place city="Palmyra" region="Syria" />
+    <reign from="Autumn 267" to="Summer 272" />
+    <description>Rex regum, dux Romanorum (King, Duke under Rome) during the reign of Emperor Aurelianus. 
+                 Emperor of the Palmyrene Empire. His mother Zenobia ruled as queen regent.
+                 Defeated and taken caprive by Emperor Aurelianus. Died in captivity.
+    </description>
+  </emperor>
+
+  <emperor id="Tacitus">
+    <name>IMPERATOR CAESAR MARCVS CLAVDIVS TACITVS AVGVSTVS</name>
+    <dynasty>Illyrian</dynasty>
+    <dates born="ca. 200" died="June 276" aged="76" />
+    <place city="Interamna" region="Italia" />
+    <reign from="25 September 275" to="June 276" />
+    <description>Princeps Senatus (the first member by precedence of the Senate) under Emperor Aurelianus.
+                 Elected by the Senate to replace Emperor Aurelianus, after a short interregnum.
+                 Half-brother of Emperor Florianus.
+                 Died by natural causes, probably assasinated.
+    </description>
+  </emperor>
+
+  <emperor id="Florianus">
+    <name>IMPERATOR CAESAR MARCVS ANNIVS FLORIANVS AVGVSTVS</name>
+    <dynasty>Illyrian</dynasty>
+    <dates born="?" died="September 276" />
+    <reign from="July 276" to="September 276" />
+    <description>Half-brother of Emperor Tacitus. Praetorian Prefect under Tacitus.
+                 Elected Emperor by the army in the west after the death of Tacitus.
+                 Assassinated by his own troops, in favour of Emperor Probus.
+    </description>
+  </emperor>
+
+  <emperor id="Probus">
+    <name>IMPERATOR CAESAR MARCVS AVRELIVS PROBVS AVGVSTVS</name>
+    <dynasty>Illyrian</dynasty>
+    <dates born="19 August 232" died="October 282" aged="50" />
+    <place city="Sirmium" region="Pannonia" />
+    <reign from="276" to="October 282" />
+    <description>Governor of the eastern provinces under Emperor Tacitus.
+                 Proclaimed Emperor by the eastern armies in opposition to Emperor Florianus.
+                 Assassinated by his own troops, in favour of Emperor Carus. Consecrated (apotheosis).
+    </description>
+  </emperor>
+
+  <emperor id="Carus">
+    <name>IMPERATOR CAESAR MARCVS AVRELIVS CARVS AVGVSTVS</name>
+    <dynasty>Caran</dynasty>
+    <dates born="cs. 224" died="August 283" aged="59" />
+    <place city="Narbo" region="Gallia" />
+    <reign from="September 282" to="August 283" />
+    <description>Praetorian Prefect under Emperor Probus.
+                 Proclaimed Emperor by the army before or after Probus was assasinated. 
+                 Father of Emperors Carinus und Numerianus. Made his son Carinus co-Emperor in early 283.
+                 Probably died by natural causes (possibly killed by lightning). Condemned (damnatio memoriae).
+    </description>
+  </emperor>
+
+  <emperor id="Divus Carus">
+    <name>IMPERATOR CAESAR MARCVS AVRELIVS CARVS AVGVSTVS</name>
+    <dynasty>Caran</dynasty>
+    <dates born="cs. 224" died="August 283" aged="59" />
+    <place city="Narbo" region="Gallia" />
+    <reign from="September 282" to="August 283" />
+    <description>Praetorian Prefect under Emperor Probus.
+                 Proclaimed Emperor by the army before or after Probus was assasinated. 
+                 Probably died by natural causes (possibly killed by lightning). Condemned (damnatio memoriae).
+    </description>
+  </emperor>
+
+  <emperor id="Carinus Caesar">
+    <name>MARCVS AVRELIVS CARINVS CAESAR</name>
+    <dynasty>Caran</dynasty>
+    <dates born="ca. 250" died="September 285" aged="" />
+    <reign from="November 282" to="Spring 283" />
+    <description>Son of Emperor Carus. Brother of Emperor Numerianus.
+                 Elevated to the tile Caesar by his father Carus (282).
+                 Became co-Emperor with his father Carus in early 283.
+                 Probably died in battle against Emperor Diocletianus. Condemned (damnatio memoriae).
+    </description>
+  </emperor>
+
+  <emperor id="Carinus">
+    <name>CAESAR MARCVS AVRELIVS CARINVS AVGVSTVS</name>
+    <dynasty>Caran</dynasty>
+    <dates born="ca. 250" died="September 285" aged="35" />
+    <reign from="Spring 283" to="September 285" />
+    <description>Son of Emperor Carus. Brother of Emperor Numerianus.
+                 Became co-Emperor with his father Carus in early 283.
+                 Succeeded his father Carus. Co-Emperor with his brother Numerianus.
+                 Probably died in battle against Emperor Diocletianus. Condemned (damnatio memoriae).
+    </description>
+  </emperor>
+
+  <emperor id="Numerianus Caesar">
+    <name>MARCVS AVRELIVS NVMERIVS NVMERIANVS CAESAR</name>
+    <dynasty>Caran</dynasty>
+    <dates born="ca. 254" died="November 284" aged="30" />
+    <reign from="November 282" to="August 283" />
+    <description>Son of Emperor Carus. Brother of Emperor Carinus.
+                 Proclaimed Caesar by his father Carus.
+                 Became co-Emperor with his brother Carinus after the death of Carus.
+                 Cause of the death is unclear; possibly assassinated by his father-in-law. Condemned (damnatio memoriae).
+    </description>
+  </emperor>
+
+  <emperor id="Numerianus">
+    <name>IMPERATOR CAESAR MARCVS AVRELIVS NVMERIVS NVMERIANVS AVGVSTVS</name>
+    <dynasty>Caran</dynasty>
+    <dates born="ca. 254" died="November 284" aged="30" />
+    <reign from="August 283" to="November 284" />
+    <description>Son of Emperor Carus. Brother of Emperor Carinus.
+                 Became co-Emperor with his brother Carinus after the death of Carus.
+                 Cause of the death is unclear; possibly assassinated by his father-in-law. Condemned (damnatio memoriae).
+    </description>
+  </emperor>
+
+  <emperor id="Magnia Urbica">
+    <name>MAGNIA VRBICA AVGVSTA</name>
+    <dynasty>Caran</dynasty>
+    <dates born="?" died="?" />
+    <reign from="282" to="284" />
+    <description>Wife of Emperor Carus. She was (mistakenly?) considered to be wife of Emperor Carinus.
+                 Mother of Emperors Carinus and Numerianus.
+                 Date and cause of the death are unknown.
+    </description>
+  </emperor>
+
+  <emperor id="Diocletianus">
+    <name>IMPERATOR CAESAR GAIVS AVRELIVS VALERIVS DIOCLETIANVS AVGVSTVS</name>
+    <dynasty>Tetrarchy</dynasty>
+    <dates born="22 December 244" died="3 December 311" aged="66" />
+    <place city="Salona" region="Dalmatia" />
+    <reign from="20 November 284" to="1 May 305" />
+    <description>Military Commander under Emperors Aulerianus, Probus and Carus.
+                 Proclaimed Emperor by the army of the East after death of Emperor Numerianus; in opposition to Emperor Carinus.
+                 After defeating Carinus in 285, both the Western and the Eastern armies acclaimed Diocletianus as Emperor.
+                 Proclaimed Maximianus Herculius as Caesar (July 285). Adopted Maximianus Herculius as senior co-Emperor in the West (286).
+                 Emperor in the East from 286.
+                 Father of Galeria Valeria Augusta. Father-in-law of Emperor Galerius.
+                 Founder of the Tetrarchy (293).
+                 Adopted Emperor Galerius as junior co-Emperor (Caesar) and heir in 293.
+                 Resigned as Emperor 1 May 305.
+                 Died of natural causes. Consecrated (apotheosis) in 313.
+    </description>
+  </emperor>
+
+  <emperor id="Maximianus Herculius">
+    <name>IMPERATOR CAESAR MARCVS AVRELIVS VALERIVS MAXIMIANVS HERCVLIVS AVGVSTVS</name>
+    <dynasty>Tetrarchy</dynasty>
+    <dates born="21 July 250" died="July 310" aged="60" />
+    <place city="Sirmium" region="Pannonia" />
+    <reign from="1 April 286" to="1 May 305" />
+    <description>Military Commander under Emperors Aulerianus, Probus and Carus, serving together with Diocletianus.
+                 Proclaimed as Caesar (July 285) and senior co-Emperor in the West (286) by Emperor Diocletianus.
+                 Adopted Constantius Chlorus as junior co-Emperor (Caesar) and heir in 293.
+                 Father of Emperor Maxentius.
+                 Resigned as Emperor 1 May 305 together with Diocletianus. Tried to regain throne with, and then from Maxentius (306-310).
+                 Taken captive by Emperor Constantinus I.
+                 Committed suicide. Condemned (damnatio memoriae), later consecrated (apotheosis).
+    </description>
+  </emperor>
+
+  <emperor id="Divus Maximianus Herculius">
+    <name>IMPERATOR CAESAR MARCVS AVRELIVS VALERIVS MAXIMIANVS HERCVLIVS AVGVSTVS</name>
+    <dynasty>Tetrarchy</dynasty>
+    <dates born="21 July 250" died="July 310" aged="60" />
+    <place city="Sirmium" region="Pannonia" />
+    <reign from="1 April 286" to="1 May 305" />
+    <description>Military Commander under Emperors Aulerianus, Probus and Carus, serving together with Diocletianus.
+                 Proclaimed as Caesar (July 285) and senior co-Emperor in the West (286) by Emperor Diocletianus.
+                 Adopted Constantius Chlorus as junior co-Emperor (Caesar) and heir in 293.
+                 Father of Emperor Maxentius.
+                 Resigned as Emperor 1 May 305 together with Diocletianus. Tried to regain throne with, and then from Maxentius (306-310).
+                 Taken captive by Emperor Constantinus I.
+                 Committed suicide. Condemned (damnatio memoriae), later consecrated (apotheosis).
+    </description>
+  </emperor>
+
+  <emperor id="Carausius">
+    <name>IMPERATOR CAESAR MARCVS AVRELIVS MAVSAEVS CARAUSIVS AVGVSTVS</name>
+    <dynasty>Tetrarchy</dynasty>
+    <dates born="?" died="293" />
+    <place region="Gallia Belgica" />
+    <reign from="286" to="293" />
+    <description>Military Commander under Emperor Maximianus Herculius.
+                 Seized power as usurper in Britannia after being appointed to command the British fleet.
+                 Defeated by the troops of Constantius Chlorus Caesar.
+                 Assassinated by his treasurer Allectus, later usurper in Britannia.
+    </description>
+  </emperor>
+
+  <emperor id="Allectus">
+    <name>IMPERATOR CAESAR ALLECTVS AVGVSTVS</name>
+    <dynasty>Tetrarchy</dynasty>
+    <dates born="?" died="September 296" />
+    <reign from="293" to="September 296" />
+    <description>Treasurer to usurper Carausius.
+                 Assassinated Carausius and seized power as usurper in Britannia.
+                 Defeated by the troops of Constantius Chlorus Caesar. Killed in the battle.
+    </description>
+  </emperor>
+
+  <emperor id="Constantius I Chlorus Caesar">
+    <name>FLAVIVS VALERIVS CONSTANTIVS CAESAR HERCVLIVS</name>
+    <dynasty>Tetrarchy</dynasty>
+    <dates born="31 March 250" died="25 July 306" aged="56" />
+    <place city="Dardania" region="Moesia" />
+    <reign from="1 March 293" to="1 May 305" />
+    <description>Military Commander under Emperor Aurelian; Military Tribune under Emperor Probus. 
+                 Governor (Praeses Provinciae) of Dalmatia under Emperor Carus.
+                 Praetorian Prefect in the West under Emperor Maximianus Herculius.
+                 Adopted as junior co-Emperor (Caesar) and heir by Maximianus Herculius (293).
+                 Father of Emperor Constantinus I the Great. Married to Helena (until 289).
+                 Became Emperor in the West after Maximianus Herculius resigned in 305.
+                 Died of natural causes. Consecrated (apotheosis).
+    </description>
+  </emperor>
+
+  <emperor id="Constantius I Chlorus">
+    <name>IMPERATOR CAESAR MARCVS FLAVIVS VALERIVS CONSTANTIVS HERCVLIVS AVGVSTVS</name>
+    <dynasty>Tetrarchy</dynasty>
+    <dates born="31 March 250" died="25 July 306" aged="56" />
+    <place city="Dardania" region="Moesia" />
+    <reign from="1 May 305" to="25 July 306" />
+    <description>Military Commander under Emperor Aurelian; Military Tribune under Emperor Probus. 
+                 Governor (Praeses Provinciae) of Dalmatia under Emperor Carus.
+                 Praetorian Prefect in the West under Emperor Maximianus Herculius.
+                 Adopted as junior co-Emperor (Caesar) and heir by Maximianus Herculius (293).
+                 Father of Emperor Constantinus I the Great. Married to Helena Augusta, mother of Constatinus I (until 289).
+                 Succeeded Maximianus Herculius as senior Emperor in the West after Maximianus resigned in 305.
+                 Adopted Severus II as junior co-Emperor (Caesar) and heir (305).
+                 Died of natural causes. Consecrated (apotheosis).
+    </description>
+  </emperor>
+
+  <emperor id="Divus Constantius I Chlorus">
+    <name>IMPERATOR CAESAR MARCVS FLAVIVS VALERIVS CONSTANTIVS HERCVLIVS AVGVSTVS</name>
+    <dynasty>Tetrarchy</dynasty>
+    <dates born="31 March 250" died="25 July 306" aged="56" />
+    <place city="Dardania" region="Moesia" />
+    <reign from="1 May 305" to="25 July 306" />
+    <description>Military Commander under Emperor Aurelian; Military Tribune under Emperor Probus. 
+                 Governor (Praeses Provinciae) of Dalmatia under Emperor Carus.
+                 Praetorian Prefect in the West under Emperor Maximianus Herculius.
+                 Adopted as junior co-Emperor (Caesar) and heir by Maximianus Herculius (293).
+                 Father of Emperor Constantinus I the Great. Married to Helena Augusta, mother of Constatinus I (until 289).
+                 Succeeded Maximianus Herculius as senior Emperor in the West after Maximianus resigned in 305.
+                 Adopted Severus II as junior co-Emperor (Caesar) and heir (305).
+                 Died of natural causes. Consecrated (apotheosis).
+    </description>
+  </emperor>
+
+  <emperor id="Theodora">
+    <name>FLAVIA MAXIMIANA THEODORA AVGUSTA</name>
+    <dynasty>Tetrarchy</dynasty>
+    <dates born="ca. 275" died="?" />
+    <reign from="305" to="306" />
+    <description>Daughter of Emperor Maximianus Herculius.
+                 Second wife of Emperor Constantius I Chlorus (married 293).
+                 Mother of Dalmatius Caesar and Hannibalianus Caesar.
+                 Cause and date of death are unknown.
+    </description>
+  </emperor>
+
+  <emperor id="Galerius Caesar">
+    <name>GAIVS GALERIVS VALERIVS MAXIMIANVS CAESAR</name>
+    <dynasty>Tetrarchy</dynasty>
+    <dates born="ca. 250" died="5 May 311" aged="61" />
+    <place city="Felix Romuliana" region="Moesia Superior" />
+    <reign from="21 May 293" to="1 May 305" />
+    <description>Military Commander under Emperors Aurelianus and Probus.
+                 Adopted as junior co-Emperor (Caesar) and heir by Emperor Diocletianus (293).
+                 Married to Galeria Valeria Augusta (293), daughter of Diocletianus.
+                 Became Emperor in the East after Diocletianus resigned in 305.
+                 Died of natural causes. Consecrated (apotheosis).
+    </description>
+  </emperor>
+
+  <emperor id="Galerius">
+    <name>IMPERATOR CAESAR GAIVS GALERIVS VALERIVS MAXIMIANVS AVGVSTVS</name>
+    <dynasty>Tetrarchy</dynasty>
+    <dates born="c. 250" died="5 May 311" aged="61" />
+    <place city="Felix Romuliana" region="Moesia Superior" />
+    <reign from="1 May 305" to="5 May 311" />
+    <description>Military Commander under Emperors Aurelianus and Probus.
+                 Adopted as junior co-Emperor (Caesar) and heir by Emperor Diocletianus (293).
+                 Married to Galeria Valeria Augusta (293), daughter of Diocletianus.
+                 Succeeded Diocletianus as senior Emperor in the East after Diocletianus resigned in 305.
+                 Uncle of Emperor Maximinus II Daia. Adopted Maximinus II as junior co-Emperor (Caesar) and heir in the East (305).
+                 Appointed Licinius as senoir co-Emperor in the West (308).
+                 Died of natural causes. Consecrated (apotheosis).
+    </description>
+  </emperor>
+
+  <emperor id="Divus Galerius">
+    <name>IMPERATOR CAESAR GAIVS GALERIVS VALERIVS MAXIMIANVS AVGVSTVS</name>
+    <dynasty>Tetrarchy</dynasty>
+    <dates born="c. 250" died="5 May 311" aged="61" />
+    <place city="Felix Romuliana" region="Moesia Superior" />
+    <reign from="1 May 305" to="5 May 311" />
+    <description>Military Commander under Emperors Aurelianus and Probus.
+                 Adopted as junior co-Emperor (Caesar) and heir by Emperor Diocletianus (293).
+                 Married to Galeria Valeria Augusta (293), daughter of Diocletianus.
+                 Succeeded Diocletianus as senior Emperor in the East after Diocletianus resigned in 305.
+                 Uncle of Emperor Maximinus II Daia. Adopted Maximinus II as junior co-Emperor (Caesar) and heir in the East (305).
+                 Appointed Licinius as senoir co-Emperor in the West (308).
+                 Died of natural causes. Consecrated (apotheosis).
+    </description>
+  </emperor>
+
+  <emperor id="Galeria Valeria">
+    <name>GALERIA VALERIA AVGUSTA</name>
+    <dynasty>Tetrarchy</dynasty>
+    <dates born="?" died="ca. 315" />
+    <reign from="305" to="311" />
+    <description>Wife of Emperor Galerius (married 293). Daughter of Emperor Diocletianus.
+                 Raised to the title of Augusta in November 308, after Galerius became senior Emperor in the East.
+                 Afther the death of Galerius, refused the marriage proposal of Emperor Maximinus II Daia.
+                 Murdered by the mob on orders of Emperor Licinius.
+    </description>
+  </emperor>
+
+  <emperor id="Severus II Caesar">
+    <name>FLAVIVS VALERIVS SEVERVS CAESAR</name>
+    <dynasty>Tetrarchy</dynasty>
+    <dates born="?" died="16 September 307" />
+    <place region="Illyria" />
+    <reign from="1 May 305" to="August 306" />
+    <description>Senior army officer, an old friend of Emperor Galerius.
+                 Adopted as junior co-Emperor (Caesar) and heir by Emperor Constantius I Chlorus in 305.
+                 Promoted to senior Emperor in the West by Galerius after the death of Constantius I.
+                 Opposed by Emperors Maxentius and Constantinus I the Great.
+                 Taken captive by Maxentius and executed.
+    </description>
+  </emperor>
+
+  <emperor id="Severus II">
+    <name>IMPERATOR CAESAR FLAVIVS VALERIVS SEVERVS AVGVSTVS</name>
+    <dynasty>Tetrarchy</dynasty>
+    <dates born="?" died="16 September 307" />
+    <place region="Illyria" />
+    <reign from="August 306" to="April 307" />
+    <description>Junior co-Emperor (Caesar) and heir by Emperor Constantius I Chlorus in 305.
+                 Promoted to senior Emperor in the West by Galerius after the death of Constantius I.
+                 Opposed by Emperors Maxentius and Constantinus I the Great.
+                 Taken captive by Maxentius, resigned as Emperor and later executed.
+    </description>
+  </emperor>
+
+  <emperor id="Maximinus II Daia Caesar">
+    <name>GALERIVS VALERIVS MAXIMINVS CAESAR</name>
+    <dynasty>Tetrarchy</dynasty>
+    <dates born="20 November c. 270" died="August 313" aged="42" />
+    <place city="Felix Romuliana" region="Moesia Superior" />
+    <reign from="1 May 305" to="1 May 310" />
+    <description>Nephew of Emperor Galerius.
+                 Adopted as junior co-Emperor (Caesar) and heir by Galerius in 305. 
+                 Became Emperor after the death of Galerius.
+                 Died of natural causes, probably committed suicide. Condemned (damnatio memoriae).
+    </description>
+  </emperor>
+
+  <emperor id="Maximinus II Daia">
+    <name>IMPERATOR CAESAR GAIVS GALERIVS VALERIVS MAXIMINVS AVGVSTVS</name>
+    <dynasty>Tetrarchy</dynasty>
+    <dates born="20 November c. 270" died="August 313" aged="42" />
+    <place city="Felix Romuliana" region="Moesia Superior" />
+    <reign from="1 May 310" to="August 313" />
+    <description>Nephew of Emperor Galerius.
+                 Adopted as junior co-Emperor (Caesar) and heir by Galerius in 305. 
+                 Succeeded Galerius as Emperor in the East in 311. Co-Emperor with Emperor Licinius I.
+                 Lost the title Augustus after the defeat in civil war against Licinius. 
+                 Died of natural causes, probably committed suicide. Condemned (damnatio memoriae).
+    </description>
+  </emperor>
+
+  <emperor id="Maxentius">
+    <name>IMPERATOR CAESAR MARCVS AVRELIVS VALERIVS MAXENTIVS AVGVSTVS</name>
+    <dynasty>Tetrarchy</dynasty>
+    <dates born="c. 276" died="28 October 312" aged="36" />
+    <reign from="28 October 306" to="28 October 312" />
+    <description>Son of Emperor Maximianus Herculius. Brother of Fausta, wife of Emperor Constantinus I.
+                 Proclaimed Emperor in the West after the death of Emperor Constantius I Chlorus (306) in opposition to Severus II and Constantinus I. Recognized by the Senate.
+                 Accepted Constantinus I as Caesar. Recognized by Constantinus I as senior Emperor.
+                 Appointed Caesar in the West by his father Maximianus Herculius (second reign) in 307 after the death of Severus II.
+                 Proclaimed senior Emperor himself again in opposition to Licinius. The imperial conference (308) denied recognition of Maxentius as legitimate Emperor.
+                 Died at the Battle of the Milvian Bridge, against Constantinus I. Condemned (damnatio memoriae).
+    </description>
+  </emperor>
+
+  <emperor id="Divus Romulus">
+    <name>MARCVS AVRELIVS VALERIVS ROMVLVS CAESAR</name>
+    <dynasty>Tetrarchy</dynasty>
+    <dates born="ca. 292" died="309" />
+    <reign from="308" to="309" />
+    <description>Son of Emperor Maxentius.
+                 Consul in 308. Assigned Caesar by his father in 308.
+                 Cause of death is unknown. Raised to Divus on his death by Maxentius. Consecrated (apotheosis).
+    </description>
+  </emperor>
+
+  <emperor id="Licinius">
+    <name>IMPERATOR CAESAR GAIVS VALERIVS LICINIANVS LICINIVS AVGVSTVS</name>
+    <dynasty>Tetrarchy</dynasty>
+    <dates born="ca. 263" died="Spring 325" aged="61-62" />
+    <place region="Moesia Superior" />
+    <reign from="11 November 308" to="19 September 324" />
+    <description>A close childhood friend of Emperor Galerius.
+                 Married to Flavia Julia Constantia (313), daughter of Emperor Constantius I Chlorus, half-sister of Emperor Constantinus I the Great.
+                 Appointed Emperor in the West by Galerius in 308, in opposition to Emperor Maxentius.
+                 Became Emperor in the East in 311 after the death of Galerius, shared with Emperor Maximinus II Daia.
+                 Defeated Maximinus II Daia in civil war to become sole Emperor in the East (313). 
+                 Appointed Valerius Valens (317) and Martinianus (324) as Emperors in the West, in opposition to Constantinus I.
+                 Licinius was defeated in civil war against Constantinus I in 324 and taken captive. 
+                 Executed on the orders of Constantinus I in 325. Condemned (damnatio memoriae).
+    </description>
+  </emperor>
+
+  <emperor id="Licinius II Caesar">
+    <name>VALERIVS LICINIANVS LICINIVS CAESAR</name>
+    <dynasty>Tetrarchy</dynasty>
+    <dates born="ca. 315" died="c. 326" aged="10-11" />
+    <reign from="1 March 317" to="19 September 324" />
+    <description>Son of Emperor Licinius and Flavia Julia Constantia, daughter of Emperor Constantius I Chlorus.
+                 Nephew of Emperor Constantinus I the Great.
+                 Raised to the rank of Caesar by his father Licinius.
+                 Lost the title Caesar after the defeat of his father by Constantinus I.
+                 Executed on the orders of Constantinus I in 326, probably in the context of the execution of Crispus Caesar.
+    </description>
+  </emperor>
+
+  <emperor id="Constantinus I Caesar">
+    <name>FLAVIVS VALERIVS CONSTANTINVS CAESAR HERCVLIVS</name>
+    <dynasty>Constantinian</dynasty>
+    <dates born="27 February ca. 272" died="22 May 337" aged="65" />
+    <place city="Naissus" region="Moesia Superior" />
+    <reign from="25 July 306" to="September 307" />
+    <description>Son of Emperor Constantius I Chlorus and Helena Augusta.
+                 Father of Emperors Constantinus II, Constantius II and Constans. Founder of the Constantinian dynasty.
+                 Proclaimed Emperor by his father's legions after death of Constantius Chlorus.
+                 Accepted as Caesar in the West by Emperor Galerius in 306.
+                 Promoted to Augustus in the West (307) by Emperor Maximianus Herculius after death of Emperor Severus II.
+                 Died of natural causes. Consecrated (apotheosis). Canonized (Saint Constantine).
+    </description>
+  </emperor>
+
+  <emperor id="Constantinus I">
+    <name>IMPERATOR CAESAR FLAVIVS VALERIVS AVRELIVS CONSTANTINVS AVGVSTVS</name>
+    <dynasty>Constantinian</dynasty>
+    <dates born="27 February ca. 272" died="22 May 337" aged="65" />
+    <place city="Naissus" region="Moesia Superior" />
+    <reign from="September 307" to="22 May 337" />
+    <description>Son of Emperor Constantius I Chlorus and Helena Augusta.
+                 Father of Emperors Constantinus II, Constantius II and Constans. Founder of the Constantinian dynasty.
+                 Proclaimed Emperor by his father's legions after death of Constantius Chlorus.
+                 Accepted as Caesar in the West by Emperor Galerius in 306.
+                 Promoted to Augustus in the West (307) by Emperor Maximianus Herculius after death of Emperor Severus II.
+                 Co-Emperor with Emperors in the Eeast Galerius (308–311), Maximinus II Daia (311–313), Licinius (313–324).
+                 Became the sole Emperor after the civil wars against Emperors Maxentius and Licinius (324).
+                 Died of natural causes. Consecrated (apotheosis). Canonized (Saint Constantine).
+    </description>
+  </emperor>
+
+  <emperor id="Divus Constantinus I">
+    <name>IMPERATOR CAESAR FLAVIVS VALERIVS AVRELIVS CONSTANTINVS AVGVSTVS</name>
+    <dynasty>Constantinian</dynasty>
+    <dates born="27 February ca. 272" died="22 May 337" aged="65" />
+    <place city="Naissus" region="Moesia Superior" />
+    <reign from="25 July 306" to="22 May 337" />
+    <description>Son of Emperor Constantius I Chlorus and Helena Augusta.
+                 Father of Emperors Constantinus II, Constantius II and Constans. Founder of the Constantinian dynasty.
+                 Proclaimed Emperor by his father's legions after death of Constantius Chlorus.
+                 Accepted as Caesar in the West by Emperor Galerius in 306.
+                 Married to Fausta (307), daughter of Emperor Maximianus Herculius.
+                 Promoted to Augustus in the West (307) by Maximianus Herculius after death of Emperor Severus II.
+                 Co-Emperor with Emperors in the Eeast Galerius (308–311), Maximinus II Daia (311–313), Licinius (313–324).
+                 Became the sole Emperor after the civil wars against Emperors Maxentius and Licinius (324).
+                 Died of natural causes. Consecrated (apotheosis). Canonized (Saint Constantine).
+    </description>
+  </emperor>
+
+  <emperor id="Helena">
+    <name>FLAVIA IVLIA HELENA AVGVSTA</name>
+    <dynasty>Constantinian</dynasty>
+    <dates born="ca. 248" died="ca. 330" />
+    <place city="Drepanum" region="Bithynia et Pontus" />
+    <reign from="325" to="330" />
+    <description>Wife of Emperor Constantius I Chlorus (married ca. 270, divorced 289).
+                 Mother of Emperor Constaninus I the Great.
+                 Received the title of Augusta (Empress) in 325 after her son Constantinus the Great became sole Emperor.
+                 Died of natural causes. Canonized (Saint Helena).
+    </description>
+  </emperor>
+
+  <emperor id="Fausta">
+    <name>FLAVIA MAXIMA FAVSTA AVGVSTA</name>
+    <dynasty>Constantinian</dynasty>
+    <dates born="ca. 290" died="Summer 326" aged="35-36" />
+    <place city="Rome" region="Italia" />
+    <reign from="324" to="326" />
+    <description>Wife of Emperor Constantinus I the Great (married in 307).
+                 Daughter of Emperor Maximianus Herculius. Sister of Emperor Maxentius.
+                 Mother of Emperors Constantinus II, Constantius II and Constans.
+                 Proclaimed Augusta (Empress) in 325 after her husband Constantinus the Great became sole Emperor.
+                 Executed on orders of Constaninus the Great (probably) on a charge of adultery.
+                 Condemned (damnatio memoriae).
+    </description>
+  </emperor>
+
+  <emperor id="Crispus Caesar">
+    <name>GAIVS FLAVIVS IVLIVS CRISPVS CAESAR</name>
+    <dynasty>Constantinian</dynasty>
+    <dates born="ca. 300" died="March 326" aged="26" />
+    <reign from="1 March 317" to="March 326" />
+    <description>The first-born son of Emperor Constantinus I the Great and Minervina.
+                 Half-brother of Emperors Constantinus II, Constantius II and Constans.
+                 Declared Caesar by co-Emperors Constantinus I and Licinius I, alongside with his brother Constantinus II and his cousin Licinius II.
+                 Executed on orders of Constaninus the Great (probably) on a charge of adultery with Empress Fausta.
+                 Condemned (damnatio memoriae).
+    </description>
+  </emperor>
+
+  <emperor id="Constantinus II Caesar">
+    <name>FLAVIVS CLAVDIVS CONSTANTINVS CAESAR</name>
+    <dynasty>Constantinian</dynasty>
+    <dates born="February 316" died="April 340" aged="24" />
+    <place city="Arelate" region="Viennensis" />
+    <reign from="1 March 317" to="22 May 337" />
+    <description>Son of Emperor Constantinus I the Great and Fausta.
+                 Brother of Emperors Constantius II and Constans.
+                 Declared Caesar by co-Emperors Constantinus I and Licinius I, alongside with his half-brother Crispus and his cousin Licinius II.
+                 Succeeded his father Constantinus I as Emperor in the West.
+                 Died in battle against Constans. Condemned (damnatio memoriae).
+    </description>
+  </emperor>
+
+  <emperor id="Constantius II Caesar">
+    <name>FLAVIVS IVLIVS CONSTANTIVS CAESAR</name>
+    <dynasty>Constantinian</dynasty>
+    <dates born="7 August 317" died="3 November 361" aged="44" />
+    <place city="Sirmium" region="Pannonia Inferior" />
+    <reign from="8 November 324" to="22 May 337" />
+    <description>Son of Emperor Constantinus I the Great and Fausta.
+                 Brother of Emperors Constantinus II and Constans.
+                 Declared Caesar by his father Constantinus I.
+                 Succeeded his father as Emperor in the East.
+                 Died of natural causes. Consecrated (apotheosis).
+    </description>
+  </emperor>
+
+  <emperor id="Constans Caesar">
+    <name>FLAVIVS IVLIVS CONSTANS CAESAR</name>
+    <dynasty>Constantinian</dynasty>
+    <dates born="c. 323" died="18 January 350" aged="26-27" />
+    <place city="Vicus Helena" region="Galia" />
+    <reign from="25 December 333" to="22 May 337" />
+    <description>Son of Emperor Constantinus I the Great and Fausta.
+                 Brother of Emperors Constantinus II and Constantius II.
+                 Elevated to the rank of Caesar by his father Constantinus II.
+                 Succeeded his father as Emperor in Italia and Africa.
+                 Assassinated on orders of usurper Magnentius. Consecrated (apotheosis).
+    </description>
+  </emperor>
+
+  <emperor id="Dalmatius Caesar">
+    <name>FLAVIVS DELMATIVS CAESAR</name>
+    <dynasty>Constantinian</dynasty>
+    <dates born="?" died="Summer 337" />
+    <reign from="18 September 335" to="Summer 337" />
+    <description>Nephew of Emperor Constantinus I the Great.
+                 Cousin of Emperors Constantinus II, Constantius II and Constans.
+                 Raised to the rank of Caesar by Constantinus I, with the control of Thracia, Achaea and Macedonia.
+                 Killed by his own soldiers, probably in the purge in the imperial family, organized by Constantius II after the death of Constantinus I.
+    </description>
+  </emperor>
+
+  <emperor id="Hannibalianus Caesar">
+    <name>FLAVIVS HANNIBALIANVS CAESAR</name>
+    <dynasty>Constantinian</dynasty>
+    <dates born="?" died="September 337" />
+    <reign from="335" to="September 337" />
+    <description>Nephew of Emperor Constantinus I the Great.
+                 Cousin of Emperors Constantinus II, Constantius II and Constans.
+                 Brother of Dalmatius Caesar.
+                 Married to Constantina (335), daughter of Constantinus I.
+                 Hannibalianus was made Caesar (335) and Rex Regum et Ponticarum Gentium "King of the Kings and of the Pontic People" (337).
+                 Killed in the purge in the imperial family, organized by Constantius II after the death of Constantinus I.
+    </description>
+  </emperor>
+
+  <emperor id="Constantinus II">
+    <name>IMPERATOR CAESAR FLAVIVS CLAVDIVS CONSTANTINVS AVGVSTVS</name>
+    <dynasty>Constantinian</dynasty>
+    <dates born="February 316" died="April 340" aged="24" />
+    <place city="Arelate" region="Viennensis" />
+    <reign from="22 May 337" to="April 340" />
+    <description>Son of Emperor Constantinus I the Great and Fausta.
+                 Brother of Emperors Constantius II and Constans.
+                 Declared Caesar by co-Emperors Constantinus I and Licinius I.
+                 Succeeded his father Constantinus I as Emperor in the West. Co-Emperor with Constantius II and Constans.
+                 Died in battle against Constans. Condemned (damnatio memoriae).
+    </description>
+  </emperor>
+
+  <emperor id="Constantius II">
+    <name>IMPERATOR CAESAR FLAVIVS IVLIVS CONSTANTIVS AVGVSTVS</name>
+    <dynasty>Constantinian</dynasty>
+    <dates born="7 August 317" died="3 November 361" aged="44" />
+    <place city="Sirmium" region="Pannonia Inferior" />
+    <reign from="22 May 337" to="3 November 361" />
+    <description>Son of Emperor Constantinus I the Great and Fausta.
+                 Brother of Emperors Constantinus II and Constans.
+                 Declared Caesar by his father Constantinus I.
+                 Succeeded his father as Emperor in the East.
+                 Co-Emperor with his brothers Constantinus II and Constans. Sole Emperor afther the death of Constans (350).
+                 Died of natural causes during the war against Emperor Julianus II. Consecrated (apotheosis).
+    </description>
+  </emperor>
+
+  <emperor id="Constans">
+    <name>IMPERATOR CAESAR FLAVIVS IVLIVS CONSTANS AVGVSTVS</name>
+    <dynasty>Constantinian</dynasty>
+    <dates born="c. 323" died="18 January 350" aged="26-27" />
+    <place city="Vicus Helena" region="Galia" />
+    <reign from="22 May 337" to="18 January 350" />
+    <description>Son of Emperor Constantinus I the Great and Fausta.
+                 Brother of Emperors Constantinus II and Constantius II.
+                 Elevated to the rank of Caesar by his father Constantinus II.
+                 Succeeded his father as Emperor in Italia and Africa. Co-Emperor with with his brothers Constantinus II and Constantius II.
+                 Became Emperor in the West after the death of Dalmatius Caesar and defeating Constantinus II.
+                 Assassinated on orders of usurper Magnentius. Consecrated (apotheosis).
+    </description>
+  </emperor>
+
+  <emperor id="Vetranio">
+    <name>IMPERATOR CAESAR FLAVIVS VETRANIO AVGVSTVS</name>
+    <dynasty>Constantinian</dynasty>
+    <dates born="?" died="ca. 356" />
+    <place region="Moesia" />
+    <reign from="1 March 350" to="25 December 350" />
+    <description>General of Emperor Constans, governor in Illyria.
+                 Proclaimed Caesar against usurper Magnentius. 
+                 Temporarily accepted as Emperor in the West by Emperor Constantius II after the assassination of Emperor Constans.
+                 Resigned as Emperor in favour of Constantius II.
+                 Died of natural causes.
+    </description>
+  </emperor>
+
+  <emperor id="Constantius Gallus Caesar">
+    <name>FLAVIVS CLAVDIVS CONSTANTIVS GALLVS CAESAR</name>
+    <dynasty>Constantinian</dynasty>
+    <dates born="ca. 325" died="354" aged="28-29" />
+    <place city="Massa Veternensis" region="Italia" />
+    <reign from="15 March 351" to="354" />
+    <description>Grandson of Emperor Constantius I Chlorus and Theodora.
+                 Half-brother of Emperor Julianus II the Apostate.
+                 Half-first cousin of Emperors Constantinus II, Constantius II and Constans.
+                 Raised to the rank of Caesar by Constantius II during the usurpation of Magnentius.
+                 Married to Constantina (Saint Constance), daughter of Constantinus I the Great (351).
+                 Sentenced to death by Constantius II for treason (attempt of usurpation).
+    </description>
+  </emperor>
+
+  <emperor id="Magnentius">
+    <name>IMPERATOR CAESAR MAGNVS MAGNENTIVS AVGVSTVS</name>
+    <dynasty>Constantinian</dynasty>
+    <dates born="303" died="11 August 353" aged="50" />
+    <place city="Samarobriva" region="Galia" />
+    <reign from="18 January 350" to="11 August 353" />
+    <description>Military commander under Emperors Constantinus I the Great and Constans.
+                 Usurper, proclaimed Emperor by legions in Gallia against Constans.
+                 Ordered to kill Constans. Became Emperor in the West.
+                 Magnentius was defeated by troops of Emperor Constantius II.
+                 Commited suicide after the defeat. Condemned (damnatio memoriae).
+    </description>
+  </emperor>
+
+  <emperor id="Decentius Caesar">
+    <name>FLAVIVS MAGNVS DECENTIVS CAESAR</name>
+    <dynasty>Constantinian</dynasty>
+    <dates born="?" died="18 August 353" />
+    <reign from="350" to="18 August 353" />
+    <description>Brother of usurper Magnentius.
+                 Elevated to the rank of Caesar by Magnentius.
+                 Commited suicide after the defeat and the death of Magnentius.
+    </description>
+  </emperor>
+
+  <emperor id="Julianus II Caesar">
+    <name>FLAVIVS CLAVDIVS IVLIANVS CAESAR</name>
+    <dynasty>Constantinian</dynasty>
+    <dates born="May 331" died="26 June 363" aged="32" />
+    <place city="Constantinople" region="Thrace" />
+    <reign from="6 November 355" to="February 360" />
+    <description>Grandson of Emperor Constantius I Chlorus. Nephew of Emperor Constaninus I the Great.
+                 Cousin of Emperors Constantinus II, Constans and Constantius II.
+                 Made Caesar in the West by Constantius II.
+                 Proclaimed Emperor by his troops in 360 against Constantius II.
+                 Rejected Christianity and promoted Neoplatonic Hellenism. Named 'the Apostate' by the Christian church.
+                 Wounded in the battle against Persians. Died of the wounds a few days later. Consecrated (apotheosis).
+    </description>
+  </emperor>
+
+  <emperor id="Julianus II">
+    <name>IMPERATOR CAESAR FLAVIVS CLAVDIVS IVLIANVS AVGVSTVS</name>
+    <dynasty>Constantinian</dynasty>
+    <dates born="May 331" died="26 June 363" aged="32" />
+    <place city="Constantinople" region="Thrace" />
+    <reign from="February 360" to="26 June 363" />
+    <description>Grandson of Emperor Constantius I Chlorus. Nephew of Emperor Constaninus I the Great.
+                 Cousin of Emperors Constantinus II, Constans and Constantius II.
+                 Made Caesar in the West by Constantius II (355).
+                 Proclaimed Emperor by his troops in 360 against Constantius II.
+                 Sole Emperor after the death of Constantius II.
+                 Rejected Christianity and promoted Neoplatonic Hellenism. Named 'the Apostate' by the Christian church.
+                 Wounded in the battle against Persians. Died of the wounds a few days later. Consecrated (apotheosis).
+    </description>
+  </emperor>
+
+  <emperor id="Jovianus">
+    <name>IMPERATOR CAESAR FLAVIVS IOVIANVS AVGVSTVS</name>
+    <dynasty>Constantinian</dynasty>
+    <dates born="331" died="17 February 364" aged="33" />
+    <place city="Singidunum" region="Moesia" />
+    <reign from="27 June 363" to="17 February 364" />
+    <description>General of the army of Emperor Julianus II.
+                 Proclaimed Emperor by the troops on the death of Julianus II.
+                 Reestablished Christianity as the state religion.
+                 Died of natural causes. Consecrated (apotheosis).
+    </description>
+  </emperor>
+
+  <emperor id="Procopius">
+    <name>IMPERATOR PROCOPIVS AVGVSTVS</name>
+    <dynasty>Constantinian</dynasty>
+    <dates born="326" died="27 May 366" aged="40" />
+    <place region="Cilicia" />
+    <reign from="26 September 365" to="27 May 366" />
+    <description>Maternal cousin to Emperor Julianus II.
+                 Military tribune during the reign of Emperor Constantius II.
+                 Military commander under Julianus II.
+                 Usurper, declared himself Emperor after the death of Jovianus.
+                 Defated by Emperor Valens and executed.
+    </description>
+  </emperor>
+
+  <emperor id="Valentinianus I">
+    <name>IMPERATOR CAESAR FLAVIVS VALENTINIANVS AVGVSTVS</name>
+    <dynasty>Valentinian</dynasty>
+    <dates born="3 July 321" died="17 November 375" aged="54" />
+    <place city="Cibalae" region="Pannonia Secunda" />
+    <reign from="25 February 364" to="17 November 375" />
+    <description>Military tribune under Emperors Julianus II and Jovianus.
+                 Elected to Emperor by the army on the death of Jovianus.
+                 Founder of the Valentinian dynasty.
+                 Made his brother Valens to co-Emperor in the East.
+                 Father of Emperors Gratianus and Valentinianus II.
+                 Died of natural causes. Consecrated (apotheosis).
+    </description>
+  </emperor>
+
+  <emperor id="Valens">
+    <name>IMPERATOR CAESAR FLAVIVS IVLIVS VALENS AVGVSTVS</name>
+    <dynasty>Valentinian</dynasty>
+    <dates born="ca. 328" died="9 August 378" aged="50" />
+    <place city="Cibalae" region="Pannonia Secunda" />
+    <reign from="28 March 364" to="9 August 378" />
+    <description>Brother of Emperor Valentinianus I.
+                 Appointed co-Emperor in the East by Valentinianus I.
+                 Co-Emperor with his nephews Gratianus and Valentinianus II, Emperors in the West, after the death of Valentinianus I.
+                 Killed in action in the battle against Goths. Consecrated (apotheosis).
+    </description>
+  </emperor>
+
+  <emperor id="Gratianus">
+    <name>IMPERATOR CAESAR FLAVIVS GRATIANVS AVGVSTVS</name>
+    <dynasty>Valentinian</dynasty>
+    <dates born="18 April 359" died="25 August 383" aged="24" />
+    <place city="Sirmium" region="Pannonien" />
+    <reign from="24 August 367" to="25 August 383" />
+    <description>Son of Emperor Valentinianus I and nephew of Emperor Valens. Half-brother of Emperor Valentinianus II.
+                 Appointed co-Emperor by his father Valentinianus I.
+                 Succeeded Valentinianus I as Emperor in the West (375).
+                 Co-Emperor with Valentinianus II in the West and Valens in the East.
+                 Appointed Theodosius I the Great as co-Emperor in the East (379) after the death of Valens.
+                 Taken captive and executed by the troops of usurper Magnus Maximus.
+                 Consecrated (apotheosis).
+    </description>
+  </emperor>
+
+  <emperor id="Valentinianus II">
+    <name>IMPERATOR CAESAR FLAVIVS VALENTINIANVS AVGVSTVS</name>
+    <dynasty>Valentinian</dynasty>
+    <dates born="Autumn 371" died="15 May 392" aged="21" />
+    <reign from="22 November 375" to="15 May 392" />
+    <description>Son of Emperor Valentinianus I and half-brother of Emperor Gratianus.
+                 Proclaimed Emperor by Pannonian army after the death of Valentinianus I.
+                 Accepted as co-Emperor in the West by Gratianus.
+                 Emperor in the West after the death of Gratianus, co-Emperor of Theodosius I in the East.
+                 Committed suicide or possibly murdered. Consecrated (apotheosis).
+    </description>
+  </emperor>
+
+  <emperor id="Magnus Maximus">
+    <name>IMPERATOR CAESAR FLAVIVS MAGNVS MAXIMVS AVGVSTVS</name>
+    <dynasty>Valentinian</dynasty>
+    <dates born="ca. 335" died="28 August 388" aged="ca. 53" />
+    <place region="Hispania Gallaecia" />
+    <reign from="Spring 383" to="28 August 388" />
+    <description>General under Emperors Valentinianus I and Gratianus.
+                 Usurper in the West, proclaimed Emperor by troops in Britannia.
+                 After defeating Emperor Gratian, was legitimized as Emperor in Britannia and Gallia by Emperor Theodosius I (384).
+                 Defeated and executed by Theodosius I. Condemned (damnatio memoriae).
+    </description>
+  </emperor>
+
+  <emperor id="Flavius Victor">
+    <name>IMPERATOR CAESAR FLAVIVS VICTOR AVGVSTVS</name>
+    <dynasty>Valentinian</dynasty>
+    <dates born="?" died="August 388" />
+    <reign from="387" to="August 388" />
+    <description>Son of Emperor Magnus Maximus.
+                 Received the title Caesar, after Magnus Maximus was recognized as Emperor in the West (384).
+                 Elevated to co-Emperor in the West by his father in 387.
+                 Executed after the deafeat of Magnus Maximus.
+    </description>
+  </emperor>
+
+  <emperor id="Theodosius I">
+    <name>IMPERATOR CAESAR FLAVIVS THEODOSIVS AVGVSTVS</name>
+    <dynasty>Theodosian</dynasty>
+    <dates born="11 January 347" died="17 January 395" aged="48" />
+    <place city="Italica" region="Hispania Baetica" />
+    <reign from="19 January 379" to="17 January 395" />
+    <description>Military Commander under Emperors Valentinianus I and Gratianus. Governor of Moesia.
+                 Father of Emperors Honorius and Arcadius. Founder of the Theodosian dynasty.
+                 Appointed as co-Emperor in the East by Emperor Gratianus after the death of Emperor Valens.
+                 Co-Emperor in the East with Emperor Valentinianus II in the West (from 383).
+                 Sole Emperor after death of Valentinian II (393).
+                 Appointed his son Arcadius as junior Emperor in the East (383).
+                 Appointed his son Honorius as junior Emperor in the West (393).
+                 Died of natural causes. Consecrated (apotheosis). Canonized (Saint Theodosius) by Eastern Orthodox Church.
+    </description>
+  </emperor>
+
+  <emperor id="Aelia Flacilla">
+    <name>AELIA FLAVIA FLACCILLA AVGUSTA</name>
+    <dynasty>Theodosian</dynasty>
+    <dates born="31 March 356" died="Early 386" aged="30" />
+    <reign from="379" to="386" />
+    <description>Wife of Emperor Theodosius I the Great (married 375-376).
+                 Mother of Emperors Arcadius and Honorius.
+                 Became Empress as Theodosius I was appointed Emperor in the East by Emperor Gratianus.
+                 Died of natural causes. Canonized (Saint Placilla) by Eastern Orthodox Church.
+    </description>
+  </emperor>
+
+  <emperor id="Eugenius">
+    <name>IMPERATOR CAESAR FLAVIVS EVGENIVS AVGVSTVS</name>
+    <dynasty>Theodosian</dynasty>
+    <dates born="?" died="6 September 394" aged="?" />
+    <reign from="22 August 392" to="6 September 394" />
+    <description>Usupter against Emperor Theodosius I. 
+                 Former teacher of grammar and rhetoric. Eugenius was an acquaintance of the magister militum Arbogast, de facto ruler in the West (under Emperor Valentinian II).
+                 Following the death of Valentinian II, Eugenius was elevated to Emperor by Arbogast. 
+                 He was not recognized as Emperor by Theodisius I, who proclaimed his son Honorius to Emperor in the West.
+                 Defeated by Theodosius and executed.
+    </description>
+  </emperor>
+
+  <emperor id="Arcadius">
+    <name>IMPERATOR CAESAR FLAVIVS ARCADIVS AVGVSTVS</name>
+    <dynasty>Theodosian</dynasty>
+    <dates born="1 January 377" died="1 May 408" aged="31" />
+    <place region="Hispania" />
+    <reign from="19 January 383" to="1 May 408" />
+    <description>Son of Emperor Theodosius I the Great and Aelia Flacilla.
+                 Brother of Emperor Honorius. Father of Emperor Theodosius II.
+                 Appointed as junior Emperor in the East by his father Theodosius (383).
+                 Became Emperor in the East after the death of Theodosius I (395).
+                 Died of natural causes.
+    </description>
+  </emperor>
+
+  <emperor id="Aelia Eudoxia">
+    <name>AELIA EVDOXIA AVGUSTA</name>
+    <dynasty>Theodosian</dynasty>
+    <dates born="?" died="6 October 404" />
+    <reign from="27 April 395" to="6 October 404" />
+    <description>Wife of Emperor Arcadius (married 395). Mother of Emperor Theodosius II.
+                 Became Empress after the marriage with Arcadius, received the title Augusta on 9 January 400.
+                 Died of natural causes.
+    </description>
+  </emperor>
+
+  <emperor id="Honorius">
+    <name>IMPERATOR CAESAR FLAVIVS HONORIVS AVGVSTVS</name>
+    <dynasty>Theodosian</dynasty>
+    <dates born="9 September 384" died="15 August 423" aged="38" />
+    <place city="Constantinople" region="Thrace" />
+    <reign from="23 January 393" to="15 August 423" />
+    <description>Son of Emperor Theodosius I the Great and Aelia Flacilla. 
+                 Brother of Emperor Arcadius.
+                 Appointed as junior Emperor in the West by his father Theodosius (393).
+                 Became Emperor in the West after the death of Theodosius I (395).
+                 Died of natural causes.
+    </description>
+  </emperor>
+  
+  <emperor id="Theodosius II">
+    <name>IMPERATOR CAESAR FLAVIVS THEODOSIVS AVGVSTVS</name>
+    <dynasty>Theodosian</dynasty>
+    <dates born="10 April 401" died="28 July 450" aged="49" />
+    <place city="Constantinopolis" region="Thracia" />
+    <reign from="10 January 402" to="28 July 450" />
+    <description>Son of Emperor Arcadius and Aelia Eudoxia.
+                 Proclaimed Emperor in the East by his father Arcadius.
+                 Sole Emperor in the East after the death of Arcadius in 408.
+                 Died of natural causes.
+    </description>
+  </emperor>
+
+  <emperor id="Johannes">
+    <name>IMPERATOR CAESAR IOHANNES AVGVSTVS</name>
+    <dynasty>Theodosian</dynasty>
+    <dates born="?" died="June 425" />
+    <reign from="20 November 423" to="June 425" />
+    <description>Senior civil servant (primicerius notariorum) under Emperor Honorius.
+                 Proclaimed Emperor in the West in the interregnum after the death of Honorius.
+                 Johannes was not recognized by Theodosius II, Emperor in the East.
+                 Executed after his defeat against the army of Theodosius II.
+    </description>
+  </emperor>
+
+  <emperor id="Galla Placidia">
+    <name>GALLA PLACIDIA</name>
+    <dynasty>Theodosian</dynasty>
+    <dates born="392" died="27 November 450" aged="58" />
+    <place region="Italia" />
+    <reign from="8 February 421" to="27 November 450" />
+    <description>Daughter of Emperor Theodosius I and granddaughter of Emperor Valentinianus I.
+                 Queen consort to Ataulf, King of the Visigoths (414-415).
+                 Wife of Emperor Constantius III. Augusta in 421.
+                 Paternal half-sister of Emperors Arcadius and Honorius.
+                 Mother of Emperor Valentinianus III. Regent of her son (425-450).
+                 Died of natural causes.
+    </description>
+  </emperor>  
+  
+  <emperor id="Valentinianus III">
+    <name>IMPERATOR CAESAR FLAVIVS PLACIDIVS VALENTINIANVS AVGVSTVS</name>
+    <dynasty>Theodosian</dynasty>
+    <dates born="2 July 419" died="16 March 455" aged="35" />
+    <place city="Ravenna" region="Italia" />
+    <reign from="23 October 425" to="16 March 455" />
+    <description>Son of Emperor in the West Constantinus III and Galla Placidia, daughter of Emperor Theodosius I.
+                 Half-cousin to Emperor in the East Theodosius II.
+                 Appointed Emperor in the West by Theodosius II against Johannes.
+                 Assassinated by later Emperor Petronius Maximus.
+    </description>
+  </emperor>  
+
+  <emperor id="Marcianus">
+    <name>IMPERATOR CAESAR FLAVIVS MARCIANVS AVGVSTVS</name>
+    <dynasty>Theodosian</dynasty>
+    <dates born="392" died="26 January 457" aged="65" />
+    <place region="Thracia" />
+    <reign from="25 August 450" to="26 January 457" />
+    <description>Marcianus served under Aspar, the influential military commander of a Germanic army in Roman service.
+                 Made Emperor in the East by Aspar after the death of Emperor Theodosius II.
+                 Merried Aelia Pulcheria, sister of Theodosius II.
+                 Died of natural causes.
+    </description>
+  </emperor>
+
+  <emperor id="Leo I">
+    <name>IMPERATOR CAESAR FLAVIVS LEO AVGVSTVS</name>
+    <dynasty>Leonid</dynasty>
+    <dates born="c. 401" died="18 January 474" aged="73" />
+    <place region="Dacia Aureliana" />
+    <reign from="7 February 457" to="18 January 474" />
+    <description>Military commander under Emperor Marcianus and Aspar.
+                 Appointed Emperor by Apar after the death of Marcianus.
+                 Grandfather of Emperor Leo II, father-in-law of Emperor Zeno.
+                 Died of natural causes. Canonized by Eastern Orthodox Church.
+    </description>
+  </emperor>
+
+  <emperor id="Zeno">
+    <name>IMPERATOR CAESAR FLAVIVS ZENO AVGVSTVS</name>
+    <dynasty>Leonid</dynasty>
+    <dates born="c. 425" died="09 April 491" aged="65" />
+    <place city="Zenopolis" region="Isauria" />
+    <reign from="29 January 474" to="09 April 491" />
+    <description>Military commander under Emperor Leo I.
+                 Married the daughter of Leo I in 466.
+                 Father of Leo II, who became Emperor in 474 after the death of Leo I.
+                 Became Co-Emperor of Leo II and sole Emperor after the death of Leo II in 474.
+                 Zeno's reign was interrupted from 9 January 475 to August 476 by usurpation of Basiliscus.
+                 Died of natural causes.
+    </description>
+  </emperor>
+
+  <emperor id="Anastasius I">
+    <name>IMPERATOR CAESAR FLAVIVS ANASTASIVS AVGVSTVS</name>
+    <dynasty>Leonid</dynasty>
+    <dates born="c. 430" died="09 July 518" aged="88" />
+    <place city="Dyrrachium" region="Epirus nova" />
+    <reign from="11 April 491" to="09 July 518" />
+    <description>Byzantine Emperor</description>
+  </emperor>
+
+  <emperor id="Iustinus I">
+    <name>IMPERATOR CAESAR FLAVIVS IVSTINVS AVGVSTVS</name>
+    <dynasty>Justinian</dynasty>
+    <dates born="c. 450" died="01 August 527" aged="77" />
+    <place city="Naissus" region="Illyricum" />
+    <reign from="09 July 518" to="01 August 527" />
+    <description>Byzantine Emperor</description>
+  </emperor>
+
+  <emperor id="Iustinianus I">
+    <name>IMPERATOR CAESAR FLAVIVS IVSTINIANVS AVGVSTVS</name>
+    <dynasty>Justinian</dynasty>
+    <dates born="c. 482" died="14 November 565" aged="83" />
+    <place city="Tauresium" region="Dardania" />
+    <reign from="01 April 527" to="14 November 565" />
+    <description>Byzantine Emperor</description>
+  </emperor>
+
+  <emperor id="Iustinus II">
+    <name>IMPERATOR CAESAR FLAVIVS IVSTINVS AVGVSTVS</name>
+    <dynasty>Justinian</dynasty>
+    <dates born="c. 520" died="05 October 578" aged="58" />
+    <place city="Constantinopolis" region="Constantinopolis" />
+    <reign from="14 November 565" to="05 October 578" />
+    <description>Byzantine Emperor</description>
+  </emperor>
+
+  <emperor id="Tiberius II Constantinus">
+    <name>IMPERATOR CAESAR FLAVIVS TIBERIVS CONSTANTINVS AVGVSTVS</name>
+    <dynasty>Justinian</dynasty>
+    <dates born="?" died="14 August 582" aged="?" />
+    <place city="Constantinopolis" />
+    <reign from="26 September 578" to="14 August 582" />
+    <description>Byzantine Emperor</description>
+  </emperor>
+
+  <emperor id="Mauricius Tiberius">
+    <name>IMPERATOR CAESAR FLAVIVS MAVRICIVS TIBERIVS AVGVSTVS</name>
+    <dynasty>Justinian</dynasty>
+    <dates born="539" died="27 November 602" aged="63" />
+    <place city="Arabissus" region="Cappadocia" />
+    <reign from="13 August 582" to="27 November 602" />
+    <description>Byzantine Emperor</description>
+  </emperor>
+
+  <emperor id="Phocas">
+    <name>IMPERATOR CAESAR FLAVIVS PHOCAS AVGVSTVS</name>
+    <dynasty>Justinian</dynasty>
+    <dates born="547" died="05 October 610" aged="63" />
+    <place city="?" region="?" />
+    <reign from="23 November 602" to="05 October 610" />
+    <description>Byzantine Emperor</description>
+  </emperor>
+
+  <emperor id="Heraclius">
+    <name>Phlabios Hērakleios Basíleios</name>
+    <dynasty>Heraclian</dynasty>
+    <dates born="c. 575" died="11 February 641" aged="65" />
+    <place city="?" region="Cappadocia" />
+    <reign from="05 October 610" to="11 February 641" />
+    <description>Byzantine Emperor</description>
+  </emperor>
+
+  <emperor id="Constans II">
+    <name>Phlabios Hērakleios Kōnstantinos Basíleios ho Pōgōnatos</name>
+    <dynasty>Heraclian</dynasty>
+    <dates born="07 November 630" died="15 July 668" aged="37" />
+    <place city="Constantinopolis" />
+    <reign from="05 November 641" to="15 July 668" />
+    <description>Byzantine Emperor</description>
+  </emperor>
+
+  <emperor id="Constantinus IV Pogonatus">
+    <name>Phlabios Kōnstantinos Basíleios</name>
+    <dynasty>Heraclian</dynasty>
+    <dates born="c. 650" died="10 July 685" aged="35" />
+    <place city="Constantinopolis" />
+    <reign from="September 668" to="10 July 685" />
+    <description>Byzantine Emperor</description>
+  </emperor>
+
+  <emperor id="Tiberius III Apsimar">
+    <name>Tibérios Apsímaros</name>
+    <dynasty>20 Years Anarchy</dynasty>
+    <dates born="?" died="15 February 706" aged="?" />
+    <place city="?" />
+    <reign from="698" to="21 August 705" />
+    <description>Byzantine Emperor</description>
+  </emperor>
+
+  <emperor id="Leo III">
+    <name>Phlabios Leōn Basíleios ho Isauros</name>
+    <dynasty>Isaurian</dynasty>
+    <dates born="c. 685" died="18 June 741" aged="56" />
+    <place city="Germanikeia" region="Commagene" />
+    <reign from="25 March 717" to="18 June 741" />
+    <description>Byzantine Emperor</description>
+  </emperor>
+
+  <emperor id="Constantinus V Copronymus">
+    <name>Kōnstantīnos Basíleios</name>
+    <dynasty>Isaurian</dynasty>
+    <dates born="July 718" died="14 September 775" aged="57" />
+    <place city="Constantinopolis" />
+    <reign from="18 June 741" to="14 September 775" />
+    <description>Byzantine Emperor</description>
+  </emperor>
+
+  <emperor id="Leo IV">
+    <name>Leōn Basíleios ho Khazaros</name>
+    <dynasty>Isaurian</dynasty>
+    <dates born="25 January 750" died="8 September 780" aged="30" />
+    <place city="Constantinopolis" />
+    <reign from="14 September 775" to="8 September 780" />
+    <description>Byzantine Emperor</description>
+  </emperor>
+
+  <emperor id="Nicephorus I">
+    <name>Nikēphóros Basíleios</name>
+    <dynasty>Nikephorian</dynasty>
+    <dates born="c. 750" died="26 July 811" aged="61" />
+    <place city="Seleucia" region="Isauria" />
+    <reign from="31 October 802" to="26 July 811" />
+    <description>Byzantine Emperor</description>
+  </emperor>
+
+  <emperor id="Leo V">
+    <name>Léōn Basíleios ho Arménios</name>
+    <dynasty>Nikephorian</dynasty>
+    <dates born="c. 775" died="25 December 820" aged="45" />
+    <place region="Arminiya" />
+    <reign from="12 July 813" to="25 December 820" />
+    <description>Byzantine Emperor</description>
+  </emperor>
+
+  <emperor id="Theophilus">
+    <name>Theóphilos Basíleios</name>
+    <dynasty>Amorian</dynasty>
+    <dates born="c. 812" died="20 January 842" aged="30" />
+    <place city="Constantinopolis" />
+    <reign from="02 October 829" to="20 January 842" />
+    <description>Byzantine Emperor</description>
+  </emperor>
+
+  <emperor id="Basileios I">
+    <name>Basíleios ō Makedṓn</name>
+    <dynasty>Macedonian</dynasty>
+    <dates born="811" died="29 August 886" aged="75" />
+    <place city="?" region="Macedonia" />
+    <reign from="24 September 867" to="29 August 886" />
+    <description>Byzantine Emperor</description>
+  </emperor>
+
+  <emperor id="Leo VI">
+    <name>Léōn ho Sophós</name>
+    <dynasty>Macedonian</dynasty>
+    <dates born="19 September 866" died="11 May 912" aged="45" />
+    <place city="Constantinopolis" />
+    <reign from="29 August 886" to="11 May 912" />
+    <description>Byzantine Emperor</description>
+  </emperor>
+
+  <emperor id="Romanus I Lacapenus">
+    <name>Rōmanos Lakapēnos</name>
+    <dynasty>Macedonian</dynasty>
+    <dates born="c. 870" died="15 June 948" aged="78" />
+    <place city="Lakape" region="Cappadocia" />
+    <reign from="17 December 920" to="20 December 944" />
+    <description>Byzantine Emperor</description>
+  </emperor>
+
+  <emperor id="Nicephorus II Phocas">
+    <name>Nikēphóros Phōkâs</name>
+    <dynasty>Macedonian</dynasty>
+    <dates born="c. 912" died="11 December 969" aged="57" />
+    <place region="Cappadocia" />
+    <reign from="16 August 963" to="11 December 969" />
+    <description>Byzantine Emperor</description>
+  </emperor>
+
+  <emperor id="Iohannes I Tzimiskes">
+    <name>Iōannēs Tzimiskís Kurkuas</name>
+    <dynasty>Macedonian</dynasty>
+    <dates born="c. 925" died="10 January 976" aged="51" />
+    <place city="Constantinopolis" />
+    <reign from="11 December 969" to="10 January 976" />
+    <description>Byzantine Emperor</description>
+  </emperor>
+
+  <emperor id="Basileios II Porphyrogenitus">
+    <name>Basíleios Porphyrogénnētos</name>
+    <dynasty>Macedonian</dynasty>
+    <dates born="958" died="15 December 1025" aged="67" />
+    <place city="Constantinopolis" />
+    <reign from="15 March 963" to="15 December 1025" />
+    <description>Byzantine Emperor</description>
+  </emperor>
+
+  <emperor id="Romanus III Argyrus">
+    <name>Rōmanos Argyros</name>
+    <dynasty>Macedonian</dynasty>
+    <dates born="968" died="11 April 1034" aged="66" />
+    <place city="Hierapolis" region="Phrygia" />
+    <reign from="12 November 1028" to="11 April 1034" />
+    <description>Byzantine Emperor</description>
+  </emperor>
+
+  <emperor id="Michael IV">
+    <name>Michaēl Paphlagōn</name>
+    <dynasty>Macedonian</dynasty>
+    <dates born="c. 1010" died="10 December 1041" aged="31" />
+    <place region="Paphlagonia" />
+    <reign from="11 April 1034" to="10 December 1041" />
+    <description>Byzantine Emperor</description>
+  </emperor>
+
+  <emperor id="Constantinus IX Monomachus">
+    <name>Kōnstantīnos Monomachos</name>
+    <dynasty>Macedonian</dynasty>
+    <dates born="c. 1000" died="11 January 1055" aged="55" />
+    <place city="Constantinopolis" />
+    <reign from="11 June 1042" to="11 January 1055" />
+    <description>Byzantine Emperor</description>
+  </emperor>
+
+  <emperor id="Constantinus X Doukas">
+    <name>Kōnstantīnos Doúkās</name>
+    <dynasty>Doukas</dynasty>
+    <dates born="c. 1006" died="23 May 1067" aged="60" />
+    <place city="?" />
+    <reign from="23 November 1059" to="23 May 1067" />
+    <description>Byzantine Emperor</description>
+  </emperor>
+
+  <emperor id="Romanus IV Diogenes">
+    <name>Rōmanos Diogenēs</name>
+    <dynasty>Doukas</dynasty>
+    <dates born="c. 1032" died="04 August 1072" aged="40" />
+    <place region="Cappadocia" />
+    <reign from="01 January 1068" to="01 October 1071" />
+    <description>Byzantine Emperor</description>
+  </emperor>
+
+  <emperor id="Michael VII Doukas">
+    <name>Mikhaḗl Doúkās</name>
+    <dynasty>Doukas</dynasty>
+    <dates born="c. 1050" died="1090" aged="40" />
+    <place city="Constantinopolis" />
+    <reign from="01 October 1071" to="March 1078" />
+    <description>Byzantine Emperor</description>
+  </emperor>
+
+  <emperor id="Nicephorus III Botaniates">
+    <name>Nikēphóros Botaneiatēs</name>
+    <dynasty>Doukas</dynasty>
+    <dates born="1002" died="01 April 1081" aged="79" />
+    <place region="Anatolia" />
+    <reign from="07 January 1078" to="01 April 1081" />
+    <description>Byzantine Emperor</description>
+  </emperor>
+
+  <emperor id="Alexios I Komnenos">
+    <name>Aléxios Komnēnós</name>
+    <dynasty>Komnenos</dynasty>
+    <dates born="c. 1057" died="15 August 1118" aged="62" />
+    <place city="Constantinopolis" />
+    <reign from="01 April 1081" to="15 August 1118" />
+    <description>Byzantine Emperor</description>
+  </emperor>
+
+  <emperor id="Iohannes II Komnenos">
+    <name>Iōánnēs Komnēnós</name>
+    <dynasty>Komnenos</dynasty>
+    <dates born="13 September 1087" died="08 April 1143" aged="55" />
+    <place city="Constantinopolis" />
+    <reign from="15 August 1118" to="08 April 1143" />
+    <description>Byzantine Emperor</description>
+  </emperor>
+
+  <emperor id="Manuel I Komnenos">
+    <name>Manouḗl Komnēnós</name>
+    <dynasty>Komnenos</dynasty>
+    <dates born="28 November 1118" died="24 September 1180" aged="61" />
+    <place city="Constantinopolis" />
+    <reign from="08 April 1143" to="24 September 1180" />
+    <description>Byzantine Emperor</description>
+  </emperor>
+
+  <emperor id="Isaac II Angelos">
+    <name>Isaákios Komnēnós Ángelos</name>
+    <dynasty>Angelos</dynasty>
+    <dates born="September 1156" died="28 January 1204" aged="47" />
+    <place city="Constantinopolis" />
+    <reign from="12 September 1185" to="08 April 1195" />
+    <description>Byzantine Emperor</description>
+  </emperor>
+
+  <emperor id="Alexios III Angelos">
+    <name>Aléxios Komnēnós Ángelos</name>
+    <dynasty>Angelos</dynasty>
+    <dates born="c. 1153" died="1211" aged="58" />
+    <place city="Constantinopolis" />
+    <reign from="08 April 1195" to="18 July 1203" />
+    <description>Byzantine Emperor</description>
+  </emperor>
+
+  <emperor id="Alexios III Angelos">
+    <name>Aléxios Komnēnós Ángelos</name>
+    <dynasty>Angelos</dynasty>
+    <dates born="c. 1153" died="1211" aged="58" />
+    <place city="Constantinopolis" />
+    <reign from="08 April 1195" to="18 July 1203" />
+    <description>Byzantine Emperor</description>
+  </emperor>
+
+  <emperor id="Bohemond III">
+    <name>Bohémond le Bambe</name>
+    <dynasty>Crusaders</dynasty>
+    <dates born="c. 1148" died="1201" aged="53" />
+    <place city="Antiochia" />
+    <reign from="1163" to="1201" />
+    <description>Prince of Antioch</description>
+  </emperor>
+
+  <emperor id="Latin rulers">
+    <name> Baldwin I | Henry | Peter | Yolanda | Robert I | John | Baldwin II</name>
+    <dynasty>Crusaders</dynasty>
+    <reign from="1204" to="1261" />
+    <description>
+      • 1204-1205 Baldwin I
+      • 1205-1216 Henry
+      • 1216-1217 Peter
+      • 1217-1219 Yolanda
+      • 1221-1228 Robert I
+      • 1229-1237 John
+      • 1228-1261 Baldwin II
+    </description>
+  </emperor>
+
+  <emperor id="Iohannes III Doukas Vatatzes">
+    <name>Iōánnēs Doúkās Vatatzēs</name>
+    <dynasty>Empire of Nicaea</dynasty>
+    <dates born="ca. 1192" died="3 November 1254" aged="62" />
+    <place city="Didymoteicho" />
+    <reign from="December 1221" to="3 November 1254" />
+    <description>Emperor of Nicaea</description>
+  </emperor>
+
+  <emperor id="Theodoros II Lascaris">
+    <name>Theodōros Doúkās Láskaris</name>
+    <dynasty>Empire of Nicaea</dynasty>
+    <dates born="November 1221" died="16 August 1258" aged="37" />
+    <place city="Nicaea" />
+    <reign from="4 November 1254" to="16 August 1258" />
+    <description>Emperor of Nicaea</description>
+  </emperor>
+
+  <emperor id="Michael VIII Palaiologos">
+    <name>Mikhaḗl Doúkās Ángelos Komnēnós Palaiológos</name>
+    <dynasty>Palaiologos</dynasty>
+    <dates born="1224" died="11 December 1282" aged="58" />
+    <place city="Constantinopolis" />
+    <reign from="15 August 1261" to="11 December 1282" />
+    <description>Byzantine Emperor</description>
+  </emperor>
+
+  <emperor id="Andronicus II Palaiologos">
+    <name>Andrónikos Doúkās Ángelos Komnēnós Palaiológos</name>
+    <dynasty>Palaiologos</dynasty>
+    <dates born="25 March 1259" died="13 February 1332" aged="58" />
+    <place city="Nicaea" />
+    <reign from="11 December 1282" to="24 May 1328" />
+    <description>Byzantine Emperor</description>
+  </emperor>
+
+</emperors>

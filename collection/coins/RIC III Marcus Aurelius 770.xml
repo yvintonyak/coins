@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC III Marcus Aurelius 770">
+  <identity set="Roman Imperial" />
+  <emperor name="Lucilla" />
+  <denomination name="Denar" />
+  <mint>
+    <date from="164" to="180" />
+    <place city="Roma" region="Italia" />
+  </mint>
+  <obverse>
+    <legend>LVCILLA AVGVSTA</legend>
+    <description>Bust of Lucilla, bare-headed, hair waved and fastened in a bun on back of head, draped, right</description>
+  </obverse>
+  <reverse>
+    <legend>IVNONI LVCINAE</legend>
+    <description>Juno, draped, seated left on low seat, holding flower in right hand and infant in left arm</description>
+  </reverse>
+  <measurement diameter="18 mm" weight="3.27 g" />
+  <image>
+    <obverse file="RIC III Marcus Aurelius 770 (A).jpg" />
+    <reverse file="RIC III Marcus Aurelius 770 (R).jpg" />
+  </image>
+  <deity name="Juno Lucina" />
+  <origin price="80" currency="EUR" rate="1" fee="18.0%" 
+          seller="AUREO n CALICÓ S.L." date="19.09.2019" auction="Auktion 335" lot="165" invoice="AUREO n CALICO - 02" />
+  <legend>
+    <obverse>
+      <entry key="LVCILLA" />
+      <entry key="AVGVSTA" />
+    </obverse>
+    <reverse>
+      <entry key="IVNONI LVCINAE" />
+    </reverse>
+  </legend>
+</coin>

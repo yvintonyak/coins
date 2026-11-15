@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<coin id="RIC VIII Siscia 245">
+  <identity set="Roman Imperial" />
+  <emperor name="Constans" />
+  <denomination name="Centenionalis" />
+  <mint>
+    <date from="348" to="350" />
+    <place city="Siscia" region="Pannonia Superior" />
+  </mint>
+  <obverse>
+    <legend>D N CONSTA-NS P F AVG</legend>
+    <description>Bust of Constans, rosette-diademed, draped, cuirassed, right</description>
+  </obverse>
+  <reverse>
+    <legend>FEL TEMP – REPARATIO || ЄSIS•Ͱ</legend>
+    <description>Constans, draped, cuirassed, standing left on galley, holding phoenix on globe in right hand and standard with Chi-Rho on banner in left hand; steering the ship, seated Victory</description>
+  </reverse>
+  <measurement diameter="20 mm" weight="3.60 g" />
+  <image>
+    <obverse file="RIC VIII Siscia 245 (A).jpg" />
+    <reverse file="RIC VIII Siscia 245 (R).jpg" />
+  </image>
+  <origin price="40" currency="EUR" rate="1" fee="15.0%" 
+          seller="Numismatica Tintinna" date="26.06.2019" auction="Tintinna Asta 81" lot="504" invoice="Numismatica Tintinna - 02" />
+  <remark>differs from RIC: mintmark with • on reverse</remark>
+  <legend>
+    <obverse>
+      <entry key="D N" />
+      <entry key="CONSTANS" />
+      <entry key="P F" />
+      <entry key="AVG" />
+    </obverse>
+    <reverse>
+      <entry key="FEL TEMP REPARATIO" />
+    </reverse>
+    <mintmark mint="ЄSIS•Ͱ" />
+  </legend>
+</coin>
