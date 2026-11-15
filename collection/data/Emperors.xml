@@ -1,6 +1,5 @@
-<?xml version='1.0' encoding="utf-8" standalone='yes'?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <emperors>
-
   <emperor id="Octavianus">
     <name>GAIVS IVLIVS CAESAR OCTAVIANVS</name>
     <dynasty>Julian-Claudian</dynasty>
@@ -13,7 +12,6 @@
                  Died by natural causes.
     </description>
   </emperor>
-
   <emperor id="Augustus">
     <name>IMPERATOR CAESAR DIVI FILIVS AVGVSTVS</name>
     <dynasty>Julian-Claudian</dynasty>
@@ -27,7 +25,6 @@
                  Died by natural causes. Consecrated (apotheosis).
     </description>
   </emperor>
-
   <emperor id="Divus Augustus">
     <name>IMPERATOR CAESAR DIVI FILIVS AVGVSTVS</name>
     <dynasty>Julian-Claudian</dynasty>
@@ -41,7 +38,6 @@
                  Died by natural causes. Consecrated (apotheosis).
     </description>
   </emperor>
-
   <emperor id="Livia">
     <name>LIVIA DRVSILLA | IVLIA AVGUSTA</name>
     <dynasty>Julian-Claudian</dynasty>
@@ -53,8 +49,7 @@
                  Was granted the title Augusta and the new name Julia Augusta after the death of Augustus (14 AD).
                  Died by natural causes. Consecrated (apotheosis).
     </description>
-  </emperor>  
-
+  </emperor>
   <emperor id="Marcus Agrippa">
     <name>MARCVS VIPSANIVS AGRIPPA</name>
     <dynasty>Julian-Claudian</dynasty>
@@ -67,7 +62,6 @@
                  Died by natural causes.
     </description>
   </emperor>
-
   <emperor id="Gaius Caesar">
     <name>GAIVS VIPSANIVS AGRIPPA IVLIVS CAESAR</name>
     <dynasty>Julian-Claudian</dynasty>
@@ -79,7 +73,6 @@
                  Wounded in a battle. Died of illness, caused by the wound.
     </description>
   </emperor>
-
   <emperor id="Lucius Caesar">
     <name>LVCIVS VIPSANIVS AGRIPPA IVLIVS CAESAR</name>
     <dynasty>Julian-Claudian</dynasty>
@@ -91,7 +84,6 @@
                  Died of illness.
     </description>
   </emperor>
-
   <emperor id="Tiberius Caesar">
     <name>TIBERIVS IVLIVS CAESAR</name>
     <dynasty>Julian-Claudian</dynasty>
@@ -104,7 +96,6 @@
                  Died by natural causes, possibly assassinated by Caligula or Praetorian Prefect.
     </description>
   </emperor>
-
   <emperor id="Tiberius">
     <name>TIBERIVS IVLIVS CAESAR AVGVSTVS</name>
     <dynasty>Julian-Claudian</dynasty>
@@ -117,7 +108,6 @@
                  Died by natural causes, possibly assassinated by Caligula or Praetorian Prefect.
     </description>
   </emperor>
-
   <emperor id="Nero Claudius Drusus">
     <name>NERO CLAVDIVS DRVSVS GERMANICVS</name>
     <dynasty>Julian-Claudian</dynasty>
@@ -130,8 +120,6 @@
                  Died by natural causes after fall from a horse.
     </description>
   </emperor>
-
-
   <emperor id="Antonia Minor">
     <name>ANTONIA AVGUSTA MINOR</name>
     <dynasty>Julian-Claudian</dynasty>
@@ -146,7 +134,6 @@
                  Committed suicide, probably forced by Caligula.
     </description>
   </emperor>
-  
   <emperor id="Germanicus Caesar">
     <name>GERMANICVS IVLIVS CAESAR</name>
     <dynasty>Julian-Claudian</dynasty>
@@ -159,7 +146,6 @@
                  Died on natural causes, probably poisoned.
     </description>
   </emperor>
-
   <emperor id="Agrippina Maior">
     <name>AGRIPPINA GERMANICI</name>
     <dynasty>Julian-Claudian</dynasty>
@@ -173,7 +159,6 @@
                  Died on natural causes, probably suicide.
     </description>
   </emperor>
-
   <emperor id="Drusus Julius Caesar">
     <name>DRVSVS IVLIVS CAESAR</name>
     <dynasty>Julian-Claudian</dynasty>
@@ -185,7 +170,6 @@
                  Died, seemingly from natural causes.
     </description>
   </emperor>
-
   <emperor id="Gaius Caligula">
     <name>GAIVS IVLIVS CAESAR AVGVSTVS GERMANICVS</name>
     <dynasty>Julian-Claudian</dynasty>
@@ -199,7 +183,6 @@
                  Condemned (damnatio memoriae).
     </description>
   </emperor>
-
   <emperor id="Claudius">
     <name>TIBERIVS CLAVDIVS CAESAR AVGVSTVS GERMANICVS</name>
     <dynasty>Julian-Claudian</dynasty>
@@ -214,7 +197,6 @@
                  Consecrated (apotheosis).
     </description>
   </emperor>
-
   <emperor id="Valeria Messalina">
     <name>VALERIA MESSALINA AVGUSTA</name>
     <dynasty>Julian-Claudian</dynasty>
@@ -228,7 +210,6 @@
                  Condemned (damnatio memoriae).
     </description>
   </emperor>
-
   <emperor id="Britannicus Caesar">
     <name>TIBERIVS CLAVDIVS CAESAR BRITANNICVS</name>
     <dynasty>Julian-Claudian</dynasty>
@@ -241,7 +222,6 @@
                  After the death of Claudius, Britannicus was poisoned.
     </description>
   </emperor>
-
   <emperor id="Agrippina Minor">
     <name>AGRIPPINA AVGVSTA</name>
     <dynasty>Julian-Claudian</dynasty>
@@ -255,7 +235,6 @@
                  Assassinated under unknown circumstances. Condemned (damnatio memoriae).
     </description>
   </emperor>
-
   <emperor id="Nero Caesar">
     <name>NERO CLAVDIVS CAESAR DRVSVS GERMANICVS</name>
     <dynasty>Julian-Claudian</dynasty>
@@ -270,7 +249,6 @@
                  Committed suicide after being declared a public enemy by the Senate.
     </description>
   </emperor>
-
   <emperor id="Nero">
     <name>NERO CLAVDIVS CAESAR AVGVSTVS GERMANICVS</name>
     <dynasty>Julian-Claudian</dynasty>
@@ -285,7 +263,6 @@
                  Last of Julian-Claudian dynasty. Condemned (damnatio memoriae).
     </description>
   </emperor>
-
   <emperor id="Claudia Octavia">
     <name>CLAVDIA OCTAVIA AVGUSTA</name>
     <dynasty>Julian-Claudian</dynasty>
@@ -299,7 +276,6 @@
                  Exiled and executed short after the divorce.
     </description>
   </emperor>
-  
   <emperor id="Poppaea">
     <name>POPPAEA SABINA AVGVSTA</name>
     <dynasty>Julian-Claudian</dynasty>
@@ -313,7 +289,6 @@
                  Killed by Nero, probably in "casual outburst". Consecrated (apotheosis).
     </description>
   </emperor>
-
   <emperor id="Galba">
     <name>IMPERATOR SERVIVS SVLPICIVS GALBA CAESAR AVGVSTVS</name>
     <dynasty>Flavian</dynasty>
@@ -326,7 +301,6 @@
                  Murdered by Praetorin Guard in the coup, lead by Emperor Otho. Condemned (damnatio memoriae).
     </description>
   </emperor>
-  
   <emperor id="Otho">
     <name>IMPERATOR MARKVS OTHO CAESAR AVGVSTVS</name>
     <dynasty>Flavian</dynasty>
@@ -339,7 +313,6 @@
                  Committed suicide after the defeat against Vitellius. Condemned (damnatio memoriae).
     </description>
   </emperor>
-
   <emperor id="Vitellius">
     <name>IMPERATOR AVLVS VITELLIVS AVGVSTVS</name>
     <dynasty>Flavian</dynasty>
@@ -353,8 +326,6 @@
                  Defeated by the army of Emperor Vespasianus. Murdered after the defeat. Condemned (damnatio memoriae).
     </description>
   </emperor>
-
-
   <emperor id="Vespasianus">
     <name>IMPERATOR TITVS FLAVIVS CAESAR VESPASIANVS AVGVSTVS</name>
     <dynasty>Flavian</dynasty>
@@ -367,7 +338,6 @@
                  Died by natural causes. Consecrated (apotheosis).
     </description>
   </emperor>
-
   <emperor id="Divus Vespasianus">
     <name>DIVVS AVGVSTVS VESPASIANVS</name>
     <dynasty>Flavian</dynasty>
@@ -380,7 +350,6 @@
                  Died by natural causes. Consecrated (apotheosis).
     </description>
   </emperor>
-
   <emperor id="Titus Caesar">
     <name>TITVS FLAVIVS CAESAR VESPASIANVS</name>
     <dynasty>Flavian</dynasty>
@@ -392,7 +361,6 @@
                  Died by natural causes.
     </description>
   </emperor>
-
   <emperor id="Titus">
     <name>IMPERATOR TITVS FLAVIVS CAESAR VESPASIANVS AVGVSTVS</name>
     <dynasty>Flavian</dynasty>
@@ -404,20 +372,18 @@
                  Died by natural causes. Consecrated (apotheosis).
     </description>
   </emperor>
-
   <emperor id="Julia Titi">
     <name>IVLIA TITI FLAVIA AVGVSTA</name>
     <dynasty>Flavian</dynasty>
     <dates born="64" died="ca. 88" aged="ca. 24" />
     <place city="Rome" region="Italia" />
     <reign from="79" to="88" />
-    <description>Daugther of Emperor Titus. Niece of Emperor Domitian.
+    <description>Daughter of Emperor Titus. Niece of Emperor Domitian.
                  Made Augusta by her grandfather Emperor Vespasian.
                  After execution of her husband by Domitian in 82, lived with Domitian 'as a wife'.
                  Died by natural causes, probably after abortion, forced by Domitian.
     </description>
   </emperor>
-
   <emperor id="Domitianus Caesar">
     <name>TITVS FLAVIVS CAESAR DOMITIANVS</name>
     <dynasty>Flavian</dynasty>
@@ -429,7 +395,6 @@
                  Assassinated in a conspiracy by court officials.
     </description>
   </emperor>
-
   <emperor id="Domitianus">
     <name>IMPERATOR TITVS FLAVIVS CAESAR DOMITIANVS AVGVSTVS GERMANICVS</name>
     <dynasty>Flavian</dynasty>
@@ -442,7 +407,6 @@
                  Last of Flavian dynasty. Condemned (damnatio memoriae).
     </description>
   </emperor>
-
   <emperor id="Domitia">
     <name>DOMITIA LONGINA AVGVSTA</name>
     <dynasty>Flavian</dynasty>
@@ -455,7 +419,6 @@
                  Died by natural causes.
     </description>
   </emperor>
-
   <emperor id="Nerva">
     <name>IMPERATOR MARCVS COCCEIVS NERVA CAESAR AVGVSTVS</name>
     <dynasty>Nerva-Antonine</dynasty>
@@ -468,7 +431,6 @@
                  Died by natural causes. Consecrated (apotheosis).
     </description>
   </emperor>
-
   <emperor id="Trajanus">
     <name>IMPERATOR CAESAR NERVA TRAIANVS DIVI NERVAE FILIVS AVGVSTVS</name>
     <dynasty>Nerva-Antonine</dynasty>
@@ -481,7 +443,6 @@
                  Died by natural causes. Consecrated (apotheosis).
     </description>
   </emperor>
-
   <emperor id="Divus Trajanus">
     <name>IMPERATOR CAESAR NERVA TRAIANVS DIVI NERVAE FILIVS AVGVSTVS</name>
     <dynasty>Nerva-Antonine</dynasty>
@@ -494,7 +455,6 @@
                  Died by natural causes. Consecrated (apotheosis).
     </description>
   </emperor>
-
   <emperor id="Plotina">
     <name>POMPEIA PLOTINA AVGVSTA</name>
     <dynasty>Nerva-Antonine</dynasty>
@@ -506,7 +466,6 @@
                  Died by natural causes. Consecrated (apotheosis).
     </description>
   </emperor>
-
   <emperor id="Ulpia Marciana">
     <name>VLPIA MARCIANA AVGVSTA</name>
     <dynasty>Nerva-Antonine</dynasty>
@@ -517,7 +476,6 @@
                  Died by natural causes. Consecrated (apotheosis).
     </description>
   </emperor>
-
   <emperor id="Salonia Matidia">
     <name>SALONIA MATIDIA AVGVSTA</name>
     <dynasty>Nerva-Antonine</dynasty>
@@ -528,7 +486,6 @@
                  Died by natural causes. Consecrated (apotheosis).
     </description>
   </emperor>
-
   <emperor id="Hadrianus">
     <name>IMPERATOR CAESAR PVBLIVS AELIVS TRAIANVS HADRIANVS AVGVSTVS</name>
     <dynasty>Nerva-Antonine</dynasty>
@@ -541,7 +498,6 @@
                  Died by natural causes. Consecrated (apotheosis).
     </description>
   </emperor>
-
   <emperor id="Sabina">
     <name>VIBIA SABINA AVGVSTA</name>
     <dynasty>Nerva-Antonine</dynasty>
@@ -553,7 +509,6 @@
                  Died by natural causes, may be suicide. Consecrated (apotheosis).
     </description>
   </emperor>
-
   <emperor id="Aelius Caesar">
     <name>LVCIVS AELIVS CAESAR</name>
     <dynasty>Nerva-Antonine</dynasty>
@@ -564,7 +519,6 @@
                  Died by natural causes.
     </description>
   </emperor>
-
   <emperor id="Antoninus Pius Caesar">
     <name>IMPERATOR TITVS AELIVS CAESAR HADRIANVS ANTONINVS</name>
     <dynasty>Nerva-Antonine</dynasty>
@@ -578,7 +532,6 @@
                  Died by natural causes. Consecrated (apotheosis).
     </description>
   </emperor>
-
   <emperor id="Antoninus Pius">
     <name>IMPERATOR CAESAR TITVS AELIVS HADRIANVS ANTONINVS AVGVSTVS PIVS</name>
     <dynasty>Nerva-Antonine</dynasty>
@@ -592,7 +545,6 @@
                  Died by natural causes. Consecrated (apotheosis).
     </description>
   </emperor>
-
   <emperor id="Divus Antoninus Pius">
     <name>IMPERATOR CAESAR TITVS AELIVS HADRIANVS ANTONINVS AVGVSTVS PIVS</name>
     <dynasty>Nerva-Antonine</dynasty>
@@ -606,7 +558,6 @@
                  Died by natural causes. Consecrated (apotheosis).
     </description>
   </emperor>
-
   <emperor id="Faustina Maior">
     <name>ANNIA GALERIA FAVSTINA AVGUSTA MAIOR</name>
     <dynasty>Nerva-Antonine</dynasty>
@@ -618,7 +569,6 @@
                  Died by natural causes. Consecrated (apotheosis).
     </description>
   </emperor>
-
   <emperor id="Diva Faustina Maior">
     <name>ANNIA GALERIA FAVSTINA AVGUSTA MAIOR</name>
     <dynasty>Nerva-Antonine</dynasty>
@@ -630,7 +580,6 @@
                  Died by natural causes. Consecrated (apotheosis).
     </description>
   </emperor>
-
   <emperor id="Marcus Aurelius Caesar">
     <name>MARCVS AELIVS AVRELIVS VERVS CAESAR</name>
     <dynasty>Nerva-Antonine</dynasty>
@@ -644,7 +593,6 @@
                  Died by natural causes. Consecrated (apotheosis).
     </description>
   </emperor>
-
   <emperor id="Marcus Aurelius">
     <name>IMPERATOR CAESAR MARCVS AVRELIVS ANTONINVS AVGVSTVS</name>
     <dynasty>Nerva-Antonine</dynasty>
@@ -659,7 +607,6 @@
                  Died by natural causes. Consecrated (apotheosis).
     </description>
   </emperor>
- 
   <emperor id="Divus Marcus Aurelius">
     <name>IMPERATOR CAESAR MARCVS AVRELIVS ANTONINVS AVGVSTVS</name>
     <dynasty>Nerva-Antonine</dynasty>
@@ -673,7 +620,6 @@
                  Died by natural causes. Consecrated (apotheosis).
     </description>
   </emperor>
-
   <emperor id="Faustina Minor">
     <name>ANNIA GALERIA FAVSTINA AVGUSTA MINOR</name>
     <dynasty>Nerva-Antonine</dynasty>
@@ -685,8 +631,7 @@
                  Died after an accident. Consecrated (apotheosis).
     </description>
   </emperor>
-
- <emperor id="Diva Faustina Minor">
+  <emperor id="Diva Faustina Minor">
     <name>ANNIA GALERIA FAVSTINA AVGUSTA MINOR</name>
     <dynasty>Nerva-Antonine</dynasty>
     <dates born="21 September ca. 130" died="175-176" aged="ca. 45" />
@@ -697,7 +642,6 @@
                  Died after an accident. Consecrated (apotheosis).
     </description>
   </emperor>
-
   <emperor id="Lucius Verus">
     <name>IMPERATOR CAESAR LVCIVS AVRELIVS VERVS AVGVSTVS</name>
     <dynasty>Nerva-Antonine</dynasty>
@@ -711,7 +655,6 @@
                  Died by natural causes. Consecrated (apotheosis).
     </description>
   </emperor>
-
   <emperor id="Divus Lucius Verus">
     <name>IMPERATOR CAESAR LVCIVS AVRELIVS VERVS AVGVSTVS</name>
     <dynasty>Nerva-Antonine</dynasty>
@@ -723,7 +666,6 @@
                  Died by natural causes. Consecrated (apotheosis).
     </description>
   </emperor>
-
   <emperor id="Lucilla">
     <name>ANNIA AVRELIA GALERIA LVCILLA AVGUSTA</name>
     <dynasty>Nerva-Antonine</dynasty>
@@ -734,7 +676,6 @@
                  Executed after being involved in a failed conspiracy to assassinate Commodus.
     </description>
   </emperor>
-
   <emperor id="Commodus Caesar">
     <name>LVCIVS AVRELIVS COMMODVS CAESAR</name>
     <dynasty>Nerva-Antonine</dynasty>
@@ -747,7 +688,6 @@
                  Assassinated in a conspiracy.
     </description>
   </emperor>
-
   <emperor id="Commodus">
     <name>IMPERATOR CAESAR LVCIVS AELIVS AVRELIVS COMMODVS AVGVSTVS</name>
     <dynasty>Nerva-Antonine</dynasty>
@@ -760,7 +700,6 @@
                  Later consecrated (apotheosis) by Septimius Severus.
     </description>
   </emperor>
-
   <emperor id="Bruttia Crispina">
     <name>BRVTTIA CRISPINA AVGVSTA</name>
     <dynasty>Nerva-Antonine</dynasty>
@@ -772,7 +711,6 @@
                  Condemned (damnatio memoriae).
     </description>
   </emperor>
-  
   <emperor id="Pertinax">
     <name>IMPERATOR CAESAR PVBLIVS HELVIVS PERTINAX AVGVSTVS</name>
     <dynasty>Severan</dynasty>
@@ -785,7 +723,6 @@
                  Murdered by rebelling soldiers of the Praetorian Guard. Consecrated (apotheosis).
     </description>
   </emperor>
-  
   <emperor id="Septimius Severus">
     <name>IMPERATOR CAESAR LVCIVS SEPTIMIVS SEVERVS EVSEBES PERTINAX AVGVSTVS</name>
     <dynasty>Severan</dynasty>
@@ -798,7 +735,6 @@
                  Died by natural causes. Consecrated (apotheosis).
     </description>
   </emperor>
-
   <emperor id="Clodius Albinus Caesar">
     <name>DECIMVS CLODIVS SEPTIMIVS ALBINVS CAESAR</name>
     <dynasty>Severan</dynasty>
@@ -811,7 +747,6 @@
                  Defeated by Septimius Severus, committed suicide afterwards. Condemned (damnatio memoriae).
     </description>
   </emperor>
-
   <emperor id="Clodius Albinus">
     <name>IMPERATOR CAESAR DECIMVS CLODIVS SEPTIMIVS ALBINVS AVGVSTVS</name>
     <dynasty>Severan</dynasty>
@@ -824,7 +759,6 @@
                  Defeated by Septimius Severus, committed suicide afterwards. Condemned (damnatio memoriae).
     </description>
   </emperor>
-
   <emperor id="Julia Domna">
     <name>IVLIA DOMNA AVGUSTA</name>
     <dynasty>Severan</dynasty>
@@ -837,7 +771,6 @@
                  Commited suicide after assassination of Caracalla. Consecrated (apotheosis).
     </description>
   </emperor>
-
   <emperor id="Caracalla Caesar">
     <name>MARCVS AVRELIVS ANTONINVS CAESAR</name>
     <dynasty>Severan</dynasty>
@@ -850,7 +783,6 @@
                  Assassinated by a soldier as part of a conspiracy involving Praetorian Prefect Macrinus, later Emperor.
     </description>
   </emperor>
-
   <emperor id="Caracalla">
     <name>IMPERATOR CAESAR MARCVS AVRELIVS SEVERVS ANTONINVS PIVS AVGVSTVS</name>
     <dynasty>Severan</dynasty>
@@ -864,7 +796,6 @@
                  Assassinated by a soldier as part of a conspiracy involving Praetorian Prefect Macrinus, later Emperor.
     </description>
   </emperor>
-
   <emperor id="Plautilla">
     <name>PVBLIA FVLVIA PLAVTILLA AVGVSTA</name>
     <dynasty>Severan</dynasty>
@@ -877,7 +808,6 @@
                  Assassinated on orders of Caracalla after the death of Septimius Severus (211).
     </description>
   </emperor>
-
   <emperor id="Geta Caesar">
     <name>PVBLIVS SEPTIMIVS GETA CAESAR</name>
     <dynasty>Severan</dynasty>
@@ -889,7 +819,6 @@
                  Assassinated by Praetorian Guards on orders of Caracalla.
     </description>
   </emperor>
-
   <emperor id="Geta">
     <name>IMPERATOR CAESAR PVBLIVS SEPTIMIVS GETA AVGVSTUS</name>
     <dynasty>Severan</dynasty>
@@ -903,7 +832,6 @@
                  Assassinated by Praetorian Guards on orders of Caracalla. Condemned (damnatio memoriae).
     </description>
   </emperor>
-
   <emperor id="Macrinus">
     <name>IMPERATOR CAESAR MARCVS OPELLIVS SEVERVS MACRINVS AVGVSTVS</name>
     <dynasty>Severan</dynasty>
@@ -916,7 +844,6 @@
                  Executed after his troops were defeated by legions of Elagabalus. Condemned (damnatio memoriae).
     </description>
   </emperor>
-
   <emperor id="Diadumenianus Caesar">
     <name>MARCVS OPELLIVS ANTONINVS DIADVMENIANVS CAESAR</name>
     <dynasty>Severan</dynasty>
@@ -928,7 +855,6 @@
                  Executed after his father Macrinus was defeated by legions of Elagabalus.
     </description>
   </emperor>
-
   <emperor id="Julia Maesa">
     <name>IVLIA MAESA AVGVSTA</name>
     <dynasty>Severan</dynasty>
@@ -943,13 +869,12 @@
                  Died by natural causes. Consecrated (apotheosis).
     </description>
   </emperor>
-
   <emperor id="Elagabalus">
     <name>IMPERATOR CAESAR MARCVS AVRELIVS ANTONINVS AVGVSTVS</name>
     <dynasty>Severan</dynasty>
     <dates born="ca. 204" died="11 March 222" aged="18" />
     <place city="Emesa" region="Syria" />
-    <reign from="	16 May 218" to="11 March 222" />
+    <reign from=" 16 May 218" to="11 March 222" />
     <description>Grandnephew of Julia Domna and Emperor Septimius Severus.
                  First cousin once removed and alleged illegitimate son of Emperor Caracalla.
                  Grandson of Julia Maesa, son of Julia Soaemias. 
@@ -958,13 +883,12 @@
                  Murdered in a riot by Praetorian Guard. Condemned (damnatio memoriae).
     </description>
   </emperor>
-
   <emperor id="Julia Soaemias">
     <name>IVLIA SOAEMIAS AVGUSTA</name>
     <dynasty>Severan</dynasty>
     <dates born="ca. 180" died="11 March 222" aged="41-42" />
     <place city="Emesa" region="Syria" />
-    <reign from="	16 May 218" to="11 March 222" />
+    <reign from=" 16 May 218" to="11 March 222" />
     <description>Niece of Julia Domna and Emperor Septimius Severus.
                  Daughter of Julia Maesa, sister of Julia Mamaea.
                  Mother and co-regent of Emperor Elagabalus.
@@ -972,7 +896,6 @@
                  Murdered in a riot by Praetorian Guard together with her son Elagabalus. Condemned (damnatio memoriae).
     </description>
   </emperor>
-
   <emperor id="Julia Paula">
     <name>IVLIA CORNELIA PAVLA AVGUSTA</name>
     <dynasty>Severan</dynasty>
@@ -983,7 +906,6 @@
                  Withdrew from public life after the divorce.
     </description>
   </emperor>
-
   <emperor id="Aquilia Severa">
     <name>IVLIA AQVILIA SEVERA AVGUSTA</name>
     <dynasty>Severan</dynasty>
@@ -995,7 +917,6 @@
                  Cause and date of death are unknown.
     </description>
   </emperor>
-
   <emperor id="Annia Faustina">
     <name>ANNIA AVRELIA FAVSTINA AVGUSTA</name>
     <dynasty>Severan</dynasty>
@@ -1007,7 +928,6 @@
                  Cause and date of death are unknown.
     </description>
   </emperor>
-
   <emperor id="Julia Mamaea">
     <name>IVLIA AVITA MAMAEA AVGVSTA</name>
     <dynasty>Severan</dynasty>
@@ -1021,7 +941,6 @@
                  Lynched by soldiers together with her son Severus Alexander. Condemned (damnatio memoriae).
     </description>
   </emperor>
-
   <emperor id="Severus Alexander Caesar">
     <name>MARCVS AVRELIVS ALEXANDER CAESAR</name>
     <dynasty>Severan</dynasty>
@@ -1036,7 +955,6 @@
                  Lynched by soldiers, after Maximinus Thrax was proclaimed Emperor. Consecrated (apotheosis).
     </description>
   </emperor>
-
   <emperor id="Severus Alexander">
     <name>IMPERATOR CAESAR MARCVS AVRELIVS SEVERVS ALEXANDER AVGVSTVS</name>
     <dynasty>Severan</dynasty>
@@ -1051,7 +969,6 @@
                  Lynched by soldiers, after Maximinus Thrax was proclaimed Emperor. Consecrated (apotheosis).
     </description>
   </emperor>
-
   <emperor id="Sallustia Orbiana">
     <name>GNAEA SEIA HERENNIA SALLVSTIA BARBIA ORBIANA AVGUSTA</name>
     <dynasty>Severan</dynasty>
@@ -1063,7 +980,6 @@
                  Lived in Africa. Date and cause of death are unknown.
     </description>
   </emperor>
-
   <emperor id="Maximinus I Thrax">
     <name>IMPERATOR CAESAR GAIVS IVLIVS VERVS MAXIMINVS AVGVSTVS</name>
     <dynasty>Gordian</dynasty>
@@ -1074,7 +990,6 @@
                  Assassinated by his soldiers in the Year of the Six Emperors (238). Condemned (damnatio memoriae).
     </description>
   </emperor>
-
   <emperor id="Diva Paulina">
     <name>CAECILIA PAVLINA PIA AVGUSTA</name>
     <dynasty>Gordian</dynasty>
@@ -1086,7 +1001,6 @@
                  Received the title Augusta posthumously. Deified (Diva). 
     </description>
   </emperor>
-  
   <emperor id="Maximus Caesar">
     <name>GAIVS IVLIVS VERVS MAXIMVS CAESAR</name>
     <dynasty>Gordian</dynasty>
@@ -1097,7 +1011,6 @@
                  Assassinated by soldiers together with his father.
     </description>
   </emperor>
-
   <emperor id="Balbinus">
     <name>IMPERATOR CAESAR DECIMVS CAELIVS CALVINVS BALBINVS AVGVSTVS</name>
     <dynasty>Gordian</dynasty>
@@ -1106,10 +1019,9 @@
     <description>Roman senator, Consul 211 and 213 as colleague of Caracalla.
                  Co-Emperor with Pupienus in the Year of the Six Emperors (238).
                  Was installed as Emperor by the Senate after defeat and deaths of Emperors Gordian I and Gordian II against Emperor Maximinus Thrax.
-                 After the death of Maximinux Thrax, Pupienus and Balbinus have been assasinated by the Praetorian Guard, who resented serving under Senate-appointed Emperors.
+                 After the death of Maximinux Thrax, Pupienus and Balbinus have been assassinated by the Praetorian Guard, who resented serving under Senate-appointed Emperors.
     </description>
   </emperor>
-
   <emperor id="Pupienus">
     <name>IMPERATOR CAESAR MARCVS CLODIVS PVPIENVS MAXIMVS AVGVSTVS</name>
     <dynasty>Gordian</dynasty>
@@ -1119,10 +1031,9 @@
     <description>Roman senator, Consul 222 and 234.
                  Co-Emperor with Balbinus in the Year of the Six Emperors (238).
                  Was installed as Emperor by the Senate after defeat and deaths of Emperors Gordian I and Gordian II against Emperor Maximinus Thrax.
-                 After the death of Maximinux Thrax, Pupienus and Balbinus have been assasinated by the Praetorian Guard, who resented serving under Senate-appointed Emperors.
+                 After the death of Maximinux Thrax, Pupienus and Balbinus have been assassinated by the Praetorian Guard, who resented serving under Senate-appointed Emperors.
     </description>
   </emperor>
-  
   <emperor id="Gordianus III Caesar">
     <name>MARCVS ANTONIVS GORDIANVS CAESAR</name>
     <dynasty>Gordian</dynasty>
@@ -1134,7 +1045,6 @@
                  Died by unknown causes. Possibly assassinated on orders of Philip I Arab. Consecrated (apotheosis).
     </description>
   </emperor>
-
   <emperor id="Gordianus III">
     <name>IMPERATOR CAESAR MARCVS ANTONIVS GORDIANVS AVGVSTVS</name>
     <dynasty>Gordian</dynasty>
@@ -1147,7 +1057,6 @@
                  Died by unknown causes. Possibly assassinated on orders of Philip I Arab. Consecrated (apotheosis).
     </description>
   </emperor>
-
   <emperor id="Tranquillina">
     <name>FVRIA SABINIA TRANQVILLINA AVGVSTA</name>
     <dynasty>Gordian</dynasty>
@@ -1158,7 +1067,6 @@
                  Survived assassination of Gordian III. Date and causes of death are unknown.
     </description>
   </emperor>
-
   <emperor id="Philippus I Arab">
     <name>IMPERATOR CAESAR MARCVS IVLIVS PHILIPPVS AVGVSTVS</name>
     <dynasty>Gordian</dynasty>
@@ -1171,7 +1079,6 @@
                  Killed in the battle against Emperor Trajanus Decius. Consecrated (apotheosis).
     </description>
   </emperor>
-
   <emperor id="Otacilia Severa">
     <name>MARCIA OTACILIA SEVERA AVGVSTA</name>
     <dynasty>Gordian</dynasty>
@@ -1182,7 +1089,6 @@
                  Survived her husband and son and lived later in obscurity.
     </description>
   </emperor>
-
   <emperor id="Philippus II Caesar">
     <name>MARCVS IVLIVS SEVERVS PHILLIPVS CAESAR</name>
     <dynasty>Gordian</dynasty>
@@ -1193,7 +1099,6 @@
                  Assassinated by Praetorian Guard, when news of death of Philip I Arab reached Rome.
     </description>
   </emperor>
-
   <emperor id="Philippus II">
     <name>IMPERATOR CAESAR MARCVS IVLIVS SEVERVS PHILLIPVS AVGVSTVS</name>
     <dynasty>Gordian</dynasty>
@@ -1204,7 +1109,6 @@
                  Assassinated by Praetorian Guard, when news of death of Philip I Arab reached Rome.
     </description>
   </emperor>
-
   <emperor id="Trajanus Decius">
     <name>IMPERATOR CAESAR GAIVS MESSIVS QVINTVS TRAIANVS DECIVS AVGVSTVS</name>
     <dynasty>Decian</dynasty>
@@ -1217,7 +1121,6 @@
                  Killed in the battle against Goths together with Herennius Etruscus. Consecrated (apotheosis).
     </description>
   </emperor>
-
   <emperor id="Herennia Etruscilla">
     <name>ANNIA CVPRESSENIA HERENNIA ETRVSCILLA AVGVSTA</name>
     <dynasty>Decian</dynasty>
@@ -1229,7 +1132,6 @@
                  Probably died of plague in 251.
     </description>
   </emperor>
-
   <emperor id="Herennius Etruscus Caesar">
     <name>QVINTVS HERENNIVS ETRVSCVS MESSIVS DECIVS CAESAR</name>
     <dynasty>Decian</dynasty>
@@ -1241,7 +1143,6 @@
                  Killed in the battle against Goths together with his father.
     </description>
   </emperor>
-
   <emperor id="Hostilianus Caesar">
     <name>GAIVS VALENS HOSTILIANVS MESSIVS QVINTVS CAESAR</name>
     <dynasty>Decian</dynasty>
@@ -1254,7 +1155,6 @@
                  Died of plague.
     </description>
   </emperor>
-
   <emperor id="Hostilianus">
     <name>IMPERATOR CAESAR GAIVS VALENS HOSTILIANVS MESSIVS QVINTVS AVGVSTVS</name>
     <dynasty>Decian</dynasty>
@@ -1268,7 +1168,6 @@
                  Died of plague.
     </description>
   </emperor>
-
   <emperor id="Trebonianus Gallus">
     <name>IMPERATOR CAESAR GAIVS VIBIVS AFINIVS TREBONIANVS GALLVS AVGVSTVS</name>
     <dynasty>Decian</dynasty>
@@ -1282,7 +1181,6 @@
                  Assassinated by his own troops, in favour of Emperor Aemilianus. Condemned (damnatio memoriae).
     </description>
   </emperor>
-
   <emperor id="Volusianus">
     <name>IMPERATOR CAESAR GAIVS VIBIVS VOLVSIANVS AVGVSTVS</name>
     <dynasty>Decian</dynasty>
@@ -1294,7 +1192,6 @@
                  Assassinated by own troops together with his father Trebonianus Gallus.
     </description>
   </emperor>
-
   <emperor id="Aemilianus">
     <name>IMPERATOR CAESAR MARCVS AEMILIVS AEMILIANVS AVGVSTVS</name>
     <dynasty>Decian</dynasty>
@@ -1307,7 +1204,6 @@
                  Assassinated by his own troops, in favour of Emperor Valerianus.
     </description>
   </emperor>
-  
   <emperor id="Valerianus">
     <name>IMPERATOR CAESAR PVBLIVS LICINIVS VALERIANVS AVGVSTVS</name>
     <dynasty>Valerian</dynasty>
@@ -1319,7 +1215,6 @@
                  Taken captive by the Persians. Died in captivity.
     </description>
   </emperor>
-
   <emperor id="Diva Mariniana">
     <name>EGNATIA MARINIANA AVGVSTA</name>
     <dynasty>Valerian</dynasty>
@@ -1330,7 +1225,6 @@
                  Died before Valerianus became Emperor. Consecrated (apotheosis).
     </description>
   </emperor>
-
   <emperor id="Gallienus">
     <name>IMPERATOR CAESAR PVBLIVS LICINIVS EGNATIVS GALLIENVS AVGVSTVS</name>
     <dynasty>Valerian</dynasty>
@@ -1344,7 +1238,6 @@
                  Assisinated by his soldiers during the revolt of Aureolus. Consecrated (apotheosis).
     </description>
   </emperor>
-
   <emperor id="Salonina">
     <name>IVLIA CORNELIA SALONINA AVGVSTA</name>
     <dynasty>Valerian</dynasty>
@@ -1352,10 +1245,9 @@
     <reign from="22 October 253" to="September 268" />
     <description>Wife of Emperor Gallienus. Mother of Valerianus II Caesar and Emperor Saloninus.
                  Salonina was named Augusta after Gallienus became co-Emperor with Valerianus.
-                 Probably assasinated together with her husband Gallienus.
+                 Probably assassinated together with her husband Gallienus.
     </description>
   </emperor>
-
   <emperor id="Valerianus II Caesar">
     <name>PVBLIVS LICINIVS CORNELIVS EGNATIVS VALERIANVS CAESAR</name>
     <dynasty>Valerian</dynasty>
@@ -1366,7 +1258,6 @@
                  Died in suspicious circumstances, probably during the attempted usurpation by Ingenuus. Consecrated (apotheosis).
     </description>
   </emperor>
-
   <emperor id="Divus Valerianus II">
     <name>PVBLIVS LICINIVS CORNELIVS EGNATIVS VALERIANVS CAESAR</name>
     <dynasty>Valerian</dynasty>
@@ -1377,7 +1268,6 @@
                  Died in suspicious circumstances, probably during the attempted usurpation by Ingenuus. Consecrated (apotheosis).
     </description>
   </emperor>
-
   <emperor id="Saloninus Caesar">
     <name>PVBLIVS CORNELIVS LICINIVS SALONINVS VALERIANVS CAESAR</name>
     <dynasty>Valerian</dynasty>
@@ -1386,10 +1276,9 @@
     <description>Son of Emperor Gallienus and Salonina. Brother of Valerianus II Caesar.
                  Became Caesar after the death of his brother Valerianus II.
                  Saloninus was briefly co-Emperor in July 260 with his father Gallienus.
-                 Assasinated by soldiers during the usurpation of Postumus. 
+                 Assassinated by soldiers during the usurpation of Postumus. 
     </description>
   </emperor>
-
   <emperor id="Macrianus Minor">
     <name>IMPERATOR CAESAR TITVS FVLVIVS IVNIVS MACRIANVS AVGVSTVS</name>
     <dynasty>Valerian</dynasty>
@@ -1401,7 +1290,6 @@
                  Killed in the battle against the army of Emperor Gallienus, commanded by Aureolus.
     </description>
   </emperor>
-
   <emperor id="Quietus">
     <name>IMPERATOR CAESAR TITVS FVLVIVS IVNIVS QVIETVS AVGVSTVS</name>
     <dynasty>Valerian</dynasty>
@@ -1410,10 +1298,9 @@
     <description>Served as military tribune under Emperor Valerianus in the Persian campain (260).
                  Proclaimed Emperor by his father Macrianus Maior after Valerianus was taken captive by Persians.
                  Brother and co-Emperor of Macrianus Minor.
-                 Assasinated after the defeat and deaths of his brother Macrianus Minor and father Macrianus Maior.
+                 Assassinated after the defeat and deaths of his brother Macrianus Minor and father Macrianus Maior.
     </description>
   </emperor>
-
   <emperor id="Postumus">
     <name>IMPERATOR CAESAR MARCVS CASSIANIVS LATINIVS POSTVMVS AVGVSTVS</name>
     <dynasty>Gallic Empire</dynasty>
@@ -1426,7 +1313,6 @@
                  Lynched by his own soldiers after the revolt of the usurper Laelianus.
     </description>
   </emperor>
-
   <emperor id="Marius">
     <name>IMPERATOR CAESAR MARCVS AVRELIVS MARIVS AVGVSTVS</name>
     <dynasty>Gallic Empire</dynasty>
@@ -1434,10 +1320,9 @@
     <reign from="March 269" to="Autumn 269" />
     <description>An officer in the army of Emperor Postumus.
                  Proclaimed Emperor of the Gallic Empire by soldiers after assassinaation of Postumus.
-                 Killed by Emperror Victorinus.
+                 Killed by Emperor Victorinus.
     </description>
   </emperor>
- 
   <emperor id="Victorinus">
     <name>IMPERATOR CAESAR MARCVS PIAVONIVS VICTORINVS AVGVSTVS</name>
     <dynasty>Gallic Empire</dynasty>
@@ -1449,7 +1334,6 @@
                  Murdered by one of his officers, whose wife Victorinus had supposedly seduced.
     </description>
   </emperor>
-
   <emperor id="Tetricus I">
     <name>IMPERATOR CAESAR GAIVS PIVS ESVVIVS TETRICVS</name>
     <dynasty>Gallic Empire</dynasty>
@@ -1463,7 +1347,6 @@
                  Died of natural causes.
     </description>
   </emperor>
-
   <emperor id="Tetricus II Caesar">
     <name>GAIVS PIVS ESVVIVS TETRICVS CAESAR</name>
     <dynasty>Gallic Empire</dynasty>
@@ -1476,7 +1359,6 @@
                  Date and causes of death are unknown.
     </description>
   </emperor>
-
   <emperor id="Claudius II Gothicus">
     <name>IMPERATOR CAESAR MARCVS AVRELIVS VALERIVS CLAVDIVS AVGVSTVS</name>
     <dynasty>Illyrian</dynasty>
@@ -1489,7 +1371,6 @@
                  Died by natural causes (plague). Consecrated (apotheosis).
     </description>
   </emperor>
-
   <emperor id="Divus Claudius II Gothicus">
     <name>IMPERATOR CAESAR MARCVS AVRELIVS VALERIVS CLAVDIVS AVGVSTVS</name>
     <dynasty>Illyrian</dynasty>
@@ -1502,7 +1383,6 @@
                  Died by natural causes (plague). Consecrated (apotheosis).
     </description>
   </emperor>
-
   <emperor id="Quintillus">
     <name>IMPERATOR CAESAR MARCVS AVRELIVS CLAVDIVS QVINTILLVS AVGVSTVS</name>
     <dynasty>Illyrian</dynasty>
@@ -1514,7 +1394,6 @@
                  The cause of death is unclear; possibly suicide or assasination.
     </description>
   </emperor>
-
   <emperor id="Aurelianus">
     <name>IMPERATOR CAESAR LVCIVS DOMITIVS AVRELIANVS AVGVSTVS</name>
     <dynasty>Illyrian</dynasty>
@@ -1528,7 +1407,6 @@
                  Condemned (damnatio memoriae) after his death, but this was reversed and Aurelianus was consecrated (apotheosis) after a short time.
     </description>
   </emperor>
-
   <emperor id="Severina">
     <name>VLPIA SEVERINA AVGVSTA</name>
     <dynasty>Illyrian</dynasty>
@@ -1540,7 +1418,6 @@
                  Date and cause of her death is unknown.
     </description>
   </emperor>
-
   <emperor id="Vabalathus">
     <name>LVCIVS IVLIVS AVRELIVS SEPTIMIVS VABALLATHVS ATHENODORVS</name>
     <dynasty>Illyrian</dynasty>
@@ -1552,7 +1429,6 @@
                  Defeated and taken caprive by Emperor Aurelianus. Died in captivity.
     </description>
   </emperor>
-
   <emperor id="Tacitus">
     <name>IMPERATOR CAESAR MARCVS CLAVDIVS TACITVS AVGVSTVS</name>
     <dynasty>Illyrian</dynasty>
@@ -1562,10 +1438,9 @@
     <description>Princeps Senatus (the first member by precedence of the Senate) under Emperor Aurelianus.
                  Elected by the Senate to replace Emperor Aurelianus, after a short interregnum.
                  Half-brother of Emperor Florianus.
-                 Died by natural causes, probably assasinated.
+                 Died by natural causes, probably assassinated.
     </description>
   </emperor>
-
   <emperor id="Florianus">
     <name>IMPERATOR CAESAR MARCVS ANNIVS FLORIANVS AVGVSTVS</name>
     <dynasty>Illyrian</dynasty>
@@ -1576,7 +1451,6 @@
                  Assassinated by his own troops, in favour of Emperor Probus.
     </description>
   </emperor>
-
   <emperor id="Probus">
     <name>IMPERATOR CAESAR MARCVS AVRELIVS PROBVS AVGVSTVS</name>
     <dynasty>Illyrian</dynasty>
@@ -1588,7 +1462,6 @@
                  Assassinated by his own troops, in favour of Emperor Carus. Consecrated (apotheosis).
     </description>
   </emperor>
-
   <emperor id="Carus">
     <name>IMPERATOR CAESAR MARCVS AVRELIVS CARVS AVGVSTVS</name>
     <dynasty>Caran</dynasty>
@@ -1596,12 +1469,11 @@
     <place city="Narbo" region="Gallia" />
     <reign from="September 282" to="August 283" />
     <description>Praetorian Prefect under Emperor Probus.
-                 Proclaimed Emperor by the army before or after Probus was assasinated. 
+                 Proclaimed Emperor by the army before or after Probus was assassinated. 
                  Father of Emperors Carinus und Numerianus. Made his son Carinus co-Emperor in early 283.
                  Probably died by natural causes (possibly killed by lightning). Condemned (damnatio memoriae).
     </description>
   </emperor>
-
   <emperor id="Divus Carus">
     <name>IMPERATOR CAESAR MARCVS AVRELIVS CARVS AVGVSTVS</name>
     <dynasty>Caran</dynasty>
@@ -1609,11 +1481,10 @@
     <place city="Narbo" region="Gallia" />
     <reign from="September 282" to="August 283" />
     <description>Praetorian Prefect under Emperor Probus.
-                 Proclaimed Emperor by the army before or after Probus was assasinated. 
+                 Proclaimed Emperor by the army before or after Probus was assassinated. 
                  Probably died by natural causes (possibly killed by lightning). Condemned (damnatio memoriae).
     </description>
   </emperor>
-
   <emperor id="Carinus Caesar">
     <name>MARCVS AVRELIVS CARINVS CAESAR</name>
     <dynasty>Caran</dynasty>
@@ -1625,7 +1496,6 @@
                  Probably died in battle against Emperor Diocletianus. Condemned (damnatio memoriae).
     </description>
   </emperor>
-
   <emperor id="Carinus">
     <name>CAESAR MARCVS AVRELIVS CARINVS AVGVSTVS</name>
     <dynasty>Caran</dynasty>
@@ -1637,7 +1507,6 @@
                  Probably died in battle against Emperor Diocletianus. Condemned (damnatio memoriae).
     </description>
   </emperor>
-
   <emperor id="Numerianus Caesar">
     <name>MARCVS AVRELIVS NVMERIVS NVMERIANVS CAESAR</name>
     <dynasty>Caran</dynasty>
@@ -1649,7 +1518,6 @@
                  Cause of the death is unclear; possibly assassinated by his father-in-law. Condemned (damnatio memoriae).
     </description>
   </emperor>
-
   <emperor id="Numerianus">
     <name>IMPERATOR CAESAR MARCVS AVRELIVS NVMERIVS NVMERIANVS AVGVSTVS</name>
     <dynasty>Caran</dynasty>
@@ -1660,7 +1528,6 @@
                  Cause of the death is unclear; possibly assassinated by his father-in-law. Condemned (damnatio memoriae).
     </description>
   </emperor>
-
   <emperor id="Magnia Urbica">
     <name>MAGNIA VRBICA AVGVSTA</name>
     <dynasty>Caran</dynasty>
@@ -1671,7 +1538,6 @@
                  Date and cause of the death are unknown.
     </description>
   </emperor>
-
   <emperor id="Diocletianus">
     <name>IMPERATOR CAESAR GAIVS AVRELIVS VALERIVS DIOCLETIANVS AVGVSTVS</name>
     <dynasty>Tetrarchy</dynasty>
@@ -1690,7 +1556,6 @@
                  Died of natural causes. Consecrated (apotheosis) in 313.
     </description>
   </emperor>
-
   <emperor id="Maximianus Herculius">
     <name>IMPERATOR CAESAR MARCVS AVRELIVS VALERIVS MAXIMIANVS HERCVLIVS AVGVSTVS</name>
     <dynasty>Tetrarchy</dynasty>
@@ -1706,7 +1571,6 @@
                  Committed suicide. Condemned (damnatio memoriae), later consecrated (apotheosis).
     </description>
   </emperor>
-
   <emperor id="Divus Maximianus Herculius">
     <name>IMPERATOR CAESAR MARCVS AVRELIVS VALERIVS MAXIMIANVS HERCVLIVS AVGVSTVS</name>
     <dynasty>Tetrarchy</dynasty>
@@ -1722,7 +1586,6 @@
                  Committed suicide. Condemned (damnatio memoriae), later consecrated (apotheosis).
     </description>
   </emperor>
-
   <emperor id="Carausius">
     <name>IMPERATOR CAESAR MARCVS AVRELIVS MAVSAEVS CARAUSIVS AVGVSTVS</name>
     <dynasty>Tetrarchy</dynasty>
@@ -1735,7 +1598,6 @@
                  Assassinated by his treasurer Allectus, later usurper in Britannia.
     </description>
   </emperor>
-
   <emperor id="Allectus">
     <name>IMPERATOR CAESAR ALLECTVS AVGVSTVS</name>
     <dynasty>Tetrarchy</dynasty>
@@ -1746,7 +1608,6 @@
                  Defeated by the troops of Constantius Chlorus Caesar. Killed in the battle.
     </description>
   </emperor>
-
   <emperor id="Constantius I Chlorus Caesar">
     <name>FLAVIVS VALERIVS CONSTANTIVS CAESAR HERCVLIVS</name>
     <dynasty>Tetrarchy</dynasty>
@@ -1762,7 +1623,6 @@
                  Died of natural causes. Consecrated (apotheosis).
     </description>
   </emperor>
-
   <emperor id="Constantius I Chlorus">
     <name>IMPERATOR CAESAR MARCVS FLAVIVS VALERIVS CONSTANTIVS HERCVLIVS AVGVSTVS</name>
     <dynasty>Tetrarchy</dynasty>
@@ -1779,7 +1639,6 @@
                  Died of natural causes. Consecrated (apotheosis).
     </description>
   </emperor>
-
   <emperor id="Divus Constantius I Chlorus">
     <name>IMPERATOR CAESAR MARCVS FLAVIVS VALERIVS CONSTANTIVS HERCVLIVS AVGVSTVS</name>
     <dynasty>Tetrarchy</dynasty>
@@ -1796,7 +1655,6 @@
                  Died of natural causes. Consecrated (apotheosis).
     </description>
   </emperor>
-
   <emperor id="Theodora">
     <name>FLAVIA MAXIMIANA THEODORA AVGUSTA</name>
     <dynasty>Tetrarchy</dynasty>
@@ -1808,7 +1666,6 @@
                  Cause and date of death are unknown.
     </description>
   </emperor>
-
   <emperor id="Galerius Caesar">
     <name>GAIVS GALERIVS VALERIVS MAXIMIANVS CAESAR</name>
     <dynasty>Tetrarchy</dynasty>
@@ -1822,7 +1679,6 @@
                  Died of natural causes. Consecrated (apotheosis).
     </description>
   </emperor>
-
   <emperor id="Galerius">
     <name>IMPERATOR CAESAR GAIVS GALERIVS VALERIVS MAXIMIANVS AVGVSTVS</name>
     <dynasty>Tetrarchy</dynasty>
@@ -1838,7 +1694,6 @@
                  Died of natural causes. Consecrated (apotheosis).
     </description>
   </emperor>
-
   <emperor id="Divus Galerius">
     <name>IMPERATOR CAESAR GAIVS GALERIVS VALERIVS MAXIMIANVS AVGVSTVS</name>
     <dynasty>Tetrarchy</dynasty>
@@ -1854,7 +1709,6 @@
                  Died of natural causes. Consecrated (apotheosis).
     </description>
   </emperor>
-
   <emperor id="Galeria Valeria">
     <name>GALERIA VALERIA AVGUSTA</name>
     <dynasty>Tetrarchy</dynasty>
@@ -1866,7 +1720,6 @@
                  Murdered by the mob on orders of Emperor Licinius.
     </description>
   </emperor>
-
   <emperor id="Severus II Caesar">
     <name>FLAVIVS VALERIVS SEVERVS CAESAR</name>
     <dynasty>Tetrarchy</dynasty>
@@ -1880,7 +1733,6 @@
                  Taken captive by Maxentius and executed.
     </description>
   </emperor>
-
   <emperor id="Severus II">
     <name>IMPERATOR CAESAR FLAVIVS VALERIVS SEVERVS AVGVSTVS</name>
     <dynasty>Tetrarchy</dynasty>
@@ -1893,7 +1745,6 @@
                  Taken captive by Maxentius, resigned as Emperor and later executed.
     </description>
   </emperor>
-
   <emperor id="Maximinus II Daia Caesar">
     <name>GALERIVS VALERIVS MAXIMINVS CAESAR</name>
     <dynasty>Tetrarchy</dynasty>
@@ -1906,7 +1757,6 @@
                  Died of natural causes, probably committed suicide. Condemned (damnatio memoriae).
     </description>
   </emperor>
-
   <emperor id="Maximinus II Daia">
     <name>IMPERATOR CAESAR GAIVS GALERIVS VALERIVS MAXIMINVS AVGVSTVS</name>
     <dynasty>Tetrarchy</dynasty>
@@ -1920,7 +1770,6 @@
                  Died of natural causes, probably committed suicide. Condemned (damnatio memoriae).
     </description>
   </emperor>
-
   <emperor id="Maxentius">
     <name>IMPERATOR CAESAR MARCVS AVRELIVS VALERIVS MAXENTIVS AVGVSTVS</name>
     <dynasty>Tetrarchy</dynasty>
@@ -1934,7 +1783,6 @@
                  Died at the Battle of the Milvian Bridge, against Constantinus I. Condemned (damnatio memoriae).
     </description>
   </emperor>
-
   <emperor id="Divus Romulus">
     <name>MARCVS AVRELIVS VALERIVS ROMVLVS CAESAR</name>
     <dynasty>Tetrarchy</dynasty>
@@ -1945,7 +1793,6 @@
                  Cause of death is unknown. Raised to Divus on his death by Maxentius. Consecrated (apotheosis).
     </description>
   </emperor>
-
   <emperor id="Licinius">
     <name>IMPERATOR CAESAR GAIVS VALERIVS LICINIANVS LICINIVS AVGVSTVS</name>
     <dynasty>Tetrarchy</dynasty>
@@ -1962,7 +1809,6 @@
                  Executed on the orders of Constantinus I in 325. Condemned (damnatio memoriae).
     </description>
   </emperor>
-
   <emperor id="Licinius II Caesar">
     <name>VALERIVS LICINIANVS LICINIVS CAESAR</name>
     <dynasty>Tetrarchy</dynasty>
@@ -1975,7 +1821,6 @@
                  Executed on the orders of Constantinus I in 326, probably in the context of the execution of Crispus Caesar.
     </description>
   </emperor>
-
   <emperor id="Constantinus I Caesar">
     <name>FLAVIVS VALERIVS CONSTANTINVS CAESAR HERCVLIVS</name>
     <dynasty>Constantinian</dynasty>
@@ -1990,7 +1835,6 @@
                  Died of natural causes. Consecrated (apotheosis). Canonized (Saint Constantine).
     </description>
   </emperor>
-
   <emperor id="Constantinus I">
     <name>IMPERATOR CAESAR FLAVIVS VALERIVS AVRELIVS CONSTANTINVS AVGVSTVS</name>
     <dynasty>Constantinian</dynasty>
@@ -2007,7 +1851,6 @@
                  Died of natural causes. Consecrated (apotheosis). Canonized (Saint Constantine).
     </description>
   </emperor>
-
   <emperor id="Divus Constantinus I">
     <name>IMPERATOR CAESAR FLAVIVS VALERIVS AVRELIVS CONSTANTINVS AVGVSTVS</name>
     <dynasty>Constantinian</dynasty>
@@ -2025,7 +1868,6 @@
                  Died of natural causes. Consecrated (apotheosis). Canonized (Saint Constantine).
     </description>
   </emperor>
-
   <emperor id="Helena">
     <name>FLAVIA IVLIA HELENA AVGVSTA</name>
     <dynasty>Constantinian</dynasty>
@@ -2038,7 +1880,6 @@
                  Died of natural causes. Canonized (Saint Helena).
     </description>
   </emperor>
-
   <emperor id="Fausta">
     <name>FLAVIA MAXIMA FAVSTA AVGVSTA</name>
     <dynasty>Constantinian</dynasty>
@@ -2053,7 +1894,6 @@
                  Condemned (damnatio memoriae).
     </description>
   </emperor>
-
   <emperor id="Crispus Caesar">
     <name>GAIVS FLAVIVS IVLIVS CRISPVS CAESAR</name>
     <dynasty>Constantinian</dynasty>
@@ -2066,7 +1906,6 @@
                  Condemned (damnatio memoriae).
     </description>
   </emperor>
-
   <emperor id="Constantinus II Caesar">
     <name>FLAVIVS CLAVDIVS CONSTANTINVS CAESAR</name>
     <dynasty>Constantinian</dynasty>
@@ -2080,7 +1919,6 @@
                  Died in battle against Constans. Condemned (damnatio memoriae).
     </description>
   </emperor>
-
   <emperor id="Constantius II Caesar">
     <name>FLAVIVS IVLIVS CONSTANTIVS CAESAR</name>
     <dynasty>Constantinian</dynasty>
@@ -2094,7 +1932,6 @@
                  Died of natural causes. Consecrated (apotheosis).
     </description>
   </emperor>
-
   <emperor id="Constans Caesar">
     <name>FLAVIVS IVLIVS CONSTANS CAESAR</name>
     <dynasty>Constantinian</dynasty>
@@ -2108,7 +1945,6 @@
                  Assassinated on orders of usurper Magnentius. Consecrated (apotheosis).
     </description>
   </emperor>
-
   <emperor id="Dalmatius Caesar">
     <name>FLAVIVS DELMATIVS CAESAR</name>
     <dynasty>Constantinian</dynasty>
@@ -2120,7 +1956,6 @@
                  Killed by his own soldiers, probably in the purge in the imperial family, organized by Constantius II after the death of Constantinus I.
     </description>
   </emperor>
-
   <emperor id="Hannibalianus Caesar">
     <name>FLAVIVS HANNIBALIANVS CAESAR</name>
     <dynasty>Constantinian</dynasty>
@@ -2134,7 +1969,6 @@
                  Killed in the purge in the imperial family, organized by Constantius II after the death of Constantinus I.
     </description>
   </emperor>
-
   <emperor id="Constantinus II">
     <name>IMPERATOR CAESAR FLAVIVS CLAVDIVS CONSTANTINVS AVGVSTVS</name>
     <dynasty>Constantinian</dynasty>
@@ -2148,7 +1982,6 @@
                  Died in battle against Constans. Condemned (damnatio memoriae).
     </description>
   </emperor>
-
   <emperor id="Constantius II">
     <name>IMPERATOR CAESAR FLAVIVS IVLIVS CONSTANTIVS AVGVSTVS</name>
     <dynasty>Constantinian</dynasty>
@@ -2163,7 +1996,6 @@
                  Died of natural causes during the war against Emperor Julianus II. Consecrated (apotheosis).
     </description>
   </emperor>
-
   <emperor id="Constans">
     <name>IMPERATOR CAESAR FLAVIVS IVLIVS CONSTANS AVGVSTVS</name>
     <dynasty>Constantinian</dynasty>
@@ -2178,7 +2010,6 @@
                  Assassinated on orders of usurper Magnentius. Consecrated (apotheosis).
     </description>
   </emperor>
-
   <emperor id="Vetranio">
     <name>IMPERATOR CAESAR FLAVIVS VETRANIO AVGVSTVS</name>
     <dynasty>Constantinian</dynasty>
@@ -2192,7 +2023,6 @@
                  Died of natural causes.
     </description>
   </emperor>
-
   <emperor id="Constantius Gallus Caesar">
     <name>FLAVIVS CLAVDIVS CONSTANTIVS GALLVS CAESAR</name>
     <dynasty>Constantinian</dynasty>
@@ -2207,7 +2037,6 @@
                  Sentenced to death by Constantius II for treason (attempt of usurpation).
     </description>
   </emperor>
-
   <emperor id="Magnentius">
     <name>IMPERATOR CAESAR MAGNVS MAGNENTIVS AVGVSTVS</name>
     <dynasty>Constantinian</dynasty>
@@ -2221,7 +2050,6 @@
                  Commited suicide after the defeat. Condemned (damnatio memoriae).
     </description>
   </emperor>
-
   <emperor id="Decentius Caesar">
     <name>FLAVIVS MAGNVS DECENTIVS CAESAR</name>
     <dynasty>Constantinian</dynasty>
@@ -2232,7 +2060,6 @@
                  Commited suicide after the defeat and the death of Magnentius.
     </description>
   </emperor>
-
   <emperor id="Julianus II Caesar">
     <name>FLAVIVS CLAVDIVS IVLIANVS CAESAR</name>
     <dynasty>Constantinian</dynasty>
@@ -2247,7 +2074,6 @@
                  Wounded in the battle against Persians. Died of the wounds a few days later. Consecrated (apotheosis).
     </description>
   </emperor>
-
   <emperor id="Julianus II">
     <name>IMPERATOR CAESAR FLAVIVS CLAVDIVS IVLIANVS AVGVSTVS</name>
     <dynasty>Constantinian</dynasty>
@@ -2263,7 +2089,6 @@
                  Wounded in the battle against Persians. Died of the wounds a few days later. Consecrated (apotheosis).
     </description>
   </emperor>
-
   <emperor id="Jovianus">
     <name>IMPERATOR CAESAR FLAVIVS IOVIANVS AVGVSTVS</name>
     <dynasty>Constantinian</dynasty>
@@ -2276,7 +2101,6 @@
                  Died of natural causes. Consecrated (apotheosis).
     </description>
   </emperor>
-
   <emperor id="Procopius">
     <name>IMPERATOR PROCOPIVS AVGVSTVS</name>
     <dynasty>Constantinian</dynasty>
@@ -2290,7 +2114,6 @@
                  Defated by Emperor Valens and executed.
     </description>
   </emperor>
-
   <emperor id="Valentinianus I">
     <name>IMPERATOR CAESAR FLAVIVS VALENTINIANVS AVGVSTVS</name>
     <dynasty>Valentinian</dynasty>
@@ -2305,7 +2128,6 @@
                  Died of natural causes. Consecrated (apotheosis).
     </description>
   </emperor>
-
   <emperor id="Valens">
     <name>IMPERATOR CAESAR FLAVIVS IVLIVS VALENS AVGVSTVS</name>
     <dynasty>Valentinian</dynasty>
@@ -2318,7 +2140,6 @@
                  Killed in action in the battle against Goths. Consecrated (apotheosis).
     </description>
   </emperor>
-
   <emperor id="Gratianus">
     <name>IMPERATOR CAESAR FLAVIVS GRATIANVS AVGVSTVS</name>
     <dynasty>Valentinian</dynasty>
@@ -2334,7 +2155,6 @@
                  Consecrated (apotheosis).
     </description>
   </emperor>
-
   <emperor id="Valentinianus II">
     <name>IMPERATOR CAESAR FLAVIVS VALENTINIANVS AVGVSTVS</name>
     <dynasty>Valentinian</dynasty>
@@ -2347,7 +2167,6 @@
                  Committed suicide or possibly murdered. Consecrated (apotheosis).
     </description>
   </emperor>
-
   <emperor id="Magnus Maximus">
     <name>IMPERATOR CAESAR FLAVIVS MAGNVS MAXIMVS AVGVSTVS</name>
     <dynasty>Valentinian</dynasty>
@@ -2360,7 +2179,6 @@
                  Defeated and executed by Theodosius I. Condemned (damnatio memoriae).
     </description>
   </emperor>
-
   <emperor id="Flavius Victor">
     <name>IMPERATOR CAESAR FLAVIVS VICTOR AVGVSTVS</name>
     <dynasty>Valentinian</dynasty>
@@ -2372,7 +2190,6 @@
                  Executed after the deafeat of Magnus Maximus.
     </description>
   </emperor>
-
   <emperor id="Theodosius I">
     <name>IMPERATOR CAESAR FLAVIVS THEODOSIVS AVGVSTVS</name>
     <dynasty>Theodosian</dynasty>
@@ -2389,7 +2206,6 @@
                  Died of natural causes. Consecrated (apotheosis). Canonized (Saint Theodosius) by Eastern Orthodox Church.
     </description>
   </emperor>
-
   <emperor id="Aelia Flacilla">
     <name>AELIA FLAVIA FLACCILLA AVGUSTA</name>
     <dynasty>Theodosian</dynasty>
@@ -2401,20 +2217,18 @@
                  Died of natural causes. Canonized (Saint Placilla) by Eastern Orthodox Church.
     </description>
   </emperor>
-
   <emperor id="Eugenius">
     <name>IMPERATOR CAESAR FLAVIVS EVGENIVS AVGVSTVS</name>
     <dynasty>Theodosian</dynasty>
     <dates born="?" died="6 September 394" aged="?" />
     <reign from="22 August 392" to="6 September 394" />
-    <description>Usupter against Emperor Theodosius I. 
+    <description>Usurper against Emperor Theodosius I. 
                  Former teacher of grammar and rhetoric. Eugenius was an acquaintance of the magister militum Arbogast, de facto ruler in the West (under Emperor Valentinian II).
                  Following the death of Valentinian II, Eugenius was elevated to Emperor by Arbogast. 
                  He was not recognized as Emperor by Theodisius I, who proclaimed his son Honorius to Emperor in the West.
                  Defeated by Theodosius and executed.
     </description>
   </emperor>
-
   <emperor id="Arcadius">
     <name>IMPERATOR CAESAR FLAVIVS ARCADIVS AVGVSTVS</name>
     <dynasty>Theodosian</dynasty>
@@ -2428,7 +2242,6 @@
                  Died of natural causes.
     </description>
   </emperor>
-
   <emperor id="Aelia Eudoxia">
     <name>AELIA EVDOXIA AVGUSTA</name>
     <dynasty>Theodosian</dynasty>
@@ -2439,7 +2252,6 @@
                  Died of natural causes.
     </description>
   </emperor>
-
   <emperor id="Honorius">
     <name>IMPERATOR CAESAR FLAVIVS HONORIVS AVGVSTVS</name>
     <dynasty>Theodosian</dynasty>
@@ -2453,7 +2265,6 @@
                  Died of natural causes.
     </description>
   </emperor>
-  
   <emperor id="Theodosius II">
     <name>IMPERATOR CAESAR FLAVIVS THEODOSIVS AVGVSTVS</name>
     <dynasty>Theodosian</dynasty>
@@ -2466,7 +2277,6 @@
                  Died of natural causes.
     </description>
   </emperor>
-
   <emperor id="Johannes">
     <name>IMPERATOR CAESAR IOHANNES AVGVSTVS</name>
     <dynasty>Theodosian</dynasty>
@@ -2478,7 +2288,6 @@
                  Executed after his defeat against the army of Theodosius II.
     </description>
   </emperor>
-
   <emperor id="Galla Placidia">
     <name>GALLA PLACIDIA</name>
     <dynasty>Theodosian</dynasty>
@@ -2492,8 +2301,7 @@
                  Mother of Emperor Valentinianus III. Regent of her son (425-450).
                  Died of natural causes.
     </description>
-  </emperor>  
-  
+  </emperor>
   <emperor id="Valentinianus III">
     <name>IMPERATOR CAESAR FLAVIVS PLACIDIVS VALENTINIANVS AVGVSTVS</name>
     <dynasty>Theodosian</dynasty>
@@ -2505,8 +2313,7 @@
                  Appointed Emperor in the West by Theodosius II against Johannes.
                  Assassinated by later Emperor Petronius Maximus.
     </description>
-  </emperor>  
-
+  </emperor>
   <emperor id="Marcianus">
     <name>IMPERATOR CAESAR FLAVIVS MARCIANVS AVGVSTVS</name>
     <dynasty>Theodosian</dynasty>
@@ -2519,7 +2326,6 @@
                  Died of natural causes.
     </description>
   </emperor>
-
   <emperor id="Leo I">
     <name>IMPERATOR CAESAR FLAVIVS LEO AVGVSTVS</name>
     <dynasty>Leonid</dynasty>
@@ -2527,12 +2333,11 @@
     <place region="Dacia Aureliana" />
     <reign from="7 February 457" to="18 January 474" />
     <description>Military commander under Emperor Marcianus and Aspar.
-                 Appointed Emperor by Apar after the death of Marcianus.
+                 Appointed Emperor by Aspar after the death of Marcianus.
                  Grandfather of Emperor Leo II, father-in-law of Emperor Zeno.
                  Died of natural causes. Canonized by Eastern Orthodox Church.
     </description>
   </emperor>
-
   <emperor id="Zeno">
     <name>IMPERATOR CAESAR FLAVIVS ZENO AVGVSTVS</name>
     <dynasty>Leonid</dynasty>
@@ -2547,331 +2352,376 @@
                  Died of natural causes.
     </description>
   </emperor>
-
   <emperor id="Anastasius I">
     <name>IMPERATOR CAESAR FLAVIVS ANASTASIVS AVGVSTVS</name>
     <dynasty>Leonid</dynasty>
     <dates born="c. 430" died="09 July 518" aged="88" />
     <place city="Dyrrachium" region="Epirus nova" />
     <reign from="11 April 491" to="09 July 518" />
-    <description>Byzantine Emperor</description>
+    <description>Former palace official (silentiarius) chosen as Emperor by Empress Ariadne, widow of Zeno, whom he married.
+                 Reformed the imperial coinage and finances;
+                 died of natural causes in Constantinople.
+    </description>
   </emperor>
-
   <emperor id="Iustinus I">
     <name>IMPERATOR CAESAR FLAVIVS IVSTINVS AVGVSTVS</name>
     <dynasty>Justinian</dynasty>
     <dates born="c. 450" died="01 August 527" aged="77" />
     <place city="Naissus" region="Illyricum" />
     <reign from="09 July 518" to="01 August 527" />
-    <description>Byzantine Emperor</description>
+    <description>Commander of the imperial bodyguard (Excubitores) elected Emperor by the Senate and army after Anastasius I's death.
+                 Restored communion with Rome;
+                 died of natural causes (an old leg wound) in 527.
+    </description>
   </emperor>
-
   <emperor id="Iustinianus I">
     <name>IMPERATOR CAESAR FLAVIVS IVSTINIANVS AVGVSTVS</name>
     <dynasty>Justinian</dynasty>
     <dates born="c. 482" died="14 November 565" aged="83" />
     <place city="Tauresium" region="Dardania" />
     <reign from="01 April 527" to="14 November 565" />
-    <description>Byzantine Emperor</description>
+    <description>Nephew of Justin I, adopted and crowned co-emperor before succeeding him.
+                 Oversaw the reconquest of North Africa and Italy, codified Roman law, and built the Hagia Sophia;
+                 died of natural causes in Constantinople.
+    </description>
   </emperor>
-
   <emperor id="Iustinus II">
     <name>IMPERATOR CAESAR FLAVIVS IVSTINVS AVGVSTVS</name>
     <dynasty>Justinian</dynasty>
     <dates born="c. 520" died="05 October 578" aged="58" />
     <place city="Constantinopolis" region="Constantinopolis" />
     <reign from="14 November 565" to="05 October 578" />
-    <description>Byzantine Emperor</description>
+    <description>Nephew of Justinian I who succeeded him as Emperor.
+                 Suffered mental decline during wars with Persia and the Avars, adopted Tiberius II as Caesar, and died of natural causes in 578.
+    </description>
   </emperor>
-
   <emperor id="Tiberius II Constantinus">
     <name>IMPERATOR CAESAR FLAVIVS TIBERIVS CONSTANTINVS AVGVSTVS</name>
     <dynasty>Justinian</dynasty>
     <dates born="?" died="14 August 582" aged="?" />
     <place city="Constantinopolis" />
     <reign from="26 September 578" to="14 August 582" />
-    <description>Byzantine Emperor</description>
+    <description>Commander of the Excubitores adopted as Caesar by Justin II, succeeding him upon his death.
+                 Fought Persia on the eastern frontier and died of natural causes (illness) in 582.
+    </description>
   </emperor>
-
   <emperor id="Mauricius Tiberius">
     <name>IMPERATOR CAESAR FLAVIVS MAVRICIVS TIBERIVS AVGVSTVS</name>
     <dynasty>Justinian</dynasty>
     <dates born="539" died="27 November 602" aged="63" />
     <place city="Arabissus" region="Cappadocia" />
     <reign from="13 August 582" to="27 November 602" />
-    <description>Byzantine Emperor</description>
+    <description>Successful general who married Tiberius II's daughter Constantina and succeeded him as Emperor.
+                 Overthrown in a military mutiny led by Phocas and executed at Chalcedon.
+    </description>
   </emperor>
-
   <emperor id="Phocas">
     <name>IMPERATOR CAESAR FLAVIVS PHOCAS AVGVSTVS</name>
     <dynasty>Justinian</dynasty>
     <dates born="547" died="05 October 610" aged="63" />
     <place city="?" region="?" />
     <reign from="23 November 602" to="05 October 610" />
-    <description>Byzantine Emperor</description>
+    <description>Army centurion who seized the throne by overthrowing Maurice.
+                 Faced devastating Persian invasions and internal revolts;
+                 deposed by Heraclius and executed in Constantinople.
+    </description>
   </emperor>
-
   <emperor id="Heraclius">
     <name>Phlabios Hērakleios Basíleios</name>
     <dynasty>Heraclian</dynasty>
     <dates born="c. 575" died="11 February 641" aged="65" />
     <place city="?" region="Cappadocia" />
     <reign from="05 October 610" to="11 February 641" />
-    <description>Byzantine Emperor</description>
+    <description>Son of the Exarch of Africa who sailed to Constantinople and overthrew Phocas.
+                 Defeated Sasanian Persia and recovered the True Cross;
+                 died of natural causes (illness) in 641.
+    </description>
   </emperor>
-
   <emperor id="Constans II">
     <name>Phlabios Hērakleios Kōnstantinos Basíleios ho Pōgōnatos</name>
     <dynasty>Heraclian</dynasty>
     <dates born="07 November 630" died="15 July 668" aged="37" />
     <place city="Constantinopolis" />
     <reign from="05 November 641" to="15 July 668" />
-    <description>Byzantine Emperor</description>
+    <description>Grandson of Heraclius, crowned Emperor after the brief reigns of Constantine III and Heraklonas.
+                 Relocated his court to Syracuse in Sicily, where he was assassinated in his bath.
+    </description>
   </emperor>
-
   <emperor id="Constantinus IV Pogonatus">
     <name>Phlabios Kōnstantinos Basíleios</name>
     <dynasty>Heraclian</dynasty>
     <dates born="c. 650" died="10 July 685" aged="35" />
     <place city="Constantinopolis" />
     <reign from="September 668" to="10 July 685" />
-    <description>Byzantine Emperor</description>
+    <description>Son of Constans II, who succeeded him after his father's assassination.
+                 Repelled the first Arab siege of Constantinople and convened the Sixth Ecumenical Council;
+                 died of dysentery in 685.
+    </description>
   </emperor>
-
   <emperor id="Tiberius III Apsimar">
     <name>Tibérios Apsímaros</name>
     <dynasty>20 Years Anarchy</dynasty>
     <dates born="?" died="15 February 706" aged="?" />
     <place city="?" />
     <reign from="698" to="21 August 705" />
-    <description>Byzantine Emperor</description>
+    <description>Naval commander proclaimed Emperor by the fleet after deposing Leontius.
+                 Campaigned against the Umayyads in Syria before being deposed and executed by the restored Justinian II.
+    </description>
   </emperor>
-
   <emperor id="Leo III">
     <name>Phlabios Leōn Basíleios ho Isauros</name>
     <dynasty>Isaurian</dynasty>
     <dates born="c. 685" died="18 June 741" aged="56" />
     <place city="Germanikeia" region="Commagene" />
     <reign from="25 March 717" to="18 June 741" />
-    <description>Byzantine Emperor</description>
+    <description>General (strategos of the Anatolic Theme) who seized the throne by deposing Theodosius III.
+                 Repelled the second Arab siege of Constantinople and initiated Iconoclasm;
+                 died of dropsy (natural causes) in 741.
+    </description>
   </emperor>
-
   <emperor id="Constantinus V Copronymus">
     <name>Kōnstantīnos Basíleios</name>
     <dynasty>Isaurian</dynasty>
     <dates born="July 718" died="14 September 775" aged="57" />
     <place city="Constantinopolis" />
     <reign from="18 June 741" to="14 September 775" />
-    <description>Byzantine Emperor</description>
+    <description>Son and co-emperor of Leo III, succeeding him in 741.
+                 Won major victories against the Arabs and Bulgars and enforced Iconoclasm;
+                 died of a fever while on campaign against Bulgaria.
+    </description>
   </emperor>
-
   <emperor id="Leo IV">
     <name>Leōn Basíleios ho Khazaros</name>
     <dynasty>Isaurian</dynasty>
     <dates born="25 January 750" died="8 September 780" aged="30" />
     <place city="Constantinopolis" />
     <reign from="14 September 775" to="8 September 780" />
-    <description>Byzantine Emperor</description>
+    <description>Son and co-emperor of Constantine V, succeeding him in 775.
+                 Maintained defensive campaigns against the Abbasids and Bulgars;
+                 died of a sudden fever in 780.
+    </description>
   </emperor>
-
   <emperor id="Nicephorus I">
     <name>Nikēphóros Basíleios</name>
     <dynasty>Nikephorian</dynasty>
     <dates born="c. 750" died="26 July 811" aged="61" />
     <place city="Seleucia" region="Isauria" />
     <reign from="31 October 802" to="26 July 811" />
-    <description>Byzantine Emperor</description>
+    <description>Logothete of the General Treasury who became Emperor by deposing Empress Irene in a palace coup.
+                 Reorganized imperial finances, but was killed in battle against Krum of Bulgaria at Pliska.
+    </description>
   </emperor>
-
   <emperor id="Leo V">
     <name>Léōn Basíleios ho Arménios</name>
     <dynasty>Nikephorian</dynasty>
     <dates born="c. 775" died="25 December 820" aged="45" />
     <place region="Arminiya" />
     <reign from="12 July 813" to="25 December 820" />
-    <description>Byzantine Emperor</description>
+    <description>Armenian general proclaimed Emperor by the army after Michael I's defeat by Bulgaria.
+                 Defeated the Bulgars and revived Iconoclasm;
+                 assassinated in the palace chapel on Christmas Day 820.
+    </description>
   </emperor>
-
   <emperor id="Theophilus">
     <name>Theóphilos Basíleios</name>
     <dynasty>Amorian</dynasty>
     <dates born="c. 812" died="20 January 842" aged="30" />
     <place city="Constantinopolis" />
     <reign from="02 October 829" to="20 January 842" />
-    <description>Byzantine Emperor</description>
+    <description>Son and co-emperor of Michael II, succeeding him in 829.
+                 Known for his patronage of learning and wars against the Abbasid Caliphate;
+                 died of dysentery in 842.
+    </description>
   </emperor>
-
   <emperor id="Basileios I">
     <name>Basíleios ō Makedṓn</name>
     <dynasty>Macedonian</dynasty>
     <dates born="811" died="29 August 886" aged="75" />
     <place city="?" region="Macedonia" />
     <reign from="24 September 867" to="29 August 886" />
-    <description>Byzantine Emperor</description>
+    <description>Rose from peasant origins to become co-emperor under Michael III, whom he assassinated to take sole power as founder of the Macedonian dynasty.
+                 Died from injuries sustained in a hunting accident.
+    </description>
   </emperor>
-
   <emperor id="Leo VI">
     <name>Léōn ho Sophós</name>
     <dynasty>Macedonian</dynasty>
     <dates born="19 September 866" died="11 May 912" aged="45" />
     <place city="Constantinopolis" />
     <reign from="29 August 886" to="11 May 912" />
-    <description>Byzantine Emperor</description>
+    <description>Son and co-emperor of Basil I (possibly fathered by Michael III), succeeding him in 886.
+                 Completed the Basilica law code;
+                 died of an abdominal illness in 912.
+    </description>
   </emperor>
-
   <emperor id="Romanus I Lacapenus">
     <name>Rōmanos Lakapēnos</name>
     <dynasty>Macedonian</dynasty>
     <dates born="c. 870" died="15 June 948" aged="78" />
     <place city="Lakape" region="Cappadocia" />
     <reign from="17 December 920" to="20 December 944" />
-    <description>Byzantine Emperor</description>
+    <description>Admiral of the imperial fleet who took control of the regency for Constantine VII and became senior co-emperor.
+                 Deposed by his own sons in 944 and died in exile as a monk on Prote.
+    </description>
   </emperor>
-
   <emperor id="Nicephorus II Phocas">
     <name>Nikēphóros Phōkâs</name>
     <dynasty>Macedonian</dynasty>
     <dates born="c. 912" died="11 December 969" aged="57" />
     <place region="Cappadocia" />
     <reign from="16 August 963" to="11 December 969" />
-    <description>Byzantine Emperor</description>
+    <description>Successful general proclaimed Emperor by his troops and legitimized by marrying Empress Theophano.
+                 Reconquered Crete, Cilicia, and Antioch;
+                 assassinated in his bedchamber in a plot led by John Tzimiskes.
+    </description>
   </emperor>
-
   <emperor id="Iohannes I Tzimiskes">
     <name>Iōannēs Tzimiskís Kurkuas</name>
     <dynasty>Macedonian</dynasty>
     <dates born="c. 925" died="10 January 976" aged="51" />
     <place city="Constantinopolis" />
     <reign from="11 December 969" to="10 January 976" />
-    <description>Byzantine Emperor</description>
+    <description>Armenian general who became Emperor by assassinating Nikephoros II Phocas.
+                 Defeated the Kievan Rus' and campaigned in Syria;
+                 died in 976 (from illness or suspected poisoning) on returning from campaign.
+    </description>
   </emperor>
-
   <emperor id="Basileios II Porphyrogenitus">
     <name>Basíleios Porphyrogénnētos</name>
     <dynasty>Macedonian</dynasty>
     <dates born="958" died="15 December 1025" aged="67" />
     <place city="Constantinopolis" />
     <reign from="15 March 963" to="15 December 1025" />
-    <description>Byzantine Emperor</description>
+    <description>Son of Romanos II, crowned co-emperor as a child and became senior ruler after John I Tzimiskes' death.
+                 Conquered Bulgaria and brought the empire to its medieval zenith;
+                 died of natural causes in 1025.
+    </description>
   </emperor>
-
   <emperor id="Romanus III Argyrus">
     <name>Rōmanos Argyros</name>
     <dynasty>Macedonian</dynasty>
     <dates born="968" died="11 April 1034" aged="66" />
     <place city="Hierapolis" region="Phrygia" />
     <reign from="12 November 1028" to="11 April 1034" />
-    <description>Byzantine Emperor</description>
+    <description>Senior senator who became Emperor by marrying Zoe Porphyrogenita at the command of the dying Constantine VIII.
+                 Died in his bath in 1034, widely suspected of being murdered by Zoe and Michael IV.
+    </description>
   </emperor>
-
   <emperor id="Michael IV">
     <name>Michaēl Paphlagōn</name>
     <dynasty>Macedonian</dynasty>
     <dates born="c. 1010" died="10 December 1041" aged="31" />
     <place region="Paphlagonia" />
     <reign from="11 April 1034" to="10 December 1041" />
-    <description>Byzantine Emperor</description>
+    <description>Imperial chamberlain who became Emperor by marrying Empress Zoe immediately after Romanos III's death.
+                 Suppressed a Bulgarian uprising and died of illness shortly after abdicating to a monastery.
+    </description>
   </emperor>
-
   <emperor id="Constantinus IX Monomachus">
     <name>Kōnstantīnos Monomachos</name>
     <dynasty>Macedonian</dynasty>
     <dates born="c. 1000" died="11 January 1055" aged="55" />
     <place city="Constantinopolis" />
     <reign from="11 June 1042" to="11 January 1055" />
-    <description>Byzantine Emperor</description>
+    <description>Aristocrat recalled from exile to become Emperor by marrying Empress Zoe.
+                 Oversaw a cultural revival and the Great Schism of 1054;
+                 died of pleurisy (natural causes) in 1055.
+    </description>
   </emperor>
-
   <emperor id="Constantinus X Doukas">
     <name>Kōnstantīnos Doúkās</name>
     <dynasty>Doukas</dynasty>
     <dates born="c. 1006" died="23 May 1067" aged="60" />
     <place city="?" />
     <reign from="23 November 1059" to="23 May 1067" />
-    <description>Byzantine Emperor</description>
+    <description>Senior official chosen by the abdicating Isaac I Komnenos as his successor.
+                 Pursued fiscally conservative policies that weakened frontier defenses;
+                 died of illness (natural causes) in 1067.
+    </description>
   </emperor>
-
   <emperor id="Romanus IV Diogenes">
     <name>Rōmanos Diogenēs</name>
     <dynasty>Doukas</dynasty>
     <dates born="c. 1032" died="04 August 1072" aged="40" />
     <place region="Cappadocia" />
     <reign from="01 January 1068" to="01 October 1071" />
-    <description>Byzantine Emperor</description>
+    <description>Military commander who became Emperor by marrying Empress Eudokia Makrembolitissa to defend the empire against the Seljuk Turks.
+                 Captured at Manzikert (1071), deposed, blinded, and died of his infected wounds in 1072.
+    </description>
   </emperor>
-
   <emperor id="Michael VII Doukas">
     <name>Mikhaḗl Doúkās</name>
     <dynasty>Doukas</dynasty>
     <dates born="c. 1050" died="1090" aged="40" />
     <place city="Constantinopolis" />
     <reign from="01 October 1071" to="March 1078" />
-    <description>Byzantine Emperor</description>
+    <description>Eldest son of Constantine X, proclaimed Emperor after Romanos IV's capture at Manzikert.
+                 Forced to abdicate in 1078 amid rebellions, became a monk and bishop, and died around 1090.
+    </description>
   </emperor>
-
   <emperor id="Nicephorus III Botaniates">
     <name>Nikēphóros Botaneiatēs</name>
     <dynasty>Doukas</dynasty>
     <dates born="1002" died="01 April 1081" aged="79" />
     <place region="Anatolia" />
     <reign from="07 January 1078" to="01 April 1081" />
-    <description>Byzantine Emperor</description>
+    <description>Experienced general who seized the throne by overthrowing Michael VII with Turkish support.
+                 Forced to abdicate by Alexios I Komnenos in 1081 and died later that year as a monk.
+    </description>
   </emperor>
-
   <emperor id="Alexios I Komnenos">
     <name>Aléxios Komnēnós</name>
     <dynasty>Komnenos</dynasty>
     <dates born="c. 1057" died="15 August 1118" aged="62" />
     <place city="Constantinopolis" />
     <reign from="01 April 1081" to="15 August 1118" />
-    <description>Byzantine Emperor</description>
+    <description>General and founder of the Komnenian dynasty who seized the throne by deposing Nikephoros III.
+                 Repelled Norman and Pecheneg invasions and sparked the First Crusade;
+                 died of natural causes (illness) in 1118.
+    </description>
   </emperor>
-
   <emperor id="Iohannes II Komnenos">
     <name>Iōánnēs Komnēnós</name>
     <dynasty>Komnenos</dynasty>
     <dates born="13 September 1087" died="08 April 1143" aged="55" />
     <place city="Constantinopolis" />
     <reign from="15 August 1118" to="08 April 1143" />
-    <description>Byzantine Emperor</description>
+    <description>Eldest son of Alexios I, who succeeded his father in 1118.
+                 Campaigned steadily in Anatolia and Syria;
+                 died in 1143 after accidentally wounding himself with a poisoned arrow while hunting.
+    </description>
   </emperor>
-
   <emperor id="Manuel I Komnenos">
     <name>Manouḗl Komnēnós</name>
     <dynasty>Komnenos</dynasty>
     <dates born="28 November 1118" died="24 September 1180" aged="61" />
     <place city="Constantinopolis" />
     <reign from="08 April 1143" to="24 September 1180" />
-    <description>Byzantine Emperor</description>
+    <description>Fourth son of John II, designated as successor on his father's deathbed.
+                 Pursued ambitious diplomacy and wars across the Mediterranean and Anatolia;
+                 died of a fever in 1180.
+    </description>
   </emperor>
-
   <emperor id="Isaac II Angelos">
     <name>Isaákios Komnēnós Ángelos</name>
     <dynasty>Angelos</dynasty>
     <dates born="September 1156" died="28 January 1204" aged="47" />
     <place city="Constantinopolis" />
     <reign from="12 September 1185" to="08 April 1195" />
-    <description>Byzantine Emperor</description>
+    <description>Aristocrat proclaimed Emperor by the populace of Constantinople during the revolt that overthrew Andronikos I.
+                 Deposed and blinded by his brother Alexios III (1195), briefly restored by the Fourth Crusade (1203), and died in 1204.
+    </description>
   </emperor>
-
   <emperor id="Alexios III Angelos">
     <name>Aléxios Komnēnós Ángelos</name>
     <dynasty>Angelos</dynasty>
     <dates born="c. 1153" died="1211" aged="58" />
     <place city="Constantinopolis" />
     <reign from="08 April 1195" to="18 July 1203" />
-    <description>Byzantine Emperor</description>
+    <description>Seized the throne by deposing and blinding his brother Isaac II in 1195.
+                 Fled Constantinople during the Fourth Crusade in 1203, was later captured by Theodore I Laskaris, and died in a monastery in Nicaea in 1211.
+    </description>
   </emperor>
-
-  <emperor id="Alexios III Angelos">
-    <name>Aléxios Komnēnós Ángelos</name>
-    <dynasty>Angelos</dynasty>
-    <dates born="c. 1153" died="1211" aged="58" />
-    <place city="Constantinopolis" />
-    <reign from="08 April 1195" to="18 July 1203" />
-    <description>Byzantine Emperor</description>
-  </emperor>
-
   <emperor id="Bohemond III">
     <name>Bohémond le Bambe</name>
     <dynasty>Crusaders</dynasty>
@@ -2880,7 +2730,6 @@
     <reign from="1163" to="1201" />
     <description>Prince of Antioch</description>
   </emperor>
-
   <emperor id="Latin rulers">
     <name> Baldwin I | Henry | Peter | Yolanda | Robert I | John | Baldwin II</name>
     <dynasty>Crusaders</dynasty>
@@ -2895,41 +2744,47 @@
       • 1228-1261 Baldwin II
     </description>
   </emperor>
-
   <emperor id="Iohannes III Doukas Vatatzes">
     <name>Iōánnēs Doúkās Vatatzēs</name>
     <dynasty>Empire of Nicaea</dynasty>
     <dates born="ca. 1192" died="3 November 1254" aged="62" />
     <place city="Didymoteicho" />
     <reign from="December 1221" to="3 November 1254" />
-    <description>Emperor of Nicaea</description>
+    <description>Son-in-law of Theodore I Laskaris, whom he succeeded as Emperor of Nicaea in 1221.
+                 Expanded Nicaean territory in Thrace and Macedonia;
+                 died of natural causes (illness) in 1254.
+    </description>
   </emperor>
-
   <emperor id="Theodoros II Lascaris">
     <name>Theodōros Doúkās Láskaris</name>
     <dynasty>Empire of Nicaea</dynasty>
     <dates born="November 1221" died="16 August 1258" aged="37" />
     <place city="Nicaea" />
     <reign from="4 November 1254" to="16 August 1258" />
-    <description>Emperor of Nicaea</description>
+    <description>Son and successor of John III Vatatzes as Emperor of Nicaea.
+                 Defended Nicaean holdings in the Balkans against Bulgaria and Epirus;
+                 died of epilepsy in 1258.
+    </description>
   </emperor>
-
   <emperor id="Michael VIII Palaiologos">
     <name>Mikhaḗl Doúkās Ángelos Komnēnós Palaiológos</name>
     <dynasty>Palaiologos</dynasty>
     <dates born="1224" died="11 December 1282" aged="58" />
     <place city="Constantinopolis" />
     <reign from="15 August 1261" to="11 December 1282" />
-    <description>Byzantine Emperor</description>
+    <description>Aristocratic general who became co-emperor of Nicaea and sole Byzantine Emperor after recapturing Constantinople from the Latin Empire in 1261.
+                 Died of illness while on campaign in Thrace in 1282.
+    </description>
   </emperor>
-
   <emperor id="Andronicus II Palaiologos">
     <name>Andrónikos Doúkās Ángelos Komnēnós Palaiológos</name>
     <dynasty>Palaiologos</dynasty>
-    <dates born="25 March 1259" died="13 February 1332" aged="58" />
+    <dates born="25 March 1259" died="13 February 1332" aged="72" />
     <place city="Nicaea" />
     <reign from="11 December 1282" to="24 May 1328" />
-    <description>Byzantine Emperor</description>
+    <description>Eldest son of Michael VIII, succeeding him in 1282.
+                 Faced Turkish advances in Anatolia and civil wars with his grandson Andronikos III, who forced his abdication in 1328;
+                 died as a monk in 1332.
+    </description>
   </emperor>
-
 </emperors>
