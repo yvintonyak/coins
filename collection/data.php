@@ -16,6 +16,7 @@
   $selectedEmperor = _get_param('emperor', '');
   $selectedCoin = _get_param('coin', '');
   $selectedDeity = _get_param('deity', '');
+  $selectedSearch = trim(_get_param('search', ''));
   
   $coins = Collection::Coins();
   $emperors = Collection::Emperors();
@@ -60,6 +61,40 @@
     break;
   }
     
+  function coinMatchesSearch($coin, $query)
+  {
+    $fields = array(
+      $coin->ID,
+      $coin->Set,
+      $coin->Dynasty,
+      $coin->Emperor,
+      $coin->Denomination,
+      $coin->ObverseLegend,
+      $coin->ReverseLegend,
+      $coin->ObverseDescription,
+      $coin->ReverseDescription,
+      $coin->MintedFrom,
+      $coin->MintedTo,
+      $coin->MintCity,
+      $coin->MintRegion,
+      $coin->Mintmark,
+      $coin->Deity,
+      $coin->Remark,
+      $coin->Seller,
+      $coin->Auction,
+      $coin->Date,
+      $coin->Invoice
+    );
+
+    foreach ($fields as $field)
+    {
+      if ($field != '' && stripos($field, $query) !== false)
+        return true;
+    }
+
+    return false;
+  }
+
   function showCoin($coin)
   {
     global $selectedView;
@@ -68,6 +103,7 @@
     global $selectedDynasty;
     global $selectedEmperor;
     global $selectedDeity;
+    global $selectedSearch;
     
     $show = false;
     
@@ -107,7 +143,10 @@
           $show = ($coin->Deity == $selectedDeity);
         break;
     }
-    
+
+    if ($show && $selectedSearch != '')
+      $show = coinMatchesSearch($coin, $selectedSearch);
+
     return $show;
   }
   
