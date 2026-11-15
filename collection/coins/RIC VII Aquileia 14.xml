@@ -20,7 +20,7 @@
     <obverse file="RIC VII Aquileia 14 (A).jpg" />
     <reverse file="RIC VII Aquileia 14 (R).jpg" />
   </image>
-  <deity name="Sol" />
+  <deity name="Sol Invictus" />
   <origin price="30" currency="EUR" rate="1" fee="23%" 
           seller="Rönesans Salzgitter GmbH" date="17.09.2023" auction="Auktion 4" lot="642" invoice="Rönesans Salzgitter - 01" />
   <legend>
